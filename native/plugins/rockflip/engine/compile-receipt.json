@@ -1,0 +1,11 @@
+{
+  "result": "pass",
+  "layer": "authored_staged_bank_module_not_native_integrated",
+  "records": 32,
+  "distinct_species": 32,
+  "districts": 16,
+  "mandatory_for_ending": false,
+  "json_sha256": "ae69ec0296f60394a0b3c05d5c5c4556d4934e2bb71d30384e9d6fc030de7d78",
+  "source_sha256": "e024dca0b4579a801c49b76f81865588ec4f51944715eb3885dffb6ab1bfa769",
+  "header_sha256": "9f502e7088cfb2ed335014d36c6ad0e79eb345b8766fbe4b8919583434206bb5"
+}

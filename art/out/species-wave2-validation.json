@@ -1,0 +1,175 @@
+{
+  "source_only": true,
+  "native_observed": false,
+  "count": 24,
+  "records": [
+    {
+      "art_id": "sw_pond_turtle",
+      "species_id": 18,
+      "changed_pixels": 72,
+      "unique_tiles_frame0": 25,
+      "sha256": "c4aed3cce3d81144f2331c4d9cb33703c2a0bdb81ee3a4e80731f88c30047bdd"
+    },
+    {
+      "art_id": "northwestern_salamander",
+      "species_id": 19,
+      "changed_pixels": 16,
+      "unique_tiles_frame0": 26,
+      "sha256": "c9834edf0f1e271c47b2621b08783fbaf909b87ffa41573819b2fa32804d160b"
+    },
+    {
+      "art_id": "western_toad",
+      "species_id": 21,
+      "changed_pixels": 48,
+      "unique_tiles_frame0": 25,
+      "sha256": "b02cf9c3cca0f12786ded629c4656202688fe0cc68ed69d2b1be7678864578fe"
+    },
+    {
+      "art_id": "great_plains_toad",
+      "species_id": 24,
+      "changed_pixels": 49,
+      "unique_tiles_frame0": 25,
+      "sha256": "29e5f1450fa42224f3d44ea1c6a8300a9ad8470de015eae576e6ed2bf7188c47"
+    },
+    {
+      "art_id": "black_toad",
+      "species_id": 25,
+      "changed_pixels": 47,
+      "unique_tiles_frame0": 23,
+      "sha256": "0947e6421ce3924c2147aa542d445eb63f88bc79ca6d252341516ce1c0852c9e"
+    },
+    {
+      "art_id": "temblor_legless_lizard",
+      "species_id": 32,
+      "changed_pixels": 86,
+      "unique_tiles_frame0": 20,
+      "sha256": "e745356cbb8ad3ee655fdfe28e2ec7231982044326789c7446cf95b201dd2e9d"
+    },
+    {
+      "art_id": "coastal_tailed_frog",
+      "species_id": 35,
+      "changed_pixels": 45,
+      "unique_tiles_frame0": 25,
+      "sha256": "3480d77df309c71d16cff352c825c9ddfefdf4e27ac5f8d2c11afdbb61a8f516"
+    },
+    {
+      "art_id": "orange_throated_whiptail",
+      "species_id": 36,
+      "changed_pixels": 22,
+      "unique_tiles_frame0": 18,
+      "sha256": "5e2163e8ce39e8e3c268dd9bd823c288960f5642c0371d4a0a435aa8548e3104"
+    },
+    {
+      "art_id": "inyo_mtns_salamander",
+      "species_id": 41,
+      "changed_pixels": 17,
+      "unique_tiles_frame0": 17,
+      "sha256": "dff4c7c335a33d501e7a28d7798f6d1bb848dc9f33bd49b81489352c57f93104"
+    },
+    {
+      "art_id": "san_gabriel_salamander",
+      "species_id": 43,
+      "changed_pixels": 18,
+      "unique_tiles_frame0": 19,
+      "sha256": "3a019744f2c5519fb4c7e8bb389eb99979efd287202d644577b658127c5bfa79"
+    },
+    {
+      "art_id": "northern_rubber_boa",
+      "species_id": 59,
+      "changed_pixels": 77,
+      "unique_tiles_frame0": 27,
+      "sha256": "06b07919903f4c2286da63504ca706c28b149f6c0b14c9afe19ab99d4c911d90"
+    },
+    {
+      "art_id": "common_sharp_tail",
+      "species_id": 64,
+      "changed_pixels": 69,
+      "unique_tiles_frame0": 21,
+      "sha256": "ae8efd15714d5b660228b47970a3ab43a19c024831ab40b0675fdb24fffb5fad"
+    },
+    {
+      "art_id": "western_diamondback",
+      "species_id": 65,
+      "changed_pixels": 97,
+      "unique_tiles_frame0": 28,
+      "sha256": "59156b2ffa32c7c6ca03da0965b7dfdb809a6a5d715b9f88aa91bbebbc4b33c5"
+    },
+    {
+      "art_id": "baja_collared_lizard",
+      "species_id": 72,
+      "changed_pixels": 212,
+      "unique_tiles_frame0": 17,
+      "sha256": "1493db63d3136965a00d1cf9f991d09607f4d624d4700b656314c7d1098b587d"
+    },
+    {
+      "art_id": "panamint_alligator",
+      "species_id": 78,
+      "changed_pixels": 22,
+      "unique_tiles_frame0": 18,
+      "sha256": "de9246b8f067617a7e4eb74af63bffc7712e3bcff6adbb4dc350eabc70e6edd5"
+    },
+    {
+      "art_id": "blunt_nosed_leopard",
+      "species_id": 81,
+      "changed_pixels": 232,
+      "unique_tiles_frame0": 17,
+      "sha256": "283957725224ef187b20a382780ff85f3055fcb8e3b3a4daf8fa934f4db2eb57"
+    },
+    {
+      "art_id": "shasta_salamander",
+      "species_id": 87,
+      "changed_pixels": 56,
+      "unique_tiles_frame0": 24,
+      "sha256": "344e76990d3f199e49d8d91a6ca29a2c29910187627c7664cab904f9e7c5b20e"
+    },
+    {
+      "art_id": "striped_whipsnake",
+      "species_id": 94,
+      "changed_pixels": 77,
+      "unique_tiles_frame0": 25,
+      "sha256": "d38ab648c346c3e5b7e09a64cb1ddd3d147f7ea21ec644b95cbaeed2c11eef10"
+    },
+    {
+      "art_id": "pygmy_horned_lizard",
+      "species_id": 97,
+      "changed_pixels": 83,
+      "unique_tiles_frame0": 31,
+      "sha256": "3cfd3b5eb6396571e4cf3e83c9592883ea26e64386bff66e5bc3dc2f97d80060"
+    },
+    {
+      "art_id": "peninsula_leaf_toed",
+      "species_id": 99,
+      "changed_pixels": 106,
+      "unique_tiles_frame0": 27,
+      "sha256": "3871b789612f0bd26d9a2bb459959d493ea8420d82f610d62c8ff3b301581fcb"
+    },
+    {
+      "art_id": "western_skink",
+      "species_id": 103,
+      "changed_pixels": 22,
+      "unique_tiles_frame0": 16,
+      "sha256": "3f87e203243b9a5ab5e02a30e2b560ee347dbf4cde4fcf8364d9f616b6a21dc0"
+    },
+    {
+      "art_id": "california_treefrog",
+      "species_id": 108,
+      "changed_pixels": 46,
+      "unique_tiles_frame0": 23,
+      "sha256": "d4f27e84d21e8001c2a3ac9b25e95ce94da11ff2278e079cabef6f4bd8b003ff"
+    },
+    {
+      "art_id": "southern_torrent_salamander",
+      "species_id": 116,
+      "changed_pixels": 18,
+      "unique_tiles_frame0": 19,
+      "sha256": "9fecd8948ee744eb8b13bcbc1e36b42d7841f1403bd093a755a569ad8f50b6c2"
+    },
+    {
+      "art_id": "great_basin_spadefoot",
+      "species_id": 125,
+      "changed_pixels": 44,
+      "unique_tiles_frame0": 24,
+      "sha256": "8a492a35df2cf42320449b0e6a8be2a52372efb5308388cd5e742fafc6011fc7"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "asset": "marine_photo.png",
+  "dimensions": [
+    128,
+    64
+  ],
+  "palette": [
+    [
+      152,
+      200,
+      216
+    ],
+    [
+      104,
+      176,
+      200
+    ],
+    [
+      48,
+      128,
+      160
+    ],
+    [
+      24,
+      64,
+      96
+    ]
+  ],
+  "palette_rgb555": [
+    "0x6F33",
+    "0x66CD",
+    "0x5206",
+    "0x3103"
+  ],
+  "bg_palette_slot": 3,
+  "vram_bank": 0,
+  "pattern_first_tile": 96,
+  "screen_tile_origin": [
+    2,
+    4
+  ],
+  "portrait_palette_slot": 5,
+  "portrait_ground_index": 0,
+  "quiet_portrait_region": [
+    16,
+    8,
+    112,
+    56
+  ],
+  "mechanic_requirement": "long_distance_shore_observation_no_handling",
+  "subject_species_ids": [
+    61,
+    73
+  ],
+  "scene": "fictional_openwater_camera_frame",
+  "source_status": "authored_not_native_or_human_verified",
+  "pixels_sha256": "3f445355f623e8518743018a2ed47f694219e419e13b2a18e8c13e3d25f1ccdd"
+}

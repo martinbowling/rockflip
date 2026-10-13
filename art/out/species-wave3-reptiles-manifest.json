@@ -1,0 +1,4008 @@
+{
+  "r_033": {
+    "art_id": "r_033",
+    "species_id": 33,
+    "canonical_scientific_name": "Anniella stebbinsi",
+    "scientific_name_provisional": "Anniella stebbinsi",
+    "common_name": "San Diegan Legless Lizard",
+    "icon": "critter_r_033.png",
+    "portrait": "portrait_r_033.png",
+    "portrait32": "portrait32_r_033.png",
+    "frames": [
+      "portrait_r_033_idle0.png",
+      "portrait_r_033_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_033_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_legless",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_034": {
+    "art_id": "r_034",
+    "species_id": 34,
+    "canonical_scientific_name": "Arizona elegans",
+    "scientific_name_provisional": "Arizona elegans",
+    "common_name": "Glossy Snake",
+    "icon": "critter_r_034.png",
+    "portrait": "portrait_r_034.png",
+    "portrait32": "portrait32_r_034.png",
+    "frames": [
+      "portrait_r_034_idle0.png",
+      "portrait_r_034_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_034_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_blotches",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_037": {
+    "art_id": "r_037",
+    "species_id": 37,
+    "canonical_scientific_name": "Aspidoscelis tigris",
+    "scientific_name_provisional": "Aspidoscelis tigris",
+    "common_name": "Tiger Whiptail",
+    "icon": "critter_r_037.png",
+    "portrait": "portrait_r_037.png",
+    "portrait32": "portrait32_r_037.png",
+    "frames": [
+      "portrait_r_037_idle0.png",
+      "portrait_r_037_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_037_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_whiptail",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_058": {
+    "art_id": "r_058",
+    "species_id": 58,
+    "canonical_scientific_name": "Callisaurus draconoides",
+    "scientific_name_provisional": "Callisaurus draconoides",
+    "common_name": "Zebra-tailed Lizard",
+    "icon": "critter_r_058.png",
+    "portrait": "portrait_r_058.png",
+    "portrait32": "portrait32_r_058.png",
+    "frames": [
+      "portrait_r_058_idle0.png",
+      "portrait_r_058_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_058_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_zebra",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://www.nps.gov/orpi/learn/nature/lizards.htm"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_060": {
+    "art_id": "r_060",
+    "species_id": 60,
+    "canonical_scientific_name": "Lampropeltis zonata",
+    "scientific_name_provisional": "Lampropeltis zonata",
+    "common_name": "California Mountain Kingsnake",
+    "icon": "critter_r_060.png",
+    "portrait": "portrait_r_060.png",
+    "portrait32": "portrait32_r_060.png",
+    "frames": [
+      "portrait_r_060_idle0.png",
+      "portrait_r_060_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_060_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        24,
+        24,
+        24
+      ],
+      [
+        216,
+        72,
+        48
+      ],
+      [
+        232,
+        224,
+        200
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C63",
+      "0x193B",
+      "0x679D"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_mountain_king",
+    "allowed_districts_from_roster": [
+      "D05"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://www.nps.gov/yose/blogs/sierra-mountain-kingsnake.htm",
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2769"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_061": {
+    "art_id": "r_061",
+    "species_id": 61,
+    "canonical_scientific_name": "Chelonia mydas",
+    "scientific_name_provisional": "Chelonia mydas",
+    "common_name": "Green Sea Turtle",
+    "icon": "critter_r_061.png",
+    "portrait": "portrait_r_061.png",
+    "portrait32": "portrait32_r_061.png",
+    "frames": [
+      "portrait_r_061_idle0.png",
+      "portrait_r_061_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_061_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        152,
+        200,
+        216
+      ],
+      [
+        24,
+        40,
+        40
+      ],
+      [
+        72,
+        112,
+        96
+      ],
+      [
+        192,
+        208,
+        160
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6F33",
+      "0x14A3",
+      "0x31C9",
+      "0x5358"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "swim_stroke",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "marine_green",
+    "allowed_districts_from_roster": [
+      "D10"
+    ],
+    "mechanic_requirement": "shore_observation_no_ground_rock_encounters",
+    "anatomy_reference_urls": [
+      "https://www.fisheries.noaa.gov/species/green-turtle",
+      "https://www.fisheries.noaa.gov/sea-turtles"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_062": {
+    "art_id": "r_062",
+    "species_id": 62,
+    "canonical_scientific_name": "Coluber constrictor",
+    "scientific_name_provisional": "Coluber constrictor",
+    "common_name": "North American Racer",
+    "icon": "critter_r_062.png",
+    "portrait": "portrait_r_062.png",
+    "portrait32": "portrait32_r_062.png",
+    "frames": [
+      "portrait_r_062_idle0.png",
+      "portrait_r_062_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_062_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        64,
+        72,
+        48
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C62",
+      "0x1928",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_racer",
+    "allowed_districts_from_roster": [
+      "D08",
+      "D13"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_063": {
+    "art_id": "r_063",
+    "species_id": 63,
+    "canonical_scientific_name": "Contia longicauda",
+    "scientific_name_provisional": "Contia longicauda",
+    "common_name": "Forest Sharp-tailed Snake",
+    "icon": "critter_r_063.png",
+    "portrait": "portrait_r_063.png",
+    "portrait32": "portrait32_r_063.png",
+    "frames": [
+      "portrait_r_063_idle0.png",
+      "portrait_r_063_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_063_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_sharp",
+    "allowed_districts_from_roster": [
+      "D13",
+      "D08"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_066": {
+    "art_id": "r_066",
+    "species_id": 66,
+    "canonical_scientific_name": "Crotalus oreganus",
+    "scientific_name_provisional": "Crotalus oreganus",
+    "common_name": "Western Rattlesnake",
+    "icon": "critter_r_066.png",
+    "portrait": "portrait_r_066.png",
+    "portrait32": "portrait32_r_066.png",
+    "frames": [
+      "portrait_r_066_idle0.png",
+      "portrait_r_066_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_066_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        48,
+        40,
+        32
+      ],
+      [
+        152,
+        136,
+        96
+      ],
+      [
+        224,
+        208,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x10A6",
+      "0x3233",
+      "0x4F5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "viper_western",
+    "allowed_districts_from_roster": [
+      "D16"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_067": {
+    "art_id": "r_067",
+    "species_id": 67,
+    "canonical_scientific_name": "Crotalus pyrrhus",
+    "scientific_name_provisional": "Crotalus pyrrhus",
+    "common_name": "Southwestern Speckled Rattlesnake",
+    "icon": "critter_r_067.png",
+    "portrait": "portrait_r_067.png",
+    "portrait32": "portrait32_r_067.png",
+    "frames": [
+      "portrait_r_067_idle0.png",
+      "portrait_r_067_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_067_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        48,
+        40,
+        32
+      ],
+      [
+        152,
+        136,
+        96
+      ],
+      [
+        224,
+        208,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x10A6",
+      "0x3233",
+      "0x4F5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "viper_speckled",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_068": {
+    "art_id": "r_068",
+    "species_id": 68,
+    "canonical_scientific_name": "Crotalus ruber",
+    "scientific_name_provisional": "Crotalus ruber",
+    "common_name": "Red Diamond Rattlesnake",
+    "icon": "critter_r_068.png",
+    "portrait": "portrait_r_068.png",
+    "portrait32": "portrait32_r_068.png",
+    "frames": [
+      "portrait_r_068_idle0.png",
+      "portrait_r_068_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_068_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        56,
+        32,
+        24
+      ],
+      [
+        168,
+        96,
+        64
+      ],
+      [
+        224,
+        184,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C87",
+      "0x2195",
+      "0x42FC"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "viper_red_diamond",
+    "allowed_districts_from_roster": [
+      "D10",
+      "D11"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_069": {
+    "art_id": "r_069",
+    "species_id": 69,
+    "canonical_scientific_name": "Crotalus scutulatus",
+    "scientific_name_provisional": "Crotalus scutulatus",
+    "common_name": "Mohave Rattlesnake",
+    "icon": "critter_r_069.png",
+    "portrait": "portrait_r_069.png",
+    "portrait32": "portrait32_r_069.png",
+    "frames": [
+      "portrait_r_069_idle0.png",
+      "portrait_r_069_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_069_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        48,
+        40,
+        32
+      ],
+      [
+        152,
+        136,
+        96
+      ],
+      [
+        224,
+        208,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x10A6",
+      "0x3233",
+      "0x4F5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "viper_mojave",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_070": {
+    "art_id": "r_070",
+    "species_id": 70,
+    "canonical_scientific_name": "Crotalus stephensi",
+    "scientific_name_provisional": "Crotalus stephensi",
+    "common_name": "Panamint Rattlesnake",
+    "icon": "critter_r_070.png",
+    "portrait": "portrait_r_070.png",
+    "portrait32": "portrait32_r_070.png",
+    "frames": [
+      "portrait_r_070_idle0.png",
+      "portrait_r_070_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_070_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        48,
+        40,
+        32
+      ],
+      [
+        152,
+        136,
+        96
+      ],
+      [
+        224,
+        208,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x10A6",
+      "0x3233",
+      "0x4F5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "viper_panamint",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_071": {
+    "art_id": "r_071",
+    "species_id": 71,
+    "canonical_scientific_name": "Crotaphytus bicinctores",
+    "scientific_name_provisional": "Crotaphytus bicinctores",
+    "common_name": "Great Basin Collared Lizard",
+    "icon": "critter_r_071.png",
+    "portrait": "portrait_r_071.png",
+    "portrait32": "portrait32_r_071.png",
+    "frames": [
+      "portrait_r_071_idle0.png",
+      "portrait_r_071_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_071_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        32,
+        40,
+        40
+      ],
+      [
+        96,
+        128,
+        120
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x14A4",
+      "0x3E0C",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_collared",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_073": {
+    "art_id": "r_073",
+    "species_id": 73,
+    "canonical_scientific_name": "Dermochelys coriacea",
+    "scientific_name_provisional": "Dermochelys coriacea",
+    "common_name": "Leatherback Sea Turtle",
+    "icon": "critter_r_073.png",
+    "portrait": "portrait_r_073.png",
+    "portrait32": "portrait32_r_073.png",
+    "frames": [
+      "portrait_r_073_idle0.png",
+      "portrait_r_073_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_073_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        152,
+        200,
+        216
+      ],
+      [
+        16,
+        24,
+        32
+      ],
+      [
+        48,
+        56,
+        64
+      ],
+      [
+        200,
+        208,
+        208
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6F33",
+      "0x1062",
+      "0x20E6",
+      "0x6B59"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "swim_stroke",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "marine_leatherback",
+    "allowed_districts_from_roster": [
+      "D09"
+    ],
+    "mechanic_requirement": "shore_observation_no_ground_rock_encounters",
+    "anatomy_reference_urls": [
+      "https://www.fisheries.noaa.gov/species/leatherback-turtle",
+      "https://www.fisheries.noaa.gov/sea-turtles"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_074": {
+    "art_id": "r_074",
+    "species_id": 74,
+    "canonical_scientific_name": "Diadophis punctatus",
+    "scientific_name_provisional": "Diadophis punctatus",
+    "common_name": "Ring-necked Snake",
+    "icon": "critter_r_074.png",
+    "portrait": "portrait_r_074.png",
+    "portrait32": "portrait32_r_074.png",
+    "frames": [
+      "portrait_r_074_idle0.png",
+      "portrait_r_074_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_074_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        64,
+        72,
+        48
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C62",
+      "0x1928",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_ringneck",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D09"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_077": {
+    "art_id": "r_077",
+    "species_id": 77,
+    "canonical_scientific_name": "Elgaria coerulea",
+    "scientific_name_provisional": "Elgaria coerulea",
+    "common_name": "Northern Alligator Lizard",
+    "icon": "critter_r_077.png",
+    "portrait": "portrait_r_077.png",
+    "portrait32": "portrait32_r_077.png",
+    "frames": [
+      "portrait_r_077_idle0.png",
+      "portrait_r_077_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_077_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_alligator",
+    "allowed_districts_from_roster": [
+      "D15"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_080": {
+    "art_id": "r_080",
+    "species_id": 80,
+    "canonical_scientific_name": "Gambelia copeii",
+    "scientific_name_provisional": "Gambelia copeii",
+    "common_name": "Baja California Leopard Lizard",
+    "icon": "critter_r_080.png",
+    "portrait": "portrait_r_080.png",
+    "portrait32": "portrait32_r_080.png",
+    "frames": [
+      "portrait_r_080_idle0.png",
+      "portrait_r_080_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_080_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_cope_leopard",
+    "allowed_districts_from_roster": [
+      "D11"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_082": {
+    "art_id": "r_082",
+    "species_id": 82,
+    "canonical_scientific_name": "Gambelia wislizenii",
+    "scientific_name_provisional": "Gambelia wislizenii",
+    "common_name": "Long-nosed Leopard Lizard",
+    "icon": "critter_r_082.png",
+    "portrait": "portrait_r_082.png",
+    "portrait32": "portrait32_r_082.png",
+    "frames": [
+      "portrait_r_082_idle0.png",
+      "portrait_r_082_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_082_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_long_leopard",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_083": {
+    "art_id": "r_083",
+    "species_id": 83,
+    "canonical_scientific_name": "Heloderma suspectum",
+    "scientific_name_provisional": "Heloderma suspectum",
+    "common_name": "Gila Monster",
+    "icon": "critter_r_083.png",
+    "portrait": "portrait_r_083.png",
+    "portrait32": "portrait32_r_083.png",
+    "frames": [
+      "portrait_r_083_idle0.png",
+      "portrait_r_083_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_083_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        24,
+        24,
+        24
+      ],
+      [
+        72,
+        56,
+        48
+      ],
+      [
+        232,
+        136,
+        72
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0C63",
+      "0x18E9",
+      "0x263D"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_gila",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://www.nps.gov/sagu/learn/nature/gila-monster.htm"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_089": {
+    "art_id": "r_089",
+    "species_id": 89,
+    "canonical_scientific_name": "Hypsiglena chlorophaea",
+    "scientific_name_provisional": "Hypsiglena chlorophaea",
+    "common_name": "Desert Nightsnake",
+    "icon": "critter_r_089.png",
+    "portrait": "portrait_r_089.png",
+    "portrait32": "portrait32_r_089.png",
+    "frames": [
+      "portrait_r_089_idle0.png",
+      "portrait_r_089_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_089_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_night_desert",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_090": {
+    "art_id": "r_090",
+    "species_id": 90,
+    "canonical_scientific_name": "Hypsiglena ochrorhyncha",
+    "scientific_name_provisional": "Hypsiglena ochrorhyncha",
+    "common_name": "Coast Nightsnake",
+    "icon": "critter_r_090.png",
+    "portrait": "portrait_r_090.png",
+    "portrait32": "portrait32_r_090.png",
+    "frames": [
+      "portrait_r_090_idle0.png",
+      "portrait_r_090_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_090_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_night_coast",
+    "allowed_districts_from_roster": [
+      "D10"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_091": {
+    "art_id": "r_091",
+    "species_id": 91,
+    "canonical_scientific_name": "Masticophis fuliginosus",
+    "scientific_name_provisional": "Masticophis fuliginosus",
+    "common_name": "Baja California Coachwhip",
+    "icon": "critter_r_091.png",
+    "portrait": "portrait_r_091.png",
+    "portrait32": "portrait32_r_091.png",
+    "frames": [
+      "portrait_r_091_idle0.png",
+      "portrait_r_091_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_091_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_coach_baja",
+    "allowed_districts_from_roster": [
+      "D10"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_092": {
+    "art_id": "r_092",
+    "species_id": 92,
+    "canonical_scientific_name": "Masticophis lateralis",
+    "scientific_name_provisional": "Masticophis lateralis",
+    "common_name": "Striped Racer",
+    "icon": "critter_r_092.png",
+    "portrait": "portrait_r_092.png",
+    "portrait32": "portrait32_r_092.png",
+    "frames": [
+      "portrait_r_092_idle0.png",
+      "portrait_r_092_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_092_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_stripe_racer",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D10",
+      "D14"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_093": {
+    "art_id": "r_093",
+    "species_id": 93,
+    "canonical_scientific_name": "Masticophis piceus",
+    "scientific_name_provisional": "Masticophis piceus",
+    "common_name": "Desert Coachwhip",
+    "icon": "critter_r_093.png",
+    "portrait": "portrait_r_093.png",
+    "portrait32": "portrait32_r_093.png",
+    "frames": [
+      "portrait_r_093_idle0.png",
+      "portrait_r_093_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_093_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_coach_desert",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_095": {
+    "art_id": "r_095",
+    "species_id": 95,
+    "canonical_scientific_name": "Petrosaurus mearnsi",
+    "scientific_name_provisional": "Petrosaurus mearnsi",
+    "common_name": "Mearns\u2019 Rock Lizard",
+    "icon": "critter_r_095.png",
+    "portrait": "portrait_r_095.png",
+    "portrait32": "portrait32_r_095.png",
+    "frames": [
+      "portrait_r_095_idle0.png",
+      "portrait_r_095_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_095_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_rock",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_096": {
+    "art_id": "r_096",
+    "species_id": 96,
+    "canonical_scientific_name": "Phrynosoma blainvillii",
+    "scientific_name_provisional": "Phrynosoma blainvillii",
+    "common_name": "Blainville\u2019s Horned Lizard",
+    "icon": "critter_r_096.png",
+    "portrait": "portrait_r_096.png",
+    "portrait32": "portrait32_r_096.png",
+    "frames": [
+      "portrait_r_096_idle0.png",
+      "portrait_r_096_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_096_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        56,
+        40,
+        24
+      ],
+      [
+        144,
+        112,
+        64
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0CA7",
+      "0x21D2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "horned_coast",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D09",
+      "D10"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_098": {
+    "art_id": "r_098",
+    "species_id": 98,
+    "canonical_scientific_name": "Phrynosoma mcallii",
+    "scientific_name_provisional": "Phrynosoma mcallii",
+    "common_name": "Flat-tailed Horned Lizard",
+    "icon": "critter_r_098.png",
+    "portrait": "portrait_r_098.png",
+    "portrait32": "portrait32_r_098.png",
+    "frames": [
+      "portrait_r_098_idle0.png",
+      "portrait_r_098_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_098_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        56,
+        40,
+        24
+      ],
+      [
+        144,
+        112,
+        64
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0CA7",
+      "0x21D2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "horned_flat_tail",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_100": {
+    "art_id": "r_100",
+    "species_id": 100,
+    "canonical_scientific_name": "Phyllorhynchus decurtatus",
+    "scientific_name_provisional": "Phyllorhynchus decurtatus",
+    "common_name": "Spotted Leaf-nosed Snake",
+    "icon": "critter_r_100.png",
+    "portrait": "portrait_r_100.png",
+    "portrait32": "portrait32_r_100.png",
+    "frames": [
+      "portrait_r_100_idle0.png",
+      "portrait_r_100_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_100_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_leafnose",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_101": {
+    "art_id": "r_101",
+    "species_id": 101,
+    "canonical_scientific_name": "Pituophis catenifer",
+    "scientific_name_provisional": "Pituophis catenifer",
+    "common_name": "Gophersnake",
+    "icon": "critter_r_101.png",
+    "portrait": "portrait_r_101.png",
+    "portrait32": "portrait32_r_101.png",
+    "frames": [
+      "portrait_r_101_idle0.png",
+      "portrait_r_101_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_101_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_gopher",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_102": {
+    "art_id": "r_102",
+    "species_id": 102,
+    "canonical_scientific_name": "Plestiodon gilberti",
+    "scientific_name_provisional": "Plestiodon gilberti",
+    "common_name": "Gilbert's Skink",
+    "icon": "critter_r_102.png",
+    "portrait": "portrait_r_102.png",
+    "portrait32": "portrait32_r_102.png",
+    "frames": [
+      "portrait_r_102_idle0.png",
+      "portrait_r_102_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_102_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_gilbert",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_114": {
+    "art_id": "r_114",
+    "species_id": 114,
+    "canonical_scientific_name": "Rena humilis",
+    "scientific_name_provisional": "Rena humilis",
+    "common_name": "Western Threadsnake",
+    "icon": "critter_r_114.png",
+    "portrait": "portrait_r_114.png",
+    "portrait32": "portrait32_r_114.png",
+    "frames": [
+      "portrait_r_114_idle0.png",
+      "portrait_r_114_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_114_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_thread",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_115": {
+    "art_id": "r_115",
+    "species_id": 115,
+    "canonical_scientific_name": "Rhinocheilus lecontei",
+    "scientific_name_provisional": "Rhinocheilus lecontei",
+    "common_name": "Long-nosed Snake",
+    "icon": "critter_r_115.png",
+    "portrait": "portrait_r_115.png",
+    "portrait32": "portrait32_r_115.png",
+    "frames": [
+      "portrait_r_115_idle0.png",
+      "portrait_r_115_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_115_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        24,
+        24
+      ],
+      [
+        184,
+        96,
+        48
+      ],
+      [
+        224,
+        208,
+        144
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C65",
+      "0x1997",
+      "0x4B5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_longnose",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_117": {
+    "art_id": "r_117",
+    "species_id": 117,
+    "canonical_scientific_name": "Salvadora hexalepis",
+    "scientific_name_provisional": "Salvadora hexalepis",
+    "common_name": "Western Patch-nosed Snake",
+    "icon": "critter_r_117.png",
+    "portrait": "portrait_r_117.png",
+    "portrait32": "portrait32_r_117.png",
+    "frames": [
+      "portrait_r_117_idle0.png",
+      "portrait_r_117_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_117_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_patchnose",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_119": {
+    "art_id": "r_119",
+    "species_id": 119,
+    "canonical_scientific_name": "Sceloporus graciosus",
+    "scientific_name_provisional": "Sceloporus graciosus",
+    "common_name": "Common Sagebrush Lizard",
+    "icon": "critter_r_119.png",
+    "portrait": "portrait_r_119.png",
+    "portrait32": "portrait32_r_119.png",
+    "frames": [
+      "portrait_r_119_idle0.png",
+      "portrait_r_119_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_119_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_sagebrush",
+    "allowed_districts_from_roster": [
+      "D15",
+      "D05"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_120": {
+    "art_id": "r_120",
+    "species_id": 120,
+    "canonical_scientific_name": "Sceloporus magister",
+    "scientific_name_provisional": "Sceloporus magister",
+    "common_name": "Desert Spiny Lizard",
+    "icon": "critter_r_120.png",
+    "portrait": "portrait_r_120.png",
+    "portrait32": "portrait32_r_120.png",
+    "frames": [
+      "portrait_r_120_idle0.png",
+      "portrait_r_120_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_120_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x0CA5",
+      "0x2611",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_desert_spiny",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://escholarship.org/content/qt79s5p5f8/supp/IB_104_Lab_Manual_2021.pdf"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_121": {
+    "art_id": "r_121",
+    "species_id": 121,
+    "canonical_scientific_name": "Sceloporus orcutti",
+    "scientific_name_provisional": "Sceloporus orcutti",
+    "common_name": "Granite Spiny Lizard",
+    "icon": "critter_r_121.png",
+    "portrait": "portrait_r_121.png",
+    "portrait32": "portrait32_r_121.png",
+    "frames": [
+      "portrait_r_121_idle0.png",
+      "portrait_r_121_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_121_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        168
+      ],
+      [
+        32,
+        40,
+        40
+      ],
+      [
+        96,
+        128,
+        120
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577C",
+      "0x14A4",
+      "0x3E0C",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "lizard_granite_spiny",
+    "allowed_districts_from_roster": [
+      "D11",
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_122": {
+    "art_id": "r_122",
+    "species_id": 122,
+    "canonical_scientific_name": "Sonora occipitalis",
+    "scientific_name_provisional": "Sonora occipitalis",
+    "common_name": "Mohave Shovel-nosed Snake",
+    "icon": "critter_r_122.png",
+    "portrait": "portrait_r_122.png",
+    "portrait32": "portrait32_r_122.png",
+    "frames": [
+      "portrait_r_122_idle0.png",
+      "portrait_r_122_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_122_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        24,
+        24
+      ],
+      [
+        184,
+        96,
+        48
+      ],
+      [
+        224,
+        208,
+        144
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C65",
+      "0x1997",
+      "0x4B5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_shovelnose",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_123": {
+    "art_id": "r_123",
+    "species_id": 123,
+    "canonical_scientific_name": "Sonora semiannulata",
+    "scientific_name_provisional": "Sonora semiannulata",
+    "common_name": "Western Groundsnake",
+    "icon": "critter_r_123.png",
+    "portrait": "portrait_r_123.png",
+    "portrait32": "portrait32_r_123.png",
+    "frames": [
+      "portrait_r_123_idle0.png",
+      "portrait_r_123_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_123_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        24,
+        24
+      ],
+      [
+        184,
+        96,
+        48
+      ],
+      [
+        224,
+        208,
+        144
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C65",
+      "0x1997",
+      "0x4B5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_ground",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_126": {
+    "art_id": "r_126",
+    "species_id": 126,
+    "canonical_scientific_name": "Tantilla hobartsmithi",
+    "scientific_name_provisional": "Tantilla hobartsmithi",
+    "common_name": "Smith\u2019s Black-headed Snake",
+    "icon": "critter_r_126.png",
+    "portrait": "portrait_r_126.png",
+    "portrait32": "portrait32_r_126.png",
+    "frames": [
+      "portrait_r_126_idle0.png",
+      "portrait_r_126_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_126_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        64,
+        72,
+        48
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C62",
+      "0x1928",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_blackhead_smith",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_127": {
+    "art_id": "r_127",
+    "species_id": 127,
+    "canonical_scientific_name": "Tantilla planiceps",
+    "scientific_name_provisional": "Tantilla planiceps",
+    "common_name": "Western Black-headed Snake",
+    "icon": "critter_r_127.png",
+    "portrait": "portrait_r_127.png",
+    "portrait32": "portrait32_r_127.png",
+    "frames": [
+      "portrait_r_127_idle0.png",
+      "portrait_r_127_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_127_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        64,
+        72,
+        48
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C62",
+      "0x1928",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_blackhead_west",
+    "allowed_districts_from_roster": [
+      "D10"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_131": {
+    "art_id": "r_131",
+    "species_id": 131,
+    "canonical_scientific_name": "Thamnophis atratus",
+    "scientific_name_provisional": "Thamnophis atratus",
+    "common_name": "Aquatic Gartersnake",
+    "icon": "critter_r_131.png",
+    "portrait": "portrait_r_131.png",
+    "portrait32": "portrait32_r_131.png",
+    "frames": [
+      "portrait_r_131_idle0.png",
+      "portrait_r_131_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_131_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_aquatic",
+    "allowed_districts_from_roster": [
+      "D08",
+      "D09",
+      "D13"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_132": {
+    "art_id": "r_132",
+    "species_id": 132,
+    "canonical_scientific_name": "Thamnophis couchii",
+    "scientific_name_provisional": "Thamnophis couchii",
+    "common_name": "Sierra Gartersnake",
+    "icon": "critter_r_132.png",
+    "portrait": "portrait_r_132.png",
+    "portrait32": "portrait32_r_132.png",
+    "frames": [
+      "portrait_r_132_idle0.png",
+      "portrait_r_132_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_132_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_sierra",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D05",
+      "D03"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_133": {
+    "art_id": "r_133",
+    "species_id": 133,
+    "canonical_scientific_name": "Thamnophis elegans",
+    "scientific_name_provisional": "Thamnophis elegans",
+    "common_name": "Terrestrial Gartersnake",
+    "icon": "critter_r_133.png",
+    "portrait": "portrait_r_133.png",
+    "portrait32": "portrait32_r_133.png",
+    "frames": [
+      "portrait_r_133_idle0.png",
+      "portrait_r_133_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_133_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_terrestrial",
+    "allowed_districts_from_roster": [
+      "D15"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_134": {
+    "art_id": "r_134",
+    "species_id": 134,
+    "canonical_scientific_name": "Thamnophis gigas",
+    "scientific_name_provisional": "Thamnophis gigas",
+    "common_name": "Giant Gartersnake",
+    "icon": "critter_r_134.png",
+    "portrait": "portrait_r_134.png",
+    "portrait32": "portrait32_r_134.png",
+    "frames": [
+      "portrait_r_134_idle0.png",
+      "portrait_r_134_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_134_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_giant",
+    "allowed_districts_from_roster": [
+      "D06",
+      "D07"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_135": {
+    "art_id": "r_135",
+    "species_id": 135,
+    "canonical_scientific_name": "Thamnophis hammondii",
+    "scientific_name_provisional": "Thamnophis hammondii",
+    "common_name": "Two-striped Gartersnake",
+    "icon": "critter_r_135.png",
+    "portrait": "portrait_r_135.png",
+    "portrait32": "portrait32_r_135.png",
+    "frames": [
+      "portrait_r_135_idle0.png",
+      "portrait_r_135_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_135_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_two",
+    "allowed_districts_from_roster": [
+      "D10",
+      "D11"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190376"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_136": {
+    "art_id": "r_136",
+    "species_id": 136,
+    "canonical_scientific_name": "Thamnophis marcianus",
+    "scientific_name_provisional": "Thamnophis marcianus",
+    "common_name": "Checkered Gartersnake",
+    "icon": "critter_r_136.png",
+    "portrait": "portrait_r_136.png",
+    "portrait32": "portrait32_r_136.png",
+    "frames": [
+      "portrait_r_136_idle0.png",
+      "portrait_r_136_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_136_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_checkered",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://ksoutdoors.gov/var/news/storage/original/application/c28dec4f1df3ae9d5ef53121d76acfc1.pdf"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_137": {
+    "art_id": "r_137",
+    "species_id": 137,
+    "canonical_scientific_name": "Thamnophis ordinoides",
+    "scientific_name_provisional": "Thamnophis ordinoides",
+    "common_name": "Northwestern Gartersnake",
+    "icon": "critter_r_137.png",
+    "portrait": "portrait_r_137.png",
+    "portrait32": "portrait32_r_137.png",
+    "frames": [
+      "portrait_r_137_idle0.png",
+      "portrait_r_137_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_137_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_nw",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_138": {
+    "art_id": "r_138",
+    "species_id": 138,
+    "canonical_scientific_name": "Thamnophis sirtalis",
+    "scientific_name_provisional": "Thamnophis sirtalis",
+    "common_name": "Common Gartersnake",
+    "icon": "critter_r_138.png",
+    "portrait": "portrait_r_138.png",
+    "portrait32": "portrait32_r_138.png",
+    "frames": [
+      "portrait_r_138_idle0.png",
+      "portrait_r_138_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_138_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        64,
+        72,
+        48
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C62",
+      "0x1928",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_garter_common",
+    "allowed_districts_from_roster": [
+      "D15"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_139": {
+    "art_id": "r_139",
+    "species_id": 139,
+    "canonical_scientific_name": "Trimorphodon lyrophanes",
+    "scientific_name_provisional": "Trimorphodon lyrophanes",
+    "common_name": "California Lyresnake",
+    "icon": "critter_r_139.png",
+    "portrait": "portrait_r_139.png",
+    "portrait32": "portrait32_r_139.png",
+    "frames": [
+      "portrait_r_139_idle0.png",
+      "portrait_r_139_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_139_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        120
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C85",
+      "0x25F2",
+      "0x3F1C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "snake_lyre",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_140": {
+    "art_id": "r_140",
+    "species_id": 140,
+    "canonical_scientific_name": "Uma inornata",
+    "scientific_name_provisional": "Uma inornata",
+    "common_name": "Coachella Fringe-toed Lizard",
+    "icon": "critter_r_140.png",
+    "portrait": "portrait_r_140.png",
+    "portrait32": "portrait32_r_140.png",
+    "frames": [
+      "portrait_r_140_idle0.png",
+      "portrait_r_140_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_140_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        240,
+        224,
+        176
+      ],
+      [
+        56,
+        48,
+        32
+      ],
+      [
+        184,
+        160,
+        112
+      ],
+      [
+        232,
+        208,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B9E",
+      "0x10C7",
+      "0x3A97",
+      "0x4F5D"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "fringe_coachella",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://eplanning.blm.gov/public_projects/nepa/77304/103087/126160/App-E-Mojave_Fringe-toed_Lizard_Study_Proposal.pdf"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_141": {
+    "art_id": "r_141",
+    "species_id": 141,
+    "canonical_scientific_name": "Uma notata",
+    "scientific_name_provisional": "Uma notata",
+    "common_name": "Colorado Desert Fringe-toed Lizard",
+    "icon": "critter_r_141.png",
+    "portrait": "portrait_r_141.png",
+    "portrait32": "portrait32_r_141.png",
+    "frames": [
+      "portrait_r_141_idle0.png",
+      "portrait_r_141_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_141_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        240,
+        224,
+        176
+      ],
+      [
+        56,
+        48,
+        32
+      ],
+      [
+        184,
+        160,
+        112
+      ],
+      [
+        232,
+        208,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B9E",
+      "0x10C7",
+      "0x3A97",
+      "0x4F5D"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "fringe_colorado",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://eplanning.blm.gov/public_projects/nepa/77304/103087/126160/App-E-Mojave_Fringe-toed_Lizard_Study_Proposal.pdf"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_142": {
+    "art_id": "r_142",
+    "species_id": 142,
+    "canonical_scientific_name": "Uma scoparia",
+    "scientific_name_provisional": "Uma scoparia",
+    "common_name": "Mohave Fringe-toed Lizard",
+    "icon": "critter_r_142.png",
+    "portrait": "portrait_r_142.png",
+    "portrait32": "portrait32_r_142.png",
+    "frames": [
+      "portrait_r_142_idle0.png",
+      "portrait_r_142_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_142_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        240,
+        224,
+        176
+      ],
+      [
+        56,
+        48,
+        32
+      ],
+      [
+        184,
+        160,
+        112
+      ],
+      [
+        232,
+        208,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B9E",
+      "0x10C7",
+      "0x3A97",
+      "0x4F5D"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "fringe_mojave",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [
+      "https://eplanning.blm.gov/public_projects/nepa/77304/103087/126160/App-E-Mojave_Fringe-toed_Lizard_Study_Proposal.pdf"
+    ],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_143": {
+    "art_id": "r_143",
+    "species_id": 143,
+    "canonical_scientific_name": "Urosaurus graciosus",
+    "scientific_name_provisional": "Urosaurus graciosus",
+    "common_name": "Long-tailed Brush Lizard",
+    "icon": "critter_r_143.png",
+    "portrait": "portrait_r_143.png",
+    "portrait32": "portrait32_r_143.png",
+    "frames": [
+      "portrait_r_143_idle0.png",
+      "portrait_r_143_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_143_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        208,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        128,
+        136,
+        80
+      ],
+      [
+        200,
+        184,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577A",
+      "0x0CA5",
+      "0x2A30",
+      "0x3AF9"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "small_lizard_brush_long",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_144": {
+    "art_id": "r_144",
+    "species_id": 144,
+    "canonical_scientific_name": "Urosaurus microscutatus",
+    "scientific_name_provisional": "Urosaurus microscutatus",
+    "common_name": "Baja California Brush Lizard",
+    "icon": "critter_r_144.png",
+    "portrait": "portrait_r_144.png",
+    "portrait32": "portrait32_r_144.png",
+    "frames": [
+      "portrait_r_144_idle0.png",
+      "portrait_r_144_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_144_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        208,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        128,
+        136,
+        80
+      ],
+      [
+        200,
+        184,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577A",
+      "0x0CA5",
+      "0x2A30",
+      "0x3AF9"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "small_lizard_brush_baja",
+    "allowed_districts_from_roster": [
+      "D11"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_145": {
+    "art_id": "r_145",
+    "species_id": 145,
+    "canonical_scientific_name": "Urosaurus ornatus",
+    "scientific_name_provisional": "Urosaurus ornatus",
+    "common_name": "Ornate Tree Lizard",
+    "icon": "critter_r_145.png",
+    "portrait": "portrait_r_145.png",
+    "portrait32": "portrait32_r_145.png",
+    "frames": [
+      "portrait_r_145_idle0.png",
+      "portrait_r_145_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_145_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        208,
+        216,
+        168
+      ],
+      [
+        32,
+        40,
+        40
+      ],
+      [
+        96,
+        128,
+        120
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577A",
+      "0x14A4",
+      "0x3E0C",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "small_lizard_tree",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_146": {
+    "art_id": "r_146",
+    "species_id": 146,
+    "canonical_scientific_name": "Uta stansburiana",
+    "scientific_name_provisional": "Uta stansburiana",
+    "common_name": "Common Side-blotched Lizard",
+    "icon": "critter_r_146.png",
+    "portrait": "portrait_r_146.png",
+    "portrait32": "portrait32_r_146.png",
+    "frames": [
+      "portrait_r_146_idle0.png",
+      "portrait_r_146_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_146_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        208,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        128,
+        136,
+        80
+      ],
+      [
+        200,
+        184,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577A",
+      "0x0CA5",
+      "0x2A30",
+      "0x3AF9"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step_or_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "small_lizard_sideblotch",
+    "allowed_districts_from_roster": [
+      "D01"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_147": {
+    "art_id": "r_147",
+    "species_id": 147,
+    "canonical_scientific_name": "Xantusia gracilis",
+    "scientific_name_provisional": "Xantusia gracilis",
+    "common_name": "Sandstone Night Lizard",
+    "icon": "critter_r_147.png",
+    "portrait": "portrait_r_147.png",
+    "portrait32": "portrait32_r_147.png",
+    "frames": [
+      "portrait_r_147_idle0.png",
+      "portrait_r_147_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_147_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        208,
+        160
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        208,
+        184,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x535C",
+      "0x0C85",
+      "0x25F2",
+      "0x42FA"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_tail_step_no_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "night_lizard_sandstone",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Night lizards lack movable eyelids; vertical pupil and quiet tail movement, never blink.",
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_148": {
+    "art_id": "r_148",
+    "species_id": 148,
+    "canonical_scientific_name": "Xantusia henshawi",
+    "scientific_name_provisional": "Xantusia henshawi",
+    "common_name": "Granite Night Lizard",
+    "icon": "critter_r_148.png",
+    "portrait": "portrait_r_148.png",
+    "portrait32": "portrait32_r_148.png",
+    "frames": [
+      "portrait_r_148_idle0.png",
+      "portrait_r_148_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_148_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        208,
+        160
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        208,
+        184,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x535C",
+      "0x0C85",
+      "0x25F2",
+      "0x42FA"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_tail_step_no_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "night_lizard_granite",
+    "allowed_districts_from_roster": [
+      "D11",
+      "D02"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Night lizards lack movable eyelids; vertical pupil and quiet tail movement, never blink.",
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  },
+  "r_149": {
+    "art_id": "r_149",
+    "species_id": 149,
+    "canonical_scientific_name": "Xantusia vigilis",
+    "scientific_name_provisional": "Xantusia vigilis",
+    "common_name": "Desert Night Lizard",
+    "icon": "critter_r_149.png",
+    "portrait": "portrait_r_149.png",
+    "portrait32": "portrait32_r_149.png",
+    "frames": [
+      "portrait_r_149_idle0.png",
+      "portrait_r_149_idle1.png"
+    ],
+    "animation_sheet": "portrait_r_149_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        208,
+        160
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        144,
+        120,
+        72
+      ],
+      [
+        208,
+        184,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x535C",
+      "0x0C85",
+      "0x25F2",
+      "0x42FA"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_tail_step_no_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "night_lizard_desert",
+    "allowed_districts_from_roster": [
+      "D01",
+      "D09"
+    ],
+    "mechanic_requirement": "reviewed_natural_observation",
+    "anatomy_reference_urls": [],
+    "review_notes": [
+      "Night lizards lack movable eyelids; vertical pupil and quiet tail movement, never blink.",
+      "Anatomy and proportions require independent species-by-species review.",
+      "Patterns are hand-authored source proposals; similar genera may require additional silhouette or marking refinements.",
+      "No defensive provocation, handling or threatening rattle behavior is a photo bonus."
+    ]
+  }
+}

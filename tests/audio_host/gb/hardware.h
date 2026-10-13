@@ -1,0 +1,10 @@
+#ifndef AUDIO_HOST_HARDWARE_H
+#define AUDIO_HOST_HARDWARE_H
+#include "gb.h"
+/* Register shim only; no oscillator, envelope or analog audio emulation. */
+static UBYTE NR10_REG,NR11_REG,NR12_REG,NR13_REG,NR14_REG;
+static UBYTE NR21_REG,NR22_REG,NR23_REG,NR24_REG;
+static UBYTE NR30_REG,NR31_REG,NR32_REG,NR33_REG,NR34_REG;
+static UBYTE NR41_REG,NR42_REG,NR43_REG,NR44_REG;
+static UBYTE NR50_REG,NR51_REG,NR52_REG,AUD3WAVE[16];
+#endif

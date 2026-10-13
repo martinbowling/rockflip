@@ -1,0 +1,1522 @@
+{
+  "nell": {
+    "name": "RANGER NELL",
+    "ranger_name": "NELL",
+    "district_id": "D01",
+    "district_index": 0,
+    "districts": [
+      "D01"
+    ],
+    "headgear": "brim",
+    "hairstyle": "braid",
+    "prop": "camera",
+    "shape": 0,
+    "face": [
+      14,
+      8,
+      34,
+      29
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        72,
+        136,
+        88
+      ],
+      [
+        240,
+        200,
+        144
+      ]
+    ],
+    "personality": "Draws tiny habitat sketches before reaching for the camera.",
+    "gear": "brim headwear, braid hair, camera, walking boots",
+    "sprite": "npc_nell.png",
+    "sprite_padded32": "npc_nell_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_nell_down_0.png",
+      "npc_nell_down_1.png",
+      "npc_nell_down_2.png",
+      "npc_nell_right_0.png",
+      "npc_nell_right_1.png",
+      "npc_nell_right_2.png",
+      "npc_nell_up_0.png",
+      "npc_nell_up_1.png",
+      "npc_nell_up_2.png",
+      "npc_nell_left_0.png",
+      "npc_nell_left_1.png",
+      "npc_nell_left_2.png"
+    ],
+    "portrait": "npc_portrait_nell.png",
+    "portrait32": "npc_portrait32_nell.png",
+    "frames": [
+      "npc_portrait_nell_idle0.png",
+      "npc_portrait_nell_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x2E29",
+      "0x4B3E"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_nell_idle0.png",
+      "npc_portrait32_nell_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "sol": {
+    "name": "RANGER SOL",
+    "ranger_name": "SOL",
+    "district_id": "D02",
+    "district_index": 1,
+    "districts": [
+      "D02"
+    ],
+    "headgear": "sun",
+    "hairstyle": "short",
+    "prop": "camera",
+    "shape": 1,
+    "face": [
+      13,
+      9,
+      35,
+      29
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        184,
+        112,
+        56
+      ],
+      [
+        240,
+        208,
+        144
+      ]
+    ],
+    "personality": "Reads shade and sand tracks; packs extra water for friends.",
+    "gear": "sun headwear, short hair, camera, walking boots",
+    "sprite": "npc_sol.png",
+    "sprite_padded32": "npc_sol_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_sol_down_0.png",
+      "npc_sol_down_1.png",
+      "npc_sol_down_2.png",
+      "npc_sol_right_0.png",
+      "npc_sol_right_1.png",
+      "npc_sol_right_2.png",
+      "npc_sol_up_0.png",
+      "npc_sol_up_1.png",
+      "npc_sol_up_2.png",
+      "npc_sol_left_0.png",
+      "npc_sol_left_1.png",
+      "npc_sol_left_2.png"
+    ],
+    "portrait": "npc_portrait_sol.png",
+    "portrait32": "npc_portrait32_sol.png",
+    "frames": [
+      "npc_portrait_sol_idle0.png",
+      "npc_portrait_sol_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x1DD7",
+      "0x4B5E"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_sol_idle0.png",
+      "npc_portrait32_sol_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "ivo": {
+    "name": "RANGER IVO",
+    "ranger_name": "IVO",
+    "district_id": "D03",
+    "district_index": 2,
+    "districts": [
+      "D03"
+    ],
+    "headgear": "cap",
+    "hairstyle": "beard",
+    "prop": "compass",
+    "shape": 2,
+    "face": [
+      15,
+      8,
+      34,
+      30
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        112,
+        136,
+        168
+      ],
+      [
+        208,
+        160,
+        112
+      ]
+    ],
+    "personality": "Likes comparing basin refuges and folds maps into perfect squares.",
+    "gear": "cap headwear, beard hair, compass, walking boots",
+    "sprite": "npc_ivo.png",
+    "sprite_padded32": "npc_ivo_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_ivo_down_0.png",
+      "npc_ivo_down_1.png",
+      "npc_ivo_down_2.png",
+      "npc_ivo_right_0.png",
+      "npc_ivo_right_1.png",
+      "npc_ivo_right_2.png",
+      "npc_ivo_up_0.png",
+      "npc_ivo_up_1.png",
+      "npc_ivo_up_2.png",
+      "npc_ivo_left_0.png",
+      "npc_ivo_left_1.png",
+      "npc_ivo_left_2.png"
+    ],
+    "portrait": "npc_portrait_ivo.png",
+    "portrait32": "npc_portrait32_ivo.png",
+    "frames": [
+      "npc_portrait_ivo_idle0.png",
+      "npc_portrait_ivo_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x562E",
+      "0x3A9A"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_ivo_idle0.png",
+      "npc_portrait32_ivo_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "tess": {
+    "name": "RANGER TESS",
+    "ranger_name": "TESS",
+    "district_id": "D04",
+    "district_index": 3,
+    "districts": [
+      "D04"
+    ],
+    "headgear": "none",
+    "hairstyle": "curls",
+    "prop": "journal",
+    "shape": 1,
+    "face": [
+      12,
+      8,
+      35,
+      28
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        160,
+        104,
+        72
+      ],
+      [
+        224,
+        168,
+        120
+      ]
+    ],
+    "personality": "Keeps an oak-leaf bookmark and notices connections between homes.",
+    "gear": "none headwear, curls hair, journal, walking boots",
+    "sprite": "npc_tess.png",
+    "sprite_padded32": "npc_tess_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_tess_down_0.png",
+      "npc_tess_down_1.png",
+      "npc_tess_down_2.png",
+      "npc_tess_right_0.png",
+      "npc_tess_right_1.png",
+      "npc_tess_right_2.png",
+      "npc_tess_up_0.png",
+      "npc_tess_up_1.png",
+      "npc_tess_up_2.png",
+      "npc_tess_left_0.png",
+      "npc_tess_left_1.png",
+      "npc_tess_left_2.png"
+    ],
+    "portrait": "npc_portrait_tess.png",
+    "portrait32": "npc_portrait32_tess.png",
+    "frames": [
+      "npc_portrait_tess_idle0.png",
+      "npc_portrait_tess_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x25B4",
+      "0x3EBC"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_tess_idle0.png",
+      "npc_portrait32_tess_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "mira": {
+    "name": "RANGER MIRA",
+    "ranger_name": "MIRA",
+    "district_id": "D05",
+    "district_index": 4,
+    "districts": [
+      "D05"
+    ],
+    "headgear": "wool",
+    "hairstyle": "long",
+    "prop": "binoculars",
+    "shape": 0,
+    "face": [
+      15,
+      9,
+      33,
+      30
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        112,
+        112,
+        184
+      ],
+      [
+        232,
+        192,
+        160
+      ]
+    ],
+    "personality": "Waits quietly beside high-country water and loves clear reflections.",
+    "gear": "wool headwear, long hair, binoculars, walking boots",
+    "sprite": "npc_mira.png",
+    "sprite_padded32": "npc_mira_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_mira_down_0.png",
+      "npc_mira_down_1.png",
+      "npc_mira_down_2.png",
+      "npc_mira_right_0.png",
+      "npc_mira_right_1.png",
+      "npc_mira_right_2.png",
+      "npc_mira_up_0.png",
+      "npc_mira_up_1.png",
+      "npc_mira_up_2.png",
+      "npc_mira_left_0.png",
+      "npc_mira_left_1.png",
+      "npc_mira_left_2.png"
+    ],
+    "portrait": "npc_portrait_mira.png",
+    "portrait32": "npc_portrait32_mira.png",
+    "frames": [
+      "npc_portrait_mira_idle0.png",
+      "npc_portrait_mira_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x5DCE",
+      "0x531D"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_mira_idle0.png",
+      "npc_portrait32_mira_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "june": {
+    "name": "RANGER JUNE",
+    "ranger_name": "JUNE",
+    "district_id": "D06",
+    "district_index": 5,
+    "districts": [
+      "D06"
+    ],
+    "headgear": "visor",
+    "hairstyle": "ponytail",
+    "prop": "waterbook",
+    "shape": 2,
+    "face": [
+      13,
+      8,
+      33,
+      28
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        88,
+        160,
+        152
+      ],
+      [
+        200,
+        136,
+        96
+      ]
+    ],
+    "personality": "Records seasonal water changes with a pencil tied to the notebook.",
+    "gear": "visor headwear, ponytail hair, waterbook, walking boots",
+    "sprite": "npc_june.png",
+    "sprite_padded32": "npc_june_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_june_down_0.png",
+      "npc_june_down_1.png",
+      "npc_june_down_2.png",
+      "npc_june_right_0.png",
+      "npc_june_right_1.png",
+      "npc_june_right_2.png",
+      "npc_june_up_0.png",
+      "npc_june_up_1.png",
+      "npc_june_up_2.png",
+      "npc_june_left_0.png",
+      "npc_june_left_1.png",
+      "npc_june_left_2.png"
+    ],
+    "portrait": "npc_portrait_june.png",
+    "portrait32": "npc_portrait32_june.png",
+    "frames": [
+      "npc_portrait_june_idle0.png",
+      "npc_portrait_june_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x4E8B",
+      "0x3239"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_june_idle0.png",
+      "npc_portrait32_june_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "ada": {
+    "name": "RANGER ADA",
+    "ranger_name": "ADA",
+    "district_id": "D07",
+    "district_index": 6,
+    "districts": [
+      "D07"
+    ],
+    "headgear": "none",
+    "hairstyle": "bun",
+    "prop": "journal",
+    "shape": 0,
+    "face": [
+      15,
+      7,
+      35,
+      29
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        168,
+        144,
+        64
+      ],
+      [
+        216,
+        176,
+        128
+      ]
+    ],
+    "personality": "Asks careful comparison questions and marks every page with tabs.",
+    "gear": "none headwear, bun hair, journal, walking boots",
+    "sprite": "npc_ada.png",
+    "sprite_padded32": "npc_ada_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_ada_down_0.png",
+      "npc_ada_down_1.png",
+      "npc_ada_down_2.png",
+      "npc_ada_right_0.png",
+      "npc_ada_right_1.png",
+      "npc_ada_right_2.png",
+      "npc_ada_up_0.png",
+      "npc_ada_up_1.png",
+      "npc_ada_up_2.png",
+      "npc_ada_left_0.png",
+      "npc_ada_left_1.png",
+      "npc_ada_left_2.png"
+    ],
+    "portrait": "npc_portrait_ada.png",
+    "portrait32": "npc_portrait32_ada.png",
+    "frames": [
+      "npc_portrait_ada_idle0.png",
+      "npc_portrait_ada_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x2255",
+      "0x42DB"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_ada_idle0.png",
+      "npc_portrait32_ada_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "finn": {
+    "name": "RANGER FINN",
+    "ranger_name": "FINN",
+    "district_id": "D08",
+    "district_index": 7,
+    "districts": [
+      "D08"
+    ],
+    "headgear": "bucket",
+    "hairstyle": "short",
+    "prop": "lens",
+    "shape": 1,
+    "face": [
+      14,
+      9,
+      34,
+      31
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        64,
+        128,
+        144
+      ],
+      [
+        224,
+        184,
+        136
+      ]
+    ],
+    "personality": "Finds the creek-to-rock route and carries a battered lens pouch.",
+    "gear": "bucket headwear, short hair, lens, walking boots",
+    "sprite": "npc_finn.png",
+    "sprite_padded32": "npc_finn_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_finn_down_0.png",
+      "npc_finn_down_1.png",
+      "npc_finn_down_2.png",
+      "npc_finn_right_0.png",
+      "npc_finn_right_1.png",
+      "npc_finn_right_2.png",
+      "npc_finn_up_0.png",
+      "npc_finn_up_1.png",
+      "npc_finn_up_2.png",
+      "npc_finn_left_0.png",
+      "npc_finn_left_1.png",
+      "npc_finn_left_2.png"
+    ],
+    "portrait": "npc_portrait_finn.png",
+    "portrait32": "npc_portrait32_finn.png",
+    "frames": [
+      "npc_portrait_finn_idle0.png",
+      "npc_portrait_finn_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x4A08",
+      "0x46FC"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_finn_idle0.png",
+      "npc_portrait32_finn_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "bea": {
+    "name": "RANGER BEA",
+    "ranger_name": "BEA",
+    "district_id": "D09",
+    "district_index": 8,
+    "districts": [
+      "D09"
+    ],
+    "headgear": "hood",
+    "hairstyle": "curls",
+    "prop": "waterbook",
+    "shape": 2,
+    "face": [
+      15,
+      10,
+      34,
+      30
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        112,
+        160,
+        120
+      ],
+      [
+        184,
+        120,
+        88
+      ]
+    ],
+    "personality": "Enjoys foggy observation mornings and keeps a waterproof field folder.",
+    "gear": "hood headwear, curls hair, waterbook, walking boots",
+    "sprite": "npc_bea.png",
+    "sprite_padded32": "npc_bea_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_bea_down_0.png",
+      "npc_bea_down_1.png",
+      "npc_bea_down_2.png",
+      "npc_bea_right_0.png",
+      "npc_bea_right_1.png",
+      "npc_bea_right_2.png",
+      "npc_bea_up_0.png",
+      "npc_bea_up_1.png",
+      "npc_bea_up_2.png",
+      "npc_bea_left_0.png",
+      "npc_bea_left_1.png",
+      "npc_bea_left_2.png"
+    ],
+    "portrait": "npc_portrait_bea.png",
+    "portrait32": "npc_portrait32_bea.png",
+    "frames": [
+      "npc_portrait_bea_idle0.png",
+      "npc_portrait_bea_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x3E8E",
+      "0x2DF7"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_bea_idle0.png",
+      "npc_portrait32_bea_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "rui": {
+    "name": "RANGER RUI",
+    "ranger_name": "RUI",
+    "district_id": "D10",
+    "district_index": 9,
+    "districts": [
+      "D10"
+    ],
+    "headgear": "visor",
+    "hairstyle": "sweep",
+    "prop": "scope",
+    "shape": 0,
+    "face": [
+      14,
+      7,
+      33,
+      29
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        96,
+        144,
+        192
+      ],
+      [
+        232,
+        176,
+        120
+      ]
+    ],
+    "personality": "Watches coastal refuges from a distance and teaches patient framing.",
+    "gear": "visor headwear, sweep hair, scope, walking boots",
+    "sprite": "npc_rui.png",
+    "sprite_padded32": "npc_rui_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_rui_down_0.png",
+      "npc_rui_down_1.png",
+      "npc_rui_down_2.png",
+      "npc_rui_right_0.png",
+      "npc_rui_right_1.png",
+      "npc_rui_right_2.png",
+      "npc_rui_up_0.png",
+      "npc_rui_up_1.png",
+      "npc_rui_up_2.png",
+      "npc_rui_left_0.png",
+      "npc_rui_left_1.png",
+      "npc_rui_left_2.png"
+    ],
+    "portrait": "npc_portrait_rui.png",
+    "portrait32": "npc_portrait32_rui.png",
+    "frames": [
+      "npc_portrait_rui_idle0.png",
+      "npc_portrait_rui_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x624C",
+      "0x3EDD"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_rui_idle0.png",
+      "npc_portrait32_rui_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "leo": {
+    "name": "RANGER LEO",
+    "ranger_name": "LEO",
+    "district_id": "D11",
+    "district_index": 10,
+    "districts": [
+      "D11"
+    ],
+    "headgear": "cap",
+    "hairstyle": "afro",
+    "prop": "binoculars",
+    "shape": 1,
+    "face": [
+      13,
+      8,
+      35,
+      29
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        168,
+        88,
+        72
+      ],
+      [
+        168,
+        112,
+        80
+      ]
+    ],
+    "personality": "Makes mountain trail comparisons and laughs at their own muddy boots.",
+    "gear": "cap headwear, afro hair, binoculars, walking boots",
+    "sprite": "npc_leo.png",
+    "sprite_padded32": "npc_leo_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_leo_down_0.png",
+      "npc_leo_down_1.png",
+      "npc_leo_down_2.png",
+      "npc_leo_right_0.png",
+      "npc_leo_right_1.png",
+      "npc_leo_right_2.png",
+      "npc_leo_up_0.png",
+      "npc_leo_up_1.png",
+      "npc_leo_up_2.png",
+      "npc_leo_left_0.png",
+      "npc_leo_left_1.png",
+      "npc_leo_left_2.png"
+    ],
+    "portrait": "npc_portrait_leo.png",
+    "portrait32": "npc_portrait32_leo.png",
+    "frames": [
+      "npc_portrait_leo_idle0.png",
+      "npc_portrait_leo_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x2575",
+      "0x29D5"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_leo_idle0.png",
+      "npc_portrait32_leo_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "uma": {
+    "name": "RANGER UMA",
+    "ranger_name": "UMA",
+    "district_id": "D12",
+    "district_index": 11,
+    "districts": [
+      "D12"
+    ],
+    "headgear": "sun",
+    "hairstyle": "plaits",
+    "prop": "scope",
+    "shape": 0,
+    "face": [
+      15,
+      9,
+      34,
+      30
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        88,
+        160,
+        184
+      ],
+      [
+        216,
+        160,
+        104
+      ]
+    ],
+    "personality": "Keeps island observation notes and spots quiet offshore shapes.",
+    "gear": "sun headwear, plaits hair, scope, walking boots",
+    "sprite": "npc_uma.png",
+    "sprite_padded32": "npc_uma_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_uma_down_0.png",
+      "npc_uma_down_1.png",
+      "npc_uma_down_2.png",
+      "npc_uma_right_0.png",
+      "npc_uma_right_1.png",
+      "npc_uma_right_2.png",
+      "npc_uma_up_0.png",
+      "npc_uma_up_1.png",
+      "npc_uma_up_2.png",
+      "npc_uma_left_0.png",
+      "npc_uma_left_1.png",
+      "npc_uma_left_2.png"
+    ],
+    "portrait": "npc_portrait_uma.png",
+    "portrait32": "npc_portrait32_uma.png",
+    "frames": [
+      "npc_portrait_uma_idle0.png",
+      "npc_portrait_uma_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x5E8B",
+      "0x369B"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_uma_idle0.png",
+      "npc_portrait32_uma_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "kit": {
+    "name": "RANGER KIT",
+    "ranger_name": "KIT",
+    "district_id": "D13",
+    "district_index": 12,
+    "districts": [
+      "D13"
+    ],
+    "headgear": "none",
+    "hairstyle": "pixie",
+    "prop": "magnifier",
+    "shape": 2,
+    "face": [
+      13,
+      8,
+      33,
+      27
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        144,
+        128,
+        72
+      ],
+      [
+        240,
+        200,
+        160
+      ]
+    ],
+    "personality": "Examines forest layers with a hand lens while leaving each home intact.",
+    "gear": "none headwear, pixie hair, magnifier, walking boots",
+    "sprite": "npc_kit.png",
+    "sprite_padded32": "npc_kit_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_kit_down_0.png",
+      "npc_kit_down_1.png",
+      "npc_kit_down_2.png",
+      "npc_kit_right_0.png",
+      "npc_kit_right_1.png",
+      "npc_kit_right_2.png",
+      "npc_kit_up_0.png",
+      "npc_kit_up_1.png",
+      "npc_kit_up_2.png",
+      "npc_kit_left_0.png",
+      "npc_kit_left_1.png",
+      "npc_kit_left_2.png"
+    ],
+    "portrait": "npc_portrait_kit.png",
+    "portrait32": "npc_portrait32_kit.png",
+    "frames": [
+      "npc_portrait_kit_idle0.png",
+      "npc_portrait_kit_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x2612",
+      "0x533E"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_kit_idle0.png",
+      "npc_portrait32_kit_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "oren": {
+    "name": "RANGER OREN",
+    "ranger_name": "OREN",
+    "district_id": "D14",
+    "district_index": 13,
+    "districts": [
+      "D14"
+    ],
+    "headgear": "wool",
+    "hairstyle": "beard",
+    "prop": "map",
+    "shape": 1,
+    "face": [
+      12,
+      9,
+      35,
+      32
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        144,
+        104,
+        144
+      ],
+      [
+        200,
+        152,
+        112
+      ]
+    ],
+    "personality": "Remembers every small habitat pocket and shares folded trail diagrams.",
+    "gear": "wool headwear, beard hair, map, walking boots",
+    "sprite": "npc_oren.png",
+    "sprite_padded32": "npc_oren_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_oren_down_0.png",
+      "npc_oren_down_1.png",
+      "npc_oren_down_2.png",
+      "npc_oren_right_0.png",
+      "npc_oren_right_1.png",
+      "npc_oren_right_2.png",
+      "npc_oren_up_0.png",
+      "npc_oren_up_1.png",
+      "npc_oren_up_2.png",
+      "npc_oren_left_0.png",
+      "npc_oren_left_1.png",
+      "npc_oren_left_2.png"
+    ],
+    "portrait": "npc_portrait_oren.png",
+    "portrait32": "npc_portrait32_oren.png",
+    "frames": [
+      "npc_portrait_oren_idle0.png",
+      "npc_portrait_oren_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x49B2",
+      "0x3A79"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_oren_idle0.png",
+      "npc_portrait32_oren_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "wren": {
+    "name": "RANGER WREN",
+    "ranger_name": "WREN",
+    "district_id": "D15",
+    "district_index": 14,
+    "districts": [
+      "D15"
+    ],
+    "headgear": "bucket",
+    "hairstyle": "bob",
+    "prop": "camera",
+    "shape": 0,
+    "face": [
+      15,
+      10,
+      35,
+      30
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        104,
+        144,
+        96
+      ],
+      [
+        232,
+        184,
+        136
+      ]
+    ],
+    "personality": "Sketches volcanic stones and photographs the neighbors beside them.",
+    "gear": "bucket headwear, bob hair, camera, walking boots",
+    "sprite": "npc_wren.png",
+    "sprite_padded32": "npc_wren_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_wren_down_0.png",
+      "npc_wren_down_1.png",
+      "npc_wren_down_2.png",
+      "npc_wren_right_0.png",
+      "npc_wren_right_1.png",
+      "npc_wren_right_2.png",
+      "npc_wren_up_0.png",
+      "npc_wren_up_1.png",
+      "npc_wren_up_2.png",
+      "npc_wren_left_0.png",
+      "npc_wren_left_1.png",
+      "npc_wren_left_2.png"
+    ],
+    "portrait": "npc_portrait_wren.png",
+    "portrait32": "npc_portrait32_wren.png",
+    "frames": [
+      "npc_portrait_wren_idle0.png",
+      "npc_portrait_wren_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x324D",
+      "0x46FD"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_wren_idle0.png",
+      "npc_portrait32_wren_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  },
+  "pax": {
+    "name": "RANGER PAX",
+    "ranger_name": "PAX",
+    "district_id": "D16",
+    "district_index": 15,
+    "districts": [
+      "D16"
+    ],
+    "headgear": "earflap",
+    "hairstyle": "short",
+    "prop": "compass",
+    "shape": 2,
+    "face": [
+      14,
+      10,
+      33,
+      30
+    ],
+    "palette": [
+      [
+        248,
+        0,
+        248
+      ],
+      [
+        32,
+        32,
+        40
+      ],
+      [
+        152,
+        120,
+        72
+      ],
+      [
+        176,
+        120,
+        88
+      ]
+    ],
+    "personality": "Greets plateau dawns with a warm scarf and a well-used compass.",
+    "gear": "earflap headwear, short hair, compass, walking boots",
+    "sprite": "npc_pax.png",
+    "sprite_padded32": "npc_pax_padded32.png",
+    "sprite_dimensions": [
+      192,
+      24
+    ],
+    "frame_dimensions": [
+      16,
+      24
+    ],
+    "sprite_frames": [
+      "npc_pax_down_0.png",
+      "npc_pax_down_1.png",
+      "npc_pax_down_2.png",
+      "npc_pax_right_0.png",
+      "npc_pax_right_1.png",
+      "npc_pax_right_2.png",
+      "npc_pax_up_0.png",
+      "npc_pax_up_1.png",
+      "npc_pax_up_2.png",
+      "npc_pax_left_0.png",
+      "npc_pax_left_1.png",
+      "npc_pax_left_2.png"
+    ],
+    "portrait": "npc_portrait_pax.png",
+    "portrait32": "npc_portrait32_pax.png",
+    "frames": [
+      "npc_portrait_pax_idle0.png",
+      "npc_portrait_pax_idle1.png"
+    ],
+    "palette_rgb555": [
+      "0x7C1F",
+      "0x1484",
+      "0x25F3",
+      "0x2DF6"
+    ],
+    "frame_duration_ticks": 12,
+    "direction_order": [
+      "down",
+      "right",
+      "up",
+      "left"
+    ],
+    "portrait32_frames": [
+      "npc_portrait32_pax_idle0.png",
+      "npc_portrait32_pax_idle1.png"
+    ],
+    "native_meta_requirement": "16x24actor padded32 atlas; idleframe0 walkframes1/2 eachdirection",
+    "obj_budget_per_actor": 4,
+    "maximum_obj_per_scanline_per_actor": 2,
+    "bg_tiles_per_idle_frame": 6,
+    "status": "authored_source_not_native_integrated_or_observed"
+  }
+}

@@ -1,0 +1,3831 @@
+{
+  "long_toed_salamander": {
+    "art_id": "long_toed_salamander",
+    "species_id": 20,
+    "canonical_scientific_name": "Ambystoma macrodactylum",
+    "scientific_name_provisional": "Ambystoma macrodactylum",
+    "common_name": "Long-toed Salamander",
+    "icon": "critter_long_toed_salamander.png",
+    "portrait": "portrait_long_toed_salamander.png",
+    "portrait32": "portrait32_long_toed_salamander.png",
+    "frames": [
+      "portrait_long_toed_salamander_idle0.png",
+      "portrait_long_toed_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_long_toed_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        56,
+        64,
+        48
+      ],
+      [
+        216,
+        200,
+        88
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0C62",
+      "0x1907",
+      "0x2F3B"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "mole",
+    "allowed_districts_from_roster": [
+      "D05",
+      "D09",
+      "D15"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Longest fourth hind toe; dark body with uneven dorsal stripe."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.nps.gov/glac/learn/nature/amphibians.htm",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-macrodactylum"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LONG FOURTH TOE.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 0,
+      "body_width": 7,
+      "head_width": 8,
+      "limb_reach": 7,
+      "marking_plan": "broken_stripe",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "clouded_salamander": {
+    "art_id": "clouded_salamander",
+    "species_id": 26,
+    "canonical_scientific_name": "Aneides ferreus",
+    "scientific_name_provisional": "Aneides ferreus",
+    "common_name": "Clouded Salamander",
+    "icon": "critter_clouded_salamander.png",
+    "portrait": "portrait_clouded_salamander.png",
+    "portrait32": "portrait32_clouded_salamander.png",
+    "frames": [
+      "portrait_clouded_salamander_idle0.png",
+      "portrait_clouded_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_clouded_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        200,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        72,
+        80,
+        56
+      ],
+      [
+        168,
+        160,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B36",
+      "0x0C83",
+      "0x1D49",
+      "0x3295"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "aneides",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Long climbing limbs, squared toe tips; clouded bronze-gray representative."
+    ],
+    "anatomy_evidence_urls": [
+      "https://research.fs.usda.gov/treesearch/25045",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-ferreus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 1,
+      "body_width": 8,
+      "head_width": 9,
+      "limb_reach": 8,
+      "marking_plan": "clouds",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "black_salamander": {
+    "art_id": "black_salamander",
+    "species_id": 27,
+    "canonical_scientific_name": "Aneides flavipunctatus",
+    "scientific_name_provisional": "Aneides flavipunctatus",
+    "common_name": "Black Salamander",
+    "icon": "critter_black_salamander.png",
+    "portrait": "portrait_black_salamander.png",
+    "portrait32": "portrait32_black_salamander.png",
+    "frames": [
+      "portrait_black_salamander_idle0.png",
+      "portrait_black_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_black_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        184
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        40,
+        48,
+        40
+      ],
+      [
+        152,
+        168,
+        136
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5F57",
+      "0x0C62",
+      "0x14C5",
+      "0x46B3"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "aneides",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Robust broad head; representative speckled form, not every population."
+    ],
+    "anatomy_evidence_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-flavipunctatus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 2,
+      "body_width": 9,
+      "head_width": 10,
+      "limb_reach": 7,
+      "marking_plan": "few_speckles",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "shasta_black_salamander": {
+    "art_id": "shasta_black_salamander",
+    "species_id": 28,
+    "canonical_scientific_name": "Aneides iecanus",
+    "scientific_name_provisional": "Aneides iecanus",
+    "common_name": "Shasta Black Salamander",
+    "icon": "critter_shasta_black_salamander.png",
+    "portrait": "portrait_shasta_black_salamander.png",
+    "portrait32": "portrait32_shasta_black_salamander.png",
+    "frames": [
+      "portrait_shasta_black_salamander_idle0.png",
+      "portrait_shasta_black_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_shasta_black_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        184
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        40,
+        48,
+        40
+      ],
+      [
+        152,
+        168,
+        136
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5F57",
+      "0x0C62",
+      "0x14C5",
+      "0x46B3"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "aneides",
+    "allowed_districts_from_roster": [
+      "D14"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Robust jaw; numerous small pale speckles rather than universal black silhouette."
+    ],
+    "anatomy_evidence_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-iecanus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 3,
+      "body_width": 9,
+      "head_width": 10,
+      "limb_reach": 8,
+      "marking_plan": "dense_speckles",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "klamath_black_salamander": {
+    "art_id": "klamath_black_salamander",
+    "species_id": 29,
+    "canonical_scientific_name": "Aneides klamathensis",
+    "scientific_name_provisional": "Aneides klamathensis",
+    "common_name": "Klamath Black Salamander",
+    "icon": "critter_klamath_black_salamander.png",
+    "portrait": "portrait_klamath_black_salamander.png",
+    "portrait32": "portrait32_klamath_black_salamander.png",
+    "frames": [
+      "portrait_klamath_black_salamander_idle0.png",
+      "portrait_klamath_black_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_klamath_black_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        192
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        48,
+        64,
+        56
+      ],
+      [
+        144,
+        168,
+        144
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6357",
+      "0x0C62",
+      "0x1D06",
+      "0x4AB2"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "aneides",
+    "allowed_districts_from_roster": [
+      "D13",
+      "D14"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Broad head and terminally expanded digits; frosted adult color form."
+    ],
+    "anatomy_evidence_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-klamathensis"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 4,
+      "body_width": 8,
+      "head_width": 9,
+      "limb_reach": 8,
+      "marking_plan": "frost",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "santa_cruz_black_salamander": {
+    "art_id": "santa_cruz_black_salamander",
+    "species_id": 30,
+    "canonical_scientific_name": "Aneides niger",
+    "scientific_name_provisional": "Aneides niger",
+    "common_name": "Santa Cruz Black Salamander",
+    "icon": "critter_santa_cruz_black_salamander.png",
+    "portrait": "portrait_santa_cruz_black_salamander.png",
+    "portrait32": "portrait32_santa_cruz_black_salamander.png",
+    "frames": [
+      "portrait_santa_cruz_black_salamander_idle0.png",
+      "portrait_santa_cruz_black_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_santa_cruz_black_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        184
+      ],
+      [
+        16,
+        24,
+        24
+      ],
+      [
+        40,
+        48,
+        40
+      ],
+      [
+        152,
+        168,
+        136
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5F57",
+      "0x0C62",
+      "0x14C5",
+      "0x46B3"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "aneides",
+    "allowed_districts_from_roster": [
+      "D08"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Broad jaw and nearly black adult form; labels remain necessary."
+    ],
+    "anatomy_evidence_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-niger"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 5,
+      "body_width": 9,
+      "head_width": 11,
+      "limb_reach": 7,
+      "marking_plan": "plain",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "wandering_salamander": {
+    "art_id": "wandering_salamander",
+    "species_id": 31,
+    "canonical_scientific_name": "Aneides vagrans",
+    "scientific_name_provisional": "Aneides vagrans",
+    "common_name": "Wandering Salamander",
+    "icon": "critter_wandering_salamander.png",
+    "portrait": "portrait_wandering_salamander.png",
+    "portrait32": "portrait32_wandering_salamander.png",
+    "frames": [
+      "portrait_wandering_salamander_idle0.png",
+      "portrait_wandering_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_wandering_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        200,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        72,
+        80,
+        56
+      ],
+      [
+        168,
+        160,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B36",
+      "0x0C83",
+      "0x1D49",
+      "0x3295"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "aneides",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Long legs and squared terminal digits; mottling varies with age."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/wandering-salamander-2014.html",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-vagrans"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 6,
+      "body_width": 7,
+      "head_width": 8,
+      "limb_reach": 9,
+      "marking_plan": "bronze_mottle",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "greenhorn_slender_salamander": {
+    "art_id": "greenhorn_slender_salamander",
+    "species_id": 38,
+    "canonical_scientific_name": "Batrachoseps altasierrae",
+    "scientific_name_provisional": "Batrachoseps altasierrae",
+    "common_name": "Greenhorn Mtns Slender Salamander",
+    "icon": "critter_greenhorn_slender_salamander.png",
+    "portrait": "portrait_greenhorn_slender_salamander.png",
+    "portrait32": "portrait32_greenhorn_slender_salamander.png",
+    "frames": [
+      "portrait_greenhorn_slender_salamander_idle0.png",
+      "portrait_greenhorn_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_greenhorn_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D05"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Slender trunk, small four-toed feet; current altasierrae, not historical relictus."
+    ],
+    "anatomy_evidence_urls": [
+      "https://doi.org/10.11646/zootaxa.3190.1.1",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-altasierrae"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 1,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "narrow_stripe",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "california_slender_salamander": {
+    "art_id": "california_slender_salamander",
+    "species_id": 39,
+    "canonical_scientific_name": "Batrachoseps attenuatus",
+    "scientific_name_provisional": "Batrachoseps attenuatus",
+    "common_name": "California Slender Salamander",
+    "icon": "critter_california_slender_salamander.png",
+    "portrait": "portrait_california_slender_salamander.png",
+    "portrait32": "portrait32_california_slender_salamander.png",
+    "frames": [
+      "portrait_california_slender_salamander_idle0.png",
+      "portrait_california_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_california_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D08",
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Very narrow body, small feet and long cylindrical tapering tail."
+    ],
+    "anatomy_evidence_urls": [
+      "https://home.nps.gov/prsf/learn/nature/california-slender-salamander.htm",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-attenuatus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 2,
+      "body_width": 4,
+      "head_width": 5,
+      "limb_reach": 4,
+      "marking_plan": "dorsal_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "fairview_slender_salamander": {
+    "art_id": "fairview_slender_salamander",
+    "species_id": 40,
+    "canonical_scientific_name": "Batrachoseps bramei",
+    "scientific_name_provisional": "Batrachoseps bramei",
+    "common_name": "Fairview Slender Salamander",
+    "icon": "critter_fairview_slender_salamander.png",
+    "portrait": "portrait_fairview_slender_salamander.png",
+    "portrait32": "portrait32_fairview_slender_salamander.png",
+    "frames": [
+      "portrait_fairview_slender_salamander_idle0.png",
+      "portrait_fairview_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_fairview_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Current upper-canyon species; moderately developed feet and long tail."
+    ],
+    "anatomy_evidence_urls": [
+      "https://doi.org/10.11646/zootaxa.3190.1.1",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-bramei"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 3,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 6,
+      "marking_plan": "broken_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "hell_hollow_slender_salamander": {
+    "art_id": "hell_hollow_slender_salamander",
+    "species_id": 42,
+    "canonical_scientific_name": "Batrachoseps diabolicus",
+    "scientific_name_provisional": "Batrachoseps diabolicus",
+    "common_name": "Hell Hollow Slender Salamander",
+    "icon": "critter_hell_hollow_slender_salamander.png",
+    "portrait": "portrait_hell_hollow_slender_salamander.png",
+    "portrait32": "portrait32_hell_hollow_slender_salamander.png",
+    "frames": [
+      "portrait_hell_hollow_slender_salamander_idle0.png",
+      "portrait_hell_hollow_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_hell_hollow_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Four-toed slender salamander; larger head than most delicate drawn forms."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.biodiversitylibrary.org/part/208101",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-diabolicus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 4,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "fleck_band",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "gabilan_slender_salamander": {
+    "art_id": "gabilan_slender_salamander",
+    "species_id": 44,
+    "canonical_scientific_name": "Batrachoseps gavilanensis",
+    "scientific_name_provisional": "Batrachoseps gavilanensis",
+    "common_name": "Gabilan Mtns Slender Salamander",
+    "icon": "critter_gabilan_slender_salamander.png",
+    "portrait": "portrait_gabilan_slender_salamander.png",
+    "portrait32": "portrait32_gabilan_slender_salamander.png",
+    "frames": [
+      "portrait_gabilan_slender_salamander_idle0.png",
+      "portrait_gabilan_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_gabilan_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D09"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Four-toed slender form; external resemblance cannot replace identity labels."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-gavilanensis"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 5,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "light_mottle",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "gregarious_slender_salamander": {
+    "art_id": "gregarious_slender_salamander",
+    "species_id": 45,
+    "canonical_scientific_name": "Batrachoseps gregarius",
+    "scientific_name_provisional": "Batrachoseps gregarius",
+    "common_name": "Gregarious Slender Salamander",
+    "icon": "critter_gregarious_slender_salamander.png",
+    "portrait": "portrait_gregarious_slender_salamander.png",
+    "portrait32": "portrait32_gregarious_slender_salamander.png",
+    "frames": [
+      "portrait_gregarious_slender_salamander_idle0.png",
+      "portrait_gregarious_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_gregarious_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Long thin trunk and small four-toed feet; not a social-pose collectible."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.biodiversitylibrary.org/part/208101",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-gregarius"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 6,
+      "body_width": 4,
+      "head_width": 5,
+      "limb_reach": 4,
+      "marking_plan": "fine_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "san_simeon_slender_salamander": {
+    "art_id": "san_simeon_slender_salamander",
+    "species_id": 46,
+    "canonical_scientific_name": "Batrachoseps incognitus",
+    "scientific_name_provisional": "Batrachoseps incognitus",
+    "common_name": "San Simeon Slender Salamander",
+    "icon": "critter_san_simeon_slender_salamander.png",
+    "portrait": "portrait_san_simeon_slender_salamander.png",
+    "portrait32": "portrait32_san_simeon_slender_salamander.png",
+    "frames": [
+      "portrait_san_simeon_slender_salamander_idle0.png",
+      "portrait_san_simeon_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_san_simeon_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D09"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Conservative thin-bodied coastal-complex adult, four toes each foot."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-incognitus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 7,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "broken_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "sequoia_slender_salamander": {
+    "art_id": "sequoia_slender_salamander",
+    "species_id": 47,
+    "canonical_scientific_name": "Batrachoseps kawia",
+    "scientific_name_provisional": "Batrachoseps kawia",
+    "common_name": "Sequoia Slender Salamander",
+    "icon": "critter_sequoia_slender_salamander.png",
+    "portrait": "portrait_sequoia_slender_salamander.png",
+    "portrait32": "portrait32_sequoia_slender_salamander.png",
+    "frames": [
+      "portrait_sequoia_slender_salamander_idle0.png",
+      "portrait_sequoia_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_sequoia_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        200,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        72,
+        80,
+        56
+      ],
+      [
+        168,
+        160,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B36",
+      "0x0C83",
+      "0x1D49",
+      "0x3295"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D05"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Small four-toed feet and long tail; diagnosis requires context."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.biodiversitylibrary.org/part/208101",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-kawia"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 8,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "light_mottle",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "santa_lucia_slender_salamander": {
+    "art_id": "santa_lucia_slender_salamander",
+    "species_id": 48,
+    "canonical_scientific_name": "Batrachoseps luciae",
+    "scientific_name_provisional": "Batrachoseps luciae",
+    "common_name": "Santa Lucia Mtns Slender Salamander",
+    "icon": "critter_santa_lucia_slender_salamander.png",
+    "portrait": "portrait_santa_lucia_slender_salamander.png",
+    "portrait32": "portrait32_santa_lucia_slender_salamander.png",
+    "frames": [
+      "portrait_santa_lucia_slender_salamander_idle0.png",
+      "portrait_santa_lucia_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_santa_lucia_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D09"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Slender coastal-complex adult; composition variation is not diagnostic."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-luciae"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 9,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "dorsal_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "southern_slender_salamander": {
+    "art_id": "southern_slender_salamander",
+    "species_id": 49,
+    "canonical_scientific_name": "Batrachoseps major",
+    "scientific_name_provisional": "Batrachoseps major",
+    "common_name": "Southern California Slender Salamander",
+    "icon": "critter_southern_slender_salamander.png",
+    "portrait": "portrait_southern_slender_salamander.png",
+    "portrait32": "portrait32_southern_slender_salamander.png",
+    "frames": [
+      "portrait_southern_slender_salamander_idle0.png",
+      "portrait_southern_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_southern_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D10"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Larger pacificus-group form; vermiculate tan dorsal pattern on brown."
+    ],
+    "anatomy_evidence_urls": [
+      "https://bioone.org/journals/ichthyology-and-herpetology/volume-109/issue-3/h2020027/A-New-Relict-Species-of-Slender-Salamander-Plethodontidae--Batrachoseps/10.1643/h2020027.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-major"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 10,
+      "body_width": 6,
+      "head_width": 7,
+      "limb_reach": 5,
+      "marking_plan": "vermiculate",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "lesser_slender_salamander": {
+    "art_id": "lesser_slender_salamander",
+    "species_id": 50,
+    "canonical_scientific_name": "Batrachoseps minor",
+    "scientific_name_provisional": "Batrachoseps minor",
+    "common_name": "Lesser Slender Salamander",
+    "icon": "critter_lesser_slender_salamander.png",
+    "portrait": "portrait_lesser_slender_salamander.png",
+    "portrait32": "portrait32_lesser_slender_salamander.png",
+    "frames": [
+      "portrait_lesser_slender_salamander_idle0.png",
+      "portrait_lesser_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_lesser_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D09"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Small gracile form with tiny four-toed limbs; independent pose."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-minor"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 11,
+      "body_width": 4,
+      "head_width": 5,
+      "limb_reach": 4,
+      "marking_plan": "fine_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "black_bellied_slender_salamander": {
+    "art_id": "black_bellied_slender_salamander",
+    "species_id": 51,
+    "canonical_scientific_name": "Batrachoseps nigriventris",
+    "scientific_name_provisional": "Batrachoseps nigriventris",
+    "common_name": "Black-bellied Slender Salamander",
+    "icon": "critter_black_bellied_slender_salamander.png",
+    "portrait": "portrait_black_bellied_slender_salamander.png",
+    "portrait32": "portrait32_black_bellied_slender_salamander.png",
+    "frames": [
+      "portrait_black_bellied_slender_salamander_idle0.png",
+      "portrait_black_bellied_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_black_bellied_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D09",
+      "D10",
+      "D12"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Thin trunk and long tail; dark venter cannot be identified from this dorsal art."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1444",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-nigriventris"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 12,
+      "body_width": 4,
+      "head_width": 5,
+      "limb_reach": 4,
+      "marking_plan": "dorsal_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "channel_islands_slender_salamander": {
+    "art_id": "channel_islands_slender_salamander",
+    "species_id": 52,
+    "canonical_scientific_name": "Batrachoseps pacificus",
+    "scientific_name_provisional": "Batrachoseps pacificus",
+    "common_name": "Channel Islands Slender Salamander",
+    "icon": "critter_channel_islands_slender_salamander.png",
+    "portrait": "portrait_channel_islands_slender_salamander.png",
+    "portrait32": "portrait32_channel_islands_slender_salamander.png",
+    "frames": [
+      "portrait_channel_islands_slender_salamander_idle0.png",
+      "portrait_channel_islands_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_channel_islands_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        200,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        72,
+        80,
+        56
+      ],
+      [
+        168,
+        160,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B36",
+      "0x0C83",
+      "0x1D49",
+      "0x3295"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D12"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Larger pacificus-group form, tan longitudinal mottling; species labels essential."
+    ],
+    "anatomy_evidence_urls": [
+      "https://bioone.org/journals/ichthyology-and-herpetology/volume-109/issue-3/h2020027/A-New-Relict-Species-of-Slender-Salamander-Plethodontidae--Batrachoseps/10.1643/h2020027.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-pacificus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 13,
+      "body_width": 6,
+      "head_width": 7,
+      "limb_reach": 5,
+      "marking_plan": "vermiculate",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "kings_river_slender_salamander": {
+    "art_id": "kings_river_slender_salamander",
+    "species_id": 53,
+    "canonical_scientific_name": "Batrachoseps regius",
+    "scientific_name_provisional": "Batrachoseps regius",
+    "common_name": "Kings River Slender Salamander",
+    "icon": "critter_kings_river_slender_salamander.png",
+    "portrait": "portrait_kings_river_slender_salamander.png",
+    "portrait32": "portrait32_kings_river_slender_salamander.png",
+    "frames": [
+      "portrait_kings_river_slender_salamander_idle0.png",
+      "portrait_kings_river_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_kings_river_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D05"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Four-toed slender adult; separately authored posture, not new color taxon."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.biodiversitylibrary.org/part/208101",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-regius"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 14,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "fleck_band",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "relictual_slender_salamander": {
+    "art_id": "relictual_slender_salamander",
+    "species_id": 54,
+    "canonical_scientific_name": "Batrachoseps relictus",
+    "scientific_name_provisional": "Batrachoseps relictus",
+    "common_name": "Relictual Slender Salamander",
+    "icon": "critter_relictual_slender_salamander.png",
+    "portrait": "portrait_relictual_slender_salamander.png",
+    "portrait32": "portrait32_relictual_slender_salamander.png",
+    "frames": [
+      "portrait_relictual_slender_salamander_idle0.png",
+      "portrait_relictual_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_relictual_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Current restricted relictus form; not a placeholder for former altasierrae."
+    ],
+    "anatomy_evidence_urls": [
+      "https://doi.org/10.11646/zootaxa.3190.1.1",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-relictus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 15,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "broken_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "kern_plateau_slender_salamander": {
+    "art_id": "kern_plateau_slender_salamander",
+    "species_id": 55,
+    "canonical_scientific_name": "Batrachoseps robustus",
+    "scientific_name_provisional": "Batrachoseps robustus",
+    "common_name": "Kern Plateau Slender Salamander",
+    "icon": "critter_kern_plateau_slender_salamander.png",
+    "portrait": "portrait_kern_plateau_slender_salamander.png",
+    "portrait32": "portrait32_kern_plateau_slender_salamander.png",
+    "frames": [
+      "portrait_kern_plateau_slender_salamander_idle0.png",
+      "portrait_kern_plateau_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_kern_plateau_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender_robust",
+    "allowed_districts_from_roster": [
+      "D05"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Broad head, robust short trunk and stout tail; larger feet, four toes."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.researchgate.net/publication/250067402_New_Species_of_Slender_Salamander_Genus_Batrachoseps_from_the_Southern_Sierra_Nevada_of_California",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-robustus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 2,
+      "body_width": 7,
+      "head_width": 8,
+      "limb_reach": 6,
+      "marking_plan": "rust_mottle",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "kern_canyon_slender_salamander": {
+    "art_id": "kern_canyon_slender_salamander",
+    "species_id": 56,
+    "canonical_scientific_name": "Batrachoseps simatus",
+    "scientific_name_provisional": "Batrachoseps simatus",
+    "common_name": "Kern Canyon Slender Salamander",
+    "icon": "critter_kern_canyon_slender_salamander.png",
+    "portrait": "portrait_kern_canyon_slender_salamander.png",
+    "portrait32": "portrait32_kern_canyon_slender_salamander.png",
+    "frames": [
+      "portrait_kern_canyon_slender_salamander_idle0.png",
+      "portrait_kern_canyon_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_kern_canyon_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Current lower-canyon identity; separately posed thin adult with four toes."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1448",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-simatus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 0,
+      "body_width": 5,
+      "head_width": 6,
+      "limb_reach": 5,
+      "marking_plan": "dorsal_ribbon",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "tehachapi_slender_salamander": {
+    "art_id": "tehachapi_slender_salamander",
+    "species_id": 57,
+    "canonical_scientific_name": "Batrachoseps stebbinsi",
+    "scientific_name_provisional": "Batrachoseps stebbinsi",
+    "common_name": "Tehachapi Slender Salamander",
+    "icon": "critter_tehachapi_slender_salamander.png",
+    "portrait": "portrait_tehachapi_slender_salamander.png",
+    "portrait32": "portrait32_tehachapi_slender_salamander.png",
+    "frames": [
+      "portrait_tehachapi_slender_salamander_idle0.png",
+      "portrait_tehachapi_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_tehachapi_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender_robust",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Long legs and unusually large, more webbed four-toed feet; robust body."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=32034",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-stebbinsi"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 4,
+      "body_width": 7,
+      "head_width": 8,
+      "limb_reach": 8,
+      "marking_plan": "patches",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "california_giant_salamander": {
+    "art_id": "california_giant_salamander",
+    "species_id": 75,
+    "canonical_scientific_name": "Dicamptodon ensatus",
+    "scientific_name_provisional": "Dicamptodon ensatus",
+    "common_name": "California Giant Salamander",
+    "icon": "critter_california_giant_salamander.png",
+    "portrait": "portrait_california_giant_salamander.png",
+    "portrait32": "portrait32_california_giant_salamander.png",
+    "frames": [
+      "portrait_california_giant_salamander_idle0.png",
+      "portrait_california_giant_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_california_giant_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        200,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        72,
+        80,
+        56
+      ],
+      [
+        168,
+        160,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B36",
+      "0x0C83",
+      "0x1D49",
+      "0x3295"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "giant",
+    "allowed_districts_from_roster": [
+      "D08",
+      "D09",
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Adult broad head and stout body; marbled color, no larval external gills."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190337&inline=",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Dicamptodon/Dicamptodon-ensatus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A STOUT ADULT FORM.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 1,
+      "body_width": 11,
+      "head_width": 13,
+      "limb_reach": 8,
+      "marking_plan": "marble",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "coastal_giant_salamander": {
+    "art_id": "coastal_giant_salamander",
+    "species_id": 76,
+    "canonical_scientific_name": "Dicamptodon tenebrosus",
+    "scientific_name_provisional": "Dicamptodon tenebrosus",
+    "common_name": "Coastal Giant Salamander",
+    "icon": "critter_coastal_giant_salamander.png",
+    "portrait": "portrait_coastal_giant_salamander.png",
+    "portrait32": "portrait32_coastal_giant_salamander.png",
+    "frames": [
+      "portrait_coastal_giant_salamander_idle0.png",
+      "portrait_coastal_giant_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_coastal_giant_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "giant",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Adult stout limbs and strong tail; marbling variable and not a unique ID."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1510",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Dicamptodon/Dicamptodon-tenebrosus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A STOUT ADULT FORM.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 5,
+      "body_width": 10,
+      "head_width": 12,
+      "limb_reach": 8,
+      "marking_plan": "marble",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "ensatina": {
+    "art_id": "ensatina",
+    "species_id": 79,
+    "canonical_scientific_name": "Ensatina eschscholtzii",
+    "scientific_name_provisional": "Ensatina eschscholtzii",
+    "common_name": "Ensatina",
+    "icon": "critter_ensatina.png",
+    "portrait": "portrait_ensatina.png",
+    "portrait32": "portrait32_ensatina.png",
+    "frames": [
+      "portrait_ensatina_idle0.png",
+      "portrait_ensatina_idle1.png"
+    ],
+    "animation_sheet": "portrait_ensatina_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "ensatina",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D08",
+      "D09",
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Constriction at tail base; large eyes and moderately robust body."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1438",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Ensatina/Ensatina-eschscholtzii"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A NARROW TAIL BASE.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 7,
+      "body_width": 8,
+      "head_width": 10,
+      "limb_reach": 8,
+      "marking_plan": "warm_flanks",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "base constricted"
+    }
+  },
+  "limestone_salamander": {
+    "art_id": "limestone_salamander",
+    "species_id": 84,
+    "canonical_scientific_name": "Hydromantes brunus",
+    "scientific_name_provisional": "Hydromantes brunus",
+    "common_name": "Limestone Salamander",
+    "icon": "critter_limestone_salamander.png",
+    "portrait": "portrait_limestone_salamander.png",
+    "portrait32": "portrait32_limestone_salamander.png",
+    "frames": [
+      "portrait_limestone_salamander_idle0.png",
+      "portrait_limestone_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_limestone_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "web",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Broad flattened head, webbed hands/feet; short strongly tapered tail."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1464",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-brunus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "WEBBED HANDS AND",
+      "FEET.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 2,
+      "body_width": 8,
+      "head_width": 11,
+      "limb_reach": 8,
+      "marking_plan": "brown_fleck",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "short strongly tapered"
+    }
+  },
+  "mount_lyell_salamander": {
+    "art_id": "mount_lyell_salamander",
+    "species_id": 85,
+    "canonical_scientific_name": "Hydromantes platycephalus",
+    "scientific_name_provisional": "Hydromantes platycephalus",
+    "common_name": "Mount Lyell Salamander",
+    "icon": "critter_mount_lyell_salamander.png",
+    "portrait": "portrait_mount_lyell_salamander.png",
+    "portrait32": "portrait32_mount_lyell_salamander.png",
+    "frames": [
+      "portrait_mount_lyell_salamander_idle0.png",
+      "portrait_mount_lyell_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_mount_lyell_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        200
+      ],
+      [
+        32,
+        32,
+        32
+      ],
+      [
+        104,
+        104,
+        80
+      ],
+      [
+        192,
+        184,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6758",
+      "0x1084",
+      "0x29AD",
+      "0x42F8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "web",
+    "allowed_districts_from_roster": [
+      "D05"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Very broad flattened head and webbed feet; short tapered tail."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1460",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-platycephalus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "WEBBED HANDS AND",
+      "FEET.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 3,
+      "body_width": 8,
+      "head_width": 12,
+      "limb_reach": 8,
+      "marking_plan": "granite_mottle",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "short strongly tapered"
+    }
+  },
+  "samwel_shasta_salamander": {
+    "art_id": "samwel_shasta_salamander",
+    "species_id": 86,
+    "canonical_scientific_name": "Hydromantes samweli",
+    "scientific_name_provisional": "Hydromantes samweli",
+    "common_name": "Samwel Shasta Salamander",
+    "icon": "critter_samwel_shasta_salamander.png",
+    "portrait": "portrait_samwel_shasta_salamander.png",
+    "portrait32": "portrait32_samwel_shasta_salamander.png",
+    "frames": [
+      "portrait_samwel_shasta_salamander_idle0.png",
+      "portrait_samwel_shasta_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_samwel_shasta_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "web",
+    "allowed_districts_from_roster": [
+      "D14"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Cryptic Shasta-complex form; short blunt tapering tail, sepia/chestnut adult."
+    ],
+    "anatomy_evidence_urls": [
+      "https://escholarship.org/content/qt7sk3n2dq/qt7sk3n2dq.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-samweli"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "WEBBED HANDS AND",
+      "FEET.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 9,
+      "body_width": 7,
+      "head_width": 9,
+      "limb_reach": 8,
+      "marking_plan": "brown_fleck",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "short strongly tapered"
+    }
+  },
+  "wintu_shasta_salamander": {
+    "art_id": "wintu_shasta_salamander",
+    "species_id": 88,
+    "canonical_scientific_name": "Hydromantes wintu",
+    "scientific_name_provisional": "Hydromantes wintu",
+    "common_name": "Wintu Shasta Salamander",
+    "icon": "critter_wintu_shasta_salamander.png",
+    "portrait": "portrait_wintu_shasta_salamander.png",
+    "portrait32": "portrait32_wintu_shasta_salamander.png",
+    "frames": [
+      "portrait_wintu_shasta_salamander_idle0.png",
+      "portrait_wintu_shasta_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_wintu_shasta_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        200,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        72,
+        80,
+        56
+      ],
+      [
+        168,
+        160,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B36",
+      "0x0C83",
+      "0x1D49",
+      "0x3295"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "web",
+    "allowed_districts_from_roster": [
+      "D14"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Cryptic Shasta-complex form; ochre-tailed color form, light webbed feet."
+    ],
+    "anatomy_evidence_urls": [
+      "https://escholarship.org/content/qt7sk3n2dq/qt7sk3n2dq.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-wintu"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "WEBBED HANDS AND",
+      "FEET.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 12,
+      "body_width": 7,
+      "head_width": 9,
+      "limb_reach": 8,
+      "marking_plan": "tail_ochre",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "short strongly tapered"
+    }
+  },
+  "scott_bar_salamander": {
+    "art_id": "scott_bar_salamander",
+    "species_id": 104,
+    "canonical_scientific_name": "Plethodon asupak",
+    "scientific_name_provisional": "Plethodon asupak",
+    "common_name": "Scott Bar Salamander",
+    "icon": "critter_scott_bar_salamander.png",
+    "portrait": "portrait_scott_bar_salamander.png",
+    "portrait32": "portrait32_scott_bar_salamander.png",
+    "frames": [
+      "portrait_scott_bar_salamander_idle0.png",
+      "portrait_scott_bar_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_scott_bar_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "plethodon",
+    "allowed_districts_from_roster": [
+      "D14"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "More robust, wider head and longer limbs than elongatus/stormi."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.researchgate.net/publication/237211279_Newly_discovered_populations_of_salamanders_from_Siskiyou_County_California_represent_a_species_distinct_from_Plethodon_stormi",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-asupak"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 6,
+      "body_width": 8,
+      "head_width": 9,
+      "limb_reach": 8,
+      "marking_plan": "paired_band",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "dunns_salamander": {
+    "art_id": "dunns_salamander",
+    "species_id": 105,
+    "canonical_scientific_name": "Plethodon dunni",
+    "scientific_name_provisional": "Plethodon dunni",
+    "common_name": "Dunn's Salamander",
+    "icon": "critter_dunns_salamander.png",
+    "portrait": "portrait_dunns_salamander.png",
+    "portrait32": "portrait32_dunns_salamander.png",
+    "frames": [
+      "portrait_dunns_salamander_idle0.png",
+      "portrait_dunns_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_dunns_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        200,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        72,
+        80,
+        56
+      ],
+      [
+        168,
+        160,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B36",
+      "0x0C83",
+      "0x1D49",
+      "0x3295"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "plethodon",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Broad greenish/tan dorsal band on dark ground; five hind toes."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.fs.usda.gov/pnw/pubs/pnw_gtr337.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-dunni"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 8,
+      "body_width": 7,
+      "head_width": 8,
+      "limb_reach": 7,
+      "marking_plan": "wide_band",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "del_norte_salamander": {
+    "art_id": "del_norte_salamander",
+    "species_id": 106,
+    "canonical_scientific_name": "Plethodon elongatus",
+    "scientific_name_provisional": "Plethodon elongatus",
+    "common_name": "Del Norte Salamander",
+    "icon": "critter_del_norte_salamander.png",
+    "portrait": "portrait_del_norte_salamander.png",
+    "portrait32": "portrait32_del_norte_salamander.png",
+    "frames": [
+      "portrait_del_norte_salamander_idle0.png",
+      "portrait_del_norte_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_del_norte_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "plethodon",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Slender long trunk, short limbs and faint reddish-brown dorsal band."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.fs.usda.gov/pnw/pubs/pnw_gtr337.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-elongatus"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 10,
+      "body_width": 6,
+      "head_width": 7,
+      "limb_reach": 6,
+      "marking_plan": "narrow_band",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "siskiyou_mountains_salamander": {
+    "art_id": "siskiyou_mountains_salamander",
+    "species_id": 107,
+    "canonical_scientific_name": "Plethodon stormi",
+    "scientific_name_provisional": "Plethodon stormi",
+    "common_name": "Siskiyou Mtns Salamander",
+    "icon": "critter_siskiyou_mountains_salamander.png",
+    "portrait": "portrait_siskiyou_mountains_salamander.png",
+    "portrait32": "portrait32_siskiyou_mountains_salamander.png",
+    "frames": [
+      "portrait_siskiyou_mountains_salamander_idle0.png",
+      "portrait_siskiyou_mountains_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_siskiyou_mountains_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        24,
+        16
+      ],
+      [
+        88,
+        72,
+        48
+      ],
+      [
+        184,
+        152,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0863",
+      "0x192B",
+      "0x3277"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "plethodon",
+    "allowed_districts_from_roster": [
+      "D14"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Intermediate robust body and pale flecking; cryptic relatives need labels."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.fs.usda.gov/pnw/pubs/pnw_gtr337.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-stormi"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A LUNGLESS",
+      "SALAMANDER.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 14,
+      "body_width": 7,
+      "head_width": 8,
+      "limb_reach": 7,
+      "marking_plan": "fine_speckles",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "rough_skinned_newt": {
+    "art_id": "rough_skinned_newt",
+    "species_id": 128,
+    "canonical_scientific_name": "Taricha granulosa",
+    "scientific_name_provisional": "Taricha granulosa",
+    "common_name": "Rough-skinned Newt",
+    "icon": "critter_rough_skinned_newt.png",
+    "portrait": "portrait_rough_skinned_newt.png",
+    "portrait32": "portrait32_rough_skinned_newt.png",
+    "frames": [
+      "portrait_rough_skinned_newt_idle0.png",
+      "portrait_rough_skinned_newt_idle1.png"
+    ],
+    "animation_sheet": "portrait_rough_skinned_newt_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        208,
+        192
+      ],
+      [
+        32,
+        32,
+        24
+      ],
+      [
+        104,
+        80,
+        48
+      ],
+      [
+        232,
+        168,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6356",
+      "0x0C84",
+      "0x194D",
+      "0x22BD"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "newt",
+    "allowed_districts_from_roster": [
+      "D08",
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Robust terrestrial newt; grainy skin and orange underside, not scales."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.nps.gov/crla/learn/nature/mazama-newts.htm",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-granulosa"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A ROBUST NEWT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 0,
+      "body_width": 9,
+      "head_width": 9,
+      "limb_reach": 7,
+      "marking_plan": "grain",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "no drawn costal grooves; grainy terrestrial skin",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "red_bellied_newt": {
+    "art_id": "red_bellied_newt",
+    "species_id": 129,
+    "canonical_scientific_name": "Taricha rivularis",
+    "scientific_name_provisional": "Taricha rivularis",
+    "common_name": "Red-bellied Newt",
+    "icon": "critter_red_bellied_newt.png",
+    "portrait": "portrait_red_bellied_newt.png",
+    "portrait32": "portrait32_red_bellied_newt.png",
+    "frames": [
+      "portrait_red_bellied_newt_idle0.png",
+      "portrait_red_bellied_newt_idle1.png"
+    ],
+    "animation_sheet": "portrait_red_bellied_newt_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        184
+      ],
+      [
+        24,
+        24,
+        24
+      ],
+      [
+        64,
+        56,
+        40
+      ],
+      [
+        208,
+        88,
+        48
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5F57",
+      "0x0C63",
+      "0x14E8",
+      "0x197A"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "newt",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Robust dark terrestrial newt with reddish belly and dark eyes."
+    ],
+    "anatomy_evidence_urls": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190363&inline=",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-rivularis"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A ROBUST NEWT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 11,
+      "body_width": 9,
+      "head_width": 9,
+      "limb_reach": 7,
+      "marking_plan": "grain_red",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "no drawn costal grooves; grainy terrestrial skin",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "sierra_newt": {
+    "art_id": "sierra_newt",
+    "species_id": 130,
+    "canonical_scientific_name": "Taricha sierrae",
+    "scientific_name_provisional": "Taricha sierrae",
+    "common_name": "Sierra Newt",
+    "icon": "critter_sierra_newt.png",
+    "portrait": "portrait_sierra_newt.png",
+    "portrait32": "portrait32_sierra_newt.png",
+    "frames": [
+      "portrait_sierra_newt_idle0.png",
+      "portrait_sierra_newt_idle1.png"
+    ],
+    "animation_sheet": "portrait_sierra_newt_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        208,
+        192
+      ],
+      [
+        32,
+        32,
+        24
+      ],
+      [
+        104,
+        80,
+        48
+      ],
+      [
+        232,
+        168,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6356",
+      "0x0C84",
+      "0x194D",
+      "0x22BD"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "newt",
+    "allowed_districts_from_roster": [
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Terrestrial roughened skin; closely resembles California newt, no defensive arch."
+    ],
+    "anatomy_evidence_urls": [
+      "https://www.nps.gov/seki/learn/nature/amphibfish.htm",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-sierrae"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "A ROBUST NEWT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 13,
+      "body_width": 8,
+      "head_width": 9,
+      "limb_reach": 7,
+      "marking_plan": "grain_gold",
+      "fore_digits": 4,
+      "hind_digits": 5,
+      "costal_grooves": "no drawn costal grooves; grainy terrestrial skin",
+      "tail": "tapered representative adult tail"
+    }
+  },
+  "arguello_slender_salamander": {
+    "art_id": "arguello_slender_salamander",
+    "species_id": 150,
+    "canonical_scientific_name": "Batrachoseps wakei",
+    "scientific_name_provisional": "Batrachoseps wakei",
+    "common_name": "Arguello Slender Salamander",
+    "icon": "critter_arguello_slender_salamander.png",
+    "portrait": "portrait_arguello_slender_salamander.png",
+    "portrait32": "portrait32_arguello_slender_salamander.png",
+    "frames": [
+      "portrait_arguello_slender_salamander_idle0.png",
+      "portrait_arguello_slender_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_arguello_slender_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        176
+      ],
+      [
+        32,
+        24,
+        16
+      ],
+      [
+        104,
+        72,
+        48
+      ],
+      [
+        192,
+        112,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B58",
+      "0x0864",
+      "0x192D",
+      "0x21D8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_slow_step_tail_tip",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "slender_robust",
+    "allowed_districts_from_roster": [
+      "D09"
+    ],
+    "review_notes": [
+      "Source art only. Individually composed original posture; not diagnostic species isolation.",
+      "External color forms vary. Source text and habitat/identity labels are required; no field identification from tiny sprites.",
+      "Portrait0/1 are independent native48px pixel compositions, not icon enlargements.",
+      "Four-toed versus five-toed hind feet are represented in portrait geometry; 16px icons cannot promise countable toes.",
+      "Large long-bodied species, relatively small rounded head; vermiculate tan marks."
+    ],
+    "anatomy_evidence_urls": [
+      "https://bioone.org/journals/ichthyology-and-herpetology/volume-109/issue-3/h2020027/A-New-Relict-Species-of-Slender-Salamander-Plethodontidae--Batrachoseps/10.1643/h2020027.pdf",
+      "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-wakei"
+    ],
+    "anatomy_review_status": "authored_source_informed_pending_independent_species_color_digit_and_proportion_review",
+    "representative_form": "terrestrial adult; variable color expression is illustrative, never a new taxon",
+    "guide_draft_lines": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK WITHOUT TOUCH.",
+      "PATTERNS CAN VARY."
+    ],
+    "color_index_contract": {
+      "habitat": 0,
+      "outline_and_deep_shadow": 1,
+      "animal_body": 2,
+      "animal_highlights_and_marks": 3
+    },
+    "sprite_alpha_index": 0,
+    "anatomy_parameters": {
+      "portrait_pose": 15,
+      "body_width": 6,
+      "head_width": 6,
+      "limb_reach": 6,
+      "marking_plan": "wakei",
+      "fore_digits": 4,
+      "hind_digits": 4,
+      "costal_grooves": "visible symbolic folds, not diagnostic counts",
+      "tail": "tapered representative adult tail"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "content_revision": 2,
+  "reason": "SSAR2025 taxonomic species counting correction; no authority switching or duplicate subspecies inflation.",
+  "replacement_id": 60,
+  "former_identity": "Charina umbratica",
+  "merged_into_id": 59,
+  "merged_identity": "Charina bottae",
+  "replacement_identity": "Lampropeltis zonata",
+  "old_sites_recanonicalized_to59": [
+    352,
+    353,
+    366,
+    367
+  ],
+  "new_site": 537,
+  "new_map": 240,
+  "save_migration": {
+    "quest_byte": 9,
+    "marker_bit": 64,
+    "old_photo60": "preserve as species59 if higher score; unknown legacy pose",
+    "new_photo60": "empty until actually photographed",
+    "old_care_evidence": "same actual D11 population/site; recanonicalized target59"
+  },
+  "primary_review": "research/roster/id60-replacement-review.json",
+  "release_approval": false
+}

@@ -1,0 +1,1370 @@
+{
+  "species_count": 151,
+  "explicit_far32_frames": 302,
+  "all_frame_pairs_distinct": true,
+  "far_generation_modifies48_source": false,
+  "far_generation_changes_native48_motion": false,
+  "scope": "explicit_native32_source_not_emulator_observation",
+  "native_observed": false,
+  "records": [
+    {
+      "species_id": 0,
+      "art_id": "tortoise",
+      "far_frame_change_pixels": 16,
+      "far_frame_sha256": [
+        "4f1018911112189cf74d1c6588b6e07547192f8c2ecc291a3468feda0876df4c",
+        "bc412cae7c4b923ec9ba54a27edf1776a8d17d205cff28d5937f2d4cb4d126b4"
+      ]
+    },
+    {
+      "species_id": 1,
+      "art_id": "chuckwalla",
+      "far_frame_change_pixels": 4,
+      "far_frame_sha256": [
+        "82f902d7596ec0e954d50c610aa501a90702539819a35bfabd3e5aee889c607c",
+        "c0e771804120738eb03d48ef4db5cb06319a6c438eb984efae49b0668f9ff40d"
+      ]
+    },
+    {
+      "species_id": 2,
+      "art_id": "horned_lizard",
+      "far_frame_change_pixels": 4,
+      "far_frame_sha256": [
+        "76d394c7c960cd0d710e3cdec39736b1b34111bb629bb9adbdfce5460fb16803",
+        "f585853f2c4dbe4e55a19010da2b42d9f320312045f7c89e2d2576d86094ef77"
+      ]
+    },
+    {
+      "species_id": 3,
+      "art_id": "sidewinder",
+      "far_frame_change_pixels": 20,
+      "far_frame_sha256": [
+        "9edfe0e2f4fab7e4e1ea687763401f124794f3e35ad045b701ed896a137fdffe",
+        "c9d5daa0bfcd6be3c3b648e74d00fb1b0013c073b5f0d2eadb9a73e69280d1c2"
+      ]
+    },
+    {
+      "species_id": 4,
+      "art_id": "red_spotted_toad",
+      "far_frame_change_pixels": 18,
+      "far_frame_sha256": [
+        "91fcb1fa955baf599833f4787fb8b7ef20e53d7594ffbf47bdea14115f20bd72",
+        "ecb300ce9fdf4880f876a5305d51e3d24ef56d8ddaf8388f686c376cab87688d"
+      ]
+    },
+    {
+      "species_id": 5,
+      "art_id": "kingsnake",
+      "far_frame_change_pixels": 4,
+      "far_frame_sha256": [
+        "598114c47fbf435e2708dea7da949fa44e7d2abc718d731e6ac596c0207902ad",
+        "7a6f25db07dd087179f17a1213c893725d285e763a1828032477be42e8f3eac4"
+      ]
+    },
+    {
+      "species_id": 6,
+      "art_id": "fence_lizard",
+      "far_frame_change_pixels": 128,
+      "far_frame_sha256": [
+        "063d35b2b04abe41269891aa4f3666c1bd690ae45b97fe9359fe03b8a463c936",
+        "ef183ad40c5bb18e0bce37c4fd51d9f1e7610dc405f1ca845ff31918be7917ad"
+      ]
+    },
+    {
+      "species_id": 7,
+      "art_id": "newt",
+      "far_frame_change_pixels": 61,
+      "far_frame_sha256": [
+        "b48daf7a38019b4b6688b35dcaa7e513b11b76508696ee588ec624dad931752f",
+        "0f858b0a7a233cf854ec78f090b4db28ff8b8d2696e53a3c2d34f2e08eeb36b3"
+      ]
+    },
+    {
+      "species_id": 8,
+      "art_id": "chorus_frog",
+      "far_frame_change_pixels": 25,
+      "far_frame_sha256": [
+        "f31c39793001b7d6094fc3f88a22a01b0d17dd454483d83f5de929e24f310071",
+        "4069bb9c1193cbdf233f0065fa3da0ce032144791de770e406a034c02935ea85"
+      ]
+    },
+    {
+      "species_id": 9,
+      "art_id": "tiger_salamander",
+      "far_frame_change_pixels": 60,
+      "far_frame_sha256": [
+        "594b1acc8698199d1d188a3813d3a2b42084551809783abb209be21ac98c1a6e",
+        "fc2c2cfe020b5c87e95c51515ccf97c732d06ea122f23131cf8acc096b3bdbef"
+      ]
+    },
+    {
+      "species_id": 10,
+      "art_id": "island_night_lizard",
+      "far_frame_change_pixels": 8,
+      "far_frame_sha256": [
+        "534c5a9d2b921451238a105958f8b0d005c1435b44ebfdab988e7fe1f4f8dd13",
+        "f0414cbe94c2eaf09aa7f2df08a20a17b12fd7e86575c511ec8196172178e9a1"
+      ]
+    },
+    {
+      "species_id": 11,
+      "art_id": "alligator_lizard",
+      "far_frame_change_pixels": 79,
+      "far_frame_sha256": [
+        "e22e736c8da16d955bb27a505e0a10b7c364b5f5961db7bf007a8f74cc9dc116",
+        "5c1aeef60e94d13b38b6f7a7fc492ced0c65c2f52906cb48283ea9e6e72f91ca"
+      ]
+    },
+    {
+      "species_id": 12,
+      "art_id": "banded_gecko",
+      "far_frame_change_pixels": 16,
+      "far_frame_sha256": [
+        "c7e231c5b821a4fdd83fce00c6f3adfe654b7e5f048a562288366e499c940da3",
+        "3aa00ef61112db5146cedf79f3332319827118509db98077e06e0533665c9ef9"
+      ]
+    },
+    {
+      "species_id": 13,
+      "art_id": "desert_iguana",
+      "far_frame_change_pixels": 81,
+      "far_frame_sha256": [
+        "0cf25d41016924205272eb14376fcb0f91b972a0c67ad81edbdfe0952b9fb244",
+        "7ee63056b7e657f1a210e10e283bb3024b49629cd6dcc29cdf0e5ad3fb74cd29"
+      ]
+    },
+    {
+      "species_id": 14,
+      "art_id": "rosy_boa",
+      "far_frame_change_pixels": 21,
+      "far_frame_sha256": [
+        "a7ae48df30b9e19949c0ae740b67d18b33b8f07fac47e945094ce9509560b58d",
+        "aada5cef68f763fd6800823ebdb545a918aac5979f370d8ea2c834989be0e6b1"
+      ]
+    },
+    {
+      "species_id": 15,
+      "art_id": "western_pond_turtle",
+      "far_frame_change_pixels": 37,
+      "far_frame_sha256": [
+        "7ab9015e436ef01edc66d400b06158965293fa6058f38294069810b8c434b941",
+        "52ede24b230a227cb856dda5a11805da96d548680f3356401ab2b5a1f0eaee5d"
+      ]
+    },
+    {
+      "species_id": 16,
+      "art_id": "arboreal_salamander",
+      "far_frame_change_pixels": 61,
+      "far_frame_sha256": [
+        "6f579135f53c41d8530c5a7e2d8c0d8b99e5ca02862e13e56eea853d3c6f489d",
+        "d70817b41a06909304c3138e6af58e5a5f8291f4ac0f9ae6a6d316813c991de4"
+      ]
+    },
+    {
+      "species_id": 17,
+      "art_id": "yellow_legged_frog",
+      "far_frame_change_pixels": 24,
+      "far_frame_sha256": [
+        "04b4acba71cb23599cb02885ffac29c8fb3251934066f117d80daafb0ee81f91",
+        "7ed341a75a3a6f0b3faea87cff2b1a3e9cc715f23643aa2628a6e815f0506790"
+      ]
+    },
+    {
+      "species_id": 18,
+      "art_id": "sw_pond_turtle",
+      "far_frame_change_pixels": 34,
+      "far_frame_sha256": [
+        "979255b8d637e84f3f2e68f09a6631fa24c72580436e8218d84b4fce9829cefe",
+        "5af68faf12229d3211ddce66edcfcc75d8b262aa499aa16a1277c940755da8d1"
+      ]
+    },
+    {
+      "species_id": 19,
+      "art_id": "northwestern_salamander",
+      "far_frame_change_pixels": 8,
+      "far_frame_sha256": [
+        "80e1ef0ee53f78a9dd6eb243c0f8b6ab9a4cbc873ed95945e3c2545864ddb351",
+        "d0eba0ba3ab62047800197f02f457a0293d7ea6db1f1045498f3a5d7f1272dd7"
+      ]
+    },
+    {
+      "species_id": 20,
+      "art_id": "long_toed_salamander",
+      "far_frame_change_pixels": 15,
+      "far_frame_sha256": [
+        "eec0d0cf75e6d384b97f7bda21c00b3011223e690a740508ac746e91815cb0c3",
+        "653d5c9d62b45233e2a6bdb9475693d138b7b36af1602a70f8833c054760534a"
+      ]
+    },
+    {
+      "species_id": 21,
+      "art_id": "western_toad",
+      "far_frame_change_pixels": 26,
+      "far_frame_sha256": [
+        "3c31b962aeaddae12701cb040758a86f32bfda19d88d1412579114777905a355",
+        "e0489e62ff7cb7dfc3174b792fb2dcd345477de46879f1fc42e2421623b1b954"
+      ]
+    },
+    {
+      "species_id": 22,
+      "art_id": "arroyo_toad",
+      "far_frame_change_pixels": 23,
+      "far_frame_sha256": [
+        "387dc809e657a622a924bc327439b95d351b1279f0c4663ab0df43ad89016bcb",
+        "3e15897793df7954943e3561d9fe9721d557309124f706c8f8546639304953ba"
+      ]
+    },
+    {
+      "species_id": 23,
+      "art_id": "yosemite_toad",
+      "far_frame_change_pixels": 20,
+      "far_frame_sha256": [
+        "7df995f0c5d09c97c02ad0c587bf6569ec1cb30ed6d3278adcf822102ff4199b",
+        "a79b9fe23478b1de170836d967eb81e1a25b3a01b530e9171017d54d0463b8af"
+      ]
+    },
+    {
+      "species_id": 24,
+      "art_id": "great_plains_toad",
+      "far_frame_change_pixels": 26,
+      "far_frame_sha256": [
+        "0eded808cc97e4c912739b0654dd8312b6f642b848456ec1597a7f9ff06e17f4",
+        "c4316797e69720397c74aa55495c57b6c24c073b3d68f0f4b3b85ca9c7bac468"
+      ]
+    },
+    {
+      "species_id": 25,
+      "art_id": "black_toad",
+      "far_frame_change_pixels": 23,
+      "far_frame_sha256": [
+        "457955ea9307a6d6e41e9f1e1d98516f167ad7b12e9dbed3042c125766561d44",
+        "782df1a099185034f95a779631d135984dab5c7006214c73b481e6d1154cdef9"
+      ]
+    },
+    {
+      "species_id": 26,
+      "art_id": "clouded_salamander",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "f8f85391e75b5b56bbff1bdaa8c648957d2e411d4d94ed1e8ddab4163f4d60b4",
+        "f898d69080228fcf541888b509aaa05c47825dcbc4f40497a438b1ca871d0ba6"
+      ]
+    },
+    {
+      "species_id": 27,
+      "art_id": "black_salamander",
+      "far_frame_change_pixels": 8,
+      "far_frame_sha256": [
+        "119a636f6c1a29455e2a9005d04c949a40d1ee793d12013772d6e8a393a38cfe",
+        "41245e825e63d9db30732c5de207bc10180cb04e131ab7530edf25ba6dde45cd"
+      ]
+    },
+    {
+      "species_id": 28,
+      "art_id": "shasta_black_salamander",
+      "far_frame_change_pixels": 18,
+      "far_frame_sha256": [
+        "9c06f0ce4c0f06c4410a8dcee12b832f04428364470ac573c11c4199914be04f",
+        "31fc5b08748dd89f0d38ce6c0cf49f34457a63f968ad449824ee33cde303abbe"
+      ]
+    },
+    {
+      "species_id": 29,
+      "art_id": "klamath_black_salamander",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "3c35fa649c51a7be96b94690e1e7f72e5b0f007e7241b5414cafaa9ae09edc8c",
+        "464d4c0f621dfb86a272c0ae02bcc1b57a4ced9e148aba49bee9dc043180e207"
+      ]
+    },
+    {
+      "species_id": 30,
+      "art_id": "santa_cruz_black_salamander",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "7fab64fa1a85e1fd32efdaf01e101d37ff6ec4359c2426db7cf6f7f5501c209a",
+        "59673f7b178ae68d11bec2ba590b2bbade271cd85b65e59bcea9f2c248052aa3"
+      ]
+    },
+    {
+      "species_id": 31,
+      "art_id": "wandering_salamander",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "4641fe9f27545411fb515751e93a2481effc2cada9f5644cf5bd9bc6a1395aa6",
+        "59142636de9674b328605f16ff38091c9e7940170b0620fa073074ddd8cf6414"
+      ]
+    },
+    {
+      "species_id": 32,
+      "art_id": "temblor_legless_lizard",
+      "far_frame_change_pixels": 41,
+      "far_frame_sha256": [
+        "36404d5d7fd90818d3741d8e3e0988374e28e5a91244d5472e1762b8c0278a5e",
+        "aa2aefc66ddfb40b87977cc30169fa8c0fe56d3994c1cea92889bb5007a52ffe"
+      ]
+    },
+    {
+      "species_id": 33,
+      "art_id": "r_033",
+      "far_frame_change_pixels": 33,
+      "far_frame_sha256": [
+        "b4a71d3fa8d6ce8d7e4b290bf3cf1d19f1e69a80246d4dd9d897b385d0f9f106",
+        "f5dd568f42c734c3e40b16ecc69840418e34037c44202ab6d21eb05a036c9d2b"
+      ]
+    },
+    {
+      "species_id": 34,
+      "art_id": "r_034",
+      "far_frame_change_pixels": 23,
+      "far_frame_sha256": [
+        "a6e2029146ca0623e38ae1f2fb376eb6e55371eaea19b9568faf59db63453ebe",
+        "ee32a8906401b52768ed588f53ea38faf287f7a81a039c9c27a082903680e81f"
+      ]
+    },
+    {
+      "species_id": 35,
+      "art_id": "coastal_tailed_frog",
+      "far_frame_change_pixels": 23,
+      "far_frame_sha256": [
+        "d00b6a55bff558ba08072e006b8a00b42caed9833770559525896f8468214943",
+        "e8e50335efe9a2c9f21cc1448bc05ad4f041c24820bc8c6d9424c6c1eee59e96"
+      ]
+    },
+    {
+      "species_id": 36,
+      "art_id": "orange_throated_whiptail",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "0a12cd9c5d9867badcc88599697602fb5f6f5d0d520a31110188db6024fd5f8b",
+        "aa66402d998aac351553eea000746fff72f41d07475d5cb3532d99bbc1257bfb"
+      ]
+    },
+    {
+      "species_id": 37,
+      "art_id": "r_037",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "988ed03c165840e543ae3ccb5769d330c2cb5753f504a7fc991fbe41ac8613d0",
+        "90fae325b117625f9e0df71e80979ba9f100830d0102798d49534124ace7c185"
+      ]
+    },
+    {
+      "species_id": 38,
+      "art_id": "greenhorn_slender_salamander",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "0fa308066ab11ce9405f0d9db2c121fe7e856eebbc193358cca51b77b7907b55",
+        "37bd224789a2b8cf46b3b6baa37c6bc2c9cfe7488f54fe1aa03071a174bc2396"
+      ]
+    },
+    {
+      "species_id": 39,
+      "art_id": "california_slender_salamander",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "8ea95d0ed022c2df5a6dcbeb7913a1bf1d5f258ee769a6fec8b7eb5fbd198614",
+        "12f08cbb23d65ea62126c22ede035e3bb121acff00b2b7bf928d7beffff0ba6a"
+      ]
+    },
+    {
+      "species_id": 40,
+      "art_id": "fairview_slender_salamander",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "99746c8ee5fd89e8ce46328e8832efeb894c2477405855bfc0b04684f5d09343",
+        "a303ca2fa6c7ac306c567f94d36def74b5aca0949039a4a6271d581e8abf2c86"
+      ]
+    },
+    {
+      "species_id": 41,
+      "art_id": "inyo_mtns_salamander",
+      "far_frame_change_pixels": 8,
+      "far_frame_sha256": [
+        "2acb45a3a93770725bd4ca4eb3aee942cec55dc631fa7541e98457b3bc7073e7",
+        "ecc584f5ecfaad82cfe0fc2ba56b9d43ed5bc8561c73d96da118272a3f743db7"
+      ]
+    },
+    {
+      "species_id": 42,
+      "art_id": "hell_hollow_slender_salamander",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "51bdd0d23e9a42c856b57ad5291ff054d4a2a2c6acc207c3b051a20f10a4bae8",
+        "56ba2216798266335ff6bcf06901f184f7f683812daa0e326a86a3c340f755ce"
+      ]
+    },
+    {
+      "species_id": 43,
+      "art_id": "san_gabriel_salamander",
+      "far_frame_change_pixels": 8,
+      "far_frame_sha256": [
+        "269f29097d36c36e9fc4fdae051bee4beea759e077872a9b9cee7964d8b45cb2",
+        "bd7d0937e74b5f11bb79f355a75ec164a2739cf1bf98274b0a6bcb7a19e4a6ae"
+      ]
+    },
+    {
+      "species_id": 44,
+      "art_id": "gabilan_slender_salamander",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "dd5b99502c0f71dcdace835e5cf535933ca00eff12d412aa310c2999dfe742ed",
+        "a0a448d0a86a2886a8bddb90432319935641658ec694f3c0cd41e84e536303c8"
+      ]
+    },
+    {
+      "species_id": 45,
+      "art_id": "gregarious_slender_salamander",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "445e9b323135cb947b28e16c21223608585e97dc89445423a4c0bbc2039025b9",
+        "245405334b80493929fe498da5b1ffd772fa3c68a1811287cd4c2df3aae9fbe6"
+      ]
+    },
+    {
+      "species_id": 46,
+      "art_id": "san_simeon_slender_salamander",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "5b0b644c3367d9e868335936d6a01fdb1ace73698999fceaf05690ce7d8e3fc3",
+        "934cb2421d3a064aa029bb4691ca0eb95ed568159f9a28a8182289138481380b"
+      ]
+    },
+    {
+      "species_id": 47,
+      "art_id": "sequoia_slender_salamander",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "f953e4312d75dc03fd4cccba0d88a21f6eae025ede103d1d1c79158e8fb4bdaf",
+        "6ef4b75308dee70d8415b253dfae249ca22c0fbaec2d598eca889c7d423ed086"
+      ]
+    },
+    {
+      "species_id": 48,
+      "art_id": "santa_lucia_slender_salamander",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "ccb419695eab47c70e64245be6fb316d69490e3b29b01618ded782827640f30f",
+        "e1568f5291707f6360c4ffb70775433f63f2c1693dc3f1413283cc0bf64078e5"
+      ]
+    },
+    {
+      "species_id": 49,
+      "art_id": "southern_slender_salamander",
+      "far_frame_change_pixels": 13,
+      "far_frame_sha256": [
+        "da1f99645247279cbc5ffabf27cb0ea421ebe041b79dcd074ceb4ef46783caa2",
+        "522aa851c93261d3c16af78065992bf9a732c6fe48739b73e1518a51fc94252e"
+      ]
+    },
+    {
+      "species_id": 50,
+      "art_id": "lesser_slender_salamander",
+      "far_frame_change_pixels": 13,
+      "far_frame_sha256": [
+        "c11f6a909000906f5d65d70f3b2b6daed75ef030f539ba9e1fdfff26c83cc49e",
+        "51decb2842006f19f2bcff39d7b9860919863744f7f4907bdb4422895ec48bee"
+      ]
+    },
+    {
+      "species_id": 51,
+      "art_id": "black_bellied_slender_salamander",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "b0cb2f506d5bbf3c6f58cf8a2ed0d322ddab2336dba68c2529aa5e4685fe56c8",
+        "d0246912dceace2774370d1747f68d616556f2b67a59177f933bab6ef83bab71"
+      ]
+    },
+    {
+      "species_id": 52,
+      "art_id": "channel_islands_slender_salamander",
+      "far_frame_change_pixels": 13,
+      "far_frame_sha256": [
+        "cfb16051b36db62f09ef98be0332a17891039fcbff3d685270754298b752cfd2",
+        "34667a996062b27cf24e63ba9b162e5cd3f60cc8730d0a36b995a66ccf7d2324"
+      ]
+    },
+    {
+      "species_id": 53,
+      "art_id": "kings_river_slender_salamander",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "2ae78a63905a7bdd984342e00cadbca94d62fe802123b0d2186cd84d60a97c43",
+        "25a436de28ba26f1ebc973ec021ee4f930a3cd9cf64d20880d89e0bbd65106f0"
+      ]
+    },
+    {
+      "species_id": 54,
+      "art_id": "relictual_slender_salamander",
+      "far_frame_change_pixels": 13,
+      "far_frame_sha256": [
+        "c7a79de9324d518c035603446af1c9641ce3076888fc51cb80b9a020b0b05421",
+        "0cb6fc7251294cc01af6d19b175e323dc6105b2234cffba06f212e6b3fa17ab0"
+      ]
+    },
+    {
+      "species_id": 55,
+      "art_id": "kern_plateau_slender_salamander",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "0284aa74d35910b8bca83e241533539219608f53e5c8624167e72353fe17a244",
+        "09f79b40eca524bafd2abd30e4ccdd4659f5550772ab1afe484ade0659ea2b92"
+      ]
+    },
+    {
+      "species_id": 56,
+      "art_id": "kern_canyon_slender_salamander",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "e688a613ec2d6dd00b54f79a357df712fb6c8ceb8d9842b52c69b414d2c8fb47",
+        "fc5c2d8b0536b1134425b1eb32c238bfb5136e0894dab36ff9402f230d52f5e9"
+      ]
+    },
+    {
+      "species_id": 57,
+      "art_id": "tehachapi_slender_salamander",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "12a8dd9369c608eaff00ab81a83c6170db47abce6506c1e9049fe7fd222780c2",
+        "e3940739091499cbfd44ae67d7f223380a34e2d31b4598bed0288a65a998c1e2"
+      ]
+    },
+    {
+      "species_id": 58,
+      "art_id": "r_058",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "6fad58e0e834020aa168b4e0fb4224ba50f4653551fd8a9bd0a244c1f45fef03",
+        "237f0764d8c82b02031ec42b8d0e4ffb2e5e456ebda015ebe39178e26ed774c8"
+      ]
+    },
+    {
+      "species_id": 59,
+      "art_id": "northern_rubber_boa",
+      "far_frame_change_pixels": 31,
+      "far_frame_sha256": [
+        "3af246a0eae61d3169b88881aba6523271d2c3729457a0c3f29c2c7dcdb472fd",
+        "bd34ef9988b24d7da48b4d1ada5e684bb73287d714a88f2eddea1c590a8f7e4f"
+      ]
+    },
+    {
+      "species_id": 60,
+      "art_id": "r_060",
+      "far_frame_change_pixels": 62,
+      "far_frame_sha256": [
+        "4c19bb48722c2e53c85e37023b14031b945dda7104792fcc2f81cbad7ac96215",
+        "e16e97a8db0f8d1f4a4f89014c66dce16228ebc17b5b0fda2764d0afaecc00b1"
+      ]
+    },
+    {
+      "species_id": 61,
+      "art_id": "r_061",
+      "far_frame_change_pixels": 70,
+      "far_frame_sha256": [
+        "cca77a682207a476292cf84f3952c29398c7733adbff27c27d056948cb7ab0a8",
+        "2a54f20d1fa4ef227ebb903d8897e5c733f54c741196347d31e4eb5e2e29a440"
+      ]
+    },
+    {
+      "species_id": 62,
+      "art_id": "r_062",
+      "far_frame_change_pixels": 26,
+      "far_frame_sha256": [
+        "5f18d092f17bb27352b8bd581470750fc0b435a7fd0451a77085fb5da68ee7b3",
+        "ed2eee1851a970fa841dcf0469e84eef1737c08c732663f70027daeacff994ce"
+      ]
+    },
+    {
+      "species_id": 63,
+      "art_id": "r_063",
+      "far_frame_change_pixels": 22,
+      "far_frame_sha256": [
+        "1d4cf4343332e2d34ba9f46b25a6a49a7b992fff211a1d109bcdce4255bf6d34",
+        "f31affd7e5dea06abdd688ef42850ba6541a3af654679fef0f1d83e8119cd23e"
+      ]
+    },
+    {
+      "species_id": 64,
+      "art_id": "common_sharp_tail",
+      "far_frame_change_pixels": 35,
+      "far_frame_sha256": [
+        "b74d479adde9ce63fa83fe9a5dbcb77a94be53d5e48184082c434c80c0f11bbd",
+        "f6cab6b9ffca808efb6d9e6cc27b6d6ae3198c90e71c03da9df4af1bef806387"
+      ]
+    },
+    {
+      "species_id": 65,
+      "art_id": "western_diamondback",
+      "far_frame_change_pixels": 52,
+      "far_frame_sha256": [
+        "0c3d54111a239105c69304f5f982a504353f73bf6cfa73bff91def091db3c39a",
+        "d6cf166a7925beadac8aab6993b3b7710cdb877685b50db4b096afa4b7d99cae"
+      ]
+    },
+    {
+      "species_id": 66,
+      "art_id": "r_066",
+      "far_frame_change_pixels": 38,
+      "far_frame_sha256": [
+        "6534715c97bab48e473c68c86bceb84a42872d7fb6864591afd094c6c6f4cc32",
+        "f8856dc6f2cb46ee933d6d495d73dc7569613752a92395bd305960d980362ba4"
+      ]
+    },
+    {
+      "species_id": 67,
+      "art_id": "r_067",
+      "far_frame_change_pixels": 45,
+      "far_frame_sha256": [
+        "151e3d5d8d5ed82f0b94697a486fc281358f59432d6d66c633fcbbaf0b239f0f",
+        "dddb70ee67d3d0e43092995124da7ab6866c5dff5e64cae9d4b7b7f02c8af54c"
+      ]
+    },
+    {
+      "species_id": 68,
+      "art_id": "r_068",
+      "far_frame_change_pixels": 32,
+      "far_frame_sha256": [
+        "4544071d8df5229f49748b81c6be7b710ef5cd4ddace0187f20814da66d7786f",
+        "0412f0a65224b4280e85ce659d1d21f40dde187e71c27c77754c8c6070e252cd"
+      ]
+    },
+    {
+      "species_id": 69,
+      "art_id": "r_069",
+      "far_frame_change_pixels": 45,
+      "far_frame_sha256": [
+        "b4aa3ac9f0824659080f36bfbc85a1b4bc5a138678ac245d54c0629428054efc",
+        "40b77b965f80fbf6903ab4b309b6dcbcfd58f6f7162f4b5a857e0264bca2727f"
+      ]
+    },
+    {
+      "species_id": 70,
+      "art_id": "r_070",
+      "far_frame_change_pixels": 42,
+      "far_frame_sha256": [
+        "42c4a52e7f9b0de4fcc1074cd2a9e591bdcf2092dff7004f003edfa2c73d95ca",
+        "9a242c95c972af1041d80df9d070443f07b74ff855e0358752917409427dbfe3"
+      ]
+    },
+    {
+      "species_id": 71,
+      "art_id": "r_071",
+      "far_frame_change_pixels": 89,
+      "far_frame_sha256": [
+        "995c159e4cf15671e3ec267706a570dd274c18d3a2bb288a828d2a6a4f0a5b62",
+        "73253c8d9a85cc2641a364595cf9267e498068b20857ddadf73b20de29ec0a53"
+      ]
+    },
+    {
+      "species_id": 72,
+      "art_id": "baja_collared_lizard",
+      "far_frame_change_pixels": 85,
+      "far_frame_sha256": [
+        "df43b7c89de4d79b8d7d5a46336a88a767db967183eab5b54360826813572e00",
+        "13bfc2329d08465e605df85452f14dc71bbf39d0fdc7f4e787ebe80e4d37cef1"
+      ]
+    },
+    {
+      "species_id": 73,
+      "art_id": "r_073",
+      "far_frame_change_pixels": 68,
+      "far_frame_sha256": [
+        "49a9d2b9b692f461c1a357eb9319a597d3b3022cc0b9d330b04804759f96c76f",
+        "50faf6d63fb033cc886cf0ac072ea6863d3453b494ad35c4a617ceeec9f7e208"
+      ]
+    },
+    {
+      "species_id": 74,
+      "art_id": "r_074",
+      "far_frame_change_pixels": 24,
+      "far_frame_sha256": [
+        "c84310ad1772145ef2bbf9470db5de5af634db5bb2c59f4df2a59f35dacb9d01",
+        "1098240b97e21b8264f68b21ebdaddcc369c6b9e52ffc8a8934697ef345eff12"
+      ]
+    },
+    {
+      "species_id": 75,
+      "art_id": "california_giant_salamander",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "0aded57985bdc5f7fe4886f24e5b19c16176e2b99a7c2d15e5ac0c22c2786b77",
+        "3d39e428294996159ac883c4169ff81c6a624be7139ea0566827af0b892ee9f3"
+      ]
+    },
+    {
+      "species_id": 76,
+      "art_id": "coastal_giant_salamander",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "9efeb2d0f459fbf56785da1e2e1756a1034622d0de0b6e806c1b6bd329908ebe",
+        "afc20d9469ebbc4cabb2a075e12d0832da0f57f0d66eeef9ca75f702517783a2"
+      ]
+    },
+    {
+      "species_id": 77,
+      "art_id": "r_077",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "67df7a9d4e6131760cd47e68dc1abb95f5bccf93ec19938ad4f449cd42130fc3",
+        "1309ce2892e0377e779081f91a1716c93316bab4bc02fd939a3ccafed6d7b00f"
+      ]
+    },
+    {
+      "species_id": 78,
+      "art_id": "panamint_alligator",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "722193c309502480685395151f76b62d40cb6a3cf2fc975195f0952cd04052bb",
+        "bb51ceacefc1138f1c7e96957ccbf3d4824fd851db0d1393c7e9e503fecb30d0"
+      ]
+    },
+    {
+      "species_id": 79,
+      "art_id": "ensatina",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "0783742f851aa4072c11b537563a6de3d582d190b6ca640b872de9fab653a905",
+        "894454ba5a1d677f432497732176f0daba0aa8e1d5d6a83d30deeb8102e265f5"
+      ]
+    },
+    {
+      "species_id": 80,
+      "art_id": "r_080",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "03176007a29d34b55368844acc1d8ecb8b75cafcf91e324d1643ccbc62a02f65",
+        "1162e5c493448eff576fc9fd8ed47b506af146b9535b86fc1aa484c27b6ec3a9"
+      ]
+    },
+    {
+      "species_id": 81,
+      "art_id": "blunt_nosed_leopard",
+      "far_frame_change_pixels": 101,
+      "far_frame_sha256": [
+        "d1aeaf052227e5051105d29ec463db774b456cb47b930359d511457963f83ab3",
+        "62e66feb76cfb6fe5f94803a6a38179ce9fd6b8963a3c4f7665d6d77188445c1"
+      ]
+    },
+    {
+      "species_id": 82,
+      "art_id": "r_082",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "f2d2b6b3a747dc0c02b7ef749fff600068cfef76226343716efdaa8bc788647e",
+        "ef18d49fc757fd72f21da5a98a501e90cd9f5acc91efe77df5d4bf4258cd7602"
+      ]
+    },
+    {
+      "species_id": 83,
+      "art_id": "r_083",
+      "far_frame_change_pixels": 8,
+      "far_frame_sha256": [
+        "a5037bc4a8b16d69bd941eddbd234b3ae6b5cae2f408a3906fdfdfcff5653855",
+        "0fd00ffaddb120862a1b1069afd5866fb665e5bd14240ba1525f5f627c69e963"
+      ]
+    },
+    {
+      "species_id": 84,
+      "art_id": "limestone_salamander",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "90a40fc1a0bfc03a7a5fdb803508b5897b941157a6392628e1bb98b0dc1db27c",
+        "c6565227213d7794d569453115aa58c2571ebc48f2c2bc23d2b678f0f57c7726"
+      ]
+    },
+    {
+      "species_id": 85,
+      "art_id": "mount_lyell_salamander",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "f3d7fa07a08e46cac98db3e383c397766683136cd0b1d5c4224387891d34255f",
+        "a9f21d1f5e69b136d7ad51597ce66d087ee10a242d79949f87e4953fdf6e0301"
+      ]
+    },
+    {
+      "species_id": 86,
+      "art_id": "samwel_shasta_salamander",
+      "far_frame_change_pixels": 17,
+      "far_frame_sha256": [
+        "ed1b3bd4dc0af239234b6dcc680d4987ed48fa695e5e91edda1eafad56f09592",
+        "e4ace2e1e43212f45c94f0920be72551bb9da74aa7c3daa3bc49abad0594bc6e"
+      ]
+    },
+    {
+      "species_id": 87,
+      "art_id": "shasta_salamander",
+      "far_frame_change_pixels": 25,
+      "far_frame_sha256": [
+        "3283e81ace6f2b29a0bb73d1bb2b6f60306956c759f174f365c3f765f86c8a50",
+        "dc8ac2c46247eafa3a7a5ac9597727626e7a8c12ffdb2fed4f4da0e1ff5fc86c"
+      ]
+    },
+    {
+      "species_id": 88,
+      "art_id": "wintu_shasta_salamander",
+      "far_frame_change_pixels": 13,
+      "far_frame_sha256": [
+        "afbe0e669cf4e46848983fb1ba032a68bc96ff5d93586a04ae11aa61d249a9ff",
+        "b53d46c253a8511057fda9181215e8e7289e0682789f29d18b12c7144fa8048c"
+      ]
+    },
+    {
+      "species_id": 89,
+      "art_id": "r_089",
+      "far_frame_change_pixels": 29,
+      "far_frame_sha256": [
+        "ae84a896cef8ef820a0f0816c83205f6662c36ce9edf5ca98670313da6c89344",
+        "d931dab9cd01d9aa1d44180ac446d261ba6c33c7421f329df35c48a385442de6"
+      ]
+    },
+    {
+      "species_id": 90,
+      "art_id": "r_090",
+      "far_frame_change_pixels": 27,
+      "far_frame_sha256": [
+        "dee064fb172492396c4086dc0f8e16c36b3799caa2651fdab65148bf2f233334",
+        "690164472df0fcad84b0e023899a735cbdf92a0677260e8a9a7a1d2ae8d5acd7"
+      ]
+    },
+    {
+      "species_id": 91,
+      "art_id": "r_091",
+      "far_frame_change_pixels": 32,
+      "far_frame_sha256": [
+        "53b3c3c4164f73526fd5ba1e9a73f7fda1eab6d1a95e572be37ee8dd8925af70",
+        "5857d6afd69c5a65a33c1e112bb2b3633411918ac4616364d672965cc116c908"
+      ]
+    },
+    {
+      "species_id": 92,
+      "art_id": "r_092",
+      "far_frame_change_pixels": 29,
+      "far_frame_sha256": [
+        "7b2a03c0e5df2a4bd1529fb5e3526bbccae8d0e2751477b2f286830d9a7e40ad",
+        "c3852cf3eb12d98c83ee740df5aef3f4aaf0a255273f63ebd499fe1865a6a9a9"
+      ]
+    },
+    {
+      "species_id": 93,
+      "art_id": "r_093",
+      "far_frame_change_pixels": 22,
+      "far_frame_sha256": [
+        "d145df65d9548acfee90f5ede4c7783fb50c31c4eaba9657e95b3db2e550144c",
+        "367899c5e24b910c8f4f61e18009c9dd8943de9cb405b836eb813b239b38eeda"
+      ]
+    },
+    {
+      "species_id": 94,
+      "art_id": "striped_whipsnake",
+      "far_frame_change_pixels": 31,
+      "far_frame_sha256": [
+        "2d0cecfc1ebcf339666379014ed814f47375464e59564672793e96e331ece5a9",
+        "ed3f53e6b9a854759f3696f52174d8cde87fe77c3451f026fc303dc650b57697"
+      ]
+    },
+    {
+      "species_id": 95,
+      "art_id": "r_095",
+      "far_frame_change_pixels": 90,
+      "far_frame_sha256": [
+        "73402b0e14aa554698a7fed132799fe222d4cfabeeb540994a6a702ffd4388f8",
+        "ffdbccaaed93c2b65a06004d8126a41723d9e61fd5fa9e3a41a76026beba0dc4"
+      ]
+    },
+    {
+      "species_id": 96,
+      "art_id": "r_096",
+      "far_frame_change_pixels": 46,
+      "far_frame_sha256": [
+        "cc138cd9dd743d037642c00cfc90c43293dc5a804806330de86dd7eaccb3f99f",
+        "a5c91cc78859ea255c7463c8db136758eaac287cd6bd08e0c055596f144ea0d1"
+      ]
+    },
+    {
+      "species_id": 97,
+      "art_id": "pygmy_horned_lizard",
+      "far_frame_change_pixels": 42,
+      "far_frame_sha256": [
+        "e6207d0f4b141d0228a52a2691184eea5390d86e8d799092351f93d8fd9d9fb4",
+        "262b23283d49f6dc2e8ab318e1299c3c064d2a0c9f44ba1155e0800bb8baa341"
+      ]
+    },
+    {
+      "species_id": 98,
+      "art_id": "r_098",
+      "far_frame_change_pixels": 40,
+      "far_frame_sha256": [
+        "33b1b271498fe64a3595843924fc6ec40c9a35dd4220d0c3ec5392d633b762da",
+        "0cde35f291573663bd2ce06eb957abce09c7a949726e4d25fa3eea31a65b2ae2"
+      ]
+    },
+    {
+      "species_id": 99,
+      "art_id": "peninsula_leaf_toed",
+      "far_frame_change_pixels": 47,
+      "far_frame_sha256": [
+        "976f89c1de138878085d48c3c00f958207bbe8b89176ac2273daee8ef6f02a3b",
+        "e5b446f2f25b32f50f00d0d9472d27090705eec73a0d5196aafd1ed9ffb61f48"
+      ]
+    },
+    {
+      "species_id": 100,
+      "art_id": "r_100",
+      "far_frame_change_pixels": 35,
+      "far_frame_sha256": [
+        "4a9333297365430c43ab227acb9bc5223d8f90b3a99cd16c2808e65f3fc93b67",
+        "f2f85d8f17eef3507c683e8f44aa4ad6c0cd8b9f07980b0c200b32e0fa491015"
+      ]
+    },
+    {
+      "species_id": 101,
+      "art_id": "r_101",
+      "far_frame_change_pixels": 21,
+      "far_frame_sha256": [
+        "05115842d214bf208ad4e13b396dc61ae5a51800720584ad088647776e452fc1",
+        "760f5893ea433c0ed663bbf10a4b0c780d2a55507e422f01b332a67c946b6744"
+      ]
+    },
+    {
+      "species_id": 102,
+      "art_id": "r_102",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "4e58a015b4c99721318dfc29cb88d43f7a0a760cc04f1e6091a01402bd56a661",
+        "809693d6d97595f0d1450d8c857cf707c512c27e1027f47dd9a676806541a6e8"
+      ]
+    },
+    {
+      "species_id": 103,
+      "art_id": "western_skink",
+      "far_frame_change_pixels": 8,
+      "far_frame_sha256": [
+        "c397a5ed8e85568e0f7d05bd310aa4793671bdff8d119a5ebf8de15f2d55fa44",
+        "0c4a67fdf73e96ad9ad01726a539b82644edd90982c42b68e6c706e911fb0597"
+      ]
+    },
+    {
+      "species_id": 104,
+      "art_id": "scott_bar_salamander",
+      "far_frame_change_pixels": 16,
+      "far_frame_sha256": [
+        "bf83541760b1826067220bd37c43938ad469bd76d5ff46b6a1282dd383f69b90",
+        "a0e64ecf932461c65fcc9b960ff963d4f6fab18da938d223705bd1f6a80d3f10"
+      ]
+    },
+    {
+      "species_id": 105,
+      "art_id": "dunns_salamander",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "4fc5bea306723b9eb634be54fd86f8f01d1cf7c1f9de9ed9e4dccafc4e5732cd",
+        "5810a1e87a3ab325df29abf8cdc67a752a05f8ab562f2f8768e6434702623a09"
+      ]
+    },
+    {
+      "species_id": 106,
+      "art_id": "del_norte_salamander",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "83a0e0f14c484799265dd1a105d6dcdc89805b7a715a9a00226934c90399a4cc",
+        "e2051b708f54de3650857a89974809fc386aefee4c0d7d240d596f5433079d8f"
+      ]
+    },
+    {
+      "species_id": 107,
+      "art_id": "siskiyou_mountains_salamander",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "d68c589df216c58111cfbd9e5b3ee85d75c25f98ce0e51777839b72fa724dfae",
+        "11b263f4603a3a8a08b72a997449de9524190421f2733b614081f3004bc183e0"
+      ]
+    },
+    {
+      "species_id": 108,
+      "art_id": "california_treefrog",
+      "far_frame_change_pixels": 23,
+      "far_frame_sha256": [
+        "34429068fec21e8d910a88e03d19a5f1745d09fed7f8707491d132768751dcec",
+        "70f173eb051aa557ac9b2820872a3f1b3e276eeb8e17e159755fcdbfd529fd13"
+      ]
+    },
+    {
+      "species_id": 109,
+      "art_id": "northern_red_legged",
+      "far_frame_change_pixels": 15,
+      "far_frame_sha256": [
+        "56131ad4a93381f85efb998a60adfdcaa9bd37fe591f0968717133756d3515ff",
+        "c8a87efc4b32edf40b917a2f783bbb02472dcc8dfa55d8e6df6fff4e02e78907"
+      ]
+    },
+    {
+      "species_id": 110,
+      "art_id": "foothill_yellow_legged",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "5416236201bf690b859a61f9fd34972a8ee79c9c5b3ef011d495c75dc58a762e",
+        "cc506f0272ed01f4d43c25bfbd0ddefca78f1bf32c94c5209de58a9f883e8b4f"
+      ]
+    },
+    {
+      "species_id": 111,
+      "art_id": "cascades_frog",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "f8e8fd6bc1b01c25596509f405dadfdd72b4131f52ffddb1a26834e603698cd9",
+        "d1d7ff65d37825b3acb66d07a0e9b14630c9a2803aeed357f62166c0fb68ad61"
+      ]
+    },
+    {
+      "species_id": 112,
+      "art_id": "california_red_legged",
+      "far_frame_change_pixels": 15,
+      "far_frame_sha256": [
+        "96097e200a6842f6d37f8cfb070e4042e885ec3a75da1c57b64f945ac9c0f24c",
+        "959119a20b59bb210bd9e42b752179d734f005389cce205bcddcbccb6292e04e"
+      ]
+    },
+    {
+      "species_id": 113,
+      "art_id": "southern_yellow_legged",
+      "far_frame_change_pixels": 16,
+      "far_frame_sha256": [
+        "fd1563e556ecb355840031417d8d424211894b71707bdf5f8a30783fc229fda8",
+        "d0782ddab48ca942ee03394ad8a3c48966f140765cca4004c887771cde817d76"
+      ]
+    },
+    {
+      "species_id": 114,
+      "art_id": "r_114",
+      "far_frame_change_pixels": 17,
+      "far_frame_sha256": [
+        "2f58fcef159d10ef4e2cf7acde0de352d206af6a98d01c35600d22a76542f672",
+        "a779e9b834b6a688fdef61e5252c3b41ce65da5a3ad57a576a1ea9cc30440e16"
+      ]
+    },
+    {
+      "species_id": 115,
+      "art_id": "r_115",
+      "far_frame_change_pixels": 31,
+      "far_frame_sha256": [
+        "3992b8b817b7b257bcf8ad0273d337ef38742783a608b3f163a9ca3779bbfc45",
+        "74b4e95676d4fe13c578039a6a5cc55a974d4da28b238ee4fbb9119a2831d150"
+      ]
+    },
+    {
+      "species_id": 116,
+      "art_id": "southern_torrent_salamander",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "d077b5cb378850253f762dce1bde4bf890a72645d6e8d0f8eef5c13c93a37dbc",
+        "85cea3371350ef059f1c3f0752d2b57ce8e4422f0056f230de9ad0b09e61f66f"
+      ]
+    },
+    {
+      "species_id": 117,
+      "art_id": "r_117",
+      "far_frame_change_pixels": 27,
+      "far_frame_sha256": [
+        "55de710475f8e631ecfdcb5d38ebbedde58c4a71f6553772e761178e42cb506b",
+        "5935efb62456b0a1cd92395f014f6ec8b41c4f69faf7119fe8841f1a1040d55a"
+      ]
+    },
+    {
+      "species_id": 118,
+      "art_id": "couch_spadefoot",
+      "far_frame_change_pixels": 16,
+      "far_frame_sha256": [
+        "b260239ab0ddcbe86dae8ba012476bfb3e64e9b00c54e086a3fb51b2061f4f50",
+        "2741e7779a86138fa5d90a5768a142fb9fe07991f906899db13ea33b6dda2ca0"
+      ]
+    },
+    {
+      "species_id": 119,
+      "art_id": "r_119",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "03e3109f411764c5fa28d869392ef28a2dd6fca77d3011b8ca97d95e0838c28b",
+        "7f2df41236094b1bd6c0303afae537b4f0db345cd5be11d88f901191c932360f"
+      ]
+    },
+    {
+      "species_id": 120,
+      "art_id": "r_120",
+      "far_frame_change_pixels": 107,
+      "far_frame_sha256": [
+        "cb0983cfd371b694f5ed25324fa517beb060b4f39d03630fb6ddd93356d3e19f",
+        "481760a046b9c7d7ee47b7659a48e728e6a3ee82cd98603310c2ed606e7f08dd"
+      ]
+    },
+    {
+      "species_id": 121,
+      "art_id": "r_121",
+      "far_frame_change_pixels": 107,
+      "far_frame_sha256": [
+        "4d5779b9ced0ea90bf9338e59296920f2a31e1315545f8c3a851a394e28c5ab0",
+        "e107b3595269db525c067ef2e7469852ac09977799aed6067cd4dab4239370f4"
+      ]
+    },
+    {
+      "species_id": 122,
+      "art_id": "r_122",
+      "far_frame_change_pixels": 29,
+      "far_frame_sha256": [
+        "191fb2838543e838762986dab2d5c1c9868fd2f2f2619a2d7c2e613bf44a3375",
+        "101bddf647ffcdf8c09841af2e868a845601aa72ee39f22ae21663a55bdaf7da"
+      ]
+    },
+    {
+      "species_id": 123,
+      "art_id": "r_123",
+      "far_frame_change_pixels": 23,
+      "far_frame_sha256": [
+        "dd3de0bbd5e8243cb79957c7eccea1efc44f277b7b3c87a756a200ed966a9972",
+        "8c5b9cacc48d79735fef3bafe704bdb877e90d4b16e50835ea2f50b1227a09cf"
+      ]
+    },
+    {
+      "species_id": 124,
+      "art_id": "western_spadefoot",
+      "far_frame_change_pixels": 11,
+      "far_frame_sha256": [
+        "764a4578fd25390edabe81105a0d3744abe20de7d51453c247f6c22cf6f60d9a",
+        "8a4aba1eab55f0c943ac53110a50a9f4d596ce1154c0c8e4b614816329b7397f"
+      ]
+    },
+    {
+      "species_id": 125,
+      "art_id": "great_basin_spadefoot",
+      "far_frame_change_pixels": 22,
+      "far_frame_sha256": [
+        "014ada37fb5e6114f461757f862ea39c91801c581569a7424ba4c3bd61920a32",
+        "d92a4fb728d4da8a6e1616c2c0570e8212cc1a53a07a51dfdb41e29e43d8b55e"
+      ]
+    },
+    {
+      "species_id": 126,
+      "art_id": "r_126",
+      "far_frame_change_pixels": 15,
+      "far_frame_sha256": [
+        "cb0bb0e3c5da83cc1e004712e5f21b503acf79364cca516621a418087e33ee45",
+        "7a2b9c3942e9c193f240d165aad7da0a7c69d213a56cea48142130e36dc817be"
+      ]
+    },
+    {
+      "species_id": 127,
+      "art_id": "r_127",
+      "far_frame_change_pixels": 13,
+      "far_frame_sha256": [
+        "e0acbec9f65a526b8972a8c899232d9482f655d7dffb5958b73d2c0172999e0a",
+        "e1b15028c1c4acac633640445477316cfb096c4e3b0260d61e1168bc3cb8b443"
+      ]
+    },
+    {
+      "species_id": 128,
+      "art_id": "rough_skinned_newt",
+      "far_frame_change_pixels": 14,
+      "far_frame_sha256": [
+        "d85c564561a1c2e0432083039b49adcf200508eaba07fa171cdfa5ea725443cd",
+        "d9b2fa9da8e06563fc08673af764cf27caa0601ac48610bdd19e55dd3a246c86"
+      ]
+    },
+    {
+      "species_id": 129,
+      "art_id": "red_bellied_newt",
+      "far_frame_change_pixels": 13,
+      "far_frame_sha256": [
+        "0ed71704495c8beb1d9faf39880bb46011651ca61e6663b26057aaf5e39bb9c5",
+        "2a3191dbabe3fbc5c8aa2250c2fea0a5c5ae9353cc0f1b75f8b660a78fc1ce4b"
+      ]
+    },
+    {
+      "species_id": 130,
+      "art_id": "sierra_newt",
+      "far_frame_change_pixels": 12,
+      "far_frame_sha256": [
+        "f3813bb410e6d6ebbf1349af62504920f51a67bdb146e787d80f83da8151f17d",
+        "1773a64e062a9499bf1a27dc48b950f8d16ed533c8305e72491a85a7a92af5db"
+      ]
+    },
+    {
+      "species_id": 131,
+      "art_id": "r_131",
+      "far_frame_change_pixels": 37,
+      "far_frame_sha256": [
+        "c79b9ee0e28ad1ba5d812adf71b8b184030b59154246ddd7c775cc8d160af6b7",
+        "bf48aefbff0b6dea3473ba4418143d43822213cc57e61a1c61a947859befa006"
+      ]
+    },
+    {
+      "species_id": 132,
+      "art_id": "r_132",
+      "far_frame_change_pixels": 29,
+      "far_frame_sha256": [
+        "b5153c5719e78e42b953c716688d3503dd6cdae6a72fa1a2eedaadc16baa1be0",
+        "8f9ae54cb53e99234d082e54657f9f49749cc5f0932b7291a071df24d8de81c9"
+      ]
+    },
+    {
+      "species_id": 133,
+      "art_id": "r_133",
+      "far_frame_change_pixels": 25,
+      "far_frame_sha256": [
+        "774e6d45729428831a38c6b431f7cfa58a8d2a9e66d97c85f0e8c5b3a82862e7",
+        "f69acdd6241d3fc5421d058e275bcc0f1f955d79a06ede721d6a586a3ae1597c"
+      ]
+    },
+    {
+      "species_id": 134,
+      "art_id": "r_134",
+      "far_frame_change_pixels": 35,
+      "far_frame_sha256": [
+        "df2e2d51e505bbc4b3a86d229af93a5aa0cc69c6e1e2a4b575919165b6b0d341",
+        "86770c7772c1a51e91ad0a7e6f6a8d2bc414dd27f0ea9863798d4927ceec5262"
+      ]
+    },
+    {
+      "species_id": 135,
+      "art_id": "r_135",
+      "far_frame_change_pixels": 25,
+      "far_frame_sha256": [
+        "dcf63b5fb7d1584041dc146a9fcf1f82c1d1f893debc1fa74a9854ef31c03087",
+        "cc3073bd6a428839fa4424710eaf850af905e47efceda6c2e01ff9ad1b74a198"
+      ]
+    },
+    {
+      "species_id": 136,
+      "art_id": "r_136",
+      "far_frame_change_pixels": 31,
+      "far_frame_sha256": [
+        "fd30f8fda2278396f158814c43b9dad7ccd2141157206a909ae8ead15eb27728",
+        "a4f3262ef46b630f783981d2263c76d3343bcf36d6428b6528aeec40ed7c8726"
+      ]
+    },
+    {
+      "species_id": 137,
+      "art_id": "r_137",
+      "far_frame_change_pixels": 37,
+      "far_frame_sha256": [
+        "f86c37d12bf77c48db1fc91f701346e603acde34d803446f26fa11083e83dd26",
+        "54b82e285b043d0c298d1f0461c03b284ad3e2fd7299fed0bfd164f57f5dce6c"
+      ]
+    },
+    {
+      "species_id": 138,
+      "art_id": "r_138",
+      "far_frame_change_pixels": 29,
+      "far_frame_sha256": [
+        "efe5f2f21372d59585a8beec6d862fe49f3dc919685a9aa83e5b1b57047625da",
+        "68b12cb54bb741c5027f04938d003be26c9941b67af161f84efb7746652abed9"
+      ]
+    },
+    {
+      "species_id": 139,
+      "art_id": "r_139",
+      "far_frame_change_pixels": 22,
+      "far_frame_sha256": [
+        "da9a9e65c686e55b54c41edc1808303e98f04f039484c5269f607758b0546930",
+        "311466215d0a49a008b854b7453b63d7a20d976499f532de8a3fbb60f0827f00"
+      ]
+    },
+    {
+      "species_id": 140,
+      "art_id": "r_140",
+      "far_frame_change_pixels": 57,
+      "far_frame_sha256": [
+        "c333bdc75f08f4e75cb47960e3a3b771fae231977ef6236fc98cf2f603d7904d",
+        "764638afcfd488fc5908556e720343477a9a63ab33987c25e814d911af4a3772"
+      ]
+    },
+    {
+      "species_id": 141,
+      "art_id": "r_141",
+      "far_frame_change_pixels": 57,
+      "far_frame_sha256": [
+        "8e6a85f0aeb76a82f461e5d992dd796db8e5d0a94acf925405762bfa49d20ec5",
+        "0cc7c43c586e319b109d35ccee48ff697600746962792f6383a753545dab12c1"
+      ]
+    },
+    {
+      "species_id": 142,
+      "art_id": "r_142",
+      "far_frame_change_pixels": 57,
+      "far_frame_sha256": [
+        "89e6cb6ba8a0fa81f45150c5947ce1e60cbafb00a572c3a131d0f467c60a74da",
+        "9367d73e016417bb5afee484b6ae44d3d08578ba4239b92b72be7680044427e5"
+      ]
+    },
+    {
+      "species_id": 143,
+      "art_id": "r_143",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "d00bec53d874ffe12c96854d2870e67241c75ff66b222f81508d9d67675654e9",
+        "9201ca16874ce5047b97cf0eb13abede3f563f04edbed4607c8c142945b1131d"
+      ]
+    },
+    {
+      "species_id": 144,
+      "art_id": "r_144",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "2130f4054e1de8c2c8c991eaca64ac43d4bfb2776053ed94e455d4014ed16e5c",
+        "6131cedf9397b39cd5a8cc0c38cd8f444f7dce3a19261007bd6fb744cde765dc"
+      ]
+    },
+    {
+      "species_id": 145,
+      "art_id": "r_145",
+      "far_frame_change_pixels": 7,
+      "far_frame_sha256": [
+        "ef375f3ea2b008aa6270971212a7d197f0959b10c11fa644c9041547e7ef1ed4",
+        "c1e97c1f5834a1e8707c1ae688fdacb3f6bbfa44cdc136ceca649e8a4400b9bd"
+      ]
+    },
+    {
+      "species_id": 146,
+      "art_id": "r_146",
+      "far_frame_change_pixels": 9,
+      "far_frame_sha256": [
+        "e98ae70599267156782a96951c4769c337165ac5f33666d0156d9b5388fe7c86",
+        "09db57bae6e46f1e86bd9620bcf99694694b186f4141d55227fefe5b16539f5d"
+      ]
+    },
+    {
+      "species_id": 147,
+      "art_id": "r_147",
+      "far_frame_change_pixels": 27,
+      "far_frame_sha256": [
+        "c352870a5f6d29632b86fa75a68ea34c55d65bf7cb20dde12f31f7f71775be24",
+        "f7cfe45ba75b769317e836bc6ec4601d67d5e9ee2ed49d564fb69470b090938b"
+      ]
+    },
+    {
+      "species_id": 148,
+      "art_id": "r_148",
+      "far_frame_change_pixels": 27,
+      "far_frame_sha256": [
+        "9f0bb34380d3bbe96d9f992d8ef033cb2a698af0969018d23087b4a21107336a",
+        "e431559622908d340ce55402c0d15c34f87dbc7aebe1c48c862374f7c9fcab0a"
+      ]
+    },
+    {
+      "species_id": 149,
+      "art_id": "r_149",
+      "far_frame_change_pixels": 27,
+      "far_frame_sha256": [
+        "62c20be80f34cee62e08bc9af24c30af9e6ac9a953563543fc27eca36da9b766",
+        "ff4892a32e71faa421475230b9a2a9a677c89951cba19f4be063ff6c6fb8a9ed"
+      ]
+    },
+    {
+      "species_id": 150,
+      "art_id": "arguello_slender_salamander",
+      "far_frame_change_pixels": 10,
+      "far_frame_sha256": [
+        "34e9da47a4dbdfa209843da7217c5aff5517ebc9763bbfe0e08cbe308d69b59b",
+        "7e76163091faa930ca2f8f5e505aaad04adff8f7f60834e6b634439c5a5b81e9"
+      ]
+    }
+  ]
+}

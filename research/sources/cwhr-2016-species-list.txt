@@ -1,0 +1,1668 @@
+    Complete List of Amphibian, Reptile, Bird and Mammal Species
+                            in California
+
+
+                      California Department of Fish and Wildlife
+                                     May, 2016
+
+This list represents all of the native or introduced amphibian, reptile, bird and mammal
+species known in California. Introduced species are marked with “I”, harvest species
+with “HA”, and vagrant species or species with extremely limited distributions with *.
+The term “introduced”, as used here, represents both accidental and intentional
+introductions.
+
+Subspecies are not included on this list. The most current list of species and subspecies
+with special management status is available from the California Natural Diversity
+Database (CNDDB).
+
+Taxonomy and nomenclature used within the list are the same as those used within the
+California Wildlife Habitat Relationships (CWHR) software programs and data sets.
+
+________________________________________________________________________
+
+
+Contributors to the preparation of this list (in alphabetical order):
+Melanie Gogol-Prokurat
+Stacie Hooper
+Darlene McGriff
+Anne Miller
+Monica Parisi
+Kiffanie Stahle
+
+
+Nomenclature
+
+Amphibians and Reptiles: We have adopted nomenclature of the Center for North
+American Herpetology (CNAH) and Society for the Study of Amphibians and Reptiles
+Names Database (SSAR), but see footnote (2) below. Stebbins (2003) and CNAH were
+used as sources for species found in California. CaliforniaHerps.com was used as a
+source for introduced species established in California.
+
+Birds: A list of birds found in California is provided by the California Bird Records
+Committee (CBRC). CBRC has synchronized their organization and nomenclature with
+the work of the American Ornithologists' Union (AOU) Committee on Classification and
+Nomenclature (54th supplement, 2013). Our list differs slightly from CBRC because we
+include species introduced to California that may or may not have stable populations
+(Garrett 1997, Jurek 2002).
+
+                                                                                            1
+Mammals: We used a comprehensive list of mammal species in California prepared for
+the Mammal Species of Special Concern project (California Department of Fish and
+Wildlife) by Dr. Douglas Kelt and Dr. Scott Osborn (2014).
+
+Harvest species (HA): Harvest species are defined as Game Birds (Fish and Game Code
+§ 3500), Game Mammals (Fish and Game Code § 3950), Fur-bearing Mammals
+(California Code of Regulations, Title 14, Subdivision 2, Chapter 5) and Nongame
+Animals (California Code of Regulations, Title 14, Subdivision 2, Chapter 6).
+Amphibians and reptiles noted as Harvest species in this list are those species that can be
+collected with no limit with a fishing license. For a full list of amphibians and reptiles
+that can be collected with a fishing license, and a description of the limitations on their
+collection, see the California Code of Regulations, Title 14, Sections 5.05 (amphibians)
+and 5.60 (reptiles). Links to the regulations referenced above can be found on the
+Department’s website.
+
+
+Notes
+
+The following notes correspond with numbers found to the right of a species name in the
+species list.
+
+   (1) Some populations in California were introduced.
+
+   (2) Despite the agreement between SSAR and CNAH to split this taxon into two
+       separate species, the Department has not yet adopted this taxonomic change.
+
+   (3) Listed in the Fish and Game Code for California and in Title 14 of the California
+       Code of Regulations as jacksnipe or common snipe.
+
+   (4) Listed as Gilded Northern Flicker in Section 670.5 of Title 14 of the California
+       Code of Regulations.
+
+   (5) Cardinals are native to California only marginally in the Colorado River Valley.
+       Other populations are of introduced subspecies.
+
+   (6) Riparian brush rabbit (subspecies riparius) is state and federally-endangered and
+       may not be legally harvested.
+
+   (7) Referenced in Fish and Game Code Section 4152 as Red Fox Squirrel.
+
+   (8) Some populations were introduced into the Sierra Nevada and Southern California
+       from stock taken from Oregon and Washington.
+
+   (9) Red foxes native to California are of the subspecies V. v. necator and V.v. patwin.
+       Populations of subspecies not native to California have been introduced. We do
+
+                                                                                           2
+       not have records of every kind, but we know of at least a few subspecies of
+       eastern red foxes and fur stock released into California. Hybridization is occurring
+       in the wild among subspecies as well.
+
+   (10)       Elk native to California are Roosevelt (C. e. roosevelti) and tule (C. e.
+       nannodes) elk. Rocky Mountain elk (C. e. nelsoni) have been introduced to
+       California.
+
+   (11)       O. c. nelsoni is fully protected except in areas where it is legally hunted.
+
+
+
+
+Recommended Citation:
+     California Department of Fish and Wildlife, May 2016. Complete List of
+     Amphibian, Reptile, Bird and Mammal Species in California. California Wildlife
+     Habitat Relationships Program, Sacramento. 26 pp.
+
+                                                                                             3
+       References
+
+American Ornithologists' Union. 1998. The A.O.U. Checklist of North American Birds.
+Seventh edition. American Ornithologists' Union. Washington D.C. 829 pp.
+
+American Ornithologists' Union. 2000. Forty-second supplement to the American
+Ornithologists’ Union check- list of North American birds. The Auk 117(3):847-858.
+
+American Ornithologists' Union. 2002. Forty-third supplement to the American
+Ornithologists’ Union check- list of North American birds. The Auk 119(3):897-906.
+
+American Ornithologists' Union. 2003a. Forty-fourth supplement to the American
+Ornithologists’ Union check-list of North American birds. The Auk 120(3):923-931.
+
+American Ornithologists' Union. 2003b. Forty-fifth supplement to the American
+Ornithologists’ Union check-list of North American birds. The Auk 121(3):985-995.
+
+American Ornithologists' Union. 2005. Forty-sixth supplement to the American
+Ornithologists’ Union check-list of North American birds. The Auk 122(3):1026-1031.
+
+American Ornithologists’ Union. 2006. Forty-seventh supplement to the American
+Ornithologists’ Union check-list of North American birds. The Auk 123(3):926-936.
+
+American Ornithologists’ Union. 2007. Forty-eighth supplement to the American
+Ornithologists’ Union check-list of North American birds. The Auk 124(3):1109-1115.
+
+American Ornithologists’ Union. 2008. Forty-ninth supplement to the American
+Ornithologists’ Union check-list of North American birds. The Auk 125(3):758-768.
+
+Garrett, K. L. 1997. Population status and distribution of naturalized parrots in Southern
+California. Western Birds 28(4):181-195.
+
+Jones, J. K., Jr., D. C. Carter, H. H. Genoways, R. S. Hoffman, and D. W. Rice. 1982.
+Revised checklist of North American mammals north of Mexico. Occasional Papers,
+Museum Texas Tech. University, No. 80.
+
+Jurek, R. M. 2002. Personal communication. California Department of Fish and Game.
+Sacramento, CA.
+
+Stebbins, R. C. 2003. A Field Guide to Western Reptiles and Amphibians. Third edition.
+Houghton Miffin Co. Boston, MA. 533 pp.
+
+
+
+
+                                                                                             4
+______________________________________________________________________
+______________________________________________________________________
+
+
+AMPHIBIA                        (Amphibians)
+   CAUDATA                      (Salamanders)
+         AMBYSTOMATIDAE                           (Mole Salamanders and Relatives)
+         Long-toed Salamander                     Ambystoma macrodactylum
+         Western Tiger Salamander                 Ambystoma mavortium           I
+         California Tiger Salamander              Ambystoma californiense
+         Northwestern Salamander                  Ambystoma gracile
+         California Giant Salamander              Dicamptodon ensatus
+         Coastal Giant Salamander                 Dicamptodon tenebrosus
+
+         RHYACOTRITONIDAE                         (Torrent Salamanders)
+         Southern Torrent Salamander              Rhyacotriton variegatus
+
+         SALAMANDRIDAE                            (Newts)
+         California Newt                          Taricha torosa
+         Red-bellied Newt                         Taricha rivularis
+         Rough-skinned Newt                       Taricha granulosa
+         Sierra Newt                              Taricha sierrae
+
+         PLETHODONTIDAE                           (Lungless Salamanders)
+         Mount Lyell Salamander                   Hydromantes platycephalus
+         Black-bellied Slender Salamander         Batrachoseps nigriventris
+         Channel Islands Slender Salamander       Batrachoseps pacificus
+         San Gabriel Mtns Slender Salamander      Batrachoseps gabrieli
+         Gabilan Mtns Slender Salamander          Batrachoseps gavilanensis
+         Santa Lucia Mtns Slender Salamander      Batrachoseps luciae
+         Lesser Slender Salamander                Batrachoseps minor
+         San Simeon Slender Salamander            Batrachoseps incognitus
+         Sequoia Slender Salamander               Batrachoseps kawia
+         Relictual Slender Salamander             Batrachoseps relictus
+         Greenhorn Mtns Slender Salamander        Batrachoseps altasierrae
+         Fairview Slender Salamander              Batrachoseps bramei
+         California Slender Salamander            Batrachoseps attenuatus
+         Shasta Salamander                        Hydromantes shastae
+         Kern Canyon Slender Salamander           Batrachoseps simatus
+         Limestone Salamander                     Hydromantes brunus
+         Gregarious Slender Salamander            Batrachoseps gregarius
+         Hell Hollow Slender Salamander           Batrachoseps diabolicus
+         Kings River Slender Salamander           Batrachoseps regius
+         Scott Bar Salamander                     Plethodon asupak
+         Southern California Slender Salamander   Batrachoseps major
+         Wandering Salamander                     Aneides vagrans
+         Tehachapi Slender Salamander             Batrachoseps stebbinsi
+         Dunn's Salamander                        Plethodon dunni
+         Del Norte Salamander                     Plethodon elongatus
+         Siskiyou Mtns Salamander                 Plethodon stormi
+         Black Salamander                         Aneides flavipunctatus
+         Clouded Salamander                       Aneides ferreus
+         Arboreal Salamander                      Aneides lugubris
+         Ensatina                                 Ensatina eschscholtzii
+         Kern Plateau Slender Salamander          Batrachoseps robustus
+         Inyo Mtns Salamander                     Batrachoseps campi
+
+
+
+
+                                                                                     5
+  ANURA                           (Frogs)
+      LEIOPELMATIDAE                           (Tail-wagging Frogs)
+       Coastal Tailed Frog                     Ascaphus truei
+
+      SCAPHIOPODIDAE                           (North American Spadefoots)
+       Great Basin Spadefoot                   Spea intermontana
+       Couch's Spadefoot                       Scaphiopus couchii
+       Western Spadefoot                       Spea hammondii
+
+      BUFONIDAE                                (True Toads)
+       Western Toad                            Anaxyrus boreas
+       Great Plains Toad                       Anaxyrus cognatus
+       Red-spotted Toad                        Anaxyrus punctatus
+       Arroyo Toad                             Anaxyrus californicus
+       Woodhouse's Toad                        Anaxyrus woodhousii
+       Black Toad                              Anaxyrus exsul
+       Sonoran Desert Toad                     Incilius alvarius           *
+       Yosemite Toad                           Anaxyrus canorus
+
+      LEPTODACTYLIDAE                          (Neotropical Thin-toed Frogs)
+       Coqui                                   Eleutherodactylus coqui     *,I
+
+      HYLIDAE                                  (Treefrogs)
+       California Treefrog                     Pseudacris cadaverina
+       Pacific Treefrog                        Pseudacris regilla
+       Baja California Treefrog                Pseudacris hypochondriaca
+       Sierran Treefrog                        Pseudacris sierra
+
+      RANIDAE                                  (True Frogs)
+       Southern Mountain Yellow-legged Frog    Rana muscosa
+       Sierra Nevada Yellow-legged Frog        Rana sierrae
+       Foothill Yellow-legged Frog             Rana boylii
+       American Bullfrog                       Lithobates catesbeianus     I,HA
+       Northern Leopard Frog                   Lithobates pipiens          I,(1)
+       Cascades Frog                           Rana cascadae
+       African Clawed Frog                     Xenopus laevis              I
+       Rio Grande Leopard Frog                 Lithobates berlandieri      I,HA
+       Northern Red-legged Frog                Rana aurora
+       California Red-legged Frog              Rana draytonii
+       Oregon Spotted Frog                     Rana pretiosa
+       Lowland Leopard Frog                    Lithobates yavapaiensis     *
+       Southern Leopard Frog                   Lithobates sphenocephalus   I,HA
+       Columbia Spotted Frog                   Rana luteiventris
+
+
+REPTILIA                          (Reptiles)
+  CRYPTODIRA                      (Turtles)
+      CHELYDRIDAE                              (Snapping Turtles)
+       Snapping Turtle                         Chelydra serpentina         I
+
+      KINOSTERNIDAE                            (Musk and Mud Turtles)
+       Sonora Mud Turtle                       Kinosternon sonoriense      *
+
+      EMYDIDAE                                 (Box and Basking Turtles)
+       Western Pond Turtle                     Actinemys marmorata         (2)
+       Painted Turtle                          Chrysemys picta             I,HA
+       Pond Slider                             Trachemys scripta           I,HA
+
+      TESTUDINIDAE                             (Tortoises)
+       Mohave Desert Tortoise                  Gopherus agassizii
+
+      CHELONIIDAE                              (Sea Turtles)
+       Hawksbill Sea Turtle                    Eretmochelys imbricata      *
+       Olive Ridley Sea Turtle                 Lepidochelys olivacea       *
+
+
+                                                                                   6
+    Loggerhead Sea Turtle                 Caretta caretta                   *
+    Green Sea Turtle                      Chelonia mydas                    *
+
+    DERMOCHELYIDAE                       (Leatherback Turtles)
+    Leatherback Sea Turtle                Dermochelys coriacea              *
+
+    TRIONYCHIDAE                         (Softshell Turtles)
+    Spiny Softshell                       Apalone spinifera                 I,HA
+
+SQUAMATA                     (Lizards and Snakes)
+    GEKKONIDAE                           (Geckos)
+    Moorish Wall Gecko                    Tarentola mauritanica             *,I
+    Ringed Wall Gecko                     Tarentola annularis               *,I
+    Mediterranean House Gecko             Hemidactylus turcicus             I
+
+    PHYLLODACTYLIDAE                      (Leaf-toed Geckos)
+    Peninsula Leaf-toed Gecko             Phyllodactylus nocticolus
+
+    EUBLEPHARIDAE                         (Eyelid Geckos)
+    Western Banded Gecko                  Coleonyx variegatus
+    Switak’s Banded Gecko                 Coleonyx switaki
+
+    XANTUSIIDAE                          (Night Lizards)
+    Island Night Lizard                   Xantusia riversiana
+    Desert Night Lizard                   Xantusia vigilis
+    Granite Night Lizard                  Xantusia henshawi
+    Sandstone Night Lizard                Xantusia gracilis           *
+    Sierra Night Lizard                   Xantusia sierra             *
+    Wiggins’ Night Lizard                 Xantusia wigginsi           *
+
+    SCINCIDAE                            (Skinks)
+    Western Skink                         Plestiodon skiltonianus
+    Gilbert's Skink                       Plestiodon gilberti
+
+    TEIIDAE                              (Whiptails and Relatives)
+    Tiger Whiptail                        Aspidoscelis tigris
+    Orange-throated Whiptail              Aspidoscelis hyperythra
+
+    LACERTIDAE                           (Lacertid Lizards)
+    Italian Wall Lizard                   Podarcis siculus            *,I
+
+    ANGUIDAE                             (Alligator Lizards and Relatives)
+    Panamint Alligator Lizard             Elgaria panamintina
+    Southern Alligator Lizard             Elgaria multicarinata
+    Northern Alligator Lizard             Elgaria coerulea
+
+    ANNIELLIDAE                          (Legless Lizards)
+    California Legless Lizard             Anniella pulchra            (2)
+
+
+    HELODERMATIDAE                       (Gila Monsters)
+    Gila Monster                          Heloderma suspectum
+
+    CHAMAELEONIDAE                       (Chameleons)
+    Jackson’s Chameleon                   Chamaeleo jacksonii         *,I
+
+    IGUANIDAE                             (Iguanids)
+    Desert Iguana                         Dipsosaurus dorsalis
+    Common Chuckwalla                     Sauromalus ater
+
+    CROTAPHYTIDAE                        (Collared and Leopard Lizards)
+    Cope's Leopard Lizard                 Gambelia copeii
+    Baja California Collared Lizard       Crotaphytus vestigium
+    Long-nosed Leopard Lizard             Gambelia wislizenii
+    Blunt-nosed Leopard Lizard            Gambelia sila
+    Great Basin Collared Lizard           Crotaphytus bicinctores
+
+
+                                                                                   7
+PHRYNOSOMATIDAE                      (Spiny Lizards)
+Pygmy Short-horned Lizard            Phrynosoma douglasii
+Desert Horned Lizard                 Phrynosoma platyrhinos
+Desert Spiny Lizard                  Sceloporus magister
+Blainville’s Horned Lizard           Phrynosoma blainvillii
+Mearns’ Rock Lizard                  Petrosaurus mearnsi
+Baja California Brush Lizard         Urosaurus nigricaudus
+Ornate Tree Lizard                   Urosaurus ornatus
+Long-tailed Brush Lizard             Urosaurus graciosus
+Flat-tailed Horned Lizard            Phrynosoma mcallii
+Common Side-blotched Lizard          Uta stansburiana
+Western Fence Lizard                 Sceloporus occidentalis
+Granite Spiny Lizard                 Sceloporus orcutti
+Mohave Fringe-toed Lizard            Uma scoparia
+Coachella Fringe-toed Lizard         Uma inornata
+Colorado Desert Fringe-toed Lizard   Uma notata
+Zebra-tailed Lizard                  Callisaurus draconoides
+Common Sagebrush Lizard              Sceloporus graciosus
+Yellow-backed Spiny Lizard           Sceloporus uniformis
+
+DACTYLOIDAE                          (Anoles)
+Green Anole                          Anolis carolinensis         *,I
+Brown Anole                          Anolis sagrei               *,I
+
+LEPTOTYPHLOPIDAE                     (Slender Blind Snakes)
+Western Threadsnake                  Rena humilis
+
+TYPHLOPIDAE                          (Blindsnakes)
+Brahminy Blindsnake                  Ramphotyphlops braminus     I
+
+BOIDAE                               (Boas)
+Southern Rubber Boa                  Charina umbratica
+Northern Rubber Boa                  Charina bottae
+Northern Three-lined Boa             Lithanura orcutti
+
+COLUBRIDAE                           (Harmless Egg-laying Snakes)
+California Kingsnake                 Lampropeltis californiae
+California Mountain Kingsnake        Lampropeltis zonata
+Long-nosed Snake                     Rhinocheilus lecontei
+Western Groundsnake                  Sonora semiannulata
+Western Shovel-nosed Snake           Chionactis occipitalis
+Western Black-headed Snake           Tantilla planiceps
+Sonoran Lyresnake                    Trimorphodon lambda
+California Lyresnake                 Trimorphodon lyrophanes
+Striped Whipsnake                    Coluber taeniatus
+Glossy Snake                         Arizona elegans
+Smith’s Black-headed Snake           Tantilla hobartsmithi
+Spotted Leaf-nosed Snake             Phyllorhynchus decurtatus
+Gophersnake                          Pituophis catenifer
+North American Racer                 Coluber constrictor
+Coachwhip                            Coluber flagellum
+Striped Racer                        Coluber lateralis
+Baja California Ratsnake             Bogertophis rosaliae              *
+Western Patch-nosed Snake            Salvadora hexalepis
+Baja California Coachwhip            Coluber fuliginosus
+
+DIPSADIDAE                           (Rear-fanged Snakes)
+Desert Nightsnake                    Hypsiglena chlorophaea
+Coast Nightsnake                     Hypsiglena ochrorhyncha
+Common Sharp-tailed Snake            Contia tenuis
+Forest Sharp-tailed Snake            Contia longicauda
+Ring-necked Snake                    Diadophis punctatus
+
+NATRICIDAE                           (Harmless Live-bearing Snakes)
+Common Gartersnake                   Thamnophis sirtalis
+Terrestrial Gartersnake              Thamnophis elegans
+Southern Watersnake                  Nerodia fasciata                  I
+Common Watersnake                    Nerodia sipedon                   I
+
+
+                                                                           8
+       Checkered Gartersnake                 Thamnophis marcianus
+       Northwestern Gartersnake              Thamnophis ordinoides
+       Two-striped Gartersnake               Thamnophis hammondii
+       Aquatic Gartersnake                   Thamnophis atratus
+       Giant Gartersnake                     Thamnophis gigas
+       Sierra Gartersnake                    Thamnophis couchii
+
+       HYDROPHIIDAE                          (Sea Snakes)
+       Yellow-bellied Seasnake               Pelamis platura
+
+       CROTALIDAE                            (Pitvipers)
+       Western Rattlesnake                   Crotalus oreganus
+       Sidewinder                            Crotalus cerastes
+       Mohave Rattlesnake                    Crotalus scutulatus
+       Speckled Rattlesnake                  Crotalus mitchellii
+       Western Diamond-backed Rattlesnake    Crotalus atrox
+       Red Diamond Rattlesnake               Crotalus ruber
+       Panamint Rattlesnake                  Crotalus stephensi
+
+
+
+
+AVES                             (Birds)
+ GAVIIFORMES                     (Loons)
+       GAVIIDAE                              (Loons)
+       Red-throated Loon                     Gavia stellata
+       Arctic Loon                           Gavia arctica               *
+       Pacific Loon                          Gavia pacifica
+       Common Loon                           Gavia immer
+       Yellow-billed Loon                    Gavia adamsii               *
+
+
+ PODICIPEDIFORMES                      (Grebes)
+       PODICIPEDIDAE                         (Grebes)
+       Least Grebe                           Tachybaptus dominicus       *
+       Clark's Grebe                         Aechmophorus clarkii
+       Western Grebe                         Aechmophorus occidentalis
+       Eared Grebe                           Podiceps nigricollis
+       Pied-billed Grebe                     Podilymbus podiceps
+       Horned Grebe                          Podiceps auritus
+       Red-necked Grebe                      Podiceps grisegena
+
+ PROCELLARIIFORMES                     (Albatrosses, Shearwaters, Petrels and Relatives)
+       DIOMEDEIDAE                           (Albatrosses)
+       Black-footed Albatross                Phoebastria nigripes
+       Short-tailed Albatross                Phoebastria albatrus        *
+       Laysan Albatross                      Phoebastria immutabilis
+       Wandering Albatross                   Diomedea exulans            *
+       Light-mantled Albatross               Phoebetria palpebrata       *
+       Shy Albatross                         Thalassarche cauta          *
+
+       PROCELLARIIDAE                        (Shearwaters and Fulmars)
+       Pink-footed Shearwater                Puffinus creatopus
+       Sooty Shearwater                      Puffinus griseus
+       Buller's Shearwater                   Puffinus bulleri
+       Wedge-tailed Shearwater               Puffinus pacificus          *
+       Manx Shearwater                       Puffinus puffinus           *
+       Greater Shearwater                    Puffinus gravis             *
+       Black-vented Shearwater               Puffinus opisthomelas
+       Flesh-footed Shearwater               Puffinus carneipes
+       Short-tailed Shearwater               Puffinus tenuirostris
+       Streaked Shearwater                   Calonectris leucomelas      *
+       Cory’s Shearwater                     Calonectris diomedea        *
+       Bulwer's Petrel                       Bulweria bulwerii           *
+
+
+                                                                                           9
+      Cook's Petrel                          Pterodroma cookii
+      Mottled Petrel                         Pterodroma inexpectata
+      Murphy's Petrel                        Pterodroma ultima
+      Great-winged Petrel                    Pterodoma macroptera         *
+      Northern Fulmar                        Fulmarus glacialis
+      Stejneger's Petrel                     Pterodroma longirostris      *
+      Parkinson’s Petrel                     Procellaria parkinsoni       *
+      Hawaiian Petrel                        Pterodroma sandwichensis
+      White-chinned Petrel                   Procellaria aequinoctialis   *
+      Townsend’s Shearwater                  Puffinus auricularis         *
+
+     HYDROBATIDAE                            (Storm Petrels)
+      Black Storm-petrel                     Oceanodroma melania
+      Leach's Storm-petrel                   Oceanodroma leucorhoa
+      Least Storm-petrel                     Oceanodroma microsoma
+      Ashy Storm-petrel                      Oceanodroma homochroa
+      Wilson's Storm-petrel                  Oceanites oceanicus          *
+      Fork-tailed Storm-petrel               Oceanodroma furcata
+      Wedge-rumped Storm-petrel              Oceanodroma tethys           *
+      Ringed Storm-petrel                    Oceanodroma hornbyi          *
+      Tristram’s Storm-petrel                Oceanodroma tristrami        *
+
+PELECANIFORMES                   (Tropicbirds, Pelicans and Relatives)
+     PHAETHONTIDAE                           (Tropicbirds)
+      White-tailed Tropicbird                Phaethon lepturus            *
+      Red-billed Tropicbird                  Phaethon aethereus
+      Red-tailed Tropicbird                  Phaethon rubricauda          *
+
+PHAETHONTIFORMES (Tropicbirds)
+     ARDEIDAE                                (Herons and Bitterns)
+      Great Blue Heron                       Ardea herodias
+      Black-crowned Night Heron              Nycticorax nycticorax
+      Green Heron                            Butorides virescens
+      Cattle Egret                           Bubulcus ibis
+      Reddish Egret                          Egretta rufescens
+      Tricolored Heron                       Egretta tricolor             *
+      Little Blue Heron                      Egretta caerulea
+      Great Egret                            Ardea alba
+      Least Bittern                          Ixobrychus exilis
+      American Bittern                       Botaurus lentiginosus
+      Yellow-crowned Night-heron             Nyctanassa violacea
+      Snowy Egret                            Egretta thula
+
+     PELECANIDAE                             (Pelicans)
+      American White Pelican                 Pelecanus erythrorhynchos
+      Brown Pelican                          Pelecanus occidentalis
+
+     THRESKIORNITHIDAE                       (Ibises and Spoonbills)
+      White-faced Ibis                       Plegadis chihi
+      Roseate Spoonbill                      Platalea ajaja               *
+      Glossy Ibis                            Plegadis falcinellus         *
+      White Ibis                             Eudocimus albus              *
+
+SULIFORMES            (Frigatebirds, Boobies, Cormorants, Darters, and Allies)
+     SULIDAE                                 (Boobies and Gannets)
+      Masked Booby                           Sula dactylatra              *
+      Northern Gannet                        Morus bassanus               *
+      Blue-footed Booby                      Sula nebouxii                *
+      Brown Booby                            Sula leucogaster
+      Red-footed Booby                       Sula sula                    *
+
+     PHALACROCORACIDAE                       (Cormorants)
+      Double-crested Cormorant               Phalacrocorax auritus
+      Pelagic Cormorant                      Phalacrocorax pelagicus
+
+
+
+                                                                                 10
+     Brandt's Cormorant                     Phalacrocorax penicillatus
+     Neotropic Cormorant                    Phalacrocorax brasilianus    *
+
+     ANHINGIDAE                             (Darters)
+     Anhinga                                Anhinga anhinga              *
+
+     FREGATIDAE                             (Frigatebirds)
+     Magnificent Frigatebird                Fregata magnificens
+     Great Frigatebird                      Fregata minor                *
+     Lesser Frigatebird                     Fregata ariel                *
+
+CICONIIFORMES                    (Herons, Storks, Ibises and Relatives)
+     CICONIIDAE                             (Storks and Wood Ibises)
+     Wood Stork                             Mycteria Americana
+
+ACCIPITRIFORMES                  (Hawks, Kites, Eagles, and Allies)
+     ACCIPITRIDAE                           (Hawks, Kites, Eagles, and Allies)
+     Red-shouldered Hawk                    Buteo lineatus
+     Swallow-tailed Kite                    Elanoides forficatus         *
+     Golden Eagle                           Aquila chrysaetos
+     Rough-legged Hawk                      Buteo lagopus
+     Ferruginous Hawk                       Buteo regalis
+     Red-tailed Hawk                        Buteo jamaicensis
+     Zone-tailed Hawk                       Buteo albontatus
+     Swainson's Hawk                        Buteo swainsoni
+     Broad-winged Hawk                      Buteo platypterus
+     White-tailed Kite                      Elanus leucurus
+     Common Black-hawk                      Buteogallus anthracinus      *
+     Northern Goshawk                       Accipiter gentilis
+     Cooper's Hawk                          Accipiter cooperii
+     Sharp-shinned Hawk                     Accipiter striatus
+     Northern Harrier                       Circus cyaneus
+     Bald Eagle                             Haliaeetus leucocephalus
+     Harris's Hawk                          Parabuteo unicinctus
+     Mississippi Kite                       Ictinia mississippiensis     *
+     Gray Hawk                              Buteo plagiatus              *
+
+     CATHARTIDAE                            (New World Vultures)
+     Black Vulture                          Coragyps atratus             *
+     Turkey Vulture                         Cathartes aura
+     California Condor                      Gymnogyps californianus
+
+     PANDIONIDAE                            (Ospreys)
+     Osprey                                 Pandion haliastus
+
+ANSERIFORMES                   (Screamers, Ducks and Relatives)
+     ANATIDAE                               (Swans, Geese and Ducks)
+     Redhead                                Aythya americana             HA
+     King Eider                             Somateria spectabilis        *,HA
+     Common Eider                           Somateria mollissima         *, HA
+     Steller's Eider                        Polysticta stelleri          *,HA
+     Lesser Scaup                           Aythya affinis               HA
+     Greater Scaup                          Aythya marila                HA
+     Tufted Duck                            Aythya fuligula              *,HA
+     Harlequin Duck                         Histrionicus histrionicus    HA
+     Common Pochard                         Aythya ferina                *,HA
+     Long-tailed Duck                       Clangula hyemalis            HA
+     Canvasback                             Aythya valisineria           HA
+     Green-winged Teal                      Anas crecca                  HA
+     Baikal Teal                            Anas formosa                 *,HA
+     Ring-necked Duck                       Aythya collaris              HA
+     Surf Scoter                            Melanitta perspicillata      HA
+     Black Scoter                           Melanitta nigra              HA
+     Bufflehead                             Bucephala albeola            HA
+     Common Goldeneye                       Bucephala clangula           HA
+
+                                                                                 11
+     Barrow's Goldeneye                    Bucephala islandica         HA
+     Smew                                  Mergellus albellus          *,HA
+     Hooded Merganser                      Lophodytes cucullatus       HA
+     Common Merganser                      Mergus merganser            HA
+     Red-breasted Merganser                Mergus serrator             HA
+     Ruddy Duck                            Oxyura jamaicensis          HA
+     Eurasian Wigeon                       Anas penelope               HA
+     Garganey                              Anas querquedula            *,HA
+     White-winged Scoter                   Melanitta fusca             HA
+     Egyptian Goose                        Alopochen aegyptiacus       I
+     American Black Duck                   Anas rubripes               *,HA
+     Black-bellied Whistling-Duck          Dendrocygna autumnalis      *,HA
+     Fulvous Whistling-Duck                Dendrocygna bicolor         HA
+     Greater White-fronted Goose           Anser albifrons             HA
+     Emperor Goose                         Chen canagica               *,HA
+     Snow Goose                            Chen caerulescens           HA
+     Ross' s Goose                         Chen rossii                 HA
+     Brant                                 Branta bernicla             HA
+     Mute Swan                             Cygnus olor                 I
+     Trumpeter Swan                        Cygnus buccinator           *
+     Tundra Swan                           Cygnus columbianus
+     Mallard                               Anas platyrhynchos          HA
+     Northern Shoveler                     Anas clypeata               HA
+     Canada Goose                          Branta canadensis           HA
+     Blue-winged Teal                      Anas discors                HA
+     Whooper Swan                          Cygnus cygnus               *
+     Cackling Goose                        Branta hutchinsii           HA
+     American Wigeon                       Anas americana              HA
+     Northern Pintail                      Anas acuta                  HA
+     Falcated Duck                         Anas falcata                *,HA
+     Gadwall                               Anas strepera               HA
+     Mandarin Duck                         Aix galericulata            I
+     Wood Duck                             Aix sponsa                  HA
+     Cinnamon Teal                         Anas cyanoptera             HA
+     Taiga/Tundra Bean Goose               Anser fabalis
+
+FALCONIFORMES                 (Caracaras and Falcons)
+    FALCONIDAE                            (Caracaras and Falcons)
+     Prairie Falcon                        Falco mexicanus
+     Peregrine Falcon                      Falco peregrinus
+     Gyrfalcon                             Falco rusticolus            *
+     Merlin                                Falco columbarius
+     Crested Caracara                      Caracara cheriway           *
+     American Kestrel                      Falco sparverius
+     Eurasian Kestrel                      Falco tinnunculus           *
+
+GALLIFORMES                   (Gallinaceous Birds)
+    PHASIANIDAE                           (Partridges, Grouse, Turkeys, and Old World Quail)
+     White-tailed Ptarmigan                Lagopus leucura             I,HA
+     Greater Sage-grouse                   Centrocercus urophasianus   HA
+     Wild Turkey                           Meleagris gallopavo         I,HA
+     Sharp-tailed Grouse                   Tympanuchus phasianellus    E
+     Ruffed Grouse                         Bonasa umbellus             HA
+     Chukar                                Alectoris chukar            I,HA
+     Common Peafowl                        Pavo cristatus              I
+     Ring-necked Pheasant                  Phasianus colchicus         I,HA
+     Sooty Grouse                          Dendragapus fuliginosus     HA
+
+    ODONTOPHORIDAE                        (New World Quail)
+     Mountain Quail                        Oreortyx pictus             HA
+     California Quail                      Callipepla californica      HA
+     Gambel's Quail                        Callipepla gambelii         HA
+
+
+
+
+                                                                                               12
+GRUIFORMES                    (Cranes, Rails and Relatives)
+    RALLIDAE                               (Rails, Gallinules and Coots)
+     Clapper Rail                          Rallus longirostris
+     American Coot                         Fulica americana             HA
+     Common Gallinule                      Gallinula galeata            HA
+     Purple Gallinule                      Porphyrio martinica          *
+     Virginia Rail                         Rallus limicola
+     Black Rail                            Laterallus jamaicensis
+     Yellow Rail                           Coturnicops noveboracensis
+     Sora                                  Porzana carolina
+
+    GRUIDAE                                (Cranes)
+     Sandhill Crane                        Grus Canadensis
+     Common Crane                          Grus grus
+
+CHARADRIIFORMES                     (Shorebirds, Gulls, Auks, and Relatives)
+    CHARADRIIDAE                           (Plovers and Lapwings)
+     Wilson's Plover                       Charadrius wilsonia          *
+     Mountain Plover                       Charadrius montanus
+     Eurasian Dotterel                     Charadrius morinellus        *
+     Killdeer                              Charadrius vociferus
+     Piping Plover                         Charadrius melodus           *
+     Semipalmated Plover                   Charadrius semipalmatus
+     Greater Sand-Plover                   Charadrius leschenaultii     *
+     Lesser Sand-Plover                    Charadrius mongolus          *
+     Pacific Golden-Plover                 Pluvialis fulva
+     American Golden-Plover                Pluvialis dominica
+     Black-bellied Plover                  Pluvialis squatarola
+     Snowy Plover                          Charadrius nivosus
+     Common Ringed Plover                  Charadrius hiaticula         *
+
+    HAEMATOPODIDAE                         (Oystercatchers)
+     Black Oystercatcher                   Haematopus bachmani
+     American Oystercatcher                Haematopus palliatus
+
+    RECURVIROSTRIDAE                       (Avocets and Stilts)
+     American Avocet                       Recurvirostra americana
+     Black-necked Stilt                    Himantopus mexicanus
+
+    SCOLOPACIDAE                           (Sandpipers, Phalaropes, and Relatives)
+     Sharp-tailed Sandpiper                Calidris acuminata
+     Pectoral Sandpiper                    Calidris melanotos
+     Baird's Sandpiper                     Calidris bairdii
+     White-rumped Sandpiper                Calidris fuscicollis         *
+     Least Sandpiper                       Calidris minutilla
+     Long-toed Stint                       Calidris subminuta           *
+     Rock Sandpiper                        Calidris ptilocnemis
+     Red-necked Stint                      Calidris ruficollis          *
+     Red Phalarope                         Phalaropus fulicarius
+     Western Sandpiper                     Calidris mauri
+     Little Stint                          Calidris minuta              *
+     Dunlin                                Calidris alpina
+     Curlew Sandpiper                      Calidris ferruginea          *
+     Stilt Sandpiper                       Calidris himantopus
+     Buff-breasted Sandpiper               Calidris subruficollis       *
+     Short-billed Dowitcher                Limnodromus griseus
+     Jack Snipe                            Lymnocryptes minimus         *
+     Semipalmated Sandpiper                Calidris pusilla
+     American Woodcock                     Scolopax minor               *
+     Wilson's Phalarope                    Phalaropus tricolor
+     Red-necked Phalarope                  Phalaropus lobatus
+     Long-billed Dowitcher                 Limnodromus scolopaceus
+     Ruff                                  Calidris pugnax
+     Greater Yellowlegs                    Tringa melanoleuca
+     Wilson's Snipe                        Gallinago delicata           HA,(3)
+     Common Greenshank                     Tringa nebularia             *
+     Lesser Yellowlegs                     Tringa flavipes
+
+                                                                                     13
+Spotted Redshank           Tringa erythropus              *
+Solitary Sandpiper         Tringa solitaria
+Willet                     Tringa semipalmata
+Wandering Tattler          Tringa incana
+Gray-tailed Tattler        Tringa brevipes                *
+Spotted Sandpiper          Actitis macularia
+Terek Sandpiper            Xenus cinereus                 *
+Upland Sandpiper           Bartramia longicauda           *
+Surfbird                   Calidris virgata
+Whimbrel                   Numenius phaeopus
+Bristle-thighed Curlew     Numenius tahitiensis           *
+Long-billed Curlew         Numenius americanus
+Hudsonian Godwit           Limosa haemastica              *
+Bar-tailed Godwit          Limosa lapponica               *
+Marbled Godwit             Limosa fedoa
+Ruddy Turnstone            Arenaria interpres
+Black Turnstone            Arenaria melanocephala
+Sanderling                 Calidris alba
+Red Knot                   Calidris canutus
+Little Curlew              Numenius minutus               *
+Marsh Sandpiper            Tringa stagnatilis             *
+Wood Sandpiper             Tringa glareola                *
+Common Snipe               Gallinago gallinago            *,HA
+
+LARIDAE                    (Gulls, Terns and Skimmers)
+Royal Tern                 Thalasseus maximus
+Caspian Tern               Hydroprogne caspia
+Gull-billed Tern           Gelochelidon nilotica
+Ivory Gull                 Pagophila eburnea              *
+Red-legged Kittiwake       Rissa brevirostris             *
+Elegant Tern               Thalasseus elegans
+Swallow-tailed Gull        Creagrus furcatus              *
+Sooty Tern                 Onychoprion fuscatus           *
+Sabine's Gull              Xema sabini
+Black-legged Kittiwake     Rissa tridactyla
+Sandwich Tern              Thalasseus sandvicensis        *
+Common Tern                Sterna hirundo
+Arctic Tern                Sterna paradisaea
+Forster's Tern             Sterna forsteri
+Bridled Tern               Onychoprion anaethetus         *
+White-winged Tern          Chlidonias leucopterus         *
+Black Tern                 Chlidonias niger
+Black Skimmer              Rynchops niger
+Glaucous Gull              Larus hyperboreus
+Mew Gull                   Larus canus
+Least Tern                 Sternula antillarum
+Black-headed Gull          Chroicocephalus ridibundus     *
+Laughing Gull              Leucophacus atricilla
+California Gull            Larus californicus
+Little Gull                Hydrocoloeus minutus           *
+Glaucous-winged Gull       Larus glaucescens
+Bonaparte's Gull           Chroicocephalus philadelphia
+Heermann's Gull            Larus heermanni
+Yellow-footed Gull         Larus livens
+Franklin's Gull            Leucophacus pipixcan
+Western Gull               Larus occidentalis
+Belcher’s Gull             Larus belcheri                 *
+Lesser Black-backed Gull   Larus fuscus
+Iceland Gull               Larus glaucoides               *
+Thayer's Gull              Larus thayeri
+Herring Gull               Larus argentatus
+Ring-billed Gull           Larus delawarensis
+Black-tailed Gull          Larus crassirostris            *
+Slaty-backed Gull          Larus schistisagus             *
+Ross’s Gull                Rhodostethia rosea             *
+Great Black-backed Gull    Larus marinus                  *
+
+ALCIDAE                    (Auks, Murres and Puffins)
+Kittlitz's Murrelet        Brachyramphus brevirostris     *
+
+
+                                                                 14
+      Rhinoceros Auklet                     Cerorhinca monocerata
+      Crested Auklet                        Aethia cristatella            *
+      Least Auklet                          Aethia pusilla                *
+      Parakeet Auklet                       Aethia psittacula
+      Tufted Puffin                         Fratercula cirrhata
+      Cassin's Auklet                       Ptychoramphus aleuticus
+      Horned Puffin                         Fratercula corniculata
+      Marbled Murrelet                      Brachyramphus marmoratus
+      Long-billed Murrelet                  Brachyramphus perdix          *
+      Pigeon Guillemot                      Cepphus columba
+      Thick-billed Murre                    Uria lomvia                   *
+      Common Murre                          Uria aalge
+      Ancient Murrelet                      Synthliboramphus antiquus
+      Craveri's Murrelet                    Synthliboramphus craveri
+      Scripp’s Murrelet                     Synthliboramphus scrippsi
+      Guadalupe Murrelet                    Synthliboramphus hypoleucus
+
+      STERCORARIIDAE                        (Skuas)
+      South Polar Skua                      Stercorarius maccormicki
+      Pomarine Jaeger                       Stercorarius pomarinus
+      Parasitic Jaeger                      Stercorarius parasiticus
+      Long-tailed Jaeger                    Stercorarius longicaudus
+
+COLUMBIFORMES (Pigeons and Doves)
+     COLUMBIDAE                             (Pigeons and Doves)
+      Ringed Turtle-Dove                    Streptopelia risoria          I,HA
+      Oriental Turtle-Dove                  Streptopelia orientalis       *
+      Ruddy Ground-Dove                     Columbina talpacoti
+      Common Ground-Dove                    Columbina passerina
+      Inca Dove                             Columbina inca
+      Mourning Dove                         Zenaida macroura              HA
+      Spotted Dove                          Streptopelia chinensis        I,HA
+      Band-tailed Pigeon                    Patagioenas fasciata          HA
+      Rock Pigeon                           Columba livia                 I
+      Eurasian Collared-Dove                Streptopelia decaocto         I,HA
+      White-winged Dove                     Zenaida asiatica              HA
+
+
+PSITTACIFORMES                 (Parrots and Relatives)
+     PSITTACIDAE                            (Lories, Parakeets, Macaws and Parrots)
+      Yellow-chevroned Parakeet             Brotogeris chiriri            I
+      Black-hooded Parakeet                 Nandayus nenday               I
+      Yellow-headed Parrot                  Amazona oratrix               I
+      Lilac-crowned Parrot                  Amazona finschi               I
+      Red-crowned Parrot                    Amazona viridigenalis         I
+      Blue-crowned Parakeet                 Aratinga acuticaudata         I
+      Rose-ringed Parakeet                  Psittacula krameri            I
+      Red-masked Parakeet                   Aratinga erythrogenys         I
+      White-winged Parakeet                 Brotogeris versicolurus       I
+      Mitred Parakeet                       Aratinga mitrata              I
+
+CUCULIFORMES                   (Cuckoos and Relatives)
+     CUCULIDAE                              (Roadrunners and Allies)
+      Groove-billed Ani                     Crotophaga sulcirostris       *
+      Black-billed Cuckoo                   Coccyzus erythropthalmus      *
+      Yellow-billed Cuckoo                  Coccyzus americanus
+      Greater Roadrunner                    Geococcyx californianus
+      Common Cuckoo                         Cuculus canors                *
+
+STRIGIFORMES                   (Owls)
+     TYTONIDAE                              (Barn Owls)
+      Barn Owl                              Tyto alba
+
+
+
+
+                                                                                      15
+     STRIGIDAE                            (Typical Owls)
+     Short-eared Owl                      Asio flammeus
+     Great Horned Owl                     Bubo virginianus
+     Long-eared Owl                       Asio otus
+     Barred Owl                           Strix varia                *
+     Great Gray Owl                       Strix nebulosa
+     Northern Saw-whet Owl                Aegolius acadicus
+     Burrowing Owl                        Athene cunicularia
+     Elf Owl                              Micrathene whitneyi        *
+     Snowy Owl                            Bubo scandiacus            *
+     Western Screech Owl                  Megascops kennicottii
+     Flammulated Owl                      Psiloscops flammeolus
+     Northern Pygmy Owl                   Glaucidium gnoma
+     Spotted Owl                          Strix occidentalis
+
+CAPRIMULGIFORMES                   (Goatsuckers and Relatives)
+     CAPRIMULGIDAE                        (Goatsuckers)
+     Lesser Nighthawk                     Chordeiles acutipennis
+     Common Nighthawk                     Chordeiles minor
+     Common Poorwill                      Phalaenoptilus nuttallii
+     Chuck-will's-widow                   Antrostomus carolinensis   *
+     Buff-collared Nightjar               Antrostomus ridgwayi       *
+     Eastern Whip-poor-will               Antrostomus vociferous
+     Mexican Whip-poor-will               Antrostomus arizonae
+
+
+APODIFORMES                  (Swifts and Hummingbirds)
+     APODIDAE                             (Swifts)
+     Vaux's Swift                         Chaetura vauxi
+     White-throated Swift                 Aeronautes saxatalis
+     White-collared Swift                 Streptoprocne zonaris      *
+     Black Swift                          Cypseloides niger
+     Chimney Swift                        Chaetura pelagic
+     Common Swift                         Apus apus                  *
+
+     TROCHILIDAE                          (Hummingbirds)
+     Black-chinned Hummingbird            Archilochus alexandri
+     Allen's Hummingbird                  Selasphorus sasin
+     Broad-tailed Hummingbird             Selasphorus platycercus
+     Calliope Hummingbird                 Selasphorus calliope
+     Rufous Hummingbird                   Selasphorus rufus
+     Costa's Hummingbird                  Calypte costae
+     Broad-billed Hummingbird             Cynanthus latirostris      *
+     Anna's Hummingbird                   Calypte anna
+     Ruby-throated Hummingbird            Archilochus colubris       *
+     Blue-throated Hummingbird            Lampornis clemenciae       *
+     Violet-crowned Hummingbird           Amazilia violiceps         *
+     Xantus's Hummingbird                 Hylocharis xantusii        *
+     Magnificent Hummingbird              Eugenes fulgens            *
+     Green Violet-ear                     Colibri thalassinus        *
+
+CORACIIFORMES                (Kingfishers and Relatives)
+     ALCEDINIDAE                          (Kingfishers)
+     Belted Kingfisher                    Megaceryle alcyon
+
+PICIFORMES                   (Woodpeckers and Relatives)
+     PICIDAE                              (Woodpeckers and Allies)
+     Williamson's Sapsucker               Sphyrapicus thyroideus
+     Pileated Woodpecker                  Dryocopus pileatus
+     Lewis's Woodpecker                   Melanerpes lewis
+     Gilded Flicker                       Colaptes chrysoides        (4)
+     Northern Flicker                     Colaptes auratus
+     Black-backed Woodpecker              Picoides arcticus
+     White-headed Woodpecker              Picoides albolarvatus
+     Hairy Woodpecker                     Picoides villosus
+
+                                                                           16
+     Downy Woodpecker                     Picoides pubescens
+     Ladder-backed Woodpecker             Picoides scalaris
+     Red-breasted Sapsucker               Sphyrapicus ruber
+     Red-naped Sapsucker                  Sphyrapicus nuchalis
+     Yellow-bellied Sapsucker             Sphyrapicus varius
+     Gila Woodpecker                      Melanerpes uropygialis
+     Red-headed Woodpecker                Melanerpes erythrocephalus   *
+     Nuttall's Woodpecker                 Picoides nuttallii
+     Acorn Woodpecker                     Melanerpes formicivorus
+
+PASSERIFORMES                (Perching Birds)
+     TYRANNIDAE                          (Tyrant Flycatchers)
+     Scissor-tailed Flycatcher            Tyrannus forficatus
+     Ash-throated Flycatcher              Myiarchus cinerascens
+     Great Crested Flycatcher             Myiarchus crinitus           *
+     Brown-crested Flycatcher             Myiarchus tyrannulus
+     Sulphur-bellied Flycatcher           Myiodynastes luteiventris    *
+     Tropical Kingbird                    Tyrannus melancholicus
+     Couch's Kingbird                     Tyrannus couchii             *
+     Cassin's Kingbird                    Tyrannus vociferans
+     Thick-billed Kingbird                Tyrannus crassirostris       *
+     Eastern Kingbird                     Tyrannus tyrannus
+     Fork-tailed Flycatcher               Tyrannus savana              *
+     Vermilion Flycatcher                 Pyrocephalus rubinus
+     Dusky-capped Flycatcher              Myiarchus tuberculifer       *
+     Western Kingbird                     Tyrannus verticalis
+     Gray Flycatcher                      Empidonax wrightii
+     Nutting's Flycatcher                 Myiarchus nuttingi           *
+     Western Wood-pewee                   Contopus sordidulus
+     Eastern Wood-pewee                   Contopus virens              *
+     Yellow-bellied Flycatcher            Empidonax flaviventris       *
+     Alder Flycatcher                     Empidonax alnorum            *
+     Willow Flycatcher                    Empidonax traillii
+     Say's Phoebe                         Sayornis saya
+     Hammond's Flycatcher                 Empidonax hammondii
+     Dusky Flycatcher                     Empidonax oberholseri
+     Pacific-slope Flycatcher             Empidonax difficilis
+     Cordilleran Flycatcher               Empidonax occidentalis
+     Greater Pewee                        Contopus pertinax            *
+     Black Phoebe                         Sayornis nigricans
+     Olive-sided Flycatcher               Contopus cooperi
+     Eastern Phoebe                       Sayornis phoebe
+     Least Flycatcher                     Empidonax minimus
+
+     LANIIDAE                             (Shrikes)
+     Loggerhead Shrike                    Lanius ludovicianus
+     Brown Shrike                         Lanius cristatus             *
+     Northern Shrike                      Lanius excubitor
+
+     VIREONIDAE                          (Typical Vireos)
+     Hutton's Vireo                       Vireo huttoni
+     Yellow-green Vireo                   Vireo flavoviridis           *
+     Red-eyed Vireo                       Vireo olivaceus
+     White-eyed Vireo                     Vireo griseus                *
+     Warbling Vireo                       Vireo gilvus
+     Blue-headed Vireo                    Vireo solitaries             *
+     Cassin's Vireo                       Vireo cassinii
+     Plumbeous Vireo                      Vireo plumbeus
+     Yellow-throated Vireo                Vireo flavifrons
+     Gray Vireo                           Vireo vicinior
+     Bell's Vireo                         Vireo bellii
+     Philadelphia Vireo                   Vireo philadelphicus         *
+
+     CORVIDAE                            (Jays, Magpies and Crows)
+     Black-billed Magpie                  Pica hudsonia
+     Western Scrub-Jay                    Aphelocoma californica
+     Common Raven                         Corvus corax
+
+
+                                                                           17
+American Crow                   Corvus brachyrhynchos             HA
+Yellow-billed Magpie            Pica nuttalli
+Pinyon Jay                      Gymnorhinus cyanocephalus
+Gray Jay                        Perisoreus canadensis
+Island Scrub-Jay                Aphelocoma insularis
+Blue Jay                        Cyanocitta cristata               *
+Steller's Jay                   Cyanocitta stelleri
+Clark's Nutcracker              Nucifraga columbiana
+
+ALAUDIDAE                       (Larks)
+Sky Lark                        Alauda arvensis                   *
+Horned Lark                     Eremophila alpestris
+
+HIRUNDINIDAE                    (Swallows)
+Tree Swallow                    Tachycineta bicolor
+Cave Swallow                    Petrochelidon fulva               *
+Cliff Swallow                   Petrochelidon pyrrhonota
+Bank Swallow                    Riparia riparia
+Violet-green Swallow            Tachycineta thalassina
+Barn Swallow                    Hirundo rustica
+Purple Martin                   Progne subis
+Northern Rough-winged Swallow   Stelgidopteryx serripennis
+
+PARIDAE                         (Titmice and Relatives)
+Oak Titmouse                    Baeolophus inornatus
+Juniper Titmouse                Baeolophus ridgewayi
+Chestnut-backed Chickadee       Poecile rufescens
+Black-capped Chickadee          Poecile atricapillus
+Mountain Chickadee              Poecile gambeli
+
+REMIZIDAE                       (Verdin)
+Verdin                          Auriparus flaviceps
+
+AEGITHALIDAE                    (Bushtit)
+Bushtit                         Psaltriparus minimus
+
+SITTIDAE                        (Nuthatches)
+Red-breasted Nuthatch           Sitta canadensis
+White-breasted Nuthatch         Sitta carolinensis
+Pygmy Nuthatch                  Sitta pygmaea
+
+CERTHIIDAE                      (Creepers)
+Brown Creeper                   Certhia americana
+
+TROGLODYTIDAE                   (Wrens)
+House Wren                      Troglodytes aedon
+Winter Wren                     Troglodytes heimalis              *
+Sedge Wren                      Cistothorus platensis             *
+Cactus Wren                     Campylorhynchus brunneicapillus
+Canyon Wren                     Catherpes mexicanus
+Rock Wren                       Salpinctes obsoletus
+Marsh Wren                      Cistothorus palustris
+Bewick's Wren                   Thryomanes bewickii
+Pacific Wren                    Troglodytes pacificus
+
+CINCLIDAE                       (Dippers)
+American Dipper                 Cinclus mexicanus
+
+PYCNONOTIDAE                    (Bulbuls)
+Red-whiskered Bulbul            Pycnonotus jocosus                I,*
+
+REGULIDAE                       (Kinglets)
+Golden-crowned Kinglet          Regulus satrapa
+Ruby-crowned Kinglet            Regulus calendula
+
+PHYLLOSCOPIDAE                  (Leaf Warblers)
+Arctic Warbler                  Phylloscopus borealis             *
+Dusky Warbler                   Phylloscopus fuscatus             *
+
+
+
+                                                                        18
+SYLVIIDAE                  (Sylviid Warblers)
+Wrentit                    Chamaea fasciata
+Gray Catbird               Dumetella carolinensis
+
+MEGALURIDAE                (Grassbirds)
+Lanceolated Warbler        Locustella lanceolata *
+
+POLIOPTILIDAE              (Gnatcatchers)
+Black-tailed Gnatcatcher   Polioptila melanura
+Blue-gray Gnatcatcher      Polioptila caerulea
+California Gnatcatcher     Polioptila californica
+
+MUSCICAPIDAE               (Old World Flycatchers)
+Taiga Flycatcher           Ficedula albicilla         *
+Northern Wheatear          Oenanthe oenanthe          *
+Red-flanked Bluetail       Tarsiger cyanurus          *
+Stonechat                  Saxicola torquatus         *
+Bluethroat                 Luscinia svecica           *
+
+TURDIDAE                   (Thrushes)
+Hermit Thrush              Catharus guttatus
+Western Bluebird           Sialia mexicana
+Varied Thrush              Ixoreus naevius
+American Robin             Turdus migratorius
+Rufous-backed Robin        Turdus rufopalliatus       *
+Eyebrowed Thrush           Turdus obscurus            *
+Wood Thrush                Hylocichla mustelina       *
+Swainson's Thrush          Catharus ustulatus
+Gray-cheeked Thrush        Catharus minimus           *
+Veery                      Catharus fuscescens        *
+Mountain Bluebird          Sialia currucoides
+Townsend's Solitaire       Myadestes townsendi
+
+MIMIDAE                    (Mockingbirds and Thrashers)
+California Thrasher        Toxostoma redivivum
+Le Conte's Thrasher        Toxostoma lecontei
+Crissal Thrasher           Toxostoma crissale
+Bendire's Thrasher         Toxostoma bendirei
+Brown Thrasher             Toxostoma rufum
+Northern Mockingbird       Mimus polyglottos
+Curve-billed Thrasher      Toxostoma curvirostre      *
+Sage Thrasher              Oreoscoptes montanus
+
+STURNIDAE                  (Starlings and Allies)
+European Starling          Sturnus vulgaris           I,HA
+
+MOTACILLIDAE               (Wagtails and Pipits)
+Eastern Yellow Wagtail     Motacilla tschutschensis   *
+Gray Wagtail               Motacilla cinerea          *
+White Wagtail              Motacilla alba             *
+Olive-backed Pipit         Anthus hodgsoni            *
+Red-throated Pipit         Anthus cervinus
+American Pipit             Anthus rubrescens
+Sprague's Pipit            Anthus spragueii
+
+BOMBYCILLIDAE              (Waxwings)
+Bohemian Waxwing           Bombycilla garrulus
+Cedar Waxwing              Bombycilla cedrorum
+
+PTILOGONATIDAE             (Silky Flycatchers)
+Phainopepla                Phainopepla nitens
+
+PARULIDAE                  (Wood Warblers and Relatives)
+Louisiana Waterthrush      Parkesia motacilla         *
+Bay-breasted Warbler       Setophaga castanea
+Blackpoll Warbler          Setophaga striata
+Cerulean Warbler           Setophaga cerulea          *
+Black-and-white Warbler    Mniotilta varia
+
+
+                                                             19
+American Redstart              Setophaga ruticilla         *
+Prothonotary Warbler           Protonotaria citrea
+Worm-eating Warbler            Helmitheros vermivorum      *
+Ovenbird                       Seiurus aurocapilla
+Northern Waterthrush           Parkesia noveboracensis
+Kentucky Warbler               Geothlypis formosus
+Connecticut Warbler            Oporornis agilis            *
+Mourning Warbler               Geothlypis philadelphia     *
+Macgillivray's Warbler         Geothlypis tolmiei
+Common Yellowthroat            Geothlypis trichas
+Hooded Warbler                 Setophaga citrina
+Wilson's Warbler               Cardellina pusilla
+Palm Warbler                   Setophaga palmarum
+Red-faced Warbler              Cardellina rubrifrons       *
+Painted Redstart               Myioborus pictus
+Yellow-breasted Chat           Icteria virens
+Canada Warbler                 Cardellina canadensis
+Golden-winged Warbler          Vermivora chrysoptera       *
+Prairie Warbler                Setophaga discolor
+Blue-winged Warbler            Vermivora cyanoptera        *
+Tennessee Warbler              Oreothlypis peregrina
+Orange-crowned Warbler         Oreothlypis celata
+Nashville Warbler              Oreothlypis ruficapilla
+Virginia's Warbler             Oreothlypis virginiae
+Lucy's Warbler                 Oreothlypis luciae
+Northern Parula                Setophaga americana
+Yellow Warbler                 Setophaga petechia
+Chestnut-sided Warbler         Setophaga pensylvanica
+Magnolia Warbler               Setophaga magnolia
+Grace's Warbler                Setophaga graciae           *
+Black-throated Blue Warbler    Setophaga caerulescens
+Yellow-rumped Warbler          Setophaga coronata
+Black-throated Gray Warbler    Setophaga nigrescens
+Golden-cheeked Warbler         Setophaga chrysoparia       *
+Black-throated Green Warbler   Setophaga virens
+Townsend's Warbler             Setophaga townsendi
+Hermit Warbler                 Setophaga occidentalis
+Blackburnian Warbler           Setophaga fusca
+Yellow-throated Warbler        Setophaga dominica          *
+Pine Warbler                   Setophaga pinus             *
+Cape May Warbler               Setophaga tigrina
+
+CALCARIIDAE                    (Longspurs and Snow Buntings)
+Mccown's Longspur              Rhynchophanes mccownii
+Lapland Longspur               Calcarius lapponicus
+Smith's Longspur               Calcarius pictus            *
+Snow Bunting                   Plectrophenax nivalis       *
+Chestnut-collared Longspur     Calcarius ornatus
+
+EMBERIZIDAE                    (Emberizines)
+Harris's Sparrow               Zonotrichia querula
+Song Sparrow                   Melospiza melodia
+Rustic Bunting                 Emberiza rustica            *
+Nelson's Sparrow               Ammodramus nelsoni
+Lincoln's Sparrow              Melospiza lincolnii
+Swamp Sparrow                  Melospiza georgiana
+White-throated Sparrow         Zonotrichia albicollis
+Fox Sparrow                    Passerella iliaca
+White-crowned Sparrow          Zonotrichia leucophrys
+Golden-crowned Sparrow         Zonotrichia atricapilla
+Dark-eyed Junco                Junco hyemalis
+Little Bunting                 Emberiza pusilla        *
+Le Conte's Sparrow             Ammodramus leconteii        *
+Black-throated Sparrow         Amphispiza bilineata
+Chipping Sparrow               Spizella passerina
+Lark Bunting                   Calamospiza melanocorys
+Baird's Sparrow                Ammodramus bairdii          *
+Spotted Towhee                 Pipilo maculatus
+California Towhee              Melozone crissalis
+
+
+                                                               20
+Abert's Towhee            Melozone aberti
+Cassin's Sparrow          Pemcaea cassinii                *
+American Tree Sparrow     Spizella arborea
+Green-tailed Towhee       Pipilo chlorurus
+Clay-colored Sparrow      Spizella pallida
+Brewer's Sparrow          Spizella breweri
+Field Sparrow             Spizella pusilla                *
+Black-chinned Sparrow     Spizella atrogularis
+Vesper Sparrow            Pooecetes gramineus
+Lark Sparrow              Chondestes grammacus
+Bell’s Sparrow            Artemisiospiza belli
+Savannah Sparrow          Passerculus sandwichensis
+Grasshopper Sparrow       Ammodramus savannarum
+Rufous-crowned Sparrow    Aimophila ruficeps
+Sagebrush Sparrow         Artemisiospiza nevadensis
+
+CARDINALIDAE              (Cardinals, Grosbeaks and Allies)
+Indigo Bunting            Passerina cyanea
+Dickcissel                Spiza americana
+Painted Bunting           Passerina ciris
+Varied Bunting            Passerina versicolor            *
+Lazuli Bunting            Passerina amoena
+Blue Grosbeak             Passerina caerulea
+Black-headed Grosbeak     Pheucticus melanocephalus
+Rose-breasted Grosbeak    Pheucticus ludovicianus
+Northern Cardinal         Cardinalis cardinalis           I,(5)
+Pyrrhuloxia               Cardinalis sinuatus             *
+Summer Tanager            Piranga rubra
+Hepatic Tanager           Piranga flava
+Western Tanager           Piranga ludoviciana
+Scarlet Tanager           Piranga olivacea                *
+
+ICTERIDAE                 (Blackbirds, Orioles and Allies)
+Scott's Oriole            Icterus parisorum
+Baltimore Oriole          Icterus glabula
+Bullock's Oriole          Icterus bullockii
+Streak-backed Oriole      Icterus pustulatus              *
+Hooded Oriole             Icterus cucullatus
+Orchard Oriole            Icterus spurius
+Brown-headed Cowbird      Molothrus ater
+Common Grackle            Quiscalus quiscula              *
+Bobolink                  Dolichonyx oryzivorus
+Great-tailed Grackle      Quiscalus mexicanus
+Red-winged Blackbird      Agelaius phoeniceus
+Tricolored Blackbird      Agelaius tricolor
+Western Meadowlark        Sturnella neglecta
+Yellow-headed Blackbird   Xanthocephalus xanthocephalus
+Rusty Blackbird           Euphagus carolinus              *
+Brewer's Blackbird        Euphagus cyanocephalus
+Bronzed Cowbird           Molothrus aeneus
+
+FRINGILLIDAE              (Finches)
+Red Crossbill             Loxia curvirostra
+Pine Siskin               Spinus pinus
+Evening Grosbeak          Coccothraustes vespertinus
+American Goldfinch        Spinus tristis
+Lawrence's Goldfinch      Spinus lawrencei
+Lesser Goldfinch          Spinus psaltria
+Black Rosy-finch          Leucosticte atrata              *
+Brambling                 Fringilla montifringilla        *
+Gray-crowned Rosy-finch   Leucosticte tephrocotis
+House Finch               Haemorhous mexicanus
+Cassin's Finch            Haemorhous cassinii
+Purple Finch              Haemorhous purpureus
+Pine Grosbeak             Pinicola enucleator
+White-winged Crossbill    Loxia leucoptera                *
+Common Redpoll            Acanthis flammea                *
+Common Rosefinch          Carpodacus erythrinus           *
+
+
+
+                                                                  21
+      PASSERIDAE                                (Old World Sparrows)
+       House Sparrow                                Passer domesticus           I,HA
+
+      ESTRILDIDAE                               (Waxbills and Allies)
+       Nutmeg Mannikin                              Lonchura punctulata         I,*
+
+
+
+
+MAMMALIA                           (Mammals)
+ DIDELPHIMORPHI (Marsupials)
+      DIDELPHIDAE                               (Opossums)
+       Virginia Opossum                             Didelphis virginiana        I,HA
+
+ INSECTIVORA                       (Insectivores)
+      SORICIDAE                                 (Shrews)
+       Preble's Shrew                               Sorex preblei
+       Desert Shrew                                 Notiosorex crawfordi
+       Merriam's Shrew                              Sorex merriami
+       Trowbridge's Shrew                           Sorex trowbridgii
+       Marsh Shrew                                  Sorex bendirii
+       Inyo Shrew                                   Sorex tenellus
+       Ornate Shrew                                 Sorex ornatus
+       Fog Shrew                                    Sorex sonomae
+       Montane Shrew                                Sorex monticolus
+       Mt. Lyell Shrew                              Sorex lyelli
+       Water Shrew                                  Sorex palustris
+       Vagrant Shrew                                Sorex vagrans
+
+      TALPIDAE                                  (Moles)
+       Shrew-mole                                   Neurotrichus gibbsii
+       Townsend's Mole                              Scapanus townsendii
+       Coast Mole                                   Scapanus orarius
+       Broad-footed Mole                            Scapanus latimanus
+
+ CHIROPTERA                        (Bats)
+      PHYLLOSTOMIDAE                            (Leaf-nosed Bats)
+       Hog-nosed Bat                                Choeronycteris mexicana
+       Lesser Long-nosed Bat                        Leptonycteris yerbabuenae
+       California Leaf-nosed Bat                    Macrotus californicus
+
+      VESPERTILIONIDAE                          (Evening Bats)
+       Big Brown Bat                                Eptesicus fuscus
+       Spotted Bat                                  Euderma maculatum
+       Arizona Myotis                               Myotis occultus
+       Townsend's Big-eared Bat                     Corynorhinus townsendii
+       Western Yellow Bat                           Lasiurus xanthinus
+       Hoary Bat                                    Lasiurus cinereus
+       Western Red Bat                              Lasiurus blossevillii
+       Silver-haired Bat                            Lasionycteris noctivagans
+       Small-footed Myotis                          Myotis ciliolabrum
+       California Myotis                            Myotis californicus
+       Long-legged Myotis                           Myotis volans
+       Little Brown Bat                             Myotis lucifugus
+       Fringed Myotis                               Myotis thysanodes
+       Yuma Myotis                                  Myotis yumanensis
+       Cave Myotis                                  Myotis velifer
+       Long-eared Myotis                            Myotis evotis
+       Canyon Bat                                   Parastrellus hesperus
+       Pallid Bat                                   Antrozous pallidus
+
+      MOLOSSIDAE                                (Free-tailed Bats)
+       Brazilian Free-tailed Bat                    Tadarida brasiliensis
+       Western Mastiff Bat                          Eumops perotis
+
+                                                                                       22
+     Pocketed Free-tailed Bat                Nyctinomops femorosaccus
+     Big Free-tailed Bat                     Nyctinomops macrotis
+
+LAGOMORPHA                      (Rabbits, Hares and Pika)
+     OCHOTONIDAE                             (Pikas)
+     American Pika                           Ochotona princeps
+
+     LEPORIDAE                               (Rabbits and Hares)
+     White-tailed Jackrabbit                 Lepus townsendii                HA
+     Snowshoe Hare                           Lepus americanus                HA
+     European Rabbit                         Oryctolagus cuniculus           I
+     Audubon’s Cottontail                    Sylvilagus audubonii            HA
+     Nuttall’s Cottontail                    Sylvilagus nuttallii            HA
+     Pygmy Rabbit                            Brachylagus idahoensis          HA
+     Brush Rabbit                            Sylvilagus bachmani             HA,(6)
+     Black-tailed Jackrabbit                 Lepus californicus              HA
+
+RODENTIA                        (Rodents)
+     APLODONTIIDAE                           (Mountain Beaver)
+     Mountain Beaver                         Aplodontia rufa
+
+     SCIURIDAE                               (Squirrels, Chipmunks and Marmots)
+     Western Gray Squirrel                   Sciurus griseus                 HA
+     Belding's Ground Squirrel               Urocitellus beldingi
+     Rock Squirrel                           Ostospermophilus variegatus
+     California Ground Squirrel              Ostospermophilus beecheyi
+     Mohave Ground Squirrel                  Xerospermophilus mohavensis
+     Round-tailed Ground Squirrel            Xerospermophilus tereticaudus
+     Eastern Gray Squirrel                   Sciurus carolinensis            I,HA
+     Panamint Chipmunk                       Tamias panamintinus
+     Eastern Fox Squirrel                    Sciurus niger                   I,HA,(7)
+     Douglas' Squirrel                       Tamiasciurus douglasii          HA
+     Northern Flying Squirrel                Glaucomys sabrinus
+     Piute Ground Squirrel                   Urocitellus mollis
+     Golden-mantled Ground Squirrel          Callospermophilus lateralis
+     Redwood Chipmunk                        Tamias ochrogenys
+     Nelson's Antelope Ground Squirrel       Ammospermophilus nelsoni
+     Least Chipmunk                          Tamias minimus
+     Alpine Chipmunk                         Tamias alpinus
+     Yellow-pine Chipmunk                    Tamias amoenus
+     Sonoma Chipmunk                         Tamias sonomae
+     Yellow-bellied Marmot                   Marmota flaviventris
+     Chaparral Chipmunk                      Tamias obscurus
+     Long-eared Chipmunk                     Tamias quadrimaculatus
+     Shadow Chipmunk                         Tamias senex
+     Siskiyou Chipmunk                       Tamias siskiyou
+     Lodgepole Chipmunk                      Tamias speciosus
+     Uinta Chipmunk                          Tamias umbrinus
+     White-tailed Antelope Ground Squirrel   Ammospermophilus leucurus
+     Merriam's Chipmunk                      Tamias merriami
+
+     GEOMYIDAE                               (Pocket Gophers)
+     Northern Pocket Gopher                  Thomomys talpoides
+     Mazama Pocket Gopher                    Thomomys mazama
+     Townsend's Pocket Gopher                Thomomys townsendii
+     Botta's Pocket Gopher                   Thomomys bottae
+     Mountain Pocket Gopher                  Thomomys monticola
+
+     HETEROMYIDAE                            (Pocket Mice and Kangaroo Rats)
+     Fresno Kangaroo Rat                     Dipodomys nitratoides
+     Merriam's Kangaroo Rat                  Dipodomys merriami
+     Desert Kangaroo Rat                     Dipodomys deserti
+     Stephens' Kangaroo Rat                  Dipodomys stephensi
+     Panamint Kangaroo Rat                   Dipodomys panamintinus
+     Giant Kangaroo Rat                      Dipodomys ingens
+     California Kangaroo Rat                 Dipodomys californicus
+     Narrow-faced Kangaroo Rat               Dipodomys venustus
+
+
+                                                                                        23
+Dulzura Kangaroo Rat          Dipodomys simulans
+Agile Kangaroo Rat            Dipodomys agilis
+Little Pocket Mouse           Perognathus longimembris
+Chisel-toothed Kangaroo Rat   Dipodomys microps
+Heermann's Kangaroo Rat       Dipodomys heermanni
+San Joaquin Pocket Mouse      Perognathus inornatus
+Great Basin Pocket Mouse      Perognathus parvus
+White-eared Pocket Mouse      Perognathus alticolus
+Long-tailed Pocket Mouse      Chaetodipus formosus
+Bailey's Pocket Mouse         Chaetodipus rudinoris
+Ord's Kangaroo Rat            Dipodomys ordii
+San Diego Pocket Mouse        Chaetodipus fallax
+California Pocket Mouse       Chaetodipus californicus
+Spiny Pocket Mouse            Chaetodipus spinatus
+Dark Kangaroo Mouse           Microdipodops megacephalus
+Pale Kangaroo Mouse           Microdipodops pallidus
+Desert Pocket Mouse           Chaetodipus penicillatus
+
+CASTORIDAE                    (Beavers)
+American Beaver               Castor canadensis             I,HA,(8)
+
+CRICETIDAE                    (Mice, Rats and Voles)
+House Mouse                   Mus musculus                  I,HA
+California Red-backed Vole    Myodes californicus
+Heather Vole                  Phenacomys intermedius
+Sonoma Red Tree Vole          Arborimus pomo
+California Vole               Microtus californicus
+Townsend's Vole               Microtus townsendii
+Long-tailed Vole              Microtus longicaudus
+Creeping Vole                 Microtus oregoni
+Big-eared Woodrat             Neotoma macrotis
+Common Muskrat                Ondatra zibethicus            I,HA,(1)
+Baja Mouse                    Peromyscus fraterculus
+Norway Rat                    Rattus norvegicus             I,HA
+White-footed Vole             Arborimus albipes
+Sagebrush Vole                Lemmiscus curtatus
+Northern Grasshopper Mouse    Onychomys leucogaster
+Montane Vole                  Microtus montanus
+Deer Mouse                    Peromyscus maniculatus
+Black Rat                     Rattus rattus                 I,HA
+California Mouse              Peromyscus californicus
+Cactus Mouse                  Peromyscus eremicus
+Canyon Mouse                  Peromyscus crinitus
+Pinyon Mouse                  Peromyscus truei
+Southern Grasshopper Mouse    Onychomys torridus
+Hispid Cotton Rat             Sigmodon hispidus
+Arizona Cotton Rat            Sigmodon arizonae
+Salt-marsh Harvest Mouse      Reithrodontomys raviventris
+White-throated Woodrat        Neotoma albigula
+Western Harvest Mouse         Reithrodontomys megalotis
+Desert Woodrat                Neotoma lepida
+Dusky-footed Woodrat          Neotoma fuscipes
+Bushy-tailed Woodrat          Neotoma cinerea
+Brush Mouse                   Peromyscus boylii
+Bryant’s Woodrat              Neotoma bryanti
+
+DIPODIDAE                     (Jumping Mice)
+Western Jumping Mouse         Zapus princeps
+Pacific Jumping Mouse         Zapus trinotatus
+
+ERETHIZONTIDAE                (New World Porcupines)
+Common Porcupine              Erethizon dorsatum
+
+MYOCASTORIDAE                 (Myocastorids)
+Nutria                        Myocastor copyus              I,HA
+
+
+
+
+                                                                       24
+CARNIVORA                     (Carnivores)
+    CANIDAE                                  (Foxes, Wolves and Relatives)
+     Red Fox                                 Vulpes vulpes                I,(9)
+     Feral Dog                               Canis familiaris             I
+     Gray Fox                                Urocyon cinereoargenteus     HA
+     Island Gray Fox                         Urocyon littoralis
+     Kit Fox                                 Vulpes macrotis
+     Coyote                                  Canis latrans                HA
+     Gray Wolf                               Canis lupus                  *
+
+    URSIDAE                                  (Bears)
+     Black Bear                              Ursus americanus             HA
+
+    OTARIIDAE                                (Eared Seals)
+     Northern Fur-seal                       Callorhinus ursinus
+     Guadalupe Fur-seal                      Arctocephalus townsendi
+     Northern (Steller) Sea-lion             Eumetopias jubatus
+     California Sea-lion                     Zalophus californianus
+
+    PHOCIDAE                                 (Hair Seals)
+     Northern Elephant Seal                  Mirounga angustirostris
+     Harbor Seal                             Phoca vitulina
+     Ribbon Seal                             Histriophoca fasciata
+     Ringed Seal                             Pusa hispida
+
+    PROCYONIDAE                              (Raccoons and Relatives)
+     Ringtail                                Bassariscus astutus
+     Raccoon                                 Procyon lotor                HA
+
+    MUSTELIDAE                               (Weasels and Relatives)
+     Sea Otter                               Enhydra lutris
+     Marten                                  Martes caurina
+     American Badger                         Taxidea taxus                HA
+     Fisher                                  Pekania pennanti
+     Northern River Otter                    Lontra canadensis
+     Wolverine                               Gulo gulo                    *
+     Long-tailed Weasel                      Mustela frenata              HA
+     Ermine                                  Mustela erminea              HA
+     American Mink                           Mustela vison                HA
+
+    MEPHITIDAE                               (Skunks)
+     Western Spotted Skunk                   Spilogale gracilis           HA
+     Striped Skunk                           Mephitis mephitis            HA
+
+    FELIDAE                                  (Cats)
+     Feral Cat                               Felis catus                  I
+     Mountain Lion                           Puma concolor
+     Bobcat                                  Lynx rufus                   HA
+
+CETACEA                       (Whales)
+    ESCHRICHTIIDAE                           (Gray Whale)
+     Gray Whale                              Eschrichtius robustus
+
+    BALAENOPTERIDAE                          (Rorquals)
+     Blue Whale                              Balaenoptera musculus        *
+     Fin Whale                               Balaenoptera physalus        *
+     Sei Whale                               Balaenoptera borealis        *
+     Minke Whale                             Balaenoptera acutorostrata   *
+     Humpback Whale                          Megaptera novaeangliae       *
+
+    BALAENIDAE                               (Right Whales)
+     North Pacific Right Whale               Eubalaena japonica           *
+
+    DELPHINIDAE                              (Dolphins)
+     Killer Whale                            Orcinus orca
+     Bottle-nosed Dolphin                    Tursiops truncatus
+
+
+                                                                                  25
+      Northern Right-whale Dolphin       Lissodelphis borealis
+      Short-finned Pilot Whale           Globicephala macrorhynchus
+      False Killer Whale                 Pseudorca crassidens
+      Grampus                            Grampus griseus
+      Pacific White-sided Dolphin        Lagenorhynchus obliquidens
+      Common Dolphin                     Delphinus delphis
+      Pantropical Spotted Dolphin        Stenella attenuata
+      Rough-toothed Dolphin              Steno bredanensis
+      Striped Dolphin                    Stenella coeruleoalba
+
+      PHOCOENIDAE                        (Porpoises)
+      Harbor Porpoise                    Phocoena phocoena
+      Dall's Porpoise                    Phocoenoides dalli
+
+      ZIPHIIDAE                          (Beaked Whales)
+      Goose-beaked Whale                 Ziphius cavirostris
+      Perrin's Beaked Whale              Mesoplodon perrini
+      North Pacific Beaked Whale         Mesoplodon stejnegeri
+      Dense-beaked Whale                 Mesoplodon densirostris
+      Moore's Beaked Whale               Mesoplodon carlhubbsi
+      Ginko-toothed Whale                Mesoplodon ginkodens
+      North Pacific Bottle-nosed Whale   Berardius bairdii
+
+      KOGIIDAE                           (Pygmy Sperm Whales)
+      Pygmy Sperm Whale                  Kogia breviceps
+      Dwarf Sperm Whale                  Kogia sima
+
+      PHYSETERIDAE                       (Sperm Whale)
+      Sperm Whale                        Physeter macrocephalus
+
+PERISSODACTYLA (Horses, Tapirs and Relatives)
+      EQUIDAE                            (Horses)
+      Feral Horse                        Equus caballus               I
+      Feral Ass                          Equus asinus                 I
+      Burchell's Zebra                   Equus burchelli              I
+
+ARTIODACTYLA                 (Even-toed Ungulates)
+      SUIDAE                             (Pigs)
+      Wild Pig                           Sus scrofa                   I,HA
+
+      CERVIDAE                           (Deer, Elk and Relatives)
+      Elk                                Cervus elaphus               I,HA,(10)
+      Axis Deer                          Axis axis                    I,HA
+      Fallow Deer                        Dama dama                    I,HA
+      Mule Deer                          Odocoileus hemionus          HA
+      Sambar Deer                        Cervus unicolor              I,HA
+
+      ANTILOCAPRIDAE                     (Pronghorn)
+      Pronghorn                          Antilocapra americana        HA
+
+      BOVIDAE                            (Sheep, Goats and Relatives)
+      Barbary Sheep                      Ammotragus lervia            I,HA
+      Himalayan Tahr                     Hemitragus jemlahicus        I,HA
+      Feral Goat                         Capra hircus                 I,HA
+      Bighorn Sheep                      Ovis canadensis              HA (11)
+      Blackbuck                          Antilope cervicapra          I
+      Bison                              Bos bison                    I
+      Feral Cattle                       Bos taurus                   I
+
+
+
+
+                                                                                  26
+

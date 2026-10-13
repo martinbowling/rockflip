@@ -1,0 +1,29 @@
+{
+  "scope": "Genuine controller-earned schema3 fixtures; source-ROM copy and matched symbols retained independently",
+  "items": [
+    {
+      "source": "output/qa/controller-earned-151-c66c.ram",
+      "retained": "output/lens-production/fixtures/actual-completed-c66c-schema3.ram",
+      "bytes": 32768,
+      "sha256": "84b21f38b55e39bdeccf6f438aa71b6e07451cbcdd71373a586f781509272aca"
+    },
+    {
+      "source": "output/qa/weather-migration-native/schema2-evenodd-schema3.ram",
+      "retained": "output/lens-production/fixtures/actual-condition-upgrades-c66c-schema3.ram",
+      "bytes": 32768,
+      "sha256": "e488fe8cf315ad2c1858c6cbe267efb9cfdffd9b9b5c268ac7a2282ae3d2daa7"
+    },
+    {
+      "source": "native/build/rom/RockFlip-Statewide.gbc",
+      "retained": "output/lens-production/fixtures/schema3-source.gbc",
+      "bytes": 2097152,
+      "sha256": "9471d32e7d0699aa748f52a526665ddba79552d6c3433c6d86c53e1c4ca48ec3"
+    },
+    {
+      "source": "native/build/rom/RockFlip-Statewide.gbc.debug/symbols.noi",
+      "retained": "output/lens-production/fixtures/schema3-source.noi",
+      "bytes": 73665,
+      "sha256": "b42d5acc5fe36e1ff0e1c4dad1c35370d013293d9a36ea9fdab126cf5bfaee6a"
+    }
+  ]
+}

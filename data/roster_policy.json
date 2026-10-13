@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "regular_species_target": 150,
+  "hidden_species_target": 1,
+  "total_species_target": 151,
+  "runtime_species_capacity": 192,
+  "target_status": "design_target_pending_complete_current_taxonomy_native_range_and_production_review",
+  "counting_unit": "distinct_current_native_species",
+  "subspecies_recolors_life_stages_and_repeat_regions_count_as_new_species": false,
+  "allowed_taxon_groups": [
+    "Reptilia",
+    "Amphibia"
+  ],
+  "region_ids": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D08",
+    "D09",
+    "D10",
+    "D11",
+    "D12",
+    "D13",
+    "D14",
+    "D15",
+    "D16"
+  ],
+  "runtime_region_aliases": {
+    "Mojave": "D01",
+    "D01": "D01",
+    "D02": "D02",
+    "D03": "D03",
+    "D04": "D04",
+    "D05": "D05",
+    "D06": "D06",
+    "D07": "D07",
+    "D08": "D08",
+    "D09": "D09",
+    "D10": "D10",
+    "D11": "D11",
+    "D12": "D12",
+    "D13": "D13",
+    "D14": "D14",
+    "D15": "D15",
+    "D16": "D16"
+  },
+  "region_permission_policy": "explicit_source_supported_allowlist_default_deny",
+  "habitat_permission_policy": "explicit_source_supported_allowlist_default_deny",
+  "source_priority": [
+    "current_CDFW_CWHR",
+    "current_species_accounts",
+    "NPS",
+    "USFWS",
+    "reviewed_research"
+  ],
+  "introduced_species_allowed_in_native_completion": false,
+  "historical_or_vagrant_records_automatically_approved": false,
+  "mandatory_progression_requires_all_species": false,
+  "hidden_discovery": {
+    "guide_number": 151,
+    "taxon_assignment": "Batrachoseps wakei",
+    "taxon_status": "source_reviewed_pending_art_clue_chain_runtime_and_release_review",
+    "unlocked_by": "optional_authored_naturalist_clue_chain",
+    "mandatory_for_ending": false,
+    "unbounded_random_roll_required": false,
+    "game_habitat": "fictional_source_supported_region_and_microhabitat",
+    "real_world_location_published": false
+  }
+}

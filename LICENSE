@@ -1,0 +1,12 @@
+License scope
+=============
+
+Existing per-file and component licenses remain in effect. See
+THIRD_PARTY_NOTICES.md, native/LICENSE, the engine-plugin metadata, and licenses/.
+
+Publishing this repository does not add a new blanket license for original
+game artwork, audio, narrative, datasets, documentation, or other files not
+already covered by an explicit license. All rights in that material remain
+reserved by the respective authors. Contact the project authors for additional
+permissions. This notice does not restrict rights already granted by an
+applicable upstream or component license.

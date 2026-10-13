@@ -1,0 +1,27 @@
+{
+  "width": 160,
+  "height": 104,
+  "colors": [
+    [
+      240,
+      224,
+      184
+    ],
+    [
+      216,
+      176,
+      96
+    ],
+    [
+      144,
+      104,
+      64
+    ],
+    [
+      32,
+      64,
+      56
+    ]
+  ],
+  "status": "authored_source_not_native_observed"
+}

@@ -1,0 +1,624 @@
+{
+  "arroyo_toad": {
+    "art_id": "arroyo_toad",
+    "species_id": 22,
+    "canonical_scientific_name": "Anaxyrus californicus",
+    "scientific_name_provisional": "Anaxyrus californicus",
+    "common_name": "Arroyo Toad",
+    "icon": "critter_arroyo_toad.png",
+    "portrait": "portrait_arroyo_toad.png",
+    "portrait32": "portrait32_arroyo_toad.png",
+    "frames": [
+      "portrait_arroyo_toad_idle0.png",
+      "portrait_arroyo_toad_idle1.png"
+    ],
+    "animation_sheet": "portrait_arroyo_toad_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        224,
+        216,
+        176
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        128,
+        128,
+        88
+      ],
+      [
+        216,
+        200,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B7C",
+      "0x0CA5",
+      "0x2E10",
+      "0x433B"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_foreleg_settle",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "arroyo",
+    "allowed_districts_from_roster": [
+      "D10",
+      "D11"
+    ],
+    "anatomy_sources": [
+      "https://www.fws.gov/species/arroyo-toad-anaxyrus-californicus"
+    ],
+    "review_notes": [
+      "Adult stocky warty toad, blunt snout, pale eyelid V and parotoid/sacral blotches; no western-toad mid-dorsal stripe. Horizontal pupils, no enlarged treefrog toe discs.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "yosemite_toad": {
+    "art_id": "yosemite_toad",
+    "species_id": 23,
+    "canonical_scientific_name": "Anaxyrus canorus",
+    "scientific_name_provisional": "Anaxyrus canorus",
+    "common_name": "Yosemite Toad",
+    "icon": "critter_yosemite_toad.png",
+    "portrait": "portrait_yosemite_toad.png",
+    "portrait32": "portrait32_yosemite_toad.png",
+    "frames": [
+      "portrait_yosemite_toad_idle0.png",
+      "portrait_yosemite_toad_idle1.png"
+    ],
+    "animation_sheet": "portrait_yosemite_toad_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        32,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        88
+      ],
+      [
+        224,
+        216,
+        160
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0CA4",
+      "0x2E11",
+      "0x537C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "yosemite_female",
+    "allowed_districts_from_roster": [
+      "D05"
+    ],
+    "anatomy_sources": [
+      "https://www.nps.gov/articles/000/yosemitetoad.htm",
+      "https://www.fws.gov/policy/library/2013/2013-09600.pdf"
+    ],
+    "review_notes": [
+      "Adult female: cream-bordered dark patches and obvious warts. Adult males are more uniform olive/yellow-green; sex variation is not a guide slot. Horizontal pupils and paired parotoid glands.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "northern_red_legged": {
+    "art_id": "northern_red_legged",
+    "species_id": 109,
+    "canonical_scientific_name": "Rana aurora",
+    "scientific_name_provisional": "Rana aurora",
+    "common_name": "Northern Red-legged Frog",
+    "icon": "critter_northern_red_legged.png",
+    "portrait": "portrait_northern_red_legged.png",
+    "portrait32": "portrait32_northern_red_legged.png",
+    "frames": [
+      "portrait_northern_red_legged_idle0.png",
+      "portrait_northern_red_legged_idle1.png"
+    ],
+    "animation_sheet": "portrait_northern_red_legged_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        192
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        152,
+        120,
+        80
+      ],
+      [
+        192,
+        96,
+        72
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6357",
+      "0x0C85",
+      "0x29F3",
+      "0x2598"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "aurora",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "anatomy_sources": [
+      "https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=68",
+      "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/northern-red-legged-frog-2015.html"
+    ],
+    "review_notes": [
+      "Adult smooth/slightly rugose slender ranid, dorsolateral folds, mask and lip edge, fine dark flecks. Red shown only on visible folded hindleg undersides, not bright red entire legs or iris. No inflated vocal sac.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "foothill_yellow_legged": {
+    "art_id": "foothill_yellow_legged",
+    "species_id": 110,
+    "canonical_scientific_name": "Rana boylii",
+    "scientific_name_provisional": "Rana boylii",
+    "common_name": "Foothill Yellow-legged Frog",
+    "icon": "critter_foothill_yellow_legged.png",
+    "portrait": "portrait_foothill_yellow_legged.png",
+    "portrait32": "portrait32_foothill_yellow_legged.png",
+    "frames": [
+      "portrait_foothill_yellow_legged_idle0.png",
+      "portrait_foothill_yellow_legged_idle1.png"
+    ],
+    "animation_sheet": "portrait_foothill_yellow_legged_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        208,
+        208
+      ],
+      [
+        40,
+        40,
+        32
+      ],
+      [
+        128,
+        136,
+        104
+      ],
+      [
+        216,
+        192,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6B56",
+      "0x10A5",
+      "0x3630",
+      "0x371B"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "boylii",
+    "allowed_districts_from_roster": [
+      "D04",
+      "D13"
+    ],
+    "anatomy_sources": [
+      "https://www.fws.gov/species/foothill-yellow-legged-frog-rana-boylii",
+      "https://www.fs.usda.gov/psw/publications/documents/psw_gtr248/psw_gtr248.pdf"
+    ],
+    "review_notes": [
+      "Adult rough pebbly skin, pale snout triangle, indistinct dorsolateral folds, yellow visible hindleg undersides and fully webbed rear feet. Tiny expanded toe tips are not treefrog adhesive discs.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "cascades_frog": {
+    "art_id": "cascades_frog",
+    "species_id": 111,
+    "canonical_scientific_name": "Rana cascadae",
+    "scientific_name_provisional": "Rana cascadae",
+    "common_name": "Cascades Frog",
+    "icon": "critter_cascades_frog.png",
+    "portrait": "portrait_cascades_frog.png",
+    "portrait32": "portrait32_cascades_frog.png",
+    "frames": [
+      "portrait_cascades_frog_idle0.png",
+      "portrait_cascades_frog_idle1.png"
+    ],
+    "animation_sheet": "portrait_cascades_frog_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        192
+      ],
+      [
+        32,
+        40,
+        24
+      ],
+      [
+        128,
+        128,
+        72
+      ],
+      [
+        208,
+        192,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6357",
+      "0x0CA4",
+      "0x2610",
+      "0x431A"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "cascadae",
+    "allowed_districts_from_roster": [
+      "D15"
+    ],
+    "anatomy_sources": [
+      "https://home.nps.gov/mora/learn/nature/amphibians.htm"
+    ],
+    "review_notes": [
+      "Adult brown/olive ranid with dark spots, prominent folds and long folded hindlegs. Tiny portrait cannot prove species identity against other ranids; final morphology review required.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "california_red_legged": {
+    "art_id": "california_red_legged",
+    "species_id": 112,
+    "canonical_scientific_name": "Rana draytonii",
+    "scientific_name_provisional": "Rana draytonii",
+    "common_name": "California Red-legged Frog",
+    "icon": "critter_california_red_legged.png",
+    "portrait": "portrait_california_red_legged.png",
+    "portrait32": "portrait32_california_red_legged.png",
+    "frames": [
+      "portrait_california_red_legged_idle0.png",
+      "portrait_california_red_legged_idle1.png"
+    ],
+    "animation_sheet": "portrait_california_red_legged_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        184
+      ],
+      [
+        48,
+        32,
+        24
+      ],
+      [
+        152,
+        112,
+        64
+      ],
+      [
+        200,
+        96,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5F57",
+      "0x0C86",
+      "0x21D3",
+      "0x2199"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "draytonii",
+    "allowed_districts_from_roster": [
+      "D08",
+      "D09",
+      "D10"
+    ],
+    "anatomy_sources": [
+      "https://www.nps.gov/yose/learn/nature/caredfrog.htm"
+    ],
+    "review_notes": [
+      "Large adult ranid in a different lateral crouch from aurora, dark dorsal blotches and red visible lower hindleg/abdomen. No sex-specific throat sac animation; color varies naturally.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "southern_yellow_legged": {
+    "art_id": "southern_yellow_legged",
+    "species_id": 113,
+    "canonical_scientific_name": "Rana muscosa",
+    "scientific_name_provisional": "Rana muscosa",
+    "common_name": "Southern Mountain Yellow-legged Frog",
+    "icon": "critter_southern_yellow_legged.png",
+    "portrait": "portrait_southern_yellow_legged.png",
+    "portrait32": "portrait32_southern_yellow_legged.png",
+    "frames": [
+      "portrait_southern_yellow_legged_idle0.png",
+      "portrait_southern_yellow_legged_idle1.png"
+    ],
+    "animation_sheet": "portrait_southern_yellow_legged_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        208
+      ],
+      [
+        40,
+        40,
+        32
+      ],
+      [
+        136,
+        120,
+        72
+      ],
+      [
+        224,
+        192,
+        96
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6B57",
+      "0x10A5",
+      "0x25F1",
+      "0x331C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_foreleg_settle",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "muscosa",
+    "allowed_districts_from_roster": [
+      "D05",
+      "D11"
+    ],
+    "anatomy_sources": [
+      "https://www.fws.gov/species/mountain-yellow-legged-frog-rana-muscosa"
+    ],
+    "review_notes": [
+      "Adult variable brown/yellow blotched mountain ranid; yellow is strongly represented on underside of folded rear limbs. Authored shoreline head/foreleg settling, never a defensive display.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "couch_spadefoot": {
+    "art_id": "couch_spadefoot",
+    "species_id": 118,
+    "canonical_scientific_name": "Scaphiopus couchii",
+    "scientific_name_provisional": "Scaphiopus couchii",
+    "common_name": "Couch's Spadefoot",
+    "icon": "critter_couch_spadefoot.png",
+    "portrait": "portrait_couch_spadefoot.png",
+    "portrait32": "portrait32_couch_spadefoot.png",
+    "frames": [
+      "portrait_couch_spadefoot_idle0.png",
+      "portrait_couch_spadefoot_idle1.png"
+    ],
+    "animation_sheet": "portrait_couch_spadefoot_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        160
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        152,
+        152,
+        72
+      ],
+      [
+        224,
+        208,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x537D",
+      "0x0CA5",
+      "0x2673",
+      "0x3B5C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "couchii",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "anatomy_sources": [
+      "https://escholarship.org/content/qt79s5p5f8/supp/IB_104_Lab_Manual_2021.pdf"
+    ],
+    "review_notes": [
+      "Adult female-style reticulate markings, large bulging eyes with vertical pupils, no true-toad parotoid lumps, visible sickle-shaped black hindfoot spade. Adult sex pattern varies; not a counted variant.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  },
+  "western_spadefoot": {
+    "art_id": "western_spadefoot",
+    "species_id": 124,
+    "canonical_scientific_name": "Spea hammondii",
+    "scientific_name_provisional": "Spea hammondii",
+    "common_name": "Western Spadefoot",
+    "icon": "critter_western_spadefoot.png",
+    "portrait": "portrait_western_spadefoot.png",
+    "portrait32": "portrait32_western_spadefoot.png",
+    "frames": [
+      "portrait_western_spadefoot_idle0.png",
+      "portrait_western_spadefoot_idle1.png"
+    ],
+    "animation_sheet": "portrait_western_spadefoot_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        216,
+        208,
+        160
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        136,
+        88
+      ],
+      [
+        216,
+        192,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x535B",
+      "0x0CA5",
+      "0x2E31",
+      "0x3B1B"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "hammondii",
+    "allowed_districts_from_roster": [
+      "D07",
+      "D09",
+      "D10"
+    ],
+    "anatomy_sources": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190378"
+    ],
+    "review_notes": [
+      "Adult squat comparatively smooth spadefoot, short limbs and vertical pupils; visible compact black hindfoot spade, no large parotoid glands and no treefrog discs.",
+      "Original source art only; no photo tracing or external image import.",
+      "Exact frame timing is an authored game abstraction; calm motion is never a provoked defensive reward.",
+      "Final anatomical identification, native camera/guide readability and human acceptance remain pending."
+    ]
+  }
+}

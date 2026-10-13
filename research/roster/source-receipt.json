@@ -1,0 +1,29 @@
+{
+  "retrieved_on": "2026-10-12",
+  "source_url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+  "source_date": "2016-05",
+  "source_sha256": "6d10773e495b32b981b72d8839ff8ce9e294259c59b96157d1a76bc116240965",
+  "extraction": "pdftotext -layout; binomial rows inside AMPHIBIA through REPTILIA sections",
+  "counts": {
+    "total_rows": 183,
+    "unique_scientific_names": 183,
+    "marked_introduced": 21,
+    "not_marked_introduced": 162,
+    "mixed_population_notes": 1,
+    "groups": {
+      "Amphibia": 74,
+      "Reptilia": 109
+    }
+  },
+  "not_current_native_total": true,
+  "review_required": [
+    "current taxonomy and synonyms",
+    "source typos",
+    "introduced or mixed-native populations",
+    "current versus historical occurrence",
+    "vagrant versus regular presence",
+    "marine/coastal versus terrestrial habitat",
+    "source-supported district placement"
+  ],
+  "candidate_inventory_not_runtime_data": true
+}

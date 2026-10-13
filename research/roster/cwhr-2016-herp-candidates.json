@@ -1,0 +1,1654 @@
+{
+  "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+  "source_date": "2016-05",
+  "status": "historical_discovery_inventory_not_final_native_roster",
+  "rows": [
+    {
+      "common_name_source": "Long-toed Salamander",
+      "scientific_name_source": "Ambystoma macrodactylum",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Tiger Salamander",
+      "scientific_name_source": "Ambystoma mavortium",
+      "group": "Amphibia",
+      "source_flags": "I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Tiger Salamander",
+      "scientific_name_source": "Ambystoma californiense",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Northwestern Salamander",
+      "scientific_name_source": "Ambystoma gracile",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Giant Salamander",
+      "scientific_name_source": "Dicamptodon ensatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Coastal Giant Salamander",
+      "scientific_name_source": "Dicamptodon tenebrosus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Southern Torrent Salamander",
+      "scientific_name_source": "Rhyacotriton variegatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Newt",
+      "scientific_name_source": "Taricha torosa",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Red-bellied Newt",
+      "scientific_name_source": "Taricha rivularis",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Rough-skinned Newt",
+      "scientific_name_source": "Taricha granulosa",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sierra Newt",
+      "scientific_name_source": "Taricha sierrae",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Mount Lyell Salamander",
+      "scientific_name_source": "Hydromantes platycephalus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Black-bellied Slender Salamander",
+      "scientific_name_source": "Batrachoseps nigriventris",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Channel Islands Slender Salamander",
+      "scientific_name_source": "Batrachoseps pacificus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "San Gabriel Mtns Slender Salamander",
+      "scientific_name_source": "Batrachoseps gabrieli",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Gabilan Mtns Slender Salamander",
+      "scientific_name_source": "Batrachoseps gavilanensis",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Santa Lucia Mtns Slender Salamander",
+      "scientific_name_source": "Batrachoseps luciae",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Lesser Slender Salamander",
+      "scientific_name_source": "Batrachoseps minor",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "San Simeon Slender Salamander",
+      "scientific_name_source": "Batrachoseps incognitus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sequoia Slender Salamander",
+      "scientific_name_source": "Batrachoseps kawia",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Relictual Slender Salamander",
+      "scientific_name_source": "Batrachoseps relictus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Greenhorn Mtns Slender Salamander",
+      "scientific_name_source": "Batrachoseps altasierrae",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Fairview Slender Salamander",
+      "scientific_name_source": "Batrachoseps bramei",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Slender Salamander",
+      "scientific_name_source": "Batrachoseps attenuatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Shasta Salamander",
+      "scientific_name_source": "Hydromantes shastae",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Kern Canyon Slender Salamander",
+      "scientific_name_source": "Batrachoseps simatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Limestone Salamander",
+      "scientific_name_source": "Hydromantes brunus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Gregarious Slender Salamander",
+      "scientific_name_source": "Batrachoseps gregarius",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Hell Hollow Slender Salamander",
+      "scientific_name_source": "Batrachoseps diabolicus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Kings River Slender Salamander",
+      "scientific_name_source": "Batrachoseps regius",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Scott Bar Salamander",
+      "scientific_name_source": "Plethodon asupak",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Southern California Slender Salamander",
+      "scientific_name_source": "Batrachoseps major",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Wandering Salamander",
+      "scientific_name_source": "Aneides vagrans",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Tehachapi Slender Salamander",
+      "scientific_name_source": "Batrachoseps stebbinsi",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Dunn's Salamander",
+      "scientific_name_source": "Plethodon dunni",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Del Norte Salamander",
+      "scientific_name_source": "Plethodon elongatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Siskiyou Mtns Salamander",
+      "scientific_name_source": "Plethodon stormi",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Black Salamander",
+      "scientific_name_source": "Aneides flavipunctatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Clouded Salamander",
+      "scientific_name_source": "Aneides ferreus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Arboreal Salamander",
+      "scientific_name_source": "Aneides lugubris",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Ensatina",
+      "scientific_name_source": "Ensatina eschscholtzii",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Kern Plateau Slender Salamander",
+      "scientific_name_source": "Batrachoseps robustus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Inyo Mtns Salamander",
+      "scientific_name_source": "Batrachoseps campi",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Coastal Tailed Frog",
+      "scientific_name_source": "Ascaphus truei",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Great Basin Spadefoot",
+      "scientific_name_source": "Spea intermontana",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Couch's Spadefoot",
+      "scientific_name_source": "Scaphiopus couchii",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Spadefoot",
+      "scientific_name_source": "Spea hammondii",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Toad",
+      "scientific_name_source": "Anaxyrus boreas",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Great Plains Toad",
+      "scientific_name_source": "Anaxyrus cognatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Red-spotted Toad",
+      "scientific_name_source": "Anaxyrus punctatus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Arroyo Toad",
+      "scientific_name_source": "Anaxyrus californicus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Woodhouse's Toad",
+      "scientific_name_source": "Anaxyrus woodhousii",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Black Toad",
+      "scientific_name_source": "Anaxyrus exsul",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sonoran Desert Toad",
+      "scientific_name_source": "Incilius alvarius",
+      "group": "Amphibia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Yosemite Toad",
+      "scientific_name_source": "Anaxyrus canorus",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Coqui",
+      "scientific_name_source": "Eleutherodactylus coqui",
+      "group": "Amphibia",
+      "source_flags": "*,I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Treefrog",
+      "scientific_name_source": "Pseudacris cadaverina",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Pacific Treefrog",
+      "scientific_name_source": "Pseudacris regilla",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Baja California Treefrog",
+      "scientific_name_source": "Pseudacris hypochondriaca",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sierran Treefrog",
+      "scientific_name_source": "Pseudacris sierra",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Southern Mountain Yellow-legged Frog",
+      "scientific_name_source": "Rana muscosa",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sierra Nevada Yellow-legged Frog",
+      "scientific_name_source": "Rana sierrae",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Foothill Yellow-legged Frog",
+      "scientific_name_source": "Rana boylii",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "American Bullfrog",
+      "scientific_name_source": "Lithobates catesbeianus",
+      "group": "Amphibia",
+      "source_flags": "I,HA",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Northern Leopard Frog",
+      "scientific_name_source": "Lithobates pipiens",
+      "group": "Amphibia",
+      "source_flags": "I,(1)",
+      "source_introduced": true,
+      "mixed_native_populations": true,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Cascades Frog",
+      "scientific_name_source": "Rana cascadae",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "African Clawed Frog",
+      "scientific_name_source": "Xenopus laevis",
+      "group": "Amphibia",
+      "source_flags": "I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Rio Grande Leopard Frog",
+      "scientific_name_source": "Lithobates berlandieri",
+      "group": "Amphibia",
+      "source_flags": "I,HA",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Northern Red-legged Frog",
+      "scientific_name_source": "Rana aurora",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Red-legged Frog",
+      "scientific_name_source": "Rana draytonii",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Oregon Spotted Frog",
+      "scientific_name_source": "Rana pretiosa",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Lowland Leopard Frog",
+      "scientific_name_source": "Lithobates yavapaiensis",
+      "group": "Amphibia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Southern Leopard Frog",
+      "scientific_name_source": "Lithobates sphenocephalus",
+      "group": "Amphibia",
+      "source_flags": "I,HA",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Columbia Spotted Frog",
+      "scientific_name_source": "Rana luteiventris",
+      "group": "Amphibia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Snapping Turtle",
+      "scientific_name_source": "Chelydra serpentina",
+      "group": "Reptilia",
+      "source_flags": "I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sonora Mud Turtle",
+      "scientific_name_source": "Kinosternon sonoriense",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Pond Turtle",
+      "scientific_name_source": "Actinemys marmorata",
+      "group": "Reptilia",
+      "source_flags": "(2)",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Painted Turtle",
+      "scientific_name_source": "Chrysemys picta",
+      "group": "Reptilia",
+      "source_flags": "I,HA",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Pond Slider",
+      "scientific_name_source": "Trachemys scripta",
+      "group": "Reptilia",
+      "source_flags": "I,HA",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Mohave Desert Tortoise",
+      "scientific_name_source": "Gopherus agassizii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Hawksbill Sea Turtle",
+      "scientific_name_source": "Eretmochelys imbricata",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Olive Ridley Sea Turtle",
+      "scientific_name_source": "Lepidochelys olivacea",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Loggerhead Sea Turtle",
+      "scientific_name_source": "Caretta caretta",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Green Sea Turtle",
+      "scientific_name_source": "Chelonia mydas",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Leatherback Sea Turtle",
+      "scientific_name_source": "Dermochelys coriacea",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Spiny Softshell",
+      "scientific_name_source": "Apalone spinifera",
+      "group": "Reptilia",
+      "source_flags": "I,HA",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Moorish Wall Gecko",
+      "scientific_name_source": "Tarentola mauritanica",
+      "group": "Reptilia",
+      "source_flags": "*,I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Ringed Wall Gecko",
+      "scientific_name_source": "Tarentola annularis",
+      "group": "Reptilia",
+      "source_flags": "*,I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Mediterranean House Gecko",
+      "scientific_name_source": "Hemidactylus turcicus",
+      "group": "Reptilia",
+      "source_flags": "I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Peninsula Leaf-toed Gecko",
+      "scientific_name_source": "Phyllodactylus nocticolus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Banded Gecko",
+      "scientific_name_source": "Coleonyx variegatus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Switak\u2019s Banded Gecko",
+      "scientific_name_source": "Coleonyx switaki",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Island Night Lizard",
+      "scientific_name_source": "Xantusia riversiana",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Desert Night Lizard",
+      "scientific_name_source": "Xantusia vigilis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Granite Night Lizard",
+      "scientific_name_source": "Xantusia henshawi",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sandstone Night Lizard",
+      "scientific_name_source": "Xantusia gracilis",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sierra Night Lizard",
+      "scientific_name_source": "Xantusia sierra",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Wiggins\u2019 Night Lizard",
+      "scientific_name_source": "Xantusia wigginsi",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Skink",
+      "scientific_name_source": "Plestiodon skiltonianus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Gilbert's Skink",
+      "scientific_name_source": "Plestiodon gilberti",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Tiger Whiptail",
+      "scientific_name_source": "Aspidoscelis tigris",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Orange-throated Whiptail",
+      "scientific_name_source": "Aspidoscelis hyperythra",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Italian Wall Lizard",
+      "scientific_name_source": "Podarcis siculus",
+      "group": "Reptilia",
+      "source_flags": "*,I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Panamint Alligator Lizard",
+      "scientific_name_source": "Elgaria panamintina",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Southern Alligator Lizard",
+      "scientific_name_source": "Elgaria multicarinata",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Northern Alligator Lizard",
+      "scientific_name_source": "Elgaria coerulea",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Legless Lizard",
+      "scientific_name_source": "Anniella pulchra",
+      "group": "Reptilia",
+      "source_flags": "(2)",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Gila Monster",
+      "scientific_name_source": "Heloderma suspectum",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Jackson\u2019s Chameleon",
+      "scientific_name_source": "Chamaeleo jacksonii",
+      "group": "Reptilia",
+      "source_flags": "*,I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Desert Iguana",
+      "scientific_name_source": "Dipsosaurus dorsalis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Common Chuckwalla",
+      "scientific_name_source": "Sauromalus ater",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Cope's Leopard Lizard",
+      "scientific_name_source": "Gambelia copeii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Baja California Collared Lizard",
+      "scientific_name_source": "Crotaphytus vestigium",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Long-nosed Leopard Lizard",
+      "scientific_name_source": "Gambelia wislizenii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Blunt-nosed Leopard Lizard",
+      "scientific_name_source": "Gambelia sila",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Great Basin Collared Lizard",
+      "scientific_name_source": "Crotaphytus bicinctores",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Pygmy Short-horned Lizard",
+      "scientific_name_source": "Phrynosoma douglasii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Desert Horned Lizard",
+      "scientific_name_source": "Phrynosoma platyrhinos",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Desert Spiny Lizard",
+      "scientific_name_source": "Sceloporus magister",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Blainville\u2019s Horned Lizard",
+      "scientific_name_source": "Phrynosoma blainvillii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Mearns\u2019 Rock Lizard",
+      "scientific_name_source": "Petrosaurus mearnsi",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Baja California Brush Lizard",
+      "scientific_name_source": "Urosaurus nigricaudus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Ornate Tree Lizard",
+      "scientific_name_source": "Urosaurus ornatus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Long-tailed Brush Lizard",
+      "scientific_name_source": "Urosaurus graciosus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Flat-tailed Horned Lizard",
+      "scientific_name_source": "Phrynosoma mcallii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Common Side-blotched Lizard",
+      "scientific_name_source": "Uta stansburiana",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Fence Lizard",
+      "scientific_name_source": "Sceloporus occidentalis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Granite Spiny Lizard",
+      "scientific_name_source": "Sceloporus orcutti",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Mohave Fringe-toed Lizard",
+      "scientific_name_source": "Uma scoparia",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Coachella Fringe-toed Lizard",
+      "scientific_name_source": "Uma inornata",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Colorado Desert Fringe-toed Lizard",
+      "scientific_name_source": "Uma notata",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Zebra-tailed Lizard",
+      "scientific_name_source": "Callisaurus draconoides",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Common Sagebrush Lizard",
+      "scientific_name_source": "Sceloporus graciosus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Yellow-backed Spiny Lizard",
+      "scientific_name_source": "Sceloporus uniformis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Green Anole",
+      "scientific_name_source": "Anolis carolinensis",
+      "group": "Reptilia",
+      "source_flags": "*,I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Brown Anole",
+      "scientific_name_source": "Anolis sagrei",
+      "group": "Reptilia",
+      "source_flags": "*,I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Threadsnake",
+      "scientific_name_source": "Rena humilis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Brahminy Blindsnake",
+      "scientific_name_source": "Ramphotyphlops braminus",
+      "group": "Reptilia",
+      "source_flags": "I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Southern Rubber Boa",
+      "scientific_name_source": "Charina umbratica",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Northern Rubber Boa",
+      "scientific_name_source": "Charina bottae",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Northern Three-lined Boa",
+      "scientific_name_source": "Lithanura orcutti",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Kingsnake",
+      "scientific_name_source": "Lampropeltis californiae",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Mountain Kingsnake",
+      "scientific_name_source": "Lampropeltis zonata",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Long-nosed Snake",
+      "scientific_name_source": "Rhinocheilus lecontei",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Groundsnake",
+      "scientific_name_source": "Sonora semiannulata",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Shovel-nosed Snake",
+      "scientific_name_source": "Chionactis occipitalis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Black-headed Snake",
+      "scientific_name_source": "Tantilla planiceps",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sonoran Lyresnake",
+      "scientific_name_source": "Trimorphodon lambda",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "California Lyresnake",
+      "scientific_name_source": "Trimorphodon lyrophanes",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Striped Whipsnake",
+      "scientific_name_source": "Coluber taeniatus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Glossy Snake",
+      "scientific_name_source": "Arizona elegans",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Smith\u2019s Black-headed Snake",
+      "scientific_name_source": "Tantilla hobartsmithi",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Spotted Leaf-nosed Snake",
+      "scientific_name_source": "Phyllorhynchus decurtatus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Gophersnake",
+      "scientific_name_source": "Pituophis catenifer",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "North American Racer",
+      "scientific_name_source": "Coluber constrictor",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Coachwhip",
+      "scientific_name_source": "Coluber flagellum",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Striped Racer",
+      "scientific_name_source": "Coluber lateralis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Baja California Ratsnake",
+      "scientific_name_source": "Bogertophis rosaliae",
+      "group": "Reptilia",
+      "source_flags": "*",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Patch-nosed Snake",
+      "scientific_name_source": "Salvadora hexalepis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Baja California Coachwhip",
+      "scientific_name_source": "Coluber fuliginosus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Desert Nightsnake",
+      "scientific_name_source": "Hypsiglena chlorophaea",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Coast Nightsnake",
+      "scientific_name_source": "Hypsiglena ochrorhyncha",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Common Sharp-tailed Snake",
+      "scientific_name_source": "Contia tenuis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Forest Sharp-tailed Snake",
+      "scientific_name_source": "Contia longicauda",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Ring-necked Snake",
+      "scientific_name_source": "Diadophis punctatus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Common Gartersnake",
+      "scientific_name_source": "Thamnophis sirtalis",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Terrestrial Gartersnake",
+      "scientific_name_source": "Thamnophis elegans",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Southern Watersnake",
+      "scientific_name_source": "Nerodia fasciata",
+      "group": "Reptilia",
+      "source_flags": "I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Common Watersnake",
+      "scientific_name_source": "Nerodia sipedon",
+      "group": "Reptilia",
+      "source_flags": "I",
+      "source_introduced": true,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Checkered Gartersnake",
+      "scientific_name_source": "Thamnophis marcianus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Northwestern Gartersnake",
+      "scientific_name_source": "Thamnophis ordinoides",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Two-striped Gartersnake",
+      "scientific_name_source": "Thamnophis hammondii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Aquatic Gartersnake",
+      "scientific_name_source": "Thamnophis atratus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Giant Gartersnake",
+      "scientific_name_source": "Thamnophis gigas",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sierra Gartersnake",
+      "scientific_name_source": "Thamnophis couchii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Yellow-bellied Seasnake",
+      "scientific_name_source": "Pelamis platura",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Rattlesnake",
+      "scientific_name_source": "Crotalus oreganus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Sidewinder",
+      "scientific_name_source": "Crotalus cerastes",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Mohave Rattlesnake",
+      "scientific_name_source": "Crotalus scutulatus",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Speckled Rattlesnake",
+      "scientific_name_source": "Crotalus mitchellii",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Western Diamond-backed Rattlesnake",
+      "scientific_name_source": "Crotalus atrox",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Red Diamond Rattlesnake",
+      "scientific_name_source": "Crotalus ruber",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    },
+    {
+      "common_name_source": "Panamint Rattlesnake",
+      "scientific_name_source": "Crotalus stephensi",
+      "group": "Reptilia",
+      "source_flags": "",
+      "source_introduced": false,
+      "mixed_native_populations": false,
+      "review_status": "candidate_needs_current_taxonomy_native_region_review"
+    }
+  ]
+}

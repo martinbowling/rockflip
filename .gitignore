@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.env
+.env.*
+node_modules/
+native/build/
+native/captures/
+native/save-states/
+native/artifacts/
+output/
+art/out/*_4x.png
+*.sav
+*.gbstate.json

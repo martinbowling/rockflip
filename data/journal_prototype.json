@@ -1,0 +1,2152 @@
+{
+  "schema_version": 1,
+  "title": "THE LIVING DESERT",
+  "content_status": "authored_not_native_implemented",
+  "ownership": "Journal content and acceptance specification only; engine, assets and saves require parent integration.",
+  "native_text_columns": 20,
+  "coordinates_policy": "No real coordinates or private wildlife locality. Existing encounter/map IDs refer only to fictional game habitat sites.",
+  "scope": {
+    "mandatory_mojave_stages": 5,
+    "optional_current_map_pages": 9,
+    "current_runtime_species": 18,
+    "current_maps": 10,
+    "current_districts": 8,
+    "framework_chapters": 4,
+    "claim": "A fully authored short Mojave investigation and statewide story framework; not a complete Mojave district or chapter/campaign."
+  },
+  "premise_dialogue_pages": [
+    [
+      "OUR FIELD EXHIBIT",
+      "NEEDS YOUR PHOTOS",
+      "AND YOUR FIELD NOTES"
+    ],
+    [
+      "FIND WHAT MAKES EACH",
+      "HABITAT A HOME.",
+      "LEAVE IT SAFE FOR",
+      "THE NEXT OBSERVER."
+    ]
+  ],
+  "npcs": [
+    {
+      "id": "RANGER_NELL",
+      "name_lines": [
+        "RANGER NELL"
+      ],
+      "role": "Opening ranger and journal mentor",
+      "art_status": "requires_original_native_NPC_art",
+      "placement_design": {
+        "map_id": 0,
+        "anchor": "field_camp",
+        "actual_game_tile_assignment": "parent_world_integration_required"
+      },
+      "repeat_dialogue_pages": [
+        [
+          "YOUR JOURNAL KEEPS",
+          "THE NEXT CLUE.",
+          "REST TO CHANGE TIME.",
+          "B PUTS ROCKS BACK."
+        ]
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "J01_01",
+      "native_slot": 0,
+      "district_id": "D01",
+      "title": "A HOME BELOW",
+      "implementation_status": "authored_requires_native_integration",
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "I AM RANGER NELL.",
+          "OUR EXHIBIT NEEDS",
+          "MORE THAN PRETTY",
+          "ANIMAL PHOTOS."
+        ],
+        [
+          "START AT A BURROW.",
+          "WATCH THE TORTOISE.",
+          "KEEP SPACE AT THREE",
+          "OR FOUR. WAIT, SNAP."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 0,
+          "eligible_spot_ids": [
+            2
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 3,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_0_S2",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_BURROW",
+          "prompt_lines": [
+            "WHAT DOES A BURROW",
+            "OFFER IN THE HEAT?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "COOL SHELTER"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "A CAMERA STAND"
+              ]
+            },
+            {
+              "id": "2",
+              "lines": [
+                "A PLACE TO DIG"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "COOL SHELTER, YES.",
+            "LEAVE IT IN PLACE."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "REST UNTIL DAY.",
+        "LOOK BY THE BURROW.",
+        "SPACE THREE OR FOUR.",
+        "HOLD STILL TO FOCUS."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "A PHOTO AND A NOTE.",
+          "NOW WE HAVE EVIDENCE"
+        ],
+        [
+          "LET US COMPARE TWO",
+          "TWO DIFFERENT HOMES."
+        ]
+      ],
+      "completion_flag": "J01_01_DONE",
+      "reward": {
+        "type": "journal_evidence_page",
+        "implementation_status": "requires_native_integration"
+      },
+      "turn_in": "field_camp_ranger",
+      "optional": false
+    },
+    {
+      "id": "J01_02",
+      "native_slot": 1,
+      "district_id": "D01",
+      "title": "HIDE IN PLAIN SIGHT",
+      "implementation_status": "authored_requires_native_integration",
+      "prerequisite_task_ids": [
+        "J01_01"
+      ],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "FIND THE LIZARD ON",
+          "SAND. THEN WATCH A",
+          "CHUCKWALLA BY ROCKS."
+        ],
+        [
+          "COMPARE THE HOMES.",
+          "LET THE CHUCKWALLA",
+          "SETTLE IF IT HIDES."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 2,
+          "eligible_spot_ids": [
+            3
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_2_S3",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "photo_event",
+          "species_id": 1,
+          "eligible_spot_ids": [
+            1
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_1_S1",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_COMPARE",
+          "prompt_lines": [
+            "MATCH EACH ANIMAL",
+            "TO ITS SHELTER."
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "SAND / ROCK CRACK"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "POND / TREE"
+              ]
+            },
+            {
+              "id": "2",
+              "lines": [
+                "TREE / OPEN WATER"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "SAND BLENDS COLORS.",
+            "ROCK CRACKS SHELTER."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "DAY: SAND AND CRACK.",
+        "IF IT HIDES, WAIT.",
+        "NO CHASING NEEDED."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "ONE DESERT CAN HOLD",
+          "MANY KINDS OF HOME."
+        ],
+        [
+          "NEXT: WHAT HAPPENS",
+          "WHEN WE LOOK UNDER",
+          "A LOOSE ROCK?"
+        ]
+      ],
+      "completion_flag": "J01_02_DONE",
+      "reward": {
+        "type": "journal_evidence_page",
+        "implementation_status": "requires_native_integration"
+      },
+      "turn_in": "field_camp_ranger",
+      "optional": false
+    },
+    {
+      "id": "J01_03",
+      "native_slot": 2,
+      "district_id": "D01",
+      "title": "LEAVE A HOME WHOLE",
+      "implementation_status": "authored_requires_native_integration",
+      "prerequisite_task_ids": [
+        "J01_02"
+      ],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "AT DUSK, LOOK UNDER",
+          "A LOOSE ROCK FOR A",
+          "BANDED KINGSNAKE."
+        ],
+        [
+          "PHOTO, THEN REPLACE",
+          "THE ROCK WITH B.",
+          "DO NOT HANDLE IT."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 5,
+          "eligible_spot_ids": [
+            0,
+            6
+          ],
+          "phase": "dusk",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_5_S0_6",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "care_after_photo",
+          "species_id": 5,
+          "eligible_spot_ids": [
+            0,
+            6
+          ],
+          "care_flag": "J_CARE_KINGSNAKE_ROCK",
+          "event_sequence": [
+            "valid_photo_at_spot",
+            "restore_same_spot"
+          ],
+          "requires_actual_flipped_rock": true,
+          "reward_once": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_REPLACE",
+          "prompt_lines": [
+            "WHAT FINISHES A",
+            "ROCK OBSERVATION?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "REPLACE THE ROCK"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "CARRY IT TO CAMP"
+              ]
+            },
+            {
+              "id": "2",
+              "lines": [
+                "LEAVE IT OPEN"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "PUT ITS HOME BACK.",
+            "THAT IS FIELD CARE."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "REST UNTIL DUSK.",
+        "CHECK A LOOSE ROCK.",
+        "B: REPLACE AFTER.",
+        "CAMP CAN REMIND YOU."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "YOU LEFT A HOME",
+          "AS YOU FOUND IT."
+        ],
+        [
+          "NIGHT BRINGS A NEW",
+          "PAIR OF QUESTIONS."
+        ]
+      ],
+      "completion_flag": "J01_03_DONE",
+      "reward": {
+        "type": "camera_feature",
+        "feature_id": "FIELD_NOTE_CAPTION",
+        "description": "Attach habitat/time captions to journal evidence; no mandatory zoom or score advantage.",
+        "implementation_status": "requires_native_integration"
+      },
+      "turn_in": "field_camp_ranger",
+      "optional": false
+    },
+    {
+      "id": "J01_04",
+      "native_slot": 3,
+      "district_id": "D01",
+      "title": "TWO NIGHT REFUGES",
+      "implementation_status": "authored_requires_native_integration",
+      "prerequisite_task_ids": [
+        "J01_03"
+      ],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "A TOAD BY THE SPRING",
+          "A GECKO BY DRY ROCK.",
+          "BOTH AFTER DARK."
+        ],
+        [
+          "TWO REFUGES. WHICH",
+          "PHOTO SHOWS WATER",
+          "CLOSE TO THE ANIMAL?"
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 4,
+          "eligible_spot_ids": [
+            5
+          ],
+          "phase": "night",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_4_S5",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "care_after_photo",
+          "species_id": 4,
+          "eligible_spot_ids": [
+            5
+          ],
+          "care_flag": "J_CARE_SPRING_ROCK",
+          "event_sequence": [
+            "valid_photo_at_spot",
+            "restore_same_spot"
+          ],
+          "requires_actual_flipped_rock": true,
+          "reward_once": true
+        },
+        {
+          "type": "photo_event",
+          "species_id": 12,
+          "eligible_spot_ids": [
+            7
+          ],
+          "phase": "night",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_12_S7",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_NIGHT",
+          "prompt_lines": [
+            "WHICH NIGHT PHOTO",
+            "IS BY SPRING WATER?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "RED-SPOTTED TOAD"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "BANDED GECKO"
+              ]
+            },
+            {
+              "id": "2",
+              "lines": [
+                "BOTH IN A LAKE"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "THE TOAD IS BY WATER",
+            "THE GECKO HAS COVER."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "REST UNTIL NIGHT.",
+        "SPRING: WET ROCK.",
+        "WASH: DRY ROCK COVER",
+        "REPLACE SPRING ROCK."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "DARKNESS IS A TIME.",
+          "IT IS NOT A HABITAT."
+        ],
+        [
+          "YOUR TWO PHOTOS SHOW",
+          "WHY THE HOMES MATTER"
+        ]
+      ],
+      "completion_flag": "J01_04_DONE",
+      "reward": {
+        "type": "story_route",
+        "route_id": "D04_OAK_LEAD",
+        "map_ids": [
+          3
+        ],
+        "description": "Offer the authored oak corridor as the next investigation lead; does not claim D04 completion.",
+        "implementation_status": "requires_native_integration"
+      },
+      "turn_in": "field_camp_ranger",
+      "optional": false
+    },
+    {
+      "id": "J01_05",
+      "native_slot": 4,
+      "district_id": "D01",
+      "title": "THE LIVING DESERT",
+      "implementation_status": "authored_requires_native_integration",
+      "prerequisite_task_ids": [
+        "J01_04"
+      ],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "PUT YOUR NOTES IN",
+          "THE EXHIBIT FOLDER.",
+          "WHAT LINKS ALL THESE",
+          "DESERT OBSERVATIONS?"
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "task_flags_all",
+          "task_ids": [
+            "J01_01",
+            "J01_02",
+            "J01_03",
+            "J01_04"
+          ]
+        },
+        {
+          "type": "no_unrestored_rocks",
+          "spot_ids": [
+            0,
+            5,
+            6
+          ],
+          "on_failure": "display_pending_rock_map_and_restore_hint"
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_SYNTHESIS",
+          "prompt_lines": [
+            "WHAT DID WE LEARN",
+            "FROM THESE HOMES?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "MANY SHELTER TYPES"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "ALL NEED A LAKE"
+              ]
+            },
+            {
+              "id": "2",
+              "lines": [
+                "ALL LIVE UNDER ROCKS"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "BURROW, SAND, ROCK,",
+            "AND WATER: A MOSAIC."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "CHECK YOUR NOTES.",
+        "REPLACE OPEN ROCKS.",
+        "RETURN TO FIELD CAMP"
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THE MOJAVE FOLDER",
+          "HAS ITS FIRST STORY.",
+          "YOU DID MORE THAN",
+          "FILL A PHOTO COUNT."
+        ],
+        [
+          "LOW DESERT, BASIN,",
+          "AND OAK COUNTRY",
+          "STILL NEED STORIES."
+        ],
+        [
+          "THEN FOLLOW WATER,",
+          "COASTS, AND NORTHERN",
+          "TRAILS. EVERY REGION",
+          "HAS NEW QUESTIONS."
+        ]
+      ],
+      "completion_flag": "J01_05_DONE",
+      "reward": {
+        "type": "district_investigation_complete",
+        "district_id": "D01",
+        "flag": "INV_D01_COMPLETE",
+        "description": "Completes this authored opening investigation only; full Mojave route/art coverage remains a separate release gate.",
+        "implementation_status": "requires_native_integration"
+      },
+      "turn_in": "field_camp_ranger",
+      "optional": false
+    }
+  ],
+  "optional_tasks": [
+    {
+      "id": "JS_SIDEWINDER_SPACE",
+      "native_slot": 5,
+      "district_id": "D01",
+      "title": "KEEP A WIDE FRAME",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "WATCH THE SIDEWINDER",
+          "KEEP THREE OR FOUR.",
+          "NO HANDLING NEEDED."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 3,
+          "eligible_spot_ids": [
+            4
+          ],
+          "phase": "night",
+          "minimum_stars": 2,
+          "minimum_distance": 3,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_3_S4",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_SAFE_SPACE",
+          "prompt_lines": [
+            "WHICH IS FIELD CARE?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "KEEP SPACE"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "PICK IT UP"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "WATCH THE SIDEWINDER",
+        "KEEP THREE OR FOUR.",
+        "NO HANDLING NEEDED."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_SIDEWINDER_SPACE_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "SIDEWINDER_SPACE",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_WASH_AND_CANYON",
+      "native_slot": 6,
+      "district_id": "D01",
+      "title": "A CHANGE OF LIGHT",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "WASH IN DAYLIGHT.",
+          "CANYON AT DUSK.",
+          "KEEP THEIR CAPTIONS."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 13,
+          "eligible_spot_ids": [
+            8
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_13_S8",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "photo_event",
+          "species_id": 14,
+          "eligible_spot_ids": [
+            9
+          ],
+          "phase": "dusk",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_14_S9",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_TIME",
+          "prompt_lines": [
+            "WHAT CHANGED HERE?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "TIME AND HABITAT"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "SPECIES TURNED BLUE"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "WASH IN DAYLIGHT.",
+        "CANYON AT DUSK.",
+        "KEEP THEIR CAPTIONS."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_WASH_AND_CANYON_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "WASH_AND_CANYON",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_OAK_DAY_NIGHT",
+      "native_slot": 7,
+      "district_id": "D04",
+      "title": "THE OAK CORRIDOR",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "A ROCK PERCH BY DAY.",
+          "DAMP OAK COVER LATER",
+          "LEAVE BARK IN PLACE."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 6,
+          "eligible_spot_ids": [
+            10
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_6_S10",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "photo_event",
+          "species_id": 16,
+          "eligible_spot_ids": [
+            11
+          ],
+          "phase": "night",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_16_S11",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_OAK",
+          "prompt_lines": [
+            "WHAT DID YOU SEE?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "TWO TIMES AND HOMES"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "TWO TAME PETS"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "A ROCK PERCH BY DAY.",
+        "DAMP OAK COVER LATER",
+        "LEAVE BARK IN PLACE."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_OAK_DAY_NIGHT_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "OAK_DAY_NIGHT",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_CREEK_NEIGHBORS",
+      "native_slot": 8,
+      "district_id": "D08",
+      "title": "THE CREEK CHANGES",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "WALK BY THE CREEK.",
+          "IN DAY AND AT NIGHT.",
+          "LOOK WITHOUT TOUCH."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 7,
+          "eligible_spot_ids": [
+            12
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_7_S12",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "photo_event",
+          "species_id": 8,
+          "eligible_spot_ids": [
+            13
+          ],
+          "phase": "night",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_8_S13",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_CREEK",
+          "prompt_lines": [
+            "WHAT STAYED USEFUL?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "WATER AND COVER"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "A FLASH IN ITS FACE"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "WALK BY THE CREEK.",
+        "IN DAY AND AT NIGHT.",
+        "LOOK WITHOUT TOUCH."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_CREEK_NEIGHBORS_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "CREEK_NEIGHBORS",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_POOL_AND_BURROW",
+      "native_slot": 9,
+      "district_id": "D06",
+      "title": "TWO WATER STORIES",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "A GRASSLAND BURROW.",
+          "A FRESHWATER BANK.",
+          "LEAVE BURROWS ALONE."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 9,
+          "eligible_spot_ids": [
+            14
+          ],
+          "phase": "night",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_9_S14",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "photo_event",
+          "species_id": 15,
+          "eligible_spot_ids": [
+            15
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_15_S15",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_VALLEY",
+          "prompt_lines": [
+            "MATCH YOUR CAPTIONS."
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "BURROW / POND BANK"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "CORAL / DUNE"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "A GRASSLAND BURROW.",
+        "A FRESHWATER BANK.",
+        "LEAVE BURROWS ALONE."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_POOL_AND_BURROW_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "POOL_AND_BURROW",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_ISLAND_DAYLIGHT",
+      "native_slot": 10,
+      "district_id": "D12",
+      "title": "A NAME IS NOT A CLOCK",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "ISLAND NIGHT LIZARD.",
+          "LOOK IN DAYLIGHT.",
+          "LET IT STAY IN COVER"
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 10,
+          "eligible_spot_ids": [
+            16
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_10_S16",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_ISLAND",
+          "prompt_lines": [
+            "WHEN WAS YOUR PHOTO?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "DAY"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "ONLY AT MIDNIGHT"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "ISLAND NIGHT LIZARD.",
+        "LOOK IN DAYLIGHT.",
+        "LET IT STAY IN COVER"
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_ISLAND_DAYLIGHT_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "ISLAND_DAYLIGHT",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_VOLCANIC_COVER",
+      "native_slot": 11,
+      "district_id": "D15",
+      "title": "SMALL LEGS LONG TAIL",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "LOOK BY ROCK AND LOG",
+          "LET IT SETTLE.",
+          "LEAVE ITS COVER SAFE"
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 11,
+          "eligible_spot_ids": [
+            17
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_11_S17",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_VOLCANO",
+          "prompt_lines": [
+            "WHAT DID YOU LEAVE?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "ITS COVER IN PLACE"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "AN OPEN HOLE"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "LOOK BY ROCK AND LOG",
+        "LET IT SETTLE.",
+        "LEAVE ITS COVER SAFE"
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_VOLCANIC_COVER_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "VOLCANIC_COVER",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_HIGH_WATER",
+      "native_slot": 12,
+      "district_id": "D05",
+      "title": "THE HIGH WATER PAGE",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "LOOK FROM LAKE EDGE.",
+          "KEEP THE WATER CLEAN",
+          "STAY ON THE TRAIL."
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 17,
+          "eligible_spot_ids": [
+            18
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_17_S18",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_HIGH",
+          "prompt_lines": [
+            "WHICH CAPTION FITS?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "MOUNTAIN LAKE EDGE"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "DESERT SAND"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "LOOK FROM LAKE EDGE.",
+        "KEEP THE WATER CLEAN",
+        "STAY ON THE TRAIL."
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_HIGH_WATER_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "HIGH_WATER",
+        "implementation_status": "requires_native_integration"
+      }
+    },
+    {
+      "id": "JS_FOG_AND_OAK",
+      "native_slot": 13,
+      "district_id": "D09",
+      "title": "A FOGGY CONNECTION",
+      "implementation_status": "authored_requires_native_integration",
+      "optional": true,
+      "prerequisite_task_ids": [],
+      "npc_id": "RANGER_NELL",
+      "start_dialogue_pages": [
+        [
+          "CREEK BY DAY.",
+          "DAMP OAK COVER LATER",
+          "COMPARE YOUR NOTES"
+        ]
+      ],
+      "requirements_all": [
+        {
+          "type": "photo_event",
+          "species_id": 7,
+          "eligible_spot_ids": [
+            19
+          ],
+          "phase": "day",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_7_S19",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "photo_event",
+          "species_id": 16,
+          "eligible_spot_ids": [
+            20
+          ],
+          "phase": "night",
+          "minimum_stars": 2,
+          "minimum_distance": 2,
+          "focus_frames_minimum": 45,
+          "require_safe_distance": true,
+          "flag": "J_PHOTO_16_S20",
+          "credit_prior_valid_best_photo": true
+        },
+        {
+          "type": "annotation_choice",
+          "flag": "J_NOTE_FOG",
+          "prompt_lines": [
+            "WHAT REPEATS HERE?"
+          ],
+          "options": [
+            {
+              "id": "0",
+              "lines": [
+                "CREEK AND OAK HOMES"
+              ]
+            },
+            {
+              "id": "1",
+              "lines": [
+                "EVERY DESERT SPECIES"
+              ]
+            }
+          ],
+          "correct_option_id": "0",
+          "retry": "unlimited_immediate_no_penalty",
+          "feedback_lines": [
+            "HABITAT NOTE ADDED."
+          ],
+          "answers_are_observations_not_population_claims": true
+        }
+      ],
+      "hint_lines": [
+        "CREEK BY DAY.",
+        "DAMP OAK COVER LATER",
+        "COMPARE YOUR NOTES"
+      ],
+      "completion_dialogue_pages": [
+        [
+          "THIS PAGE ADDS A",
+          "NEW OBSERVATION.",
+          "IT IS NOT THE WHOLE",
+          "REGIONAL STORY."
+        ]
+      ],
+      "completion_flag": "JS_FOG_AND_OAK_DONE",
+      "reward": {
+        "type": "optional_exhibit_caption",
+        "caption_id": "FOG_AND_OAK",
+        "implementation_status": "requires_native_integration"
+      }
+    }
+  ],
+  "chapter_framework": [
+    {
+      "id": "C01",
+      "title": "SHELTER AND HEIGHT",
+      "status": "story_framework_future_district_content_required",
+      "district_ids": [
+        "D01",
+        "D02",
+        "D03",
+        "D04"
+      ],
+      "district_order": "player_choice_within_unlocked_cluster",
+      "required_flags": [
+        "INV_D01_COMPLETE",
+        "INV_D02_COMPLETE",
+        "INV_D03_COMPLETE",
+        "INV_D04_COMPLETE"
+      ],
+      "native_heading_lines": [
+        "SHELTER AND HEIGHT"
+      ],
+      "chapter_question_lines": [
+        "LOW DESERT: HEAT.",
+        "BASIN: COOL REFUGES.",
+        "OAKS: LINKED HOMES."
+      ],
+      "conclusion_dialogue_pages": [
+        [
+          "FROM DESERT TO OAKS,",
+          "YOU FOUND DIFFERENT",
+          "WAYS TO FIND SHELTER"
+        ],
+        [
+          "OUR NEXT FOLDER ASKS",
+          "WHAT WATER CHANGES.",
+          "THE VALLEYS AND HIGH",
+          "COUNTRY ARE WAITING."
+        ]
+      ],
+      "reward": {
+        "type": "story_cluster_unlock",
+        "ids": [
+          "D05",
+          "D06",
+          "D07",
+          "D08"
+        ],
+        "implementation_status": "requires_native_integration"
+      },
+      "acceptance_gate": "Complete each full regional investigation by player input; map visitation/photo quotas alone cannot award chapter completion."
+    },
+    {
+      "id": "C02",
+      "title": "WHEN WATER RETURNS",
+      "status": "story_framework_future_district_content_required",
+      "district_ids": [
+        "D05",
+        "D06",
+        "D07",
+        "D08"
+      ],
+      "district_order": "player_choice_within_unlocked_cluster",
+      "required_flags": [
+        "INV_D05_COMPLETE",
+        "INV_D06_COMPLETE",
+        "INV_D07_COMPLETE",
+        "INV_D08_COMPLETE"
+      ],
+      "native_heading_lines": [
+        "WHEN WATER RETURNS"
+      ],
+      "chapter_question_lines": [
+        "MOUNTAIN WATER.",
+        "VALLEY RAIN POOLS.",
+        "DELTA / CREEK LINKS."
+      ],
+      "conclusion_dialogue_pages": [
+        [
+          "POOLS COME AND GO.",
+          "CREEKS LINK HOMES.",
+          "YOUR NOTES SHOW WHY",
+          "BOTH STORIES MATTER."
+        ],
+        [
+          "NOW FOLLOW THE COAST",
+          "AND ITS MOUNTAIN",
+          "NEIGHBORS, ISLANDS."
+        ]
+      ],
+      "reward": {
+        "type": "story_cluster_unlock",
+        "ids": [
+          "D09",
+          "D10",
+          "D11",
+          "D12"
+        ],
+        "implementation_status": "requires_native_integration"
+      },
+      "acceptance_gate": "Complete each full regional investigation by player input; map visitation/photo quotas alone cannot award chapter completion."
+    },
+    {
+      "id": "C03",
+      "title": "FOG RIDGES ISLANDS",
+      "status": "story_framework_future_district_content_required",
+      "district_ids": [
+        "D09",
+        "D10",
+        "D11",
+        "D12"
+      ],
+      "district_order": "player_choice_within_unlocked_cluster",
+      "required_flags": [
+        "INV_D09_COMPLETE",
+        "INV_D10_COMPLETE",
+        "INV_D11_COMPLETE",
+        "INV_D12_COMPLETE"
+      ],
+      "native_heading_lines": [
+        "FOG RIDGES ISLANDS"
+      ],
+      "chapter_question_lines": [
+        "FOG AND DRY SLOPES.",
+        "TWO MOUNTAIN RANGES.",
+        "VARIED ISLAND HOMES."
+      ],
+      "conclusion_dialogue_pages": [
+        [
+          "A COAST IS MORE THAN",
+          "ONE STRIP OF LAND.",
+          "MOUNTAINS, ISLANDS",
+          "HOLD DISTINCT HOMES."
+        ],
+        [
+          "OUR LAST FOLDER GOES",
+          "US NORTH: FORESTS,",
+          "VOLCANIC GROUND, AND",
+          "HIGH DESERT WETLANDS"
+        ]
+      ],
+      "reward": {
+        "type": "story_cluster_unlock",
+        "ids": [
+          "D13",
+          "D14",
+          "D15",
+          "D16"
+        ],
+        "implementation_status": "requires_native_integration"
+      },
+      "acceptance_gate": "Complete each full regional investigation by player input; map visitation/photo quotas alone cannot award chapter completion."
+    },
+    {
+      "id": "C04",
+      "title": "NORTHERN CONNECTIONS",
+      "status": "story_framework_future_district_content_required",
+      "district_ids": [
+        "D13",
+        "D14",
+        "D15",
+        "D16"
+      ],
+      "district_order": "player_choice_within_unlocked_cluster",
+      "required_flags": [
+        "INV_D13_COMPLETE",
+        "INV_D14_COMPLETE",
+        "INV_D15_COMPLETE",
+        "INV_D16_COMPLETE"
+      ],
+      "native_heading_lines": [
+        "NORTHERN CONNECTIONS"
+      ],
+      "chapter_question_lines": [
+        "MARITIME FOREST.",
+        "INLAND ROCKY CREEKS.",
+        "VOLCANO AND BASIN."
+      ],
+      "conclusion_dialogue_pages": [
+        [
+          "SIXTEEN DISTRICTS.",
+          "SIXTEEN STORIES.",
+          "NOW BUILD AN EXHIBIT",
+          "THAT CONNECTS THEM."
+        ]
+      ],
+      "reward": {
+        "type": "story_cluster_unlock",
+        "ids": [
+          "STATEWIDE_EXHIBIT"
+        ],
+        "implementation_status": "requires_native_integration"
+      },
+      "acceptance_gate": "Complete each full regional investigation by player input; map visitation/photo quotas alone cannot award chapter completion."
+    }
+  ],
+  "finale": {
+    "id": "EXHIBIT_01",
+    "status": "framework_not_authored_full_finale",
+    "required_flags": [
+      "C01_COMPLETE",
+      "C02_COMPLETE",
+      "C03_COMPLETE",
+      "C04_COMPLETE"
+    ],
+    "design_tasks": [
+      "Choose one completed habitat evidence page per chapter.",
+      "Match each caption to its district/habitat; immediate correction permitted.",
+      "Compare shelter, water, isolation and climate in ranger conversation."
+    ],
+    "ending_dialogue_pages": [
+      [
+        "YOUR PHOTOS SHOW",
+        "CALIFORNIA HAS MANY",
+        "HOMES TO NOTICE."
+      ],
+      [
+        "THE EXHIBIT IS OPEN.",
+        "YOUR FIELD JOURNAL",
+        "STILL HAS ROOM FOR",
+        "NEW DISCOVERIES."
+      ]
+    ],
+    "postgame": "Continue exploration and optional guide completion; hidden species discovery is optional and does not block credits.",
+    "reward": {
+      "type": "credits_and_postgame",
+      "implementation_status": "requires_native_integration"
+    }
+  },
+  "retry_contract": {
+    "mandatory_encounters": "In correct habitat/time, guaranteed no later than third eligible failed lookup. Existing random repeat lookups need explicit engine override for active mandatory tasks.",
+    "phase_cycle": [
+      "day",
+      "dusk",
+      "night"
+    ],
+    "max_rests_to_requested_phase": 2,
+    "rest_hint_visibility": "Journal always shows phase and broad habitat; repeat ranger hint available without payment.",
+    "photo_quality": "Two stars and focused safe distance; perfect three-star photograph never mandatory.",
+    "choice_failures": "Immediate feedback and unlimited choice retry; no lost progress.",
+    "care_recovery": "Keep a pending map-name reminder for open rocks. Restoration at original fictional site is always possible.",
+    "travel": "Existing development expeditions stay usable for test coverage; proposed story-route rewards need shipping progression implementation.",
+    "no_unbounded_rng_progression": true
+  },
+  "event_and_save_contract": {
+    "required_events": [
+      "photo_taken(species_id,spot_id,map_id,phase,stars,distance,focus)",
+      "rock_restored(spot_id,prior_flipped)",
+      "annotation_answer(task_id,annotation_flag,option_id)",
+      "task_turn_in(task_id)",
+      "ranger_interaction(npc_id)"
+    ],
+    "persistent_fields": [
+      "task_completed_bits",
+      "task_evidence_bits",
+      "annotation_bits",
+      "care_after_photo_bits",
+      "pending_care_spot_ids",
+      "reward_delivered_bits",
+      "district_investigation_bits",
+      "chapter_complete_bits"
+    ],
+    "current_engine_limitations": [
+      "Best album metadata replaces only strictly higher score; use photo event credit independent of best replacement.",
+      "Current spot_state restored bit resets at rest; it cannot serve as persistent journal care evidence.",
+      "Current engine has no authored ranger/journal UI/task state; all fields in this file require integration.",
+      "Use stable native species IDs 0..17 as listed, never guide-number-minus-one from consolidated roster."
+    ],
+    "prior_save_credit": "Seed only demonstrably valid prior best-photo evidence; annotations and sequence-bound care require explicit new actions unless supported persistent evidence exists.",
+    "reward_idempotence": true,
+    "task_credit_before_activation": "Allow valid evidence already recorded; do not require redo solely because task dialogue happened later.",
+    "bit_budget": "14 task-completion bits plus individually named evidence/annotation/care flags; allocate versioned save schema, do not assume current RFState capacity."
+  },
+  "source_bindings": [
+    {
+      "runtime_species_id": 0,
+      "canonical_roster_species_id": 0,
+      "scientific_name": "Gopherus agassizii",
+      "spot_id": 2,
+      "map_id": 0,
+      "district_id": "D01",
+      "habitat_id": "desert_burrow",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/jotr/learn/nature/tortoise.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 1,
+      "canonical_roster_species_id": 1,
+      "scientific_name": "Sauromalus ater",
+      "spot_id": 1,
+      "map_id": 0,
+      "district_id": "D01",
+      "habitat_id": "rock_crevice",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/moja/learn/nature/reptiles.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 2,
+      "canonical_roster_species_id": 2,
+      "scientific_name": "Phrynosoma platyrhinos",
+      "spot_id": 3,
+      "map_id": 0,
+      "district_id": "D01",
+      "habitat_id": "open_sand",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/moja/learn/nature/reptiles.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 3,
+      "canonical_roster_species_id": 3,
+      "scientific_name": "Crotalus cerastes",
+      "spot_id": 4,
+      "map_id": 0,
+      "district_id": "D01",
+      "habitat_id": "creosote_scrub",
+      "phase_mask": 4,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 4,
+      "canonical_roster_species_id": 4,
+      "scientific_name": "Anaxyrus punctatus",
+      "spot_id": 5,
+      "map_id": 1,
+      "district_id": "D01",
+      "habitat_id": "wet_rock_cover",
+      "phase_mask": 4,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-punctatus",
+        "https://www.nps.gov/moja/learn/nature/amphibians.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/moja/learn/nature/amphibians.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 5,
+      "canonical_roster_species_id": 5,
+      "scientific_name": "Lampropeltis californiae",
+      "spot_id": 0,
+      "map_id": 0,
+      "district_id": "D01",
+      "habitat_id": "desert_rock_cover",
+      "phase_mask": 2,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 5,
+      "canonical_roster_species_id": 5,
+      "scientific_name": "Lampropeltis californiae",
+      "spot_id": 6,
+      "map_id": 1,
+      "district_id": "D01",
+      "habitat_id": "desert_rock_cover",
+      "phase_mask": 2,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 6,
+      "canonical_roster_species_id": 6,
+      "scientific_name": "Sceloporus occidentalis",
+      "spot_id": 10,
+      "map_id": 3,
+      "district_id": "D04",
+      "habitat_id": "rock_perch",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1"
+      ],
+      "field_fact_source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 7,
+      "canonical_roster_species_id": 7,
+      "scientific_name": "Taricha torosa",
+      "spot_id": 12,
+      "map_id": 4,
+      "district_id": "D08",
+      "habitat_id": "shaded_creek",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-torosa",
+        "https://www.nps.gov/pore/learn/nature/amphibians.htm",
+        "https://www.nps.gov/samo/learn/nature/amphibians.htm"
+      ],
+      "field_fact_source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-torosa",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 7,
+      "canonical_roster_species_id": 7,
+      "scientific_name": "Taricha torosa",
+      "spot_id": 19,
+      "map_id": 9,
+      "district_id": "D09",
+      "habitat_id": "shaded_creek",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-torosa",
+        "https://www.nps.gov/pore/learn/nature/amphibians.htm",
+        "https://www.nps.gov/samo/learn/nature/amphibians.htm"
+      ],
+      "field_fact_source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-torosa",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 8,
+      "canonical_roster_species_id": 8,
+      "scientific_name": "Pseudacris regilla",
+      "spot_id": 13,
+      "map_id": 4,
+      "district_id": "D08",
+      "habitat_id": "freshwater_edge",
+      "phase_mask": 4,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudacris/Pseudacris-regilla",
+        "https://www.nps.gov/lavo/learn/management/park-significance.htm",
+        "https://www.nps.gov/pore/learn/nature/amphibians.htm"
+      ],
+      "field_fact_source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudacris/Pseudacris-regilla",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 9,
+      "canonical_roster_species_id": 9,
+      "scientific_name": "Ambystoma californiense",
+      "spot_id": 14,
+      "map_id": 5,
+      "district_id": "D06",
+      "habitat_id": "grassland_burrow",
+      "phase_mask": 4,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-californiense",
+        "https://www.fws.gov/species/california-tiger-salamander-ambystoma-californiense"
+      ],
+      "field_fact_source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-californiense",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 10,
+      "canonical_roster_species_id": 10,
+      "scientific_name": "Xantusia riversiana",
+      "spot_id": 16,
+      "map_id": 6,
+      "district_id": "D12",
+      "habitat_id": "island_scrub",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/places/island-night-lizard.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/places/island-night-lizard.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 11,
+      "canonical_roster_species_id": 11,
+      "scientific_name": "Elgaria multicarinata",
+      "spot_id": 17,
+      "map_id": 7,
+      "district_id": "D15",
+      "habitat_id": "rock_log_cover",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/lavo/learn/nature/reptiles.htm",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 12,
+      "canonical_roster_species_id": 12,
+      "scientific_name": "Coleonyx variegatus",
+      "spot_id": 7,
+      "map_id": 2,
+      "district_id": "D01",
+      "habitat_id": "desert_rock_cover",
+      "phase_mask": 4,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 13,
+      "canonical_roster_species_id": 13,
+      "scientific_name": "Dipsosaurus dorsalis",
+      "spot_id": 8,
+      "map_id": 2,
+      "district_id": "D01",
+      "habitat_id": "desert_wash",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 14,
+      "canonical_roster_species_id": 14,
+      "scientific_name": "Lichanura orcutti",
+      "spot_id": 9,
+      "map_id": 2,
+      "district_id": "D01",
+      "habitat_id": "desert_canyon",
+      "phase_mask": 2,
+      "permission_evidence_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "field_fact_source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 15,
+      "canonical_roster_species_id": 15,
+      "scientific_name": "Actinemys marmorata",
+      "spot_id": 15,
+      "map_id": 5,
+      "district_id": "D06",
+      "habitat_id": "freshwater_pond",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ],
+      "field_fact_source": "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 16,
+      "canonical_roster_species_id": 16,
+      "scientific_name": "Aneides lugubris",
+      "spot_id": 11,
+      "map_id": 3,
+      "district_id": "D04",
+      "habitat_id": "oak_tree_cover",
+      "phase_mask": 4,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-lugubris",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1458"
+      ],
+      "field_fact_source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-lugubris",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 16,
+      "canonical_roster_species_id": 16,
+      "scientific_name": "Aneides lugubris",
+      "spot_id": 20,
+      "map_id": 9,
+      "district_id": "D09",
+      "habitat_id": "oak_tree_cover",
+      "phase_mask": 4,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-lugubris",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1458"
+      ],
+      "field_fact_source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-lugubris",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    },
+    {
+      "runtime_species_id": 17,
+      "canonical_roster_species_id": 17,
+      "scientific_name": "Rana sierrae",
+      "spot_id": 18,
+      "map_id": 8,
+      "district_id": "D05",
+      "habitat_id": "mountain_lake_edge",
+      "phase_mask": 1,
+      "permission_evidence_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-sierrae",
+        "https://www.nps.gov/seki/learn/nature/amphibfish.htm"
+      ],
+      "field_fact_source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-sierrae",
+      "review_scope": "Existing source-supported broad fictional habitat binding; journal dialogue is original authored text, not a primary-source quotation."
+    }
+  ],
+  "native_acceptance_traces": [
+    {
+      "id": "JA01",
+      "name": "Fresh Mojave opening",
+      "ordered_actions": [
+        "Boot a fresh save; speak to Nell at field camp.",
+        "Rest from initial dusk through night to day.",
+        "Walk to tortoise burrow encounter 2; use space 3 or 4; hold focus >=45; take 2+ star photo.",
+        "Open journal and answer COOL SHELTER; turn in J01_01.",
+        "Photograph horned lizard spot3 and chuckwalla spot1 by day, 2+ stars.",
+        "Answer SAND / ROCK CRACK; turn in J01_02.",
+        "Rest once to dusk; photograph kingsnake at spot0 or6; exit photo and restore that same rock with B.",
+        "Answer REPLACE THE ROCK; turn in J01_03.",
+        "Rest once to night; photograph toad spot5; restore its rock.",
+        "Use expeditions to map2; photograph gecko spot7; annotate RED-SPOTTED TOAD; turn in J01_04.",
+        "Restore any open rock before J01_05 turn-in; answer MANY SHELTER TYPES.",
+        "Observe Mojave synthesis dialogue and D04 lead; save and cold boot."
+      ],
+      "expected": [
+        "J01_01..J01_05 completed and durable",
+        "INV_D01_COMPLETE set",
+        "C01_COMPLETE remains false until D02,D03,D04 investigation flags",
+        "No photo/guide progress erased; no global species quota required",
+        "D04 oak lead available; no credits/full-game-complete claim"
+      ]
+    },
+    {
+      "id": "JA02",
+      "name": "Annotations teach without punishment",
+      "ordered_actions": [
+        "Meet a photo prerequisite.",
+        "Choose each wrong annotation option once.",
+        "Check feedback and immediate retry.",
+        "Choose correct option."
+      ],
+      "expected": [
+        "No photo lost; no penalty or lockout",
+        "Annotation flag set only on correct response",
+        "Task stays incomplete until all requirements"
+      ]
+    },
+    {
+      "id": "JA03",
+      "name": "Rock care binds to the observation",
+      "ordered_actions": [
+        "At dusk photograph kingsnake under spot0.",
+        "Leave rock flipped and attempt turn-in.",
+        "Restore a different rock; attempt turn-in.",
+        "Restore spot0; turn in.",
+        "Rest, repeat restoration, revisit journal."
+      ],
+      "expected": [
+        "Different-site or absent restoration cannot meet J_CARE_KINGSNAKE_ROCK",
+        "Matching restoration meets task requirement once",
+        "Repeats do not farm story rewards",
+        "Completed journal/care flags survive rest although current spot flags reset"
+      ]
+    },
+    {
+      "id": "JA04",
+      "name": "Evidence independent of best-photo replacement",
+      "ordered_actions": [
+        "Before activating task take a valid 3-star subject photo at permitted site/time.",
+        "Start relevant task.",
+        "Take required valid 2-star photo again and annotate.",
+        "Save; cold boot."
+      ],
+      "expected": [
+        "Valid prior best may satisfy supported requirements",
+        "Equal/lower-scoring new photo emits task evidence even when best album does not replace",
+        "No credit for wrong species, map, phase, habitat, or unsafe distance"
+      ]
+    },
+    {
+      "id": "JA05",
+      "name": "Bounded recovery",
+      "ordered_actions": [
+        "Trigger scared chuckwalla; hold still; recover without chasing.",
+        "Cancel a photo then retry the same site.",
+        "Visit mandatory night habitat by day; read rest hint.",
+        "Exhaust repeated random-empty attempts in correct phase."
+      ],
+      "expected": [
+        "Existing 90-frame hiding recovery remains supported",
+        "Cancel loses no earned evidence",
+        "At most two phase rests reach any requested time",
+        "No more than three eligible failed search attempts before guaranteed mandatory encounter; this guarantee requires engine integration",
+        "No wildlife permanently lost"
+      ]
+    },
+    {
+      "id": "JA06",
+      "name": "Chapter gating and review boundaries",
+      "ordered_actions": [
+        "Finish only Mojave opening and available D04 optional page.",
+        "Visit all ten existing maps.",
+        "Open chapter status."
+      ],
+      "expected": [
+        "C01 not complete without true D02/D03/D04 full investigation flags",
+        "Optional oak page and simple map visitation cannot impersonate district completion",
+        "Future unbuilt districts presented as future content rather than accessible empty route",
+        "QA expeditions can remain enabled in development; shipping story gating is separately implemented/tested"
+      ]
+    },
+    {
+      "id": "JA07",
+      "name": "Optional regional ecology",
+      "ordered_actions": [
+        "Complete each JS side page from legal phase/site/photo input and its annotation.",
+        "For island page use daylight; for northern turtle use map5 only.",
+        "For high-water page use map8; for oak page use D04, compare optional D09 page separately."
+      ],
+      "expected": [
+        "All18 current runtime species obtainable through this authored journal set",
+        "Each of21 encounter references matches source-supported permission",
+        "None of nine side pages awards full regional investigation completion"
+      ]
+    },
+    {
+      "id": "JA08",
+      "name": "Save interruptions",
+      "ordered_actions": [
+        "Save after photo before annotation.",
+        "Cold boot; annotate and save.",
+        "Cold boot before restoring a photographed flipped rock.",
+        "Restore; save; cold boot; turn in."
+      ],
+      "expected": [
+        "Evidence, annotation, pending care and task completion persist independently",
+        "Reward delivery idempotent on resume",
+        "Unknown/newer save remains protected by current save policy"
+      ]
+    }
+  ],
+  "release_gates": [
+    "Original NPC sprite and journal UI authored and rendered.",
+    "Native task progression/save events integrated.",
+    "Bootable ROM and input-driven traces pass.",
+    "Text readability checked at160x144.",
+    "Independent ecology/text review.",
+    "Human pacing/fun and audio review.",
+    "Physical Chromatic evidence."
+  ]
+}

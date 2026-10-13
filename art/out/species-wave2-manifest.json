@@ -1,0 +1,1528 @@
+{
+  "sw_pond_turtle": {
+    "art_id": "sw_pond_turtle",
+    "species_id": 18,
+    "canonical_scientific_name": "Actinemys pallida",
+    "scientific_name_provisional": "Actinemys pallida",
+    "common_name": "Southwestern Pond Turtle",
+    "icon": "critter_sw_pond_turtle.png",
+    "portrait": "portrait_sw_pond_turtle.png",
+    "portrait32": "portrait32_sw_pond_turtle.png",
+    "frames": [
+      "portrait_sw_pond_turtle_idle0.png",
+      "portrait_sw_pond_turtle_idle1.png"
+    ],
+    "animation_sheet": "portrait_sw_pond_turtle_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        208,
+        192
+      ],
+      [
+        32,
+        40,
+        24
+      ],
+      [
+        96,
+        104,
+        56
+      ],
+      [
+        200,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6356",
+      "0x0CA4",
+      "0x1DAC",
+      "0x36F9"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "head_lift",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "turtle",
+    "allowed_districts_from_roster": [
+      "D10"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "northwestern_salamander": {
+    "art_id": "northwestern_salamander",
+    "species_id": 19,
+    "canonical_scientific_name": "Ambystoma gracile",
+    "scientific_name_provisional": "Ambystoma gracile",
+    "common_name": "Northwestern Salamander",
+    "icon": "critter_northwestern_salamander.png",
+    "portrait": "portrait_northwestern_salamander.png",
+    "portrait32": "portrait32_northwestern_salamander.png",
+    "frames": [
+      "portrait_northwestern_salamander_idle0.png",
+      "portrait_northwestern_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_northwestern_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        176
+      ],
+      [
+        24,
+        32,
+        24
+      ],
+      [
+        80,
+        88,
+        64
+      ],
+      [
+        160,
+        168,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B57",
+      "0x0C83",
+      "0x216A",
+      "0x3AB4"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "nw_salamander",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "western_toad": {
+    "art_id": "western_toad",
+    "species_id": 21,
+    "canonical_scientific_name": "Anaxyrus boreas",
+    "scientific_name_provisional": "Anaxyrus boreas",
+    "common_name": "Western Toad",
+    "icon": "critter_western_toad.png",
+    "portrait": "portrait_western_toad.png",
+    "portrait32": "portrait32_western_toad.png",
+    "frames": [
+      "portrait_western_toad_idle0.png",
+      "portrait_western_toad_idle1.png"
+    ],
+    "animation_sheet": "portrait_western_toad_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        160
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        120,
+        120,
+        72
+      ],
+      [
+        216,
+        200,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5358",
+      "0x0CA5",
+      "0x25EF",
+      "0x433B"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "western_toad",
+    "allowed_districts_from_roster": [
+      "D05",
+      "D10",
+      "D15",
+      "D16"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "great_plains_toad": {
+    "art_id": "great_plains_toad",
+    "species_id": 24,
+    "canonical_scientific_name": "Anaxyrus cognatus",
+    "scientific_name_provisional": "Anaxyrus cognatus",
+    "common_name": "Great Plains Toad",
+    "icon": "critter_great_plains_toad.png",
+    "portrait": "portrait_great_plains_toad.png",
+    "portrait32": "portrait32_great_plains_toad.png",
+    "frames": [
+      "portrait_great_plains_toad_idle0.png",
+      "portrait_great_plains_toad_idle1.png"
+    ],
+    "animation_sheet": "portrait_great_plains_toad_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        160
+      ],
+      [
+        48,
+        40,
+        24
+      ],
+      [
+        136,
+        136,
+        72
+      ],
+      [
+        224,
+        216,
+        152
+      ]
+    ],
+    "palette_rgb555": [
+      "0x537D",
+      "0x0CA6",
+      "0x2631",
+      "0x4F7C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "plains_toad",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "black_toad": {
+    "art_id": "black_toad",
+    "species_id": 25,
+    "canonical_scientific_name": "Anaxyrus exsul",
+    "scientific_name_provisional": "Anaxyrus exsul",
+    "common_name": "Black Toad",
+    "icon": "critter_black_toad.png",
+    "portrait": "portrait_black_toad.png",
+    "portrait32": "portrait32_black_toad.png",
+    "frames": [
+      "portrait_black_toad_idle0.png",
+      "portrait_black_toad_idle1.png"
+    ],
+    "animation_sheet": "portrait_black_toad_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        184
+      ],
+      [
+        24,
+        24,
+        24
+      ],
+      [
+        56,
+        64,
+        56
+      ],
+      [
+        208,
+        208,
+        176
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5F58",
+      "0x0C63",
+      "0x1D07",
+      "0x5B5A"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "black_toad",
+    "allowed_districts_from_roster": [
+      "D03"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "temblor_legless_lizard": {
+    "art_id": "temblor_legless_lizard",
+    "species_id": 32,
+    "canonical_scientific_name": "Anniella alexanderae",
+    "scientific_name_provisional": "Anniella alexanderae",
+    "common_name": "Temblor Legless Lizard",
+    "icon": "critter_temblor_legless_lizard.png",
+    "portrait": "portrait_temblor_legless_lizard.png",
+    "portrait32": "portrait32_temblor_legless_lizard.png",
+    "frames": [
+      "portrait_temblor_legless_lizard_idle0.png",
+      "portrait_temblor_legless_lizard_idle1.png"
+    ],
+    "animation_sheet": "portrait_temblor_legless_lizard_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        176
+      ],
+      [
+        48,
+        40,
+        32
+      ],
+      [
+        136,
+        112,
+        72
+      ],
+      [
+        208,
+        176,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5B7D",
+      "0x10A6",
+      "0x25D1",
+      "0x36DA"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "legless",
+    "allowed_districts_from_roster": [
+      "D07"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "coastal_tailed_frog": {
+    "art_id": "coastal_tailed_frog",
+    "species_id": 35,
+    "canonical_scientific_name": "Ascaphus truei",
+    "scientific_name_provisional": "Ascaphus truei",
+    "common_name": "Coastal Tailed Frog",
+    "icon": "critter_coastal_tailed_frog.png",
+    "portrait": "portrait_coastal_tailed_frog.png",
+    "portrait32": "portrait32_coastal_tailed_frog.png",
+    "frames": [
+      "portrait_coastal_tailed_frog_idle0.png",
+      "portrait_coastal_tailed_frog_idle1.png"
+    ],
+    "animation_sheet": "portrait_coastal_tailed_frog_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        176,
+        208,
+        200
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        136,
+        104,
+        64
+      ],
+      [
+        216,
+        184,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6756",
+      "0x0C85",
+      "0x21B1",
+      "0x3AFB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "tailed_frog",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates.",
+      "Adult male artwork: tail is reproductive anatomy, not a defensive display or collectible variant."
+    ]
+  },
+  "orange_throated_whiptail": {
+    "art_id": "orange_throated_whiptail",
+    "species_id": 36,
+    "canonical_scientific_name": "Aspidoscelis hyperythrus",
+    "scientific_name_provisional": "Aspidoscelis hyperythrus",
+    "common_name": "Orange-throated Whiptail",
+    "icon": "critter_orange_throated_whiptail.png",
+    "portrait": "portrait_orange_throated_whiptail.png",
+    "portrait32": "portrait32_orange_throated_whiptail.png",
+    "frames": [
+      "portrait_orange_throated_whiptail_idle0.png",
+      "portrait_orange_throated_whiptail_idle1.png"
+    ],
+    "animation_sheet": "portrait_orange_throated_whiptail_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        208,
+        216,
+        160
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        136,
+        128,
+        72
+      ],
+      [
+        224,
+        136,
+        48
+      ]
+    ],
+    "palette_rgb555": [
+      "0x537A",
+      "0x0C85",
+      "0x2611",
+      "0x1A3C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "whiptail",
+    "allowed_districts_from_roster": [
+      "D10"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "inyo_mtns_salamander": {
+    "art_id": "inyo_mtns_salamander",
+    "species_id": 41,
+    "canonical_scientific_name": "Batrachoseps campi",
+    "scientific_name_provisional": "Batrachoseps campi",
+    "common_name": "Inyo Mtns Salamander",
+    "icon": "critter_inyo_mtns_salamander.png",
+    "portrait": "portrait_inyo_mtns_salamander.png",
+    "portrait32": "portrait32_inyo_mtns_salamander.png",
+    "frames": [
+      "portrait_inyo_mtns_salamander_idle0.png",
+      "portrait_inyo_mtns_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_inyo_mtns_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        216,
+        208,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        112,
+        96,
+        56
+      ],
+      [
+        192,
+        176,
+        112
+      ]
+    ],
+    "palette_rgb555": [
+      "0x575B",
+      "0x0C85",
+      "0x1D8E",
+      "0x3AD8"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "inyo_slender",
+    "allowed_districts_from_roster": [
+      "D03"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "san_gabriel_salamander": {
+    "art_id": "san_gabriel_salamander",
+    "species_id": 43,
+    "canonical_scientific_name": "Batrachoseps gabrieli",
+    "scientific_name_provisional": "Batrachoseps gabrieli",
+    "common_name": "San Gabriel Mtns Slender Salamander",
+    "icon": "critter_san_gabriel_salamander.png",
+    "portrait": "portrait_san_gabriel_salamander.png",
+    "portrait32": "portrait32_san_gabriel_salamander.png",
+    "frames": [
+      "portrait_san_gabriel_salamander_idle0.png",
+      "portrait_san_gabriel_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_san_gabriel_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        168
+      ],
+      [
+        32,
+        32,
+        24
+      ],
+      [
+        96,
+        88,
+        64
+      ],
+      [
+        176,
+        152,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5758",
+      "0x0C84",
+      "0x216C",
+      "0x3676"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "gabriel_slender",
+    "allowed_districts_from_roster": [
+      "D11"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "northern_rubber_boa": {
+    "art_id": "northern_rubber_boa",
+    "species_id": 59,
+    "canonical_scientific_name": "Charina bottae",
+    "scientific_name_provisional": "Charina bottae",
+    "common_name": "Rubber Boa",
+    "icon": "critter_northern_rubber_boa.png",
+    "portrait": "portrait_northern_rubber_boa.png",
+    "portrait32": "portrait32_northern_rubber_boa.png",
+    "frames": [
+      "portrait_northern_rubber_boa_idle0.png",
+      "portrait_northern_rubber_boa_idle1.png"
+    ],
+    "animation_sheet": "portrait_northern_rubber_boa_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        128,
+        80
+      ],
+      [
+        200,
+        184,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5758",
+      "0x0CA5",
+      "0x2A11",
+      "0x42F9"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "rubber_boa",
+    "allowed_districts_from_roster": [
+      "D15",
+      "D16",
+      "D11"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "common_sharp_tail": {
+    "art_id": "common_sharp_tail",
+    "species_id": 64,
+    "canonical_scientific_name": "Contia tenuis",
+    "scientific_name_provisional": "Contia tenuis",
+    "common_name": "Common Sharp-tailed Snake",
+    "icon": "critter_common_sharp_tail.png",
+    "portrait": "portrait_common_sharp_tail.png",
+    "portrait32": "portrait32_common_sharp_tail.png",
+    "frames": [
+      "portrait_common_sharp_tail_idle0.png",
+      "portrait_common_sharp_tail_idle1.png"
+    ],
+    "animation_sheet": "portrait_common_sharp_tail_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        168
+      ],
+      [
+        48,
+        32,
+        24
+      ],
+      [
+        136,
+        96,
+        64
+      ],
+      [
+        208,
+        184,
+        136
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5758",
+      "0x0C86",
+      "0x2191",
+      "0x46FA"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "sharp_tail",
+    "allowed_districts_from_roster": [
+      "D14",
+      "D15",
+      "D04"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "western_diamondback": {
+    "art_id": "western_diamondback",
+    "species_id": 65,
+    "canonical_scientific_name": "Crotalus atrox",
+    "scientific_name_provisional": "Crotalus atrox",
+    "common_name": "Western Diamond-backed Rattlesnake",
+    "icon": "critter_western_diamondback.png",
+    "portrait": "portrait_western_diamondback.png",
+    "portrait32": "portrait32_western_diamondback.png",
+    "frames": [
+      "portrait_western_diamondback_idle0.png",
+      "portrait_western_diamondback_idle1.png"
+    ],
+    "animation_sheet": "portrait_western_diamondback_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        48,
+        40,
+        32
+      ],
+      [
+        160,
+        144,
+        104
+      ],
+      [
+        224,
+        216,
+        176
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x10A6",
+      "0x3654",
+      "0x5B7C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "quiet_head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "diamondback",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "baja_collared_lizard": {
+    "art_id": "baja_collared_lizard",
+    "species_id": 72,
+    "canonical_scientific_name": "Crotaphytus vestigium",
+    "scientific_name_provisional": "Crotaphytus vestigium",
+    "common_name": "Baja California Collared Lizard",
+    "icon": "critter_baja_collared_lizard.png",
+    "portrait": "portrait_baja_collared_lizard.png",
+    "portrait32": "portrait32_baja_collared_lizard.png",
+    "frames": [
+      "portrait_baja_collared_lizard_idle0.png",
+      "portrait_baja_collared_lizard_idle1.png"
+    ],
+    "animation_sheet": "portrait_baja_collared_lizard_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        160
+      ],
+      [
+        24,
+        40,
+        40
+      ],
+      [
+        104,
+        152,
+        128
+      ],
+      [
+        216,
+        184,
+        88
+      ]
+    ],
+    "palette_rgb555": [
+      "0x537D",
+      "0x14A3",
+      "0x426D",
+      "0x2EFB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_body_raise",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "collared",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "panamint_alligator": {
+    "art_id": "panamint_alligator",
+    "species_id": 78,
+    "canonical_scientific_name": "Elgaria panamintina",
+    "scientific_name_provisional": "Elgaria panamintina",
+    "common_name": "Panamint Alligator Lizard",
+    "icon": "critter_panamint_alligator.png",
+    "portrait": "portrait_panamint_alligator.png",
+    "portrait32": "portrait32_panamint_alligator.png",
+    "frames": [
+      "portrait_panamint_alligator_idle0.png",
+      "portrait_panamint_alligator_idle1.png"
+    ],
+    "animation_sheet": "portrait_panamint_alligator_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        48,
+        40,
+        24
+      ],
+      [
+        144,
+        120,
+        64
+      ],
+      [
+        216,
+        192,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0CA6",
+      "0x21F2",
+      "0x431B"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "panamint",
+    "allowed_districts_from_roster": [
+      "D03"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "blunt_nosed_leopard": {
+    "art_id": "blunt_nosed_leopard",
+    "species_id": 81,
+    "canonical_scientific_name": "Gambelia sila",
+    "scientific_name_provisional": "Gambelia sila",
+    "common_name": "Blunt-nosed Leopard Lizard",
+    "icon": "critter_blunt_nosed_leopard.png",
+    "portrait": "portrait_blunt_nosed_leopard.png",
+    "portrait32": "portrait32_blunt_nosed_leopard.png",
+    "frames": [
+      "portrait_blunt_nosed_leopard_idle0.png",
+      "portrait_blunt_nosed_leopard_idle1.png"
+    ],
+    "animation_sheet": "portrait_blunt_nosed_leopard_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        216,
+        208,
+        160
+      ],
+      [
+        48,
+        40,
+        24
+      ],
+      [
+        160,
+        144,
+        88
+      ],
+      [
+        224,
+        208,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x535B",
+      "0x0CA6",
+      "0x2E54",
+      "0x435C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_body_raise",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "leopard",
+    "allowed_districts_from_roster": [
+      "D07"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "shasta_salamander": {
+    "art_id": "shasta_salamander",
+    "species_id": 87,
+    "canonical_scientific_name": "Hydromantes shastae",
+    "scientific_name_provisional": "Hydromantes shastae",
+    "common_name": "Shasta Salamander",
+    "icon": "critter_shasta_salamander.png",
+    "portrait": "portrait_shasta_salamander.png",
+    "portrait32": "portrait32_shasta_salamander.png",
+    "frames": [
+      "portrait_shasta_salamander_idle0.png",
+      "portrait_shasta_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_shasta_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        184
+      ],
+      [
+        32,
+        40,
+        32
+      ],
+      [
+        104,
+        104,
+        64
+      ],
+      [
+        200,
+        200,
+        136
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5F58",
+      "0x10A4",
+      "0x21AD",
+      "0x4739"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "web_foot",
+    "allowed_districts_from_roster": [
+      "D14"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "striped_whipsnake": {
+    "art_id": "striped_whipsnake",
+    "species_id": 94,
+    "canonical_scientific_name": "Masticophis taeniatus",
+    "scientific_name_provisional": "Masticophis taeniatus",
+    "common_name": "Striped Whipsnake",
+    "icon": "critter_striped_whipsnake.png",
+    "portrait": "portrait_striped_whipsnake.png",
+    "portrait32": "portrait32_striped_whipsnake.png",
+    "frames": [
+      "portrait_striped_whipsnake_idle0.png",
+      "portrait_striped_whipsnake_idle1.png"
+    ],
+    "animation_sheet": "portrait_striped_whipsnake_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        216,
+        216,
+        168
+      ],
+      [
+        32,
+        40,
+        32
+      ],
+      [
+        96,
+        112,
+        64
+      ],
+      [
+        216,
+        208,
+        128
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577B",
+      "0x10A4",
+      "0x21CC",
+      "0x435B"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "head_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "whipsnake",
+    "allowed_districts_from_roster": [
+      "D03",
+      "D16"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "pygmy_horned_lizard": {
+    "art_id": "pygmy_horned_lizard",
+    "species_id": 97,
+    "canonical_scientific_name": "Phrynosoma douglasii",
+    "scientific_name_provisional": "Phrynosoma douglasii",
+    "common_name": "Pygmy Short-horned Lizard",
+    "icon": "critter_pygmy_horned_lizard.png",
+    "portrait": "portrait_pygmy_horned_lizard.png",
+    "portrait32": "portrait32_pygmy_horned_lizard.png",
+    "frames": [
+      "portrait_pygmy_horned_lizard_idle0.png",
+      "portrait_pygmy_horned_lizard_idle1.png"
+    ],
+    "animation_sheet": "portrait_pygmy_horned_lizard_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        208,
+        216,
+        160
+      ],
+      [
+        48,
+        40,
+        24
+      ],
+      [
+        128,
+        112,
+        64
+      ],
+      [
+        216,
+        184,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x537A",
+      "0x0CA6",
+      "0x21D0",
+      "0x36FB"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "blink_tail_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "pygmy_horned",
+    "allowed_districts_from_roster": [
+      "D16"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "peninsula_leaf_toed": {
+    "art_id": "peninsula_leaf_toed",
+    "species_id": 99,
+    "canonical_scientific_name": "Phyllodactylus nocticolus",
+    "scientific_name_provisional": "Phyllodactylus nocticolus",
+    "common_name": "Peninsula Leaf-toed Gecko",
+    "icon": "critter_peninsula_leaf_toed.png",
+    "portrait": "portrait_peninsula_leaf_toed.png",
+    "portrait32": "portrait32_peninsula_leaf_toed.png",
+    "frames": [
+      "portrait_peninsula_leaf_toed_idle0.png",
+      "portrait_peninsula_leaf_toed_idle1.png"
+    ],
+    "animation_sheet": "portrait_peninsula_leaf_toed_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        48,
+        32,
+        24
+      ],
+      [
+        168,
+        128,
+        80
+      ],
+      [
+        232,
+        200,
+        136
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577D",
+      "0x0C86",
+      "0x2A15",
+      "0x473D"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "tail_toe_sway",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "leaf_gecko",
+    "allowed_districts_from_roster": [
+      "D02"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "western_skink": {
+    "art_id": "western_skink",
+    "species_id": 103,
+    "canonical_scientific_name": "Plestiodon skiltonianus",
+    "scientific_name_provisional": "Plestiodon skiltonianus",
+    "common_name": "Western Skink",
+    "icon": "critter_western_skink.png",
+    "portrait": "portrait_western_skink.png",
+    "portrait32": "portrait32_western_skink.png",
+    "frames": [
+      "portrait_western_skink_idle0.png",
+      "portrait_western_skink_idle1.png"
+    ],
+    "animation_sheet": "portrait_western_skink_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        192,
+        208,
+        168
+      ],
+      [
+        40,
+        32,
+        24
+      ],
+      [
+        136,
+        112,
+        56
+      ],
+      [
+        72,
+        144,
+        208
+      ]
+    ],
+    "palette_rgb555": [
+      "0x5758",
+      "0x0C85",
+      "0x1DD1",
+      "0x6A49"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "skink",
+    "allowed_districts_from_roster": [
+      "D13",
+      "D14",
+      "D11"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates.",
+      "Blue-tail age/color expression needs final anatomy review; life stage never adds a species slot."
+    ]
+  },
+  "california_treefrog": {
+    "art_id": "california_treefrog",
+    "species_id": 108,
+    "canonical_scientific_name": "Pseudacris cadaverina",
+    "scientific_name_provisional": "Pseudacris cadaverina",
+    "common_name": "California Treefrog",
+    "icon": "critter_california_treefrog.png",
+    "portrait": "portrait_california_treefrog.png",
+    "portrait32": "portrait32_california_treefrog.png",
+    "frames": [
+      "portrait_california_treefrog_idle0.png",
+      "portrait_california_treefrog_idle1.png"
+    ],
+    "animation_sheet": "portrait_california_treefrog_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        184,
+        208,
+        200
+      ],
+      [
+        40,
+        40,
+        32
+      ],
+      [
+        144,
+        144,
+        120
+      ],
+      [
+        208,
+        200,
+        160
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6757",
+      "0x10A5",
+      "0x3E52",
+      "0x533A"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "treefrog",
+    "allowed_districts_from_roster": [
+      "D10",
+      "D11"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "southern_torrent_salamander": {
+    "art_id": "southern_torrent_salamander",
+    "species_id": 116,
+    "canonical_scientific_name": "Rhyacotriton variegatus",
+    "scientific_name_provisional": "Rhyacotriton variegatus",
+    "common_name": "Southern Torrent Salamander",
+    "icon": "critter_southern_torrent_salamander.png",
+    "portrait": "portrait_southern_torrent_salamander.png",
+    "portrait32": "portrait32_southern_torrent_salamander.png",
+    "frames": [
+      "portrait_southern_torrent_salamander_idle0.png",
+      "portrait_southern_torrent_salamander_idle1.png"
+    ],
+    "animation_sheet": "portrait_southern_torrent_salamander_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        168,
+        208,
+        200
+      ],
+      [
+        40,
+        48,
+        24
+      ],
+      [
+        136,
+        144,
+        64
+      ],
+      [
+        224,
+        176,
+        64
+      ]
+    ],
+    "palette_rgb555": [
+      "0x6755",
+      "0x0CC5",
+      "0x2251",
+      "0x22DC"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "grounded_step",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "torrent",
+    "allowed_districts_from_roster": [
+      "D13"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  },
+  "great_basin_spadefoot": {
+    "art_id": "great_basin_spadefoot",
+    "species_id": 125,
+    "canonical_scientific_name": "Spea intermontana",
+    "scientific_name_provisional": "Spea intermontana",
+    "common_name": "Great Basin Spadefoot",
+    "icon": "critter_great_basin_spadefoot.png",
+    "portrait": "portrait_great_basin_spadefoot.png",
+    "portrait32": "portrait32_great_basin_spadefoot.png",
+    "frames": [
+      "portrait_great_basin_spadefoot_idle0.png",
+      "portrait_great_basin_spadefoot_idle1.png"
+    ],
+    "animation_sheet": "portrait_great_basin_spadefoot_animation.png",
+    "dimensions": [
+      48,
+      48
+    ],
+    "icon_dimensions": [
+      16,
+      16
+    ],
+    "palette": [
+      [
+        208,
+        216,
+        168
+      ],
+      [
+        40,
+        40,
+        24
+      ],
+      [
+        136,
+        144,
+        72
+      ],
+      [
+        224,
+        200,
+        104
+      ]
+    ],
+    "palette_rgb555": [
+      "0x577A",
+      "0x0CA5",
+      "0x2651",
+      "0x373C"
+    ],
+    "frame_duration_ticks": 36,
+    "behavior_animation": "breath_blink",
+    "status": "art_only_pending_independent_anatomy_and_native_review",
+    "taxon_count_approval": false,
+    "anatomy_plan": "spadefoot",
+    "allowed_districts_from_roster": [
+      "D03",
+      "D16"
+    ],
+    "review_notes": [
+      "Source art only; range permission is inherited metadata, not new biological signoff.",
+      "Native composition, readability, animation timing and ecological text remain production gates."
+    ]
+  }
+}

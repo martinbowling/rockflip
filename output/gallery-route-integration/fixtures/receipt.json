@@ -1,0 +1,7 @@
+{
+  "source": "output/review-package/RockFlip-0.9.0-development-review/output/qa/production/controller-earned-complete.ram",
+  "sha256": "9d3d36f052576bb293d6b0f342d586478e2230c44df89ef20e354ecbb7e43b55",
+  "genuine_controller_earned": true,
+  "ROM_sha256": "5762c0022396470147c9eeca529c193964ecbbd71ddb6c36cccc7804bac53cb5",
+  "scope": "Copied verbatim from immutable accepted23-suite package; no payload/header rewrite."
+}

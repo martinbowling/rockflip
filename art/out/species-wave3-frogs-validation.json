@@ -1,0 +1,88 @@
+{
+  "source_only": true,
+  "native_observed": false,
+  "count": 9,
+  "records": [
+    {
+      "species_id": 22,
+      "art_id": "arroyo_toad",
+      "canonical_scientific_name": "Anaxyrus californicus",
+      "changed_pixels": 44,
+      "unique_tiles_frame0": 26,
+      "sha256": "bd4fb63c99abf199126fc0b49ca80b251a4f19442fd9acf53b2894ee1d452249",
+      "icon_sha256": "44a50d015a4b68b16f41e4a3bf28d5c520ef68b392e00ece265a86d62a5bb956"
+    },
+    {
+      "species_id": 23,
+      "art_id": "yosemite_toad",
+      "canonical_scientific_name": "Anaxyrus canorus",
+      "changed_pixels": 38,
+      "unique_tiles_frame0": 27,
+      "sha256": "ccbea856ea2d23806fd3ca50e9188fa3873a7c82c3ff26d74b8d69e348eb7ece",
+      "icon_sha256": "458b628b0d8051a705540169eafdc06aa4e656a92ac04e5b4f4c9431fd6337bf"
+    },
+    {
+      "species_id": 109,
+      "art_id": "northern_red_legged",
+      "canonical_scientific_name": "Rana aurora",
+      "changed_pixels": 29,
+      "unique_tiles_frame0": 23,
+      "sha256": "8245416e51d7a78b646f2f9f54eb79e05a2cd8486f03a591d8dd3489ffca7afb",
+      "icon_sha256": "ac881cf77f6edf72013948f6f8b1d5757b3fc37bc8553e93007d43978581fdb4"
+    },
+    {
+      "species_id": 110,
+      "art_id": "foothill_yellow_legged",
+      "canonical_scientific_name": "Rana boylii",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 27,
+      "sha256": "4aedeeeaa2f4bbeb36f681f457b0620d51246132dc66f68777cbbcfe5ed8f001",
+      "icon_sha256": "9922292d146160f93513403b8c60e9e1c670bda6496729394a7e74e82e430738"
+    },
+    {
+      "species_id": 111,
+      "art_id": "cascades_frog",
+      "canonical_scientific_name": "Rana cascadae",
+      "changed_pixels": 30,
+      "unique_tiles_frame0": 27,
+      "sha256": "3447ba6b81078a8eb98b9da334eeb482d8c3a40e034f6daa8199bd54696058d7",
+      "icon_sha256": "fa89a8c434fa76a2720d2707fc52b641d458319b456f29a35eb9d00ce5ab5a03"
+    },
+    {
+      "species_id": 112,
+      "art_id": "california_red_legged",
+      "canonical_scientific_name": "Rana draytonii",
+      "changed_pixels": 38,
+      "unique_tiles_frame0": 26,
+      "sha256": "69792ba91e5a91bdc5a44ce0ecefb1a86cf819564a75a08e8a2f3782a4096ea0",
+      "icon_sha256": "3fa472e06615ba9fc2a44febe2add0ba018eb76ae9cd305288bedcc60e869ae2"
+    },
+    {
+      "species_id": 113,
+      "art_id": "southern_yellow_legged",
+      "canonical_scientific_name": "Rana muscosa",
+      "changed_pixels": 35,
+      "unique_tiles_frame0": 28,
+      "sha256": "f47b640d25e377b14cd990aad3fc95020d346565161ecd2ba9dac9e3f1e0d412",
+      "icon_sha256": "bb158eafec620b419b187d35ec65b760952b4e20b60dfa54892065067c42038f"
+    },
+    {
+      "species_id": 118,
+      "art_id": "couch_spadefoot",
+      "canonical_scientific_name": "Scaphiopus couchii",
+      "changed_pixels": 32,
+      "unique_tiles_frame0": 26,
+      "sha256": "9c1787a88cb55bd909cd9f757cbd8a06e925a5bcf93ca7c531da89150e98977d",
+      "icon_sha256": "904d6e366167fbabc89ff81ac10c7f2da5eb88deddfc2aaa960290dc79de332e"
+    },
+    {
+      "species_id": 124,
+      "art_id": "western_spadefoot",
+      "canonical_scientific_name": "Spea hammondii",
+      "changed_pixels": 38,
+      "unique_tiles_frame0": 27,
+      "sha256": "4d9ebee62d3c3067bde319f406abaff6713420e3bb40fd704498842d978e762f",
+      "icon_sha256": "e8a717af8ccfff96947a7e283332f6a5a5f9aeb53792cd22cfcc721155d824c7"
+    }
+  ]
+}

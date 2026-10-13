@@ -1,0 +1,4429 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-12",
+  "scope": "complete_disposition_of_109_historical_reptile_rows_plus5_modern_split_candidates",
+  "taxonomic_authority": {
+    "name": "SSAR Scientific and Standard English Names 9th edition 2025",
+    "url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+    "policy": "conservative_versioned_species_units; no mixing alternate split schemes to inflate counts"
+  },
+  "counts": {
+    "excluded_introduced": 14,
+    "held_possibly_extirpated": 1,
+    "source_reviewed": 85,
+    "candidate_needs_current_native_range_review": 12,
+    "held_questionable_taxonomy": 1,
+    "excluded_synonym_subspecies": 1
+  },
+  "status": "incomplete_full_roster_review_not151_verified_species",
+  "review_semantics": {
+    "source_reviewed": "current species authority plus native California occurrence and at least one broad district/habitat source-supported permission; independent release review pending",
+    "candidate_needs_current_native_range_review": "not runtime eligible; occurrence-only evidence does not grant habitat placement",
+    "excluded_introduced": "historical introduced flag, no native guide slot",
+    "excluded_synonym_subspecies": "no extra guide slot",
+    "held_questionable_taxonomy": "no count until taxonomic decision"
+  },
+  "rows": [
+    {
+      "scientific_name": "Chelydra serpentina",
+      "common_name": "Snapping Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Chelydra serpentina",
+      "historical_flags": "I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Kinosternon sonoriense",
+      "common_name": "Sonora Mud Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Kinosternon sonoriense",
+      "historical_flags": "*",
+      "native_in_california": null,
+      "review_status": "held_possibly_extirpated",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2653&inline=1"
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "CDFW life-history2653 explicitly says may be extinct in California. No extant photo encounter or count until current corroboration."
+      ]
+    },
+    {
+      "scientific_name": "Actinemys marmorata",
+      "common_name": "Northwestern Pond Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Actinemys marmorata",
+      "historical_flags": "(2)",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D06",
+          "habitat_ids": [
+            "freshwater_pond"
+          ],
+          "evidence_urls": [
+            "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D14",
+          "habitat_ids": [
+            "freshwater_stream"
+          ],
+          "evidence_urls": [
+            "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Chrysemys picta",
+      "common_name": "Painted Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Chrysemys picta",
+      "historical_flags": "I,HA",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Trachemys scripta",
+      "common_name": "Pond Slider",
+      "group": "Reptilia",
+      "historical_scientific_name": "Trachemys scripta",
+      "historical_flags": "I,HA",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Gopherus agassizii",
+      "common_name": "Mohave Desert Tortoise",
+      "group": "Reptilia",
+      "historical_scientific_name": "Gopherus agassizii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_burrow",
+            "creosote_scrub"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Eretmochelys imbricata",
+      "common_name": "Hawksbill Sea Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Eretmochelys imbricata",
+      "historical_flags": "*",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "Limited/vagrant/marine occurrence requires current California native status and a suitable coastal observation mechanic; never a terrestrial cover encounter."
+      ]
+    },
+    {
+      "scientific_name": "Lepidochelys olivacea",
+      "common_name": "Olive Ridley Sea Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Lepidochelys olivacea",
+      "historical_flags": "*",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "Limited/vagrant/marine occurrence requires current California native status and a suitable coastal observation mechanic; never a terrestrial cover encounter."
+      ]
+    },
+    {
+      "scientific_name": "Caretta caretta",
+      "common_name": "Loggerhead Sea Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Caretta caretta",
+      "historical_flags": "*",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "Limited/vagrant/marine occurrence requires current California native status and a suitable coastal observation mechanic; never a terrestrial cover encounter."
+      ]
+    },
+    {
+      "scientific_name": "Chelonia mydas",
+      "common_name": "Green Sea Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Chelonia mydas",
+      "historical_flags": "*",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.fisheries.noaa.gov/west-coast/science-data/green-turtle-research-and-conservation-southern-california"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "marine_bay"
+          ],
+          "evidence_urls": [
+            "https://www.fisheries.noaa.gov/west-coast/science-data/green-turtle-research-and-conservation-southern-california"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Natural foraging residents, not California nesting. Requires shore-based observation mechanic; no freshwater or cover-flip encounters."
+      ]
+    },
+    {
+      "scientific_name": "Dermochelys coriacea",
+      "common_name": "Leatherback Sea Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": "Dermochelys coriacea",
+      "historical_flags": "*",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D09",
+          "habitat_ids": [
+            "offshore_surface"
+          ],
+          "evidence_urls": [
+            "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Seasonal natural offshore foraging, not California nesting. Requires authored safe offshore/ferry observation, no terrestrial cover encounters."
+      ]
+    },
+    {
+      "scientific_name": "Apalone spinifera",
+      "common_name": "Spiny Softshell",
+      "group": "Reptilia",
+      "historical_scientific_name": "Apalone spinifera",
+      "historical_flags": "I,HA",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Tarentola mauritanica",
+      "common_name": "Moorish Wall Gecko",
+      "group": "Reptilia",
+      "historical_scientific_name": "Tarentola mauritanica",
+      "historical_flags": "*,I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Tarentola annularis",
+      "common_name": "Ringed Wall Gecko",
+      "group": "Reptilia",
+      "historical_scientific_name": "Tarentola annularis",
+      "historical_flags": "*,I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Hemidactylus turcicus",
+      "common_name": "Mediterranean House Gecko",
+      "group": "Reptilia",
+      "historical_scientific_name": "Hemidactylus turcicus",
+      "historical_flags": "I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Phyllodactylus nocticolus",
+      "common_name": "Peninsula Leaf-toed Gecko",
+      "group": "Reptilia",
+      "historical_scientific_name": "Phyllodactylus nocticolus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2667&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "rock_crevice",
+            "desert_canyon"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2667&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Coleonyx variegatus",
+      "common_name": "Western Banded Gecko",
+      "group": "Reptilia",
+      "historical_scientific_name": "Coleonyx variegatus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand",
+            "desert_rock_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Coleonyx switaki",
+      "common_name": "Switak\u2019s Banded Gecko",
+      "group": "Reptilia",
+      "historical_scientific_name": "Coleonyx switaki",
+      "historical_flags": "",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "Official linked account is old and records uncertain reports; current California native occurrence corroboration required before permission."
+      ]
+    },
+    {
+      "scientific_name": "Xantusia riversiana",
+      "common_name": "Island Night Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Xantusia riversiana",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/places/island-night-lizard.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D12",
+          "habitat_ids": [
+            "island_scrub",
+            "rock_crevice"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/places/island-night-lizard.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Midday activity supported; name does not mean nocturnal. Only fictional analog habitats corresponding to supported islands, not every Channel Island. NPS conservation-status paragraph is stale; do not reuse it."
+      ]
+    },
+    {
+      "scientific_name": "Xantusia vigilis",
+      "common_name": "Desert Night Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Xantusia vigilis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+        "https://www.nps.gov/pinn/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "fallen_yucca"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D09",
+          "habitat_ids": [
+            "decaying_log"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+            "https://www.nps.gov/pinn/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Xantusia henshawi",
+      "common_name": "Granite Night Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Xantusia henshawi",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2713&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "granite_crevice"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2713&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "granite_crevice"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2713&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Xantusia gracilis",
+      "common_name": "Sandstone Night Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Xantusia gracilis",
+      "historical_flags": "*",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2813&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "sandstone_crevice"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2813&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Diurnal secretive species; not night-only despite name. Fictional sandstone habitat only; real restricted locality not published in ROM."
+      ]
+    },
+    {
+      "scientific_name": "Xantusia sierrae",
+      "common_name": "Sierra Night Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Xantusia sierra",
+      "historical_flags": "*",
+      "native_in_california": null,
+      "review_status": "held_questionable_taxonomy",
+      "taxonomy_status": "SSAR2025_questionable_species",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Questionable in SSAR2025; do not count toward151 until explicit taxonomic decision with evidence."
+      ]
+    },
+    {
+      "scientific_name": "Xantusia wigginsi",
+      "common_name": "Wiggins\u2019 Night Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Xantusia wigginsi",
+      "historical_flags": "*",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Plestiodon skiltonianus",
+      "common_name": "Western Skink",
+      "group": "Reptilia",
+      "historical_scientific_name": "Plestiodon skiltonianus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2719&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D13",
+          "habitat_ids": [
+            "open_forest_edge"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2719&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D14",
+          "habitat_ids": [
+            "open_forest_edge"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2719&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "open_forest_edge"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2719&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D16",
+          "source": "https://www.nps.gov/labe/learn/nature/reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Plestiodon gilberti",
+      "common_name": "Gilbert's Skink",
+      "group": "Reptilia",
+      "historical_scientific_name": "Plestiodon gilberti",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "moist_rock_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Aspidoscelis tigris",
+      "common_name": "Tiger Whiptail",
+      "group": "Reptilia",
+      "historical_scientific_name": "Aspidoscelis tigris",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_shrub"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Aspidoscelis hyperythrus",
+      "common_name": "Orange-throated Whiptail",
+      "group": "Reptilia",
+      "historical_scientific_name": "Aspidoscelis hyperythra",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://coasttocactus.sdnhm.org/animals/orange-throated-whiptail",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2723&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "coastal_sage_scrub",
+            "open_chaparral"
+          ],
+          "evidence_urls": [
+            "https://coasttocactus.sdnhm.org/animals/orange-throated-whiptail",
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2723&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "San Diego natural history museum habitat account paired with California-linked CDFW range document; SSAR2025 hyperythra spelling."
+      ]
+    },
+    {
+      "scientific_name": "Podarcis siculus",
+      "common_name": "Italian Wall Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Podarcis siculus",
+      "historical_flags": "*,I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Elgaria panamintina",
+      "common_name": "Panamint Alligator Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Elgaria panamintina",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2729&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D03",
+          "habitat_ids": [
+            "wet_talus",
+            "mountain_spring"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2729&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Only spring/wet-canyon mountain analog; dry generic desert talus is denied."
+      ]
+    },
+    {
+      "scientific_name": "Elgaria multicarinata",
+      "common_name": "Southern Alligator Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Elgaria multicarinata",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D15",
+          "habitat_ids": [
+            "rock_log_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Elgaria coerulea",
+      "common_name": "Northern Alligator Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Elgaria coerulea",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D15",
+          "habitat_ids": [
+            "rock_log_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Anniella pulchra",
+      "common_name": "California Legless Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Anniella pulchra",
+      "historical_flags": "(2)",
+      "native_in_california": true,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "CDFW linked account explicitly says habitat sections predate split. Do not assign all five modern Anniella species to those inherited habitats."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Heloderma suspectum",
+      "common_name": "Gila Monster",
+      "group": "Reptilia",
+      "historical_scientific_name": "Heloderma suspectum",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2735&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "rocky_desert_wash"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2735&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Fictional eastern-Mojave mountain-wash analog only; very limited California records, safe remote observation and bounded optional clue chain required."
+      ]
+    },
+    {
+      "scientific_name": "Chamaeleo jacksonii",
+      "common_name": "Jackson\u2019s Chameleon",
+      "group": "Reptilia",
+      "historical_scientific_name": "Chamaeleo jacksonii",
+      "historical_flags": "*,I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Dipsosaurus dorsalis",
+      "common_name": "Desert Iguana",
+      "group": "Reptilia",
+      "historical_scientific_name": "Dipsosaurus dorsalis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand",
+            "sand_dunes",
+            "desert_wash"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Sauromalus ater",
+      "common_name": "Common Chuckwalla",
+      "group": "Reptilia",
+      "historical_scientific_name": "Sauromalus ater",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "rock_outcrop",
+            "rock_crevice"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Gambelia copeii",
+      "common_name": "Baja California Leopard Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Gambelia copeii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=102374&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "open_chaparral"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=102374&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Southern border upland analog only; no blanket South Coast range."
+      ]
+    },
+    {
+      "scientific_name": "Crotaphytus vestigium",
+      "common_name": "Baja California Collared Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotaphytus vestigium",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2811&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "rock_outcrop",
+            "desert_canyon"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2811&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Gambelia wislizenii",
+      "common_name": "Long-nosed Leopard Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Gambelia wislizenii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand",
+            "desert_gravel"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Gambelia sila",
+      "common_name": "Blunt-nosed Leopard Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Gambelia sila",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7047230/"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D07",
+          "habitat_ids": [
+            "dry_grassland",
+            "valley_scrub"
+          ],
+          "evidence_urls": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC7047230/"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Crotaphytus bicinctores",
+      "common_name": "Great Basin Collared Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotaphytus bicinctores",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "rock_outcrop"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Phrynosoma douglasii",
+      "common_name": "Pygmy Short-horned Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Phrynosoma douglasii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2709&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D16",
+          "habitat_ids": [
+            "juniper_woodland",
+            "open_pine"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2709&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "CDFW distribution supports northeastern California; older account ecology covers wider historical short-horned concept, so no copied superlatives or density claims."
+      ]
+    },
+    {
+      "scientific_name": "Phrynosoma platyrhinos",
+      "common_name": "Desert Horned Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Phrynosoma platyrhinos",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Sceloporus magister",
+      "common_name": "Desert Spiny Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Sceloporus magister",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "joshua_woodland",
+            "rock_outcrop"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "MOJA source calls these S.uniformis; explicitly merged into S.magister under SSAR2025, not two count slots."
+      ]
+    },
+    {
+      "scientific_name": "Phrynosoma blainvillii",
+      "common_name": "Blainville\u2019s Horned Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Phrynosoma blainvillii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2705&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D04",
+          "habitat_ids": [
+            "open_oak_woodland"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2705&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D09",
+          "habitat_ids": [
+            "coastal_scrub"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2705&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "coastal_scrub"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2705&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Petrosaurus mearnsi",
+      "common_name": "Mearns\u2019 Rock Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Petrosaurus mearnsi",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2703&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "rock_outcrop",
+            "desert_canyon"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2703&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Urosaurus microscutatus",
+      "common_name": "Baja California Brush Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Urosaurus nigricaudus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2701&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "rock_outcrop",
+            "rock_crevice"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2701&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Urosaurus ornatus",
+      "common_name": "Ornate Tree Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Urosaurus ornatus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2699&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "desert_riparian"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2699&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Narrow Colorado River habitat analog only; not all Colorado Desert."
+      ]
+    },
+    {
+      "scientific_name": "Urosaurus graciosus",
+      "common_name": "Long-tailed Brush Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Urosaurus graciosus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_shrub"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Phrynosoma mcallii",
+      "common_name": "Flat-tailed Horned Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Phrynosoma mcallii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2711&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "open_sand",
+            "creosote_scrub"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2711&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Uta stansburiana",
+      "common_name": "Common Side-blotched Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Uta stansburiana",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand",
+            "rock_outcrop"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Sceloporus occidentalis",
+      "common_name": "Western Fence Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Sceloporus occidentalis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/prsf/learn/nature/reptiles.htm",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "montane_rock_outcrop"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D08",
+          "habitat_ids": [
+            "rock_perch",
+            "wood_perch"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/prsf/learn/nature/reptiles.htm",
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D04",
+          "habitat_ids": [
+            "rock_perch",
+            "wood_perch"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D05",
+          "habitat_ids": [
+            "montane_rock_outcrop"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "CDFW individual fence-lizard account2691 reviewed: vertical perches matter, dense forest and true-desert habitat unsuitable. Non-desert foothill/montane permissions do not imply barren alpine peaks."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D16",
+          "source": "https://www.nps.gov/labe/learn/nature/reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Sceloporus orcutti",
+      "common_name": "Granite Spiny Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Sceloporus orcutti",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2689&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "granite_outcrop"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2689&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "granite_outcrop"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2689&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Uma scoparia",
+      "common_name": "Mohave Fringe-toed Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Uma scoparia",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "sand_dunes"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Uma inornata",
+      "common_name": "Coachella Fringe-toed Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Uma inornata",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.fws.gov/rivers/carp/carp/species/coachella-valley-fringe-toed-lizard-uma-inornata"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "sand_dunes"
+          ],
+          "evidence_urls": [
+            "https://www.fws.gov/rivers/carp/carp/species/coachella-valley-fringe-toed-lizard-uma-inornata"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Only fictional Coachella-subarea dune analog; not all Colorado Desert dunes."
+      ]
+    },
+    {
+      "scientific_name": "Uma notata",
+      "common_name": "Colorado Desert Fringe-toed Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Uma notata",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2675&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "sand_dunes"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2675&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Callisaurus draconoides",
+      "common_name": "Zebra-tailed Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Callisaurus draconoides",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand",
+            "desert_wash"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Sceloporus graciosus",
+      "common_name": "Common Sagebrush Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Sceloporus graciosus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm",
+        "https://www.fs.usda.gov/psw/publications/documents/psw_gtr037/psw_gtr037.pdf",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2693&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D15",
+          "habitat_ids": [
+            "montane_rock_outcrop",
+            "forest_floor"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D05",
+          "habitat_ids": [
+            "montane_rock_outcrop",
+            "open_conifer"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2693&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Older Forest Service life-history habitat account paired with current SSAR species authority.",
+        "Individually read CDFW2693 supports Sierra/Cascades open-forest/shrub habitat and rock/low-shrub perches; replaces inaccessible older Forest Service link for D05 evidence."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D16",
+          "source": "https://www.nps.gov/labe/learn/nature/reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Sceloporus uniformis",
+      "common_name": "Yellow-backed Spiny Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": "Sceloporus uniformis",
+      "historical_flags": "",
+      "native_in_california": null,
+      "review_status": "excluded_synonym_subspecies",
+      "taxonomy_status": "SSAR2025_subspecies_of_Sceloporus_magister",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "SSAR2025 treats uniformis as Sceloporus magister uniformis. Do not allocate an additional guide entry."
+      ]
+    },
+    {
+      "scientific_name": "Anolis carolinensis",
+      "common_name": "Green Anole",
+      "group": "Reptilia",
+      "historical_scientific_name": "Anolis carolinensis",
+      "historical_flags": "*,I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Anolis sagrei",
+      "common_name": "Brown Anole",
+      "group": "Reptilia",
+      "historical_scientific_name": "Anolis sagrei",
+      "historical_flags": "*,I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Rena humilis",
+      "common_name": "Western Threadsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Rena humilis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "moist_rock_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Ramphotyphlops braminus",
+      "common_name": "Brahminy Blindsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Ramphotyphlops braminus",
+      "historical_flags": "I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Charina umbratica",
+      "common_name": "Southern Rubber Boa",
+      "group": "Reptilia",
+      "historical_scientific_name": "Charina umbratica",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=108714&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "conifer_forest",
+            "rock_outcrop"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=108714&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "CDFW account uses old Charina bottae umbratica name; SSAR2025 accepted full species. Uncertain Mount Pinos/Tehachapi populations excluded from permission."
+      ]
+    },
+    {
+      "scientific_name": "Charina bottae",
+      "common_name": "Northern Rubber Boa",
+      "group": "Reptilia",
+      "historical_scientific_name": "Charina bottae",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm",
+        "https://www.nps.gov/labe/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D15",
+          "habitat_ids": [
+            "forest_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D16",
+          "habitat_ids": [
+            "cool_lava_shelter"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/labe/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Lichanura orcutti",
+      "common_name": "Northern Rosy Boa",
+      "group": "Reptilia",
+      "historical_scientific_name": "Lithanura orcutti",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "rock_outcrop",
+            "desert_canyon"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Lampropeltis californiae",
+      "common_name": "California Kingsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Lampropeltis californiae",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_rock_cover",
+            "desert_canyon"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Lampropeltis zonata",
+      "common_name": "California Mountain Kingsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Lampropeltis zonata",
+      "historical_flags": "",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "CDFW current-linked account adopts multifasciata split, SSAR2025 retains zonata; do not count alternative names together. Regional/habitat permissions await authority-consistent review."
+      ]
+    },
+    {
+      "scientific_name": "Rhinocheilus lecontei",
+      "common_name": "Long-nosed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Rhinocheilus lecontei",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "creosote_scrub"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Sonora semiannulata",
+      "common_name": "Western Groundsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Sonora semiannulata",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_wash",
+            "desert_rock_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Sonora occipitalis",
+      "common_name": "Mohave Shovel-nosed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Chionactis occipitalis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand",
+            "sand_dunes"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Tantilla planiceps",
+      "common_name": "Western Black-headed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Tantilla planiceps",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2787&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "coastal_chaparral"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2787&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Trimorphodon lambda",
+      "common_name": "Sonoran Lyresnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Trimorphodon lambda",
+      "historical_flags": "",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "CDFW linked account describes desert mountain habitat but no precise broad district assignment in distribution text; range-map review needed."
+      ]
+    },
+    {
+      "scientific_name": "Trimorphodon lyrophanes",
+      "common_name": "California Lyresnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Trimorphodon lyrophanes",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_canyon",
+            "rock_outcrop"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Masticophis taeniatus",
+      "common_name": "Striped Whipsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Coluber taeniatus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2759&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D03",
+          "habitat_ids": [
+            "sagebrush"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2759&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D16",
+          "habitat_ids": [
+            "sagebrush"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2759&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Arizona elegans",
+      "common_name": "Glossy Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Arizona elegans",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_sand"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Tantilla hobartsmithi",
+      "common_name": "Smith\u2019s Black-headed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Tantilla hobartsmithi",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "joshua_woodland",
+            "desert_riparian"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Phyllorhynchus decurtatus",
+      "common_name": "Spotted Leaf-nosed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Phyllorhynchus decurtatus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_rock_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Pituophis catenifer",
+      "common_name": "Gophersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Pituophis catenifer",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "creosote_scrub",
+            "joshua_woodland"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Coluber constrictor",
+      "common_name": "North American Racer",
+      "group": "Reptilia",
+      "historical_scientific_name": "Coluber constrictor",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2753&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D08",
+          "habitat_ids": [
+            "open_grassland"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2753&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D13",
+          "habitat_ids": [
+            "open_grassland"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2753&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Masticophis piceus",
+      "common_name": "Desert Coachwhip",
+      "group": "Reptilia",
+      "historical_scientific_name": "Coluber flagellum",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_desert"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Masticophis lateralis",
+      "common_name": "Striped Racer",
+      "group": "Reptilia",
+      "historical_scientific_name": "Coluber lateralis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2757&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D04",
+          "habitat_ids": [
+            "chaparral"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2757&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "chaparral"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2757&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D14",
+          "habitat_ids": [
+            "chaparral"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2757&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Bogertophis rosaliae",
+      "common_name": "Baja California Ratsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Bogertophis rosaliae",
+      "historical_flags": "*",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "Limited/vagrant/marine occurrence requires current California native status and a suitable coastal observation mechanic; never a terrestrial cover encounter."
+      ]
+    },
+    {
+      "scientific_name": "Salvadora hexalepis",
+      "common_name": "Western Patch-nosed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Salvadora hexalepis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_wash",
+            "open_sand"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Masticophis fuliginosus",
+      "common_name": "Baja California Coachwhip",
+      "group": "Reptilia",
+      "historical_scientific_name": "Coluber fuliginosus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190336"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "coastal_dunes",
+            "coastal_shrub",
+            "open_grassland"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190336"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Only southern-border coastal analog. Individual published full-species account confirms habitats separately from M.piceus."
+      ]
+    },
+    {
+      "scientific_name": "Hypsiglena chlorophaea",
+      "common_name": "Desert Nightsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Hypsiglena chlorophaea",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "desert_rock_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Hypsiglena ochrorhyncha",
+      "common_name": "Coast Nightsnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Hypsiglena ochrorhyncha",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/cabr/learn/nature/snakes.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "coastal_rock_cover"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/cabr/learn/nature/snakes.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "NPS spelling orchrorhyncha is a source typo; normalized to SSAR2025 ochrorhyncha."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Contia tenuis",
+      "common_name": "Common Sharp-tailed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Contia tenuis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2749&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D14",
+          "habitat_ids": [
+            "rock_log_cover"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2749&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D15",
+          "habitat_ids": [
+            "rock_log_cover"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2749&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D04",
+          "habitat_ids": [
+            "rock_log_cover"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2749&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Contia longicauda",
+      "common_name": "Forest Sharp-tailed Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Contia longicauda",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67506&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D13",
+          "habitat_ids": [
+            "humid_conifer_forest"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67506&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D08",
+          "habitat_ids": [
+            "humid_conifer_forest"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67506&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Bay district permission confined to southern coastal forest subarea analog; not Delta marsh."
+      ]
+    },
+    {
+      "scientific_name": "Diadophis punctatus",
+      "common_name": "Ring-necked Snake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Diadophis punctatus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2747&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D04",
+          "habitat_ids": [
+            "rock_log_cover"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2747&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D09",
+          "habitat_ids": [
+            "rock_log_cover"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2747&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis sirtalis",
+      "common_name": "Common Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis sirtalis",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D15",
+          "habitat_ids": [
+            "freshwater_edge"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis elegans",
+      "common_name": "Terrestrial Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis elegans",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D15",
+          "habitat_ids": [
+            "freshwater_edge"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Nerodia fasciata",
+      "common_name": "Southern Watersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Nerodia fasciata",
+      "historical_flags": "I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Nerodia sipedon",
+      "common_name": "Common Watersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Nerodia sipedon",
+      "historical_flags": "I",
+      "native_in_california": false,
+      "review_status": "excluded_introduced",
+      "taxonomy_status": "historical_name_unreviewed",
+      "taxonomy_sources": [],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district."
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis marcianus",
+      "common_name": "Checkered Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis marcianus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2781&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "freshwater_edge"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2781&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis ordinoides",
+      "common_name": "Northwestern Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis ordinoides",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2779&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D13",
+          "habitat_ids": [
+            "wet_meadow",
+            "freshwater_edge"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2779&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis hammondii",
+      "common_name": "Two-striped Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis hammondii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2809&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "freshwater_stream"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2809&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "freshwater_stream"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2809&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "No D09 Pinnacles permission: park checklist marks no confirmed records. No all-islands permission inferred from Santa Catalina record."
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis atratus",
+      "common_name": "Aquatic Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis atratus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=3458&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D08",
+          "habitat_ids": [
+            "rocky_creek"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=3458&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D09",
+          "habitat_ids": [
+            "rocky_creek"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=3458&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D13",
+          "habitat_ids": [
+            "rocky_creek"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=3458&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "No Salinas-Valley habitat assignment; checklist broad district does not imply every subarea."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis gigas",
+      "common_name": "Giant Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis gigas",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D06",
+          "habitat_ids": [
+            "freshwater_marsh"
+          ],
+          "evidence_urls": [
+            "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D07",
+          "habitat_ids": [
+            "freshwater_marsh"
+          ],
+          "evidence_urls": [
+            "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Restricted remnant wetland analog, not ubiquitous across San Joaquin Valley."
+      ]
+    },
+    {
+      "scientific_name": "Thamnophis couchii",
+      "common_name": "Sierra Gartersnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Thamnophis couchii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2777&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D04",
+          "habitat_ids": [
+            "rocky_creek"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2777&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D05",
+          "habitat_ids": [
+            "montane_stream"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2777&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D03",
+          "habitat_ids": [
+            "freshwater_stream"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2777&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Hydrophis platurus",
+      "common_name": "Yellow-bellied Seasnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Pelamis platura",
+      "historical_flags": "",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "SSAR2025_normalization_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline="
+      ],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Historical inventory is not permission to populate any district.",
+        "Limited/vagrant/marine occurrence requires current California native status and a suitable coastal observation mechanic; never a terrestrial cover encounter."
+      ]
+    },
+    {
+      "scientific_name": "Crotalus oreganus",
+      "common_name": "Western Rattlesnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotalus oreganus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/labe/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D16",
+          "habitat_ids": [
+            "lava_outcrop"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/labe/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D08",
+          "source": "https://www.nps.gov/pore/learn/nature/upload/animalspecieslist_reptile.pdf",
+          "habitat_permission": "pending_individual_account_review"
+        },
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Crotalus cerastes",
+      "common_name": "Sidewinder",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotalus cerastes",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "sand_dunes",
+            "creosote_scrub"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Crotalus scutulatus",
+      "common_name": "Mohave Rattlesnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotalus scutulatus",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "open_desert"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Crotalus pyrrhus",
+      "common_name": "Southwestern Speckled Rattlesnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotalus mitchellii",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "rock_outcrop",
+            "desert_canyon"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending."
+      ]
+    },
+    {
+      "scientific_name": "Crotalus atrox",
+      "common_name": "Western Diamond-backed Rattlesnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotalus atrox",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2795&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D02",
+          "habitat_ids": [
+            "desert_riparian",
+            "desert_shrub"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2795&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Crotalus ruber",
+      "common_name": "Red Diamond Rattlesnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotalus ruber",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2797&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "rocky_chaparral"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2797&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        },
+        {
+          "region_id": "D11",
+          "habitat_ids": [
+            "rocky_chaparral"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2797&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Crotalus stephensi",
+      "common_name": "Panamint Rattlesnake",
+      "group": "Reptilia",
+      "historical_scientific_name": "Crotalus stephensi",
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=87155&inline=",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67504&inline=1"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "rock_outcrop",
+            "desert_canyon"
+          ],
+          "evidence_urls": [
+            "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67504&inline=1"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Individually read official CDFW life-history account; legacy legal status omitted and current species unit checked against SSAR2025."
+      ]
+    },
+    {
+      "scientific_name": "Actinemys pallida",
+      "common_name": "Southwestern Pond Turtle",
+      "group": "Reptilia",
+      "historical_scientific_name": null,
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D10",
+          "habitat_ids": [
+            "freshwater_pond",
+            "freshwater_stream"
+          ],
+          "evidence_urls": [
+            "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "South Coast freshwater only; do not use older undivided western-pond-turtle ranges indiscriminately."
+      ],
+      "occurrence_evidence": [
+        {
+          "region_id": "D09",
+          "source": "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+          "habitat_permission": "pending_individual_account_review"
+        }
+      ]
+    },
+    {
+      "scientific_name": "Anniella alexanderae",
+      "common_name": "Temblor Legless Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": null,
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://wildlife.ca.gov/Data/CNDDB/News/temblor-legless-lizard-status-review-how-you-can-help"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D07",
+          "habitat_ids": [
+            "alkali_scrub",
+            "annual_grassland"
+          ],
+          "evidence_urls": [
+            "https://wildlife.ca.gov/Data/CNDDB/News/temblor-legless-lizard-status-review-how-you-can-help"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "Southwestern-valley analog only; source status-review legal paragraph is dated2022 and omitted."
+      ]
+    },
+    {
+      "scientific_name": "Anniella campi",
+      "common_name": "Big Spring Legless Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": null,
+      "historical_flags": "",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Modern split not an additional subspecies; local range and habitat require separate evidence."
+      ]
+    },
+    {
+      "scientific_name": "Anniella grinnelli",
+      "common_name": "Bakersfield Legless Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": null,
+      "historical_flags": "",
+      "native_in_california": null,
+      "review_status": "candidate_needs_current_native_range_review",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [],
+      "region_permissions": [],
+      "runtime_eligible": false,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Modern split not an additional subspecies; local range and habitat require separate evidence."
+      ]
+    },
+    {
+      "scientific_name": "Anniella stebbinsi",
+      "common_name": "San Diegan Legless Lizard",
+      "group": "Reptilia",
+      "historical_scientific_name": null,
+      "historical_flags": "",
+      "native_in_california": true,
+      "review_status": "source_reviewed",
+      "taxonomy_status": "SSAR2025_species_reviewed",
+      "taxonomy_sources": [
+        "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf"
+      ],
+      "native_sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "region_permissions": [
+        {
+          "region_id": "D01",
+          "habitat_ids": [
+            "moist_sandy_soil"
+          ],
+          "evidence_urls": [
+            "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+          ],
+          "review_status": "source_supported",
+          "checked_on": "2026-10-12",
+          "evidence_scope": "broad_region_and_habitat_only"
+        }
+      ],
+      "runtime_eligible": true,
+      "release_review_status": "pending_independent_review",
+      "notes": [
+        "Conservative permission for fictional habitat only; no claim of occurrence on every district screen. Final text/art/behavior and independent ecology review remain pending.",
+        "JOTR northwestern transitional habitat only; name normalized to SSAR2025 San Diegan Legless Lizard. No all-desert soil permission."
+      ]
+    }
+  ]
+}

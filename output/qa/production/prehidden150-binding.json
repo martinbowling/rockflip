@@ -1,0 +1,8 @@
+{
+  "rom_sha256": "ad49fd56702f25b09db9f7d028a6d19db0e734db8982b753550d8e123156b464",
+  "sram_sha256": "18d4e8b6fb5ef567bf0a5a57347b410a2351a8275bf13edc196d7915738707ee",
+  "frames": 1874923,
+  "regular_photos": 150,
+  "hidden_photo_known": false,
+  "source": "Actual committed four-bank SRAM observed before first hidden photograph; no injected progress"
+}

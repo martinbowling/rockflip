@@ -1,0 +1,39 @@
+{
+  "scope": "Retained actual input-earned prior-ROM fixtures; copies only, no fabricated progress",
+  "items": [
+    {
+      "source": "output/qa/challenge-native/completed-challenges.ram",
+      "retained": "output/weather-save/fixtures/schema2-actual-challenges.ram",
+      "bytes": 32768,
+      "sha256": "f5e19d1e437325967b91de04a9ba9df231a1f00df1be9d6bbe86b87830f886c1",
+      "producing_rom_sha256": "7e3ec47030f7f7253014303cc7c7b3c218610dc76fef8f392641a537e437a8dc"
+    },
+    {
+      "source": "output/qa/save-native/rf02-schema1-2256.ram",
+      "retained": "output/weather-save/fixtures/schema1-actual-2256.ram",
+      "bytes": 32768,
+      "sha256": "7254f89f9ed62796e879409f222a0dd1ec1449e5d6aec1e3cbbc7e9fae887e3f",
+      "producing_rom_sha256": "cf73d421941c91e82d507afe476695517403f8fe7ddf94840cdc6da2a92f23c1"
+    },
+    {
+      "source": "output/qa/native-snapshot-migration/rf02-schema1-score3.ram",
+      "retained": "output/weather-save/fixtures/schema1-actual-score3.ram",
+      "bytes": 32768,
+      "sha256": "e46173b1e6b24fdb31b734164a27ee28e67a1067f67682787039590bffe18c02",
+      "producing_rom_sha256": "cf73d421941c91e82d507afe476695517403f8fe7ddf94840cdc6da2a92f23c1"
+    },
+    {
+      "source": "native/build/rom/RockFlip-Statewide.gbc",
+      "retained": "output/weather-save/fixtures/schema2-source.gbc",
+      "bytes": 2097152,
+      "sha256": "5ef08f3f176a2f44f44d80732c6f602778debb693d09ab9a9adcbfd6ae42bf21"
+    },
+    {
+      "source": "native/build/rom/RockFlip-Statewide.gbc.debug/symbols.noi",
+      "retained": "output/weather-save/fixtures/schema2-source.noi",
+      "bytes": 70786,
+      "sha256": "3ee523314055c225b6ece55497586e2369d84bae09f829ff07e0c58faf92c0c4"
+    }
+  ],
+  "retained_reader_note": "The schema2 reader ROM was copied at5ef08f3f (root actor-pool polish); authentic challenge fixture was earned at7e3ec470 with the same2448byte layout. Receipt preserves separate artifact lineage."
+}

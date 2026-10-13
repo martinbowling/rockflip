@@ -1,0 +1,409 @@
+{
+  "source_only": true,
+  "native_observed": false,
+  "count": 40,
+  "unique_indexed_portraits": 40,
+  "unique_silhouettes": 40,
+  "records": [
+    {
+      "art_id": "long_toed_salamander",
+      "species_id": 20,
+      "changed_pixels": 28,
+      "animal_pixels": 446,
+      "unique_tiles_frame0": 20,
+      "indexed_sha256": "b2dd53a32315829fe10ef69df965dd427fffaae1dc8671627cf8a73384dc9fe9",
+      "silhouette_sha256": "5e0392650920cb08b45349dcc0884b4197e395fd358615b114a5704ad11ba071",
+      "sha256": "ac7a2a383e3ea88a05460159f459b1faeb3be0b2e7a12a9139de1daa8dc3697d"
+    },
+    {
+      "art_id": "clouded_salamander",
+      "species_id": 26,
+      "changed_pixels": 28,
+      "animal_pixels": 514,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "73700e2e5c90dfecc1d00a00b5b6fe68abf2b5698b7defde913f7bdd50e6ef21",
+      "silhouette_sha256": "30e8eaa6d006f08f6ffc16697f8e4c39102d92f1552f94c1f7c77dd15805edee",
+      "sha256": "08ff21c4da3673fc1c90acb39449fc6403eb9d5eb51b8ba66b2f17fa1fa53d40"
+    },
+    {
+      "art_id": "black_salamander",
+      "species_id": 27,
+      "changed_pixels": 26,
+      "animal_pixels": 495,
+      "unique_tiles_frame0": 15,
+      "indexed_sha256": "874fddf41c9863de83b250d42ecd4d98d5c31e89309de29d95131f6eb633f269",
+      "silhouette_sha256": "41248eef2e2b61f2f14357995d760efa71d12370721d16b67c6530b1292aa108",
+      "sha256": "f296c13a95fd2ba3a61163aa76b270c9dd392f0d7ec61f95f86013823b803c5a"
+    },
+    {
+      "art_id": "shasta_black_salamander",
+      "species_id": 28,
+      "changed_pixels": 34,
+      "animal_pixels": 558,
+      "unique_tiles_frame0": 21,
+      "indexed_sha256": "b8230bfcc8e006fc6b9cce772ca16cd4cc1fedf89e1eb4366cc09e20dddd8dcf",
+      "silhouette_sha256": "1e9c245f3bddad259a64ea8d5e739422f00203e8f6e7bce50101fb102dfe79a3",
+      "sha256": "9d3a624490b5783712c766112fa91aae683271db6aca2901e73139c8ac58436a"
+    },
+    {
+      "art_id": "klamath_black_salamander",
+      "species_id": 29,
+      "changed_pixels": 28,
+      "animal_pixels": 488,
+      "unique_tiles_frame0": 19,
+      "indexed_sha256": "562eb13fdea071bcb14ffb6063a04185a9dd5e058fae96fec9377ead9861221f",
+      "silhouette_sha256": "35d4643ec6d6a5b70742313197cb50335b2925224000d2d89eadd2ea2b1c6418",
+      "sha256": "c7f23b81ea8c1b0f9b9a3e602a428896dfb96290e83ab0145a5f0a8dad619d1f"
+    },
+    {
+      "art_id": "santa_cruz_black_salamander",
+      "species_id": 30,
+      "changed_pixels": 31,
+      "animal_pixels": 484,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "80fb72f6cb1ad39b6f2d75ac8507a962985a85bac2273c639a79b23b852e341e",
+      "silhouette_sha256": "cc61734a8f11f246f14ed58ddcdff9c5fc2ed9277fcea42f6f13111d9f50d6bc",
+      "sha256": "d19629422d5986cb729939485b335bc6e67008a857a159f4f564bdc48421d390"
+    },
+    {
+      "art_id": "wandering_salamander",
+      "species_id": 31,
+      "changed_pixels": 28,
+      "animal_pixels": 491,
+      "unique_tiles_frame0": 22,
+      "indexed_sha256": "4c6012856d67f4aa0290c0b8059d3cc8c0c03b290304c31161f99151fc4d7b59",
+      "silhouette_sha256": "27170854a9837f617a474e423ce728b84e8c50ec32b3ff169ddc3e707245a467",
+      "sha256": "66fc05487ae5410a81dc074f7308015b770a8553f45c0a0f1771465a879ea4c9"
+    },
+    {
+      "art_id": "greenhorn_slender_salamander",
+      "species_id": 38,
+      "changed_pixels": 26,
+      "animal_pixels": 337,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "e9dfaf9e55c6aa306277e58d0445e4c6bb894598156f0b80ec465c866eeb5e28",
+      "silhouette_sha256": "6c85b168835ea2a09ff83ae63e76a171cdc304bdaaa0dd2310de5e990c0d0006",
+      "sha256": "3867b8dd71e80814a946f53fca80d1ac40b18e0bf7bee37a0429d05d109830b0"
+    },
+    {
+      "art_id": "california_slender_salamander",
+      "species_id": 39,
+      "changed_pixels": 26,
+      "animal_pixels": 282,
+      "unique_tiles_frame0": 15,
+      "indexed_sha256": "03d5e782a5cdd113daf0490bc80af7bf1d29b7befa7d360e01fb6ce53c1d633e",
+      "silhouette_sha256": "6ef3b084d79cf3a16fe3f762c47418c7964e9e7a99b9158b3ff393047f2617ab",
+      "sha256": "960b83cc380ea486edee9905a169b91b5ed2e97b630165456699cc6c1e45c418"
+    },
+    {
+      "art_id": "fairview_slender_salamander",
+      "species_id": 40,
+      "changed_pixels": 26,
+      "animal_pixels": 357,
+      "unique_tiles_frame0": 16,
+      "indexed_sha256": "66f69909a54e5fb53d250039442d7d6cccc0a82bd1849b8eb01ead3732f75d9d",
+      "silhouette_sha256": "70f02f7259893fc16286cb728cb0ec6bc528872caf1a8afc74796df05f07633b",
+      "sha256": "3c98b6cb54da572c4c34bdbd9ab9dfa3488fdbf134a1cfca8196e9d037f8b6f6"
+    },
+    {
+      "art_id": "hell_hollow_slender_salamander",
+      "species_id": 42,
+      "changed_pixels": 26,
+      "animal_pixels": 329,
+      "unique_tiles_frame0": 16,
+      "indexed_sha256": "6f96fff738b8b90f916a73b500f62474abb9ca6ec40d3c4d1b5e251b8a6f4515",
+      "silhouette_sha256": "7989fee4aed0b6ce66ae9440664aeac829771908517b18d2dd6a0890bffcfc27",
+      "sha256": "707c3466d3c4da93227bded95500166fd5ff5ded4425d44bf71603afc3027823"
+    },
+    {
+      "art_id": "gabilan_slender_salamander",
+      "species_id": 44,
+      "changed_pixels": 26,
+      "animal_pixels": 297,
+      "unique_tiles_frame0": 15,
+      "indexed_sha256": "89f030e3c0143aac12d2c96096c3462c7ae0c96b8f3190f49e22c895d44e2689",
+      "silhouette_sha256": "b5fae08bfe57e41e6292cc50a4aa8d5eb6bf8fb3f821a7061da5a9bdda7bcb30",
+      "sha256": "dca4432bc22fe1c9ca91104ecdb4ebbff72f5cf318f19bb8048cf3d6db276fd2"
+    },
+    {
+      "art_id": "gregarious_slender_salamander",
+      "species_id": 45,
+      "changed_pixels": 26,
+      "animal_pixels": 286,
+      "unique_tiles_frame0": 16,
+      "indexed_sha256": "9da4a86fbb779c6c69ed989594beee6d4d15d31a8b9962d5347700d5d1d4620f",
+      "silhouette_sha256": "dfdeda6346f7f3fc87504c0122797ba05384dbb5abe13c35d0d55158e706002c",
+      "sha256": "7dd1c28e1d3cf47aecac4f926de508a45cb89c2629d9ab20a15b8822bdda25d8"
+    },
+    {
+      "art_id": "san_simeon_slender_salamander",
+      "species_id": 46,
+      "changed_pixels": 26,
+      "animal_pixels": 304,
+      "unique_tiles_frame0": 15,
+      "indexed_sha256": "434c95a530b55f0ca691cbd5ad45c1223a1c92bf708e2e382285d5e2b34355f4",
+      "silhouette_sha256": "616b488750ca1d5ddf17a9d8d7d64484067e885749babaeb51aeeb320c51b8fc",
+      "sha256": "733f374fc9aa2ed2e1d08546a652e62ed207c8f869e4d56258c6d0bee1584ea5"
+    },
+    {
+      "art_id": "sequoia_slender_salamander",
+      "species_id": 47,
+      "changed_pixels": 26,
+      "animal_pixels": 339,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "8181a9003b491e770a3165a57607a56fd02c425c20b828bca12b5e266a370921",
+      "silhouette_sha256": "9814d0531605a404e5a114d8ccdc4d7392381a2be422f50c44ed74f51fe0e45c",
+      "sha256": "1a62227a806c604600ec377553fe63c9dee3c3f15912fbad398a16ea86af8217"
+    },
+    {
+      "art_id": "santa_lucia_slender_salamander",
+      "species_id": 48,
+      "changed_pixels": 26,
+      "animal_pixels": 324,
+      "unique_tiles_frame0": 14,
+      "indexed_sha256": "114b398adec61edbf940b09469b3e5a5ff4f8cfaf5890462d0b7f5f4b0ceb89f",
+      "silhouette_sha256": "fe45e8c923a22acc1b43a3db83377a08876238968fe512b9e4836d079b6305e8",
+      "sha256": "ea8aec83d003b3d98fd3f14002285d7abdd239ca445c4291e40449bd8e85b3da"
+    },
+    {
+      "art_id": "southern_slender_salamander",
+      "species_id": 49,
+      "changed_pixels": 26,
+      "animal_pixels": 365,
+      "unique_tiles_frame0": 16,
+      "indexed_sha256": "d3f6c4bc41b3323f2a2300c321816b2ac1653fbc5cfc6c21f83d3e222e0281c0",
+      "silhouette_sha256": "ac7166b25dbfbbc5e4580acdb5bc9921864b2cf1cefd6512c4117b356ea47a12",
+      "sha256": "258053793a85df8322799b039070735b46085192285418b809b65d5ce25cd72d"
+    },
+    {
+      "art_id": "lesser_slender_salamander",
+      "species_id": 50,
+      "changed_pixels": 26,
+      "animal_pixels": 285,
+      "unique_tiles_frame0": 15,
+      "indexed_sha256": "34b3e091678c42ce787de672e4d36fcf253ff47b5914cc41235d032b82196dc7",
+      "silhouette_sha256": "d521c1caa03320ed41ee22d67e83fbbc08496cdb18d0a589cce11eeb074ef846",
+      "sha256": "90943dbd7cdced09028e0c71cac89c3393adf11aaddf9c8bdcaeb4c284336f33"
+    },
+    {
+      "art_id": "black_bellied_slender_salamander",
+      "species_id": 51,
+      "changed_pixels": 25,
+      "animal_pixels": 289,
+      "unique_tiles_frame0": 16,
+      "indexed_sha256": "93840d919d3f77ea7e297590f24f575c72d1015c7d11ec2ab26802c27b284fa4",
+      "silhouette_sha256": "a88e2ca348f5eb164269adfe05b732444df75faf973ca08d11ce3ba9713a8512",
+      "sha256": "6ad279ea6ba7d2e97d35e3ce413fd9b835d3aa10b7ee2158dbd29d78186b4847"
+    },
+    {
+      "art_id": "channel_islands_slender_salamander",
+      "species_id": 52,
+      "changed_pixels": 26,
+      "animal_pixels": 362,
+      "unique_tiles_frame0": 16,
+      "indexed_sha256": "bed023536bf2be0b20bea49c32eba355b9199986d6ee6896921d3f8946596078",
+      "silhouette_sha256": "137c7bc38b192ffbafc45065821a4aadc119460526426710f4a5b4dd586e380c",
+      "sha256": "d41cfc0c18c0fd4492567bc7f8a373d9f2d6291e8258e79061cba70cb5485ab3"
+    },
+    {
+      "art_id": "kings_river_slender_salamander",
+      "species_id": 53,
+      "changed_pixels": 26,
+      "animal_pixels": 306,
+      "unique_tiles_frame0": 14,
+      "indexed_sha256": "3108252911d4a42e4786411df37c31001e9efc8968acdcb10a39d9ddcb75a6d0",
+      "silhouette_sha256": "5d27f6e7998d9d656695fc2e559a170ba252128090d3add25aafd9fcf8dd37d7",
+      "sha256": "62dec7c94b87daad257398b8eaec51030de21904e445c33aebeb0d735e8b6954"
+    },
+    {
+      "art_id": "relictual_slender_salamander",
+      "species_id": 54,
+      "changed_pixels": 26,
+      "animal_pixels": 324,
+      "unique_tiles_frame0": 16,
+      "indexed_sha256": "8b2d94ad405a468fc6d0092b24ee1095738da3f5f2f7b7be14f2c9935ac7dbf2",
+      "silhouette_sha256": "46f36c0addf19dc3b599f2c416a4ce3a4ea6c44b2e2e051d9a7b6385fe8ab64d",
+      "sha256": "09fa0afd1e839a530ea565fefa4cc39901ad9d9b9e58e1303d82e8503c2f8c42"
+    },
+    {
+      "art_id": "kern_plateau_slender_salamander",
+      "species_id": 55,
+      "changed_pixels": 26,
+      "animal_pixels": 409,
+      "unique_tiles_frame0": 15,
+      "indexed_sha256": "1cdd6cefc9a15efa16d5c1718e7df4ad2b449423b965365b188be45c16b8800f",
+      "silhouette_sha256": "16d4439bd789db0428bf9dead3d875a434c77c1f26f6d53ecc5cc1e0f41bddbb",
+      "sha256": "05a598564d8835e65792bfaedd9884c518892f6b33218ec18e45d15eaa3a515e"
+    },
+    {
+      "art_id": "kern_canyon_slender_salamander",
+      "species_id": 56,
+      "changed_pixels": 26,
+      "animal_pixels": 317,
+      "unique_tiles_frame0": 15,
+      "indexed_sha256": "cebf24f2f352c9792632c79d2d3614918bb4cdca5d7ab12d891907916656710f",
+      "silhouette_sha256": "e35243e67d0b93a8b5332d16a835fd17dc88edda06cb3cecd49bbb3c710fb1ad",
+      "sha256": "c3fd51e543e793d4a20889e9410f31105b686d697c003502b73de20d4f1d211a"
+    },
+    {
+      "art_id": "tehachapi_slender_salamander",
+      "species_id": 57,
+      "changed_pixels": 28,
+      "animal_pixels": 481,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "0fe0f9cc569062afdc2b937a06612ec2e5f353838dfabcfc71d7576319892185",
+      "silhouette_sha256": "6408c03b6f11fe155517a190286bf30a60d1fde9b576dceb55ee95b2697b1a6e",
+      "sha256": "30a43acc5da2ce419e25598ba0306c04b08184aa59fdd626df03df9b3bc8105a"
+    },
+    {
+      "art_id": "california_giant_salamander",
+      "species_id": 75,
+      "changed_pixels": 25,
+      "animal_pixels": 656,
+      "unique_tiles_frame0": 22,
+      "indexed_sha256": "fcba30d9996918648e79f9d3e2b41e13c0795d9fcc2aba9f81b05e8e900bca8a",
+      "silhouette_sha256": "8f971a8fdd267675b9cb5fba7aa87afa6094f538c67afdfbd65aa62a291cba2b",
+      "sha256": "4020394dbed8b624dc41c75bce1b60ec9c3d88e6a0e5f874bf424c531a09efd2"
+    },
+    {
+      "art_id": "coastal_giant_salamander",
+      "species_id": 76,
+      "changed_pixels": 31,
+      "animal_pixels": 546,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "c9afbf200423b9c420bc3235b5b9e946a2a270060877a9677365c384d3367864",
+      "silhouette_sha256": "c9dc6a905dc2bff7571c7b59b02912f216afdad71d117db42c6aff65b5e4d08c",
+      "sha256": "45df6205fc60c1841f4b68707282c71d38ac1b79da41c673f638ad8af7e78067"
+    },
+    {
+      "art_id": "ensatina",
+      "species_id": 79,
+      "changed_pixels": 34,
+      "animal_pixels": 487,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "b3170b29cf38df12717d3249c9f391311bf5b20c50094ff7feadf6270b240277",
+      "silhouette_sha256": "94f640c401b85ed07885da405f9359368f3b093fc4547a5e30edf00ada52a8e3",
+      "sha256": "e4b16f1d4e837c93c14e59b9d0e438b4043cee46c3af36769bc1c60735110e35"
+    },
+    {
+      "art_id": "limestone_salamander",
+      "species_id": 84,
+      "changed_pixels": 30,
+      "animal_pixels": 434,
+      "unique_tiles_frame0": 14,
+      "indexed_sha256": "fcfaefeae617e65b79d4c0b1c488a29be9f9d94cba8625f03f4b869b163dd7df",
+      "silhouette_sha256": "f46ff9bdb4af695f8035011a9c2986d4f654db662b801c799071a1865e682ebb",
+      "sha256": "c13a0f028a19f21a9c0d151a1a4cd202735ce0e126e30c8c8ccd42c4f4dd1ee3"
+    },
+    {
+      "art_id": "mount_lyell_salamander",
+      "species_id": 85,
+      "changed_pixels": 29,
+      "animal_pixels": 478,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "6c509429052f6e66018e3808fe5de56559dd0adcb54a169b589b49af7707ed39",
+      "silhouette_sha256": "f502c2f30b9786fe9e306ce6bdfaa9183b0f64192b8ba65f320d94cf8be2e8e1",
+      "sha256": "73397c7a420f29ba383896fcc9945e0b8b8bf1725e282139c177aad0bf68adc6"
+    },
+    {
+      "art_id": "samwel_shasta_salamander",
+      "species_id": 86,
+      "changed_pixels": 28,
+      "animal_pixels": 451,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "21f333018cc2d46f54be7619ab32f0e50dbb1af2a4e0583c86d2e897febfe035",
+      "silhouette_sha256": "0c565db629db3ba8a5ed6722453c7ad5c810a874a880d246e11da794e55daf90",
+      "sha256": "612d080126824aa7ec92b8ebaa4c327b01e3be444651b7e582e713f6619aa97f"
+    },
+    {
+      "art_id": "wintu_shasta_salamander",
+      "species_id": 88,
+      "changed_pixels": 29,
+      "animal_pixels": 444,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "9f54b13c55e88f2576565290471ff54aac2b47f0d399a0e52690da653dea845a",
+      "silhouette_sha256": "ab7a20cef1c13ec6a04f8d13da471594e037de176de1bdc9222f3cda0b75c795",
+      "sha256": "c8f1c67fce7c9c799b873d776e07ba99fa61525e1117ad221ae26f09c23b1ffc"
+    },
+    {
+      "art_id": "scott_bar_salamander",
+      "species_id": 104,
+      "changed_pixels": 31,
+      "animal_pixels": 491,
+      "unique_tiles_frame0": 20,
+      "indexed_sha256": "880986805e5784744ce328fd74abf0686b093db094932341fd3c940f8d0655b9",
+      "silhouette_sha256": "d0256fe6f2145b6283aad34f80788c43bea199b870804c499adfbc1d2286529e",
+      "sha256": "eabfa40d738b4d1689221adf571607f556c93008682e3d145679b9f958b0f381"
+    },
+    {
+      "art_id": "dunns_salamander",
+      "species_id": 105,
+      "changed_pixels": 31,
+      "animal_pixels": 470,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "861c36de224407e59610f2b7ff07db8ab927f9e24fca2257c90b3957e05d172c",
+      "silhouette_sha256": "4a7d87c4cd920ce7d28c9d22282e1366c42df1e5a8585873ea896b6a3261ed1a",
+      "sha256": "6dcc039fff4aadd517003a62cdd4000e5bd7f9750e4d79a3553d24eb30a513c8"
+    },
+    {
+      "art_id": "del_norte_salamander",
+      "species_id": 106,
+      "changed_pixels": 26,
+      "animal_pixels": 391,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "1ed748f659c63c64902f3efd2c47450ba5346cf6e3149b517e801a85c9fb7721",
+      "silhouette_sha256": "906aa5becdfddeb23e88f571793c4b55e6ab0fb0bdb3128dc2467513438455ef",
+      "sha256": "faa18fdd1ebb79f549d2ce79fcebf5b0cd98aaf60a2c6883ee98613997cf27ff"
+    },
+    {
+      "art_id": "siskiyou_mountains_salamander",
+      "species_id": 107,
+      "changed_pixels": 28,
+      "animal_pixels": 434,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "60336f955494587d8bc34d7bbe3322d1f31a0d719d848b2fb9918dd6a46b51ad",
+      "silhouette_sha256": "415bb06e605f78165f6434b395d0cf95d7965ccc50dde0228c1bf53bcb33d1bb",
+      "sha256": "b5df2d1ef611998b096beaf87960267ce6e3159d7bf84ad24061be5de60ad026"
+    },
+    {
+      "art_id": "rough_skinned_newt",
+      "species_id": 128,
+      "changed_pixels": 26,
+      "animal_pixels": 537,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "b1fa1e9581bbaeb1010dccd26273781a1383c024e4f2c6d8dbae4cffb95561ba",
+      "silhouette_sha256": "574d8988c90294df6364cf64a7d99ab97e49a34f8d6a4bba68715a08a1921922",
+      "sha256": "9ea03157e0820f2a65a7736ec9e9074b1fd25c0b8593f8709f769c87be8b7d7d"
+    },
+    {
+      "art_id": "red_bellied_newt",
+      "species_id": 129,
+      "changed_pixels": 30,
+      "animal_pixels": 517,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "0d44d20bdc3a579e6fb96944f3859f39e8da2e94e4c1febc27acad2b634c9d5a",
+      "silhouette_sha256": "291d200daacc1e49e7043ae83fc67a4adbcbcb8339500ff6a9d3e16db414e4c5",
+      "sha256": "733d15a52679c6947a573eccb59fa822379cf94bb08f1893654027086c62a128"
+    },
+    {
+      "art_id": "sierra_newt",
+      "species_id": 130,
+      "changed_pixels": 32,
+      "animal_pixels": 495,
+      "unique_tiles_frame0": 18,
+      "indexed_sha256": "6756b04663821fa72b1b151318f68db63750d06e46267f1874363c8a0e8c9de4",
+      "silhouette_sha256": "119d58c2a86df0f836f4dbc18028241e24f0406d0cf93805005a10b455607a6b",
+      "sha256": "331600fd06a5a8307018cd694651a99231387b68229ecb79688eacf913bbda99"
+    },
+    {
+      "art_id": "arguello_slender_salamander",
+      "species_id": 150,
+      "changed_pixels": 26,
+      "animal_pixels": 391,
+      "unique_tiles_frame0": 17,
+      "indexed_sha256": "3fed57690c3bd36c15959c788af647be73e106a81babe4eca0e57b1eef1fe78b",
+      "silhouette_sha256": "1bc1d6ed718c6838704c93ae7e246b41cef778c33218b1776dd5abdf68c28b76",
+      "sha256": "5927c4aa7e48dec7a196cb1401cc73859ef310b422527357638b2817683223a2"
+    }
+  ]
+}

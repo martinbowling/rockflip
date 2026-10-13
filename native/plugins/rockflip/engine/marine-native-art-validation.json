@@ -1,0 +1,20 @@
+{
+  "installed_native_source": true,
+  "scope": "original_art_and_native_C_installed_not_compiled_or_observed",
+  "source_art": "./art/out/marine_photo.png",
+  "source_png_sha256": "0ae4e5d883e24c28f4e05169644e439d956a35391a3a90290b8e3481cfed69cf",
+  "tiles": 17,
+  "vram_pattern_first": 96,
+  "vram_pattern_last": 112,
+  "tile_count_limit": 128,
+  "palette_slot": 3,
+  "font_ui_preserved": true,
+  "quiet_portrait_composition_region": [
+    16,
+    8,
+    112,
+    56
+  ],
+  "native_emulator_verified": false,
+  "source_C_sha256": "34af5815c88019e96253b67a76aecf4b57bb1c5e8c59c8cb2a43f08ed147dbc3"
+}

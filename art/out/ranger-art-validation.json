@@ -1,0 +1,19 @@
+{
+  "status": "authored_source_checked_not_native_observed",
+  "rangers": 16,
+  "native_sprite_frames": 192,
+  "portrait48_frames": 32,
+  "portrait32_frames": 32,
+  "distinct_portrait_index_patterns": 16,
+  "distinct_front_sprite_index_patterns": 16,
+  "campaign_identity_mapping_checked": true,
+  "palette": "four RGB555-aligned colors per identity; slot0 transparent",
+  "pending": [
+    "Native compiler integration and bank limits",
+    "District NPC identity in emulator",
+    "Movement/OAM scanline budget in actual world",
+    "Human face/readability/personality review",
+    "Physical Chromatic display acceptance"
+  ],
+  "source_sha256": "bd702053b854ec95ca93c7af03a46bb7e4a1301804267b5f4ce68b9166d4f643"
+}

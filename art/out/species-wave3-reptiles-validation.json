@@ -1,0 +1,428 @@
+{
+  "source_only": true,
+  "native_observed": false,
+  "count": 60,
+  "unique_native_portrait_grids": 60,
+  "records": [
+    {
+      "species_id": 33,
+      "art_id": "r_033",
+      "changed_pixels": 77,
+      "unique_tiles_frame0": 24,
+      "sha256": "fcb73dba89b7a0d8a666b14e28586af66919f5f7feec5ee7decac1c661756c5c"
+    },
+    {
+      "species_id": 34,
+      "art_id": "r_034",
+      "changed_pixels": 65,
+      "unique_tiles_frame0": 26,
+      "sha256": "c3a03acf5108fcb750a382623b31742efafca7b193ba6328ed793e30aeed2f88"
+    },
+    {
+      "species_id": 37,
+      "art_id": "r_037",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 19,
+      "sha256": "f35f4111649cf93fbf5b42e64a8a447818e76bc78be48d8ab4d823a70731f2ad"
+    },
+    {
+      "species_id": 58,
+      "art_id": "r_058",
+      "changed_pixels": 35,
+      "unique_tiles_frame0": 21,
+      "sha256": "3e2a0cc6b82a858590a9c6e682c86b351b4bad52ea047deb4079c45fa2d83ec8"
+    },
+    {
+      "species_id": 60,
+      "art_id": "r_060",
+      "changed_pixels": 145,
+      "unique_tiles_frame0": 26,
+      "sha256": "60e6a8f89e3c725a32b20ad901623af190e70cc40554409c787550f830916b9d"
+    },
+    {
+      "species_id": 61,
+      "art_id": "r_061",
+      "changed_pixels": 165,
+      "unique_tiles_frame0": 26,
+      "sha256": "b7c310e1ce55331bfd485461510ad9e5b939e0694240a21d6ef37f5238e99ffa"
+    },
+    {
+      "species_id": 62,
+      "art_id": "r_062",
+      "changed_pixels": 61,
+      "unique_tiles_frame0": 22,
+      "sha256": "2fd8394bf36108d33639f4131ecd07e2a1f287c8446efb8328eda2736519ec9d"
+    },
+    {
+      "species_id": 63,
+      "art_id": "r_063",
+      "changed_pixels": 59,
+      "unique_tiles_frame0": 22,
+      "sha256": "06c5f71bbeb329970a099367328ba9d9e8b0cd79ba7a0a2dbbe1f0051a61be2f"
+    },
+    {
+      "species_id": 66,
+      "art_id": "r_066",
+      "changed_pixels": 90,
+      "unique_tiles_frame0": 30,
+      "sha256": "eb1b0e845d297d25679aced58831debbbc770942022ccff966f603dd23f87af0"
+    },
+    {
+      "species_id": 67,
+      "art_id": "r_067",
+      "changed_pixels": 89,
+      "unique_tiles_frame0": 30,
+      "sha256": "aa6a45bff79312c597a4e6e43b48a233bbe81115797b1f592b83622f79eda426"
+    },
+    {
+      "species_id": 68,
+      "art_id": "r_068",
+      "changed_pixels": 86,
+      "unique_tiles_frame0": 28,
+      "sha256": "7fdb50cf8cdf90f9cf9680c1e39400c14152b930bd767246e23b167633fdf55b"
+    },
+    {
+      "species_id": 69,
+      "art_id": "r_069",
+      "changed_pixels": 86,
+      "unique_tiles_frame0": 28,
+      "sha256": "e9774877ef411aa2cc68f6364f850fd9cc110528158bce71288086f3f37c89c2"
+    },
+    {
+      "species_id": 70,
+      "art_id": "r_070",
+      "changed_pixels": 85,
+      "unique_tiles_frame0": 28,
+      "sha256": "0b7c07b3550c0cff3b49115d862c7f8fd9a1b9b48ab2208e6d3f1be8b74790a8"
+    },
+    {
+      "species_id": 71,
+      "art_id": "r_071",
+      "changed_pixels": 202,
+      "unique_tiles_frame0": 19,
+      "sha256": "c868e3b17cc236b147210736da6a02d6226c5edfb25b9235c1f8fbda2e67cc85"
+    },
+    {
+      "species_id": 73,
+      "art_id": "r_073",
+      "changed_pixels": 161,
+      "unique_tiles_frame0": 27,
+      "sha256": "b27b47b1ffacd505d4175dde2f5379af2c91555ba1ffd516f17973e73d38ce0f"
+    },
+    {
+      "species_id": 74,
+      "art_id": "r_074",
+      "changed_pixels": 64,
+      "unique_tiles_frame0": 22,
+      "sha256": "1fc6c90549377ea95f58dabbe24bd332ffb6fe70353a60a210468958978894b8"
+    },
+    {
+      "species_id": 77,
+      "art_id": "r_077",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 18,
+      "sha256": "d3d8ea791a1fa24f4a597dad507fed3eaf0a1e3986c5b695cdad41a2030e9f6b"
+    },
+    {
+      "species_id": 80,
+      "art_id": "r_080",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 19,
+      "sha256": "84968c450b7c30d6d47d0374b7bf02e5958c6dd026fbd7a8ec85e4fce373e5bf"
+    },
+    {
+      "species_id": 82,
+      "art_id": "r_082",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 19,
+      "sha256": "1d8d068012a781e89794bf2ac28db7b0bccdf5e5c4a3bbee823dbc6820215e6b"
+    },
+    {
+      "species_id": 83,
+      "art_id": "r_083",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 18,
+      "sha256": "c80ad0ea60ac1f581533cc651205fddcceb0910592de8a2e3a7dc749bd50ab3b"
+    },
+    {
+      "species_id": 89,
+      "art_id": "r_089",
+      "changed_pixels": 65,
+      "unique_tiles_frame0": 25,
+      "sha256": "11fbf579d303994beae8f8dd7dc6f4831047713b7eab45e9f42de56fb332752b"
+    },
+    {
+      "species_id": 90,
+      "art_id": "r_090",
+      "changed_pixels": 67,
+      "unique_tiles_frame0": 23,
+      "sha256": "3528c2fb5b7ad0672be5aa0acf9ce2d78ba5404670ddb2128cdb685ca69b7aae"
+    },
+    {
+      "species_id": 91,
+      "art_id": "r_091",
+      "changed_pixels": 60,
+      "unique_tiles_frame0": 23,
+      "sha256": "804d83856449fc949ccefd21844fd46a3ba1032930cbe14b172fee5d7e46c902"
+    },
+    {
+      "species_id": 92,
+      "art_id": "r_092",
+      "changed_pixels": 69,
+      "unique_tiles_frame0": 23,
+      "sha256": "000300ac69fa0c96705c266b2febf003f621e70ca3dc17caea888f41e404fbd4"
+    },
+    {
+      "species_id": 93,
+      "art_id": "r_093",
+      "changed_pixels": 61,
+      "unique_tiles_frame0": 24,
+      "sha256": "1b288be34785833cd44a840ca0db58efacafb90f92a02bc222729b207057716f"
+    },
+    {
+      "species_id": 95,
+      "art_id": "r_095",
+      "changed_pixels": 214,
+      "unique_tiles_frame0": 18,
+      "sha256": "c55fc03cbc8db7ab6106c0b276d8029ba81e6da94de07e2d811f93b3156dae3f"
+    },
+    {
+      "species_id": 96,
+      "art_id": "r_096",
+      "changed_pixels": 95,
+      "unique_tiles_frame0": 28,
+      "sha256": "8a944342d57c9109e69fc2fd1f9488a62a0a9ebacdb3edf8671c4891173527e3"
+    },
+    {
+      "species_id": 98,
+      "art_id": "r_098",
+      "changed_pixels": 81,
+      "unique_tiles_frame0": 29,
+      "sha256": "7d6c800f092b4116536b1b524caae41ffc3e6484514abc531e33cb00a0648d4f"
+    },
+    {
+      "species_id": 100,
+      "art_id": "r_100",
+      "changed_pixels": 78,
+      "unique_tiles_frame0": 23,
+      "sha256": "45e432417656c1927e2e717b51938238c96200e27d135cb16620199a943527b8"
+    },
+    {
+      "species_id": 101,
+      "art_id": "r_101",
+      "changed_pixels": 66,
+      "unique_tiles_frame0": 27,
+      "sha256": "c5fec355c2954a4902de390203db94ec7c5763f6d92a99b404863ccf425114e1"
+    },
+    {
+      "species_id": 102,
+      "art_id": "r_102",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 18,
+      "sha256": "f9e1f79ba8b6fb3ed6e0b405b76e32e4ad9c00ea70087c67f608ce87f8f0746e"
+    },
+    {
+      "species_id": 114,
+      "art_id": "r_114",
+      "changed_pixels": 30,
+      "unique_tiles_frame0": 19,
+      "sha256": "954586bf9d7a2eabe334cb3dd09bddb15975ac6c84c22a9221e4ea873e3da6a1"
+    },
+    {
+      "species_id": 115,
+      "art_id": "r_115",
+      "changed_pixels": 62,
+      "unique_tiles_frame0": 23,
+      "sha256": "eceb5577f1421f43cbb7ad427bfd48ca5abf7311aace766bd8cedbbf66415f28"
+    },
+    {
+      "species_id": 117,
+      "art_id": "r_117",
+      "changed_pixels": 64,
+      "unique_tiles_frame0": 23,
+      "sha256": "d2e37c0b8d79f103e7116cf73d299f8b8230dceb4797ef11da81a4377e847152"
+    },
+    {
+      "species_id": 119,
+      "art_id": "r_119",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 19,
+      "sha256": "ba35a22d670eb44f7990f9a9c80113b6be2eee938b5f8e3168f17055f08b0f44"
+    },
+    {
+      "species_id": 120,
+      "art_id": "r_120",
+      "changed_pixels": 243,
+      "unique_tiles_frame0": 19,
+      "sha256": "1f5e84b239e26b0e172263e5d96a25f457612ccff1b68c1ffa62b7bfebc0534b"
+    },
+    {
+      "species_id": 121,
+      "art_id": "r_121",
+      "changed_pixels": 245,
+      "unique_tiles_frame0": 19,
+      "sha256": "0896d7a819359f6aef6eb5dc71248173f89e63c859f8fe46542a18821e13e3cf"
+    },
+    {
+      "species_id": 122,
+      "art_id": "r_122",
+      "changed_pixels": 72,
+      "unique_tiles_frame0": 26,
+      "sha256": "8b1bbd5ff8f7b04e9966dad92efc978e3a2785b324e8d9aaaf119b796de0680e"
+    },
+    {
+      "species_id": 123,
+      "art_id": "r_123",
+      "changed_pixels": 62,
+      "unique_tiles_frame0": 21,
+      "sha256": "731a5655a05157a14761c36db7495f346577cd77a129706b4d371887805ec578"
+    },
+    {
+      "species_id": 126,
+      "art_id": "r_126",
+      "changed_pixels": 44,
+      "unique_tiles_frame0": 24,
+      "sha256": "286e4969f84786285c95598583f9b53868998877715b12c0fe68f0c5b27d77e8"
+    },
+    {
+      "species_id": 127,
+      "art_id": "r_127",
+      "changed_pixels": 37,
+      "unique_tiles_frame0": 21,
+      "sha256": "6f4d87a2f5e5fb28f746864feed05f0fd8bc89d9976c7c0fa990a18e437065a1"
+    },
+    {
+      "species_id": 131,
+      "art_id": "r_131",
+      "changed_pixels": 72,
+      "unique_tiles_frame0": 22,
+      "sha256": "f8cb6f3590eab08e2419771cb222e7ce5141f197a4e7c7feb2a206dd20a71d64"
+    },
+    {
+      "species_id": 132,
+      "art_id": "r_132",
+      "changed_pixels": 70,
+      "unique_tiles_frame0": 24,
+      "sha256": "7bc7836421156abf9b8bfac73016cdb551d3299b916dc4ddaad11b690643f707"
+    },
+    {
+      "species_id": 133,
+      "art_id": "r_133",
+      "changed_pixels": 70,
+      "unique_tiles_frame0": 25,
+      "sha256": "1e0539aa8e59527e5025d8cf3626318d61fd9d541a5b3a4bfeb2998cbe63a0d4"
+    },
+    {
+      "species_id": 134,
+      "art_id": "r_134",
+      "changed_pixels": 76,
+      "unique_tiles_frame0": 26,
+      "sha256": "7d313854b0575e2dee48982e66daa30debe6132e11a8634723afd265f2fa26d3"
+    },
+    {
+      "species_id": 135,
+      "art_id": "r_135",
+      "changed_pixels": 72,
+      "unique_tiles_frame0": 26,
+      "sha256": "2f8ce89d8df6c08acab8a20f43774a82ae0375a83c7f52224419b46f4fddf2c2"
+    },
+    {
+      "species_id": 136,
+      "art_id": "r_136",
+      "changed_pixels": 80,
+      "unique_tiles_frame0": 28,
+      "sha256": "cac8974760eb79054b5625acc2522686775c9537098b2c721a2ce0c114a63585"
+    },
+    {
+      "species_id": 137,
+      "art_id": "r_137",
+      "changed_pixels": 70,
+      "unique_tiles_frame0": 22,
+      "sha256": "eb54790b19643a95f000622230b7f5a2faf68e445f37b8c88c0cddc4015e53b1"
+    },
+    {
+      "species_id": 138,
+      "art_id": "r_138",
+      "changed_pixels": 70,
+      "unique_tiles_frame0": 24,
+      "sha256": "c786c6d75aa913561d2abeb5b6c722bbfd3742209bfdb1dca9159950bed7b0fd"
+    },
+    {
+      "species_id": 139,
+      "art_id": "r_139",
+      "changed_pixels": 59,
+      "unique_tiles_frame0": 25,
+      "sha256": "c93f250b4471baec4719874a4b07cd2ffd93890691c99f9a2a8a9b764439b325"
+    },
+    {
+      "species_id": 140,
+      "art_id": "r_140",
+      "changed_pixels": 105,
+      "unique_tiles_frame0": 21,
+      "sha256": "5e40547fa5dd09fea8e600d4a6ea26db0ebda8a9126439ba3e37696ff4eb66ce"
+    },
+    {
+      "species_id": 141,
+      "art_id": "r_141",
+      "changed_pixels": 105,
+      "unique_tiles_frame0": 21,
+      "sha256": "40e0937c152714e79546c0f7b7c66395a46427dde46054ad4c94dcf53a06228c"
+    },
+    {
+      "species_id": 142,
+      "art_id": "r_142",
+      "changed_pixels": 105,
+      "unique_tiles_frame0": 21,
+      "sha256": "d78442aa7d09709ac9f643c031a0b4b9367f37469dd3bce9019934856f2a8905"
+    },
+    {
+      "species_id": 143,
+      "art_id": "r_143",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 21,
+      "sha256": "1703ef1398c88d3f77905a8f6b0884bb20795c8ddcf302d5ee5effc0688bb443"
+    },
+    {
+      "species_id": 144,
+      "art_id": "r_144",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 21,
+      "sha256": "639440f39f6f5aca9444c90e8557a03d701ccd6e575d7cc6a50819775d248be8"
+    },
+    {
+      "species_id": 145,
+      "art_id": "r_145",
+      "changed_pixels": 19,
+      "unique_tiles_frame0": 21,
+      "sha256": "13150c452c4aa712a03a6ad296d7eecba6afa82edbfdf2828198b5084a54509d"
+    },
+    {
+      "species_id": 146,
+      "art_id": "r_146",
+      "changed_pixels": 23,
+      "unique_tiles_frame0": 21,
+      "sha256": "c65e2be68d4fd873a118b8a5798ed1f598b73008a7d8b35559bf220cb700194a"
+    },
+    {
+      "species_id": 147,
+      "art_id": "r_147",
+      "changed_pixels": 65,
+      "unique_tiles_frame0": 21,
+      "sha256": "d61037b2580c671de1fdc0c7142d60e5540cfd9995b25ec0e27c381a31c7bdcf"
+    },
+    {
+      "species_id": 148,
+      "art_id": "r_148",
+      "changed_pixels": 65,
+      "unique_tiles_frame0": 21,
+      "sha256": "d9b0a8391e9c283f3b54858771d3cafb967db52a6c9b1ba923edefca9192e36f"
+    },
+    {
+      "species_id": 149,
+      "art_id": "r_149",
+      "changed_pixels": 65,
+      "unique_tiles_frame0": 21,
+      "sha256": "8a214c141363e170389281a4df24194f9fe474d548a23e8ece6d88a582615682"
+    }
+  ]
+}

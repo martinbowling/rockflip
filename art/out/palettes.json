@@ -1,0 +1,3622 @@
+{
+  "obj": {
+    "ranger": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#C88838",
+        "rgb555": "0x1E39"
+      },
+      {
+        "rgb": "#F8D0A0",
+        "rgb555": "0x535F"
+      }
+    ],
+    "tortoise": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302010",
+        "rgb555": "0x0886"
+      },
+      {
+        "rgb": "#987040",
+        "rgb555": "0x21D3"
+      },
+      {
+        "rgb": "#E0C880",
+        "rgb555": "0x433C"
+      }
+    ],
+    "chuckwalla": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101010",
+        "rgb555": "0x0842"
+      },
+      {
+        "rgb": "#686870",
+        "rgb555": "0x39AD"
+      },
+      {
+        "rgb": "#D86028",
+        "rgb555": "0x159B"
+      }
+    ],
+    "horned": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent"
+      },
+      {
+        "rgb": "#483018",
+        "rgb555": "0x0CC9"
+      },
+      {
+        "rgb": "#C09860",
+        "rgb555": "0x3278"
+      },
+      {
+        "rgb": "#F8E8B8",
+        "rgb555": "0x5FBF"
+      }
+    ],
+    "sidewinder": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#403020",
+        "rgb555": "0x10C8"
+      },
+      {
+        "rgb": "#D0B078",
+        "rgb555": "0x3EDA"
+      },
+      {
+        "rgb": "#F8F0D0",
+        "rgb555": "0x6BDF"
+      }
+    ],
+    "toad": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent"
+      },
+      {
+        "rgb": "#283020",
+        "rgb555": "0x10C5"
+      },
+      {
+        "rgb": "#808868",
+        "rgb555": "0x3630"
+      },
+      {
+        "rgb": "#E85830",
+        "rgb555": "0x197D"
+      }
+    ],
+    "kingsnake": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#080808",
+        "rgb555": "0x0421"
+      },
+      {
+        "rgb": "#282020",
+        "rgb555": "0x1085"
+      },
+      {
+        "rgb": "#F8F8E0",
+        "rgb555": "0x73FF"
+      }
+    ],
+    "fence": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#807060",
+        "rgb555": "0x31D0"
+      },
+      {
+        "rgb": "#4088E8",
+        "rgb555": "0x7628"
+      }
+    ],
+    "newt": [
+      {
+        "rgb": "#C0D8B0",
+        "rgb555": "0x5B78",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302018",
+        "rgb555": "0x0C86"
+      },
+      {
+        "rgb": "#705030",
+        "rgb555": "0x194E"
+      },
+      {
+        "rgb": "#F09030",
+        "rgb555": "0x1A5E"
+      }
+    ],
+    "ui": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent"
+      },
+      {
+        "rgb": "#101010",
+        "rgb555": "0x0842"
+      },
+      {
+        "rgb": "#F8F8F8",
+        "rgb555": "0x7FFF"
+      },
+      {
+        "rgb": "#F84848",
+        "rgb555": "0x253F"
+      }
+    ],
+    "horned_lizard": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#483018",
+        "rgb555": "0x0CC9"
+      },
+      {
+        "rgb": "#C09860",
+        "rgb555": "0x3278"
+      },
+      {
+        "rgb": "#F8E8B8",
+        "rgb555": "0x5FBF"
+      }
+    ],
+    "red_spotted_toad": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#283020",
+        "rgb555": "0x10C5"
+      },
+      {
+        "rgb": "#808868",
+        "rgb555": "0x3630"
+      },
+      {
+        "rgb": "#E85830",
+        "rgb555": "0x197D"
+      }
+    ],
+    "fence_lizard": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282020",
+        "rgb555": "0x1085"
+      },
+      {
+        "rgb": "#907858",
+        "rgb555": "0x2DF2"
+      },
+      {
+        "rgb": "#4088D0",
+        "rgb555": "0x6A28"
+      }
+    ],
+    "chorus_frog": [
+      {
+        "rgb": "#C0D8B0",
+        "rgb555": "0x5B78",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#283018",
+        "rgb555": "0x0CC5"
+      },
+      {
+        "rgb": "#689840",
+        "rgb555": "0x226D"
+      },
+      {
+        "rgb": "#E0D080",
+        "rgb555": "0x435C"
+      }
+    ],
+    "tiger_salamander": [
+      {
+        "rgb": "#C0D8B0",
+        "rgb555": "0x5B78",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181820",
+        "rgb555": "0x1063"
+      },
+      {
+        "rgb": "#404848",
+        "rgb555": "0x2528"
+      },
+      {
+        "rgb": "#F0D040",
+        "rgb555": "0x235E"
+      }
+    ],
+    "island_night_lizard": [
+      {
+        "rgb": "#D0C090",
+        "rgb555": "0x4B1A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302818",
+        "rgb555": "0x0CA6"
+      },
+      {
+        "rgb": "#807048",
+        "rgb555": "0x25D0"
+      },
+      {
+        "rgb": "#D0B868",
+        "rgb555": "0x36FA"
+      }
+    ],
+    "alligator_lizard": [
+      {
+        "rgb": "#D0D8A8",
+        "rgb555": "0x577A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#887840",
+        "rgb555": "0x21F1"
+      },
+      {
+        "rgb": "#D0B068",
+        "rgb555": "0x36DA"
+      }
+    ],
+    "banded_gecko": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#382820",
+        "rgb555": "0x10A7"
+      },
+      {
+        "rgb": "#B07048",
+        "rgb555": "0x25D6"
+      },
+      {
+        "rgb": "#F0D090",
+        "rgb555": "0x4B5E"
+      }
+    ],
+    "desert_iguana": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#403020",
+        "rgb555": "0x10C8"
+      },
+      {
+        "rgb": "#B0A070",
+        "rgb555": "0x3A96"
+      },
+      {
+        "rgb": "#E8E0B0",
+        "rgb555": "0x5B9D"
+      }
+    ],
+    "rosy_boa": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#382828",
+        "rgb555": "0x14A7"
+      },
+      {
+        "rgb": "#B06048",
+        "rgb555": "0x2596"
+      },
+      {
+        "rgb": "#D0B888",
+        "rgb555": "0x46FA"
+      }
+    ],
+    "western_pond_turtle": [
+      {
+        "rgb": "#B0D0B8",
+        "rgb555": "0x5F56",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#687040",
+        "rgb555": "0x21CD"
+      },
+      {
+        "rgb": "#C0B868",
+        "rgb555": "0x36F8"
+      }
+    ],
+    "arboreal_salamander": [
+      {
+        "rgb": "#C0D8B0",
+        "rgb555": "0x5B78",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302018",
+        "rgb555": "0x0C86"
+      },
+      {
+        "rgb": "#886840",
+        "rgb555": "0x21B1"
+      },
+      {
+        "rgb": "#E0C890",
+        "rgb555": "0x4B3C"
+      }
+    ],
+    "yellow_legged_frog": [
+      {
+        "rgb": "#A8D8E0",
+        "rgb555": "0x7375",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#303020",
+        "rgb555": "0x10C6"
+      },
+      {
+        "rgb": "#908848",
+        "rgb555": "0x2632"
+      },
+      {
+        "rgb": "#E0C058",
+        "rgb555": "0x2F1C"
+      }
+    ],
+    "sw_pond_turtle": [
+      {
+        "rgb": "#B0D0C0",
+        "rgb555": "0x6356",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202818",
+        "rgb555": "0x0CA4"
+      },
+      {
+        "rgb": "#606838",
+        "rgb555": "0x1DAC"
+      },
+      {
+        "rgb": "#C8B868",
+        "rgb555": "0x36F9"
+      }
+    ],
+    "northwestern_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#505840",
+        "rgb555": "0x216A"
+      },
+      {
+        "rgb": "#A0A870",
+        "rgb555": "0x3AB4"
+      }
+    ],
+    "long_toed_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#384030",
+        "rgb555": "0x1907"
+      },
+      {
+        "rgb": "#D8C858",
+        "rgb555": "0x2F3B"
+      }
+    ],
+    "western_toad": [
+      {
+        "rgb": "#C0D0A0",
+        "rgb555": "0x5358",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#787848",
+        "rgb555": "0x25EF"
+      },
+      {
+        "rgb": "#D8C880",
+        "rgb555": "0x433B"
+      }
+    ],
+    "arroyo_toad": [
+      {
+        "rgb": "#E0D8B0",
+        "rgb555": "0x5B7C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#808058",
+        "rgb555": "0x2E10"
+      },
+      {
+        "rgb": "#D8C880",
+        "rgb555": "0x433B"
+      }
+    ],
+    "yosemite_toad": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202818",
+        "rgb555": "0x0CA4"
+      },
+      {
+        "rgb": "#888058",
+        "rgb555": "0x2E11"
+      },
+      {
+        "rgb": "#E0D8A0",
+        "rgb555": "0x537C"
+      }
+    ],
+    "great_plains_toad": [
+      {
+        "rgb": "#E8D8A0",
+        "rgb555": "0x537D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302818",
+        "rgb555": "0x0CA6"
+      },
+      {
+        "rgb": "#888848",
+        "rgb555": "0x2631"
+      },
+      {
+        "rgb": "#E0D898",
+        "rgb555": "0x4F7C"
+      }
+    ],
+    "black_toad": [
+      {
+        "rgb": "#C0D0B8",
+        "rgb555": "0x5F58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181818",
+        "rgb555": "0x0C63"
+      },
+      {
+        "rgb": "#384038",
+        "rgb555": "0x1D07"
+      },
+      {
+        "rgb": "#D0D0B0",
+        "rgb555": "0x5B5A"
+      }
+    ],
+    "clouded_salamander": [
+      {
+        "rgb": "#B0C8B0",
+        "rgb555": "0x5B36",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#485038",
+        "rgb555": "0x1D49"
+      },
+      {
+        "rgb": "#A8A060",
+        "rgb555": "0x3295"
+      }
+    ],
+    "black_salamander": [
+      {
+        "rgb": "#B8D0B8",
+        "rgb555": "0x5F57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#283028",
+        "rgb555": "0x14C5"
+      },
+      {
+        "rgb": "#98A888",
+        "rgb555": "0x46B3"
+      }
+    ],
+    "shasta_black_salamander": [
+      {
+        "rgb": "#B8D0B8",
+        "rgb555": "0x5F57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#283028",
+        "rgb555": "0x14C5"
+      },
+      {
+        "rgb": "#98A888",
+        "rgb555": "0x46B3"
+      }
+    ],
+    "klamath_black_salamander": [
+      {
+        "rgb": "#B8D0C0",
+        "rgb555": "0x6357",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#304038",
+        "rgb555": "0x1D06"
+      },
+      {
+        "rgb": "#90A890",
+        "rgb555": "0x4AB2"
+      }
+    ],
+    "santa_cruz_black_salamander": [
+      {
+        "rgb": "#B8D0B8",
+        "rgb555": "0x5F57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#283028",
+        "rgb555": "0x14C5"
+      },
+      {
+        "rgb": "#98A888",
+        "rgb555": "0x46B3"
+      }
+    ],
+    "wandering_salamander": [
+      {
+        "rgb": "#B0C8B0",
+        "rgb555": "0x5B36",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#485038",
+        "rgb555": "0x1D49"
+      },
+      {
+        "rgb": "#A8A060",
+        "rgb555": "0x3295"
+      }
+    ],
+    "temblor_legless_lizard": [
+      {
+        "rgb": "#E8D8B0",
+        "rgb555": "0x5B7D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302820",
+        "rgb555": "0x10A6"
+      },
+      {
+        "rgb": "#887048",
+        "rgb555": "0x25D1"
+      },
+      {
+        "rgb": "#D0B068",
+        "rgb555": "0x36DA"
+      }
+    ],
+    "r_033": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_034": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "coastal_tailed_frog": [
+      {
+        "rgb": "#B0D0C8",
+        "rgb555": "0x6756",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#886840",
+        "rgb555": "0x21B1"
+      },
+      {
+        "rgb": "#D8B870",
+        "rgb555": "0x3AFB"
+      }
+    ],
+    "orange_throated_whiptail": [
+      {
+        "rgb": "#D0D8A0",
+        "rgb555": "0x537A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#E08830",
+        "rgb555": "0x1A3C"
+      }
+    ],
+    "r_037": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "greenhorn_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "california_slender_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "fairview_slender_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "inyo_mtns_salamander": [
+      {
+        "rgb": "#D8D0A8",
+        "rgb555": "0x575B",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#706038",
+        "rgb555": "0x1D8E"
+      },
+      {
+        "rgb": "#C0B070",
+        "rgb555": "0x3AD8"
+      }
+    ],
+    "hell_hollow_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "san_gabriel_salamander": [
+      {
+        "rgb": "#C0D0A8",
+        "rgb555": "0x5758",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202018",
+        "rgb555": "0x0C84"
+      },
+      {
+        "rgb": "#605840",
+        "rgb555": "0x216C"
+      },
+      {
+        "rgb": "#B09868",
+        "rgb555": "0x3676"
+      }
+    ],
+    "gabilan_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "gregarious_slender_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "san_simeon_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "sequoia_slender_salamander": [
+      {
+        "rgb": "#B0C8B0",
+        "rgb555": "0x5B36",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#485038",
+        "rgb555": "0x1D49"
+      },
+      {
+        "rgb": "#A8A060",
+        "rgb555": "0x3295"
+      }
+    ],
+    "santa_lucia_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "southern_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "lesser_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "black_bellied_slender_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "channel_islands_slender_salamander": [
+      {
+        "rgb": "#B0C8B0",
+        "rgb555": "0x5B36",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#485038",
+        "rgb555": "0x1D49"
+      },
+      {
+        "rgb": "#A8A060",
+        "rgb555": "0x3295"
+      }
+    ],
+    "kings_river_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "relictual_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "kern_plateau_slender_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "kern_canyon_slender_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "tehachapi_slender_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "r_058": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "northern_rubber_boa": [
+      {
+        "rgb": "#C0D0A8",
+        "rgb555": "0x5758",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888050",
+        "rgb555": "0x2A11"
+      },
+      {
+        "rgb": "#C8B880",
+        "rgb555": "0x42F9"
+      }
+    ],
+    "r_060": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181818",
+        "rgb555": "0x0C63"
+      },
+      {
+        "rgb": "#D84830",
+        "rgb555": "0x193B"
+      },
+      {
+        "rgb": "#E8E0C8",
+        "rgb555": "0x679D"
+      }
+    ],
+    "r_061": [
+      {
+        "rgb": "#98C8D8",
+        "rgb555": "0x6F33",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182828",
+        "rgb555": "0x14A3"
+      },
+      {
+        "rgb": "#487060",
+        "rgb555": "0x31C9"
+      },
+      {
+        "rgb": "#C0D0A0",
+        "rgb555": "0x5358"
+      }
+    ],
+    "r_062": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#404830",
+        "rgb555": "0x1928"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_063": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "common_sharp_tail": [
+      {
+        "rgb": "#C0D0A8",
+        "rgb555": "0x5758",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302018",
+        "rgb555": "0x0C86"
+      },
+      {
+        "rgb": "#886040",
+        "rgb555": "0x2191"
+      },
+      {
+        "rgb": "#D0B888",
+        "rgb555": "0x46FA"
+      }
+    ],
+    "western_diamondback": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302820",
+        "rgb555": "0x10A6"
+      },
+      {
+        "rgb": "#A09068",
+        "rgb555": "0x3654"
+      },
+      {
+        "rgb": "#E0D8B0",
+        "rgb555": "0x5B7C"
+      }
+    ],
+    "r_066": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302820",
+        "rgb555": "0x10A6"
+      },
+      {
+        "rgb": "#988860",
+        "rgb555": "0x3233"
+      },
+      {
+        "rgb": "#E0D098",
+        "rgb555": "0x4F5C"
+      }
+    ],
+    "r_067": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302820",
+        "rgb555": "0x10A6"
+      },
+      {
+        "rgb": "#988860",
+        "rgb555": "0x3233"
+      },
+      {
+        "rgb": "#E0D098",
+        "rgb555": "0x4F5C"
+      }
+    ],
+    "r_068": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#382018",
+        "rgb555": "0x0C87"
+      },
+      {
+        "rgb": "#A86040",
+        "rgb555": "0x2195"
+      },
+      {
+        "rgb": "#E0B880",
+        "rgb555": "0x42FC"
+      }
+    ],
+    "r_069": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302820",
+        "rgb555": "0x10A6"
+      },
+      {
+        "rgb": "#988860",
+        "rgb555": "0x3233"
+      },
+      {
+        "rgb": "#E0D098",
+        "rgb555": "0x4F5C"
+      }
+    ],
+    "r_070": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302820",
+        "rgb555": "0x10A6"
+      },
+      {
+        "rgb": "#988860",
+        "rgb555": "0x3233"
+      },
+      {
+        "rgb": "#E0D098",
+        "rgb555": "0x4F5C"
+      }
+    ],
+    "r_071": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202828",
+        "rgb555": "0x14A4"
+      },
+      {
+        "rgb": "#608078",
+        "rgb555": "0x3E0C"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "baja_collared_lizard": [
+      {
+        "rgb": "#E8D8A0",
+        "rgb555": "0x537D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182828",
+        "rgb555": "0x14A3"
+      },
+      {
+        "rgb": "#689880",
+        "rgb555": "0x426D"
+      },
+      {
+        "rgb": "#D8B858",
+        "rgb555": "0x2EFB"
+      }
+    ],
+    "r_073": [
+      {
+        "rgb": "#98C8D8",
+        "rgb555": "0x6F33",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101820",
+        "rgb555": "0x1062"
+      },
+      {
+        "rgb": "#303840",
+        "rgb555": "0x20E6"
+      },
+      {
+        "rgb": "#C8D0D0",
+        "rgb555": "0x6B59"
+      }
+    ],
+    "r_074": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#404830",
+        "rgb555": "0x1928"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "california_giant_salamander": [
+      {
+        "rgb": "#B0C8B0",
+        "rgb555": "0x5B36",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#485038",
+        "rgb555": "0x1D49"
+      },
+      {
+        "rgb": "#A8A060",
+        "rgb555": "0x3295"
+      }
+    ],
+    "coastal_giant_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "r_077": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "panamint_alligator": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302818",
+        "rgb555": "0x0CA6"
+      },
+      {
+        "rgb": "#907840",
+        "rgb555": "0x21F2"
+      },
+      {
+        "rgb": "#D8C080",
+        "rgb555": "0x431B"
+      }
+    ],
+    "ensatina": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "r_080": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "blunt_nosed_leopard": [
+      {
+        "rgb": "#D8D0A0",
+        "rgb555": "0x535B",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302818",
+        "rgb555": "0x0CA6"
+      },
+      {
+        "rgb": "#A09058",
+        "rgb555": "0x2E54"
+      },
+      {
+        "rgb": "#E0D080",
+        "rgb555": "0x435C"
+      }
+    ],
+    "r_082": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_083": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181818",
+        "rgb555": "0x0C63"
+      },
+      {
+        "rgb": "#483830",
+        "rgb555": "0x18E9"
+      },
+      {
+        "rgb": "#E88848",
+        "rgb555": "0x263D"
+      }
+    ],
+    "limestone_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "mount_lyell_salamander": [
+      {
+        "rgb": "#C0D0C8",
+        "rgb555": "0x6758",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202020",
+        "rgb555": "0x1084"
+      },
+      {
+        "rgb": "#686850",
+        "rgb555": "0x29AD"
+      },
+      {
+        "rgb": "#C0B880",
+        "rgb555": "0x42F8"
+      }
+    ],
+    "samwel_shasta_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "shasta_salamander": [
+      {
+        "rgb": "#C0D0B8",
+        "rgb555": "0x5F58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202820",
+        "rgb555": "0x10A4"
+      },
+      {
+        "rgb": "#686840",
+        "rgb555": "0x21AD"
+      },
+      {
+        "rgb": "#C8C888",
+        "rgb555": "0x4739"
+      }
+    ],
+    "wintu_shasta_salamander": [
+      {
+        "rgb": "#B0C8B0",
+        "rgb555": "0x5B36",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#485038",
+        "rgb555": "0x1D49"
+      },
+      {
+        "rgb": "#A8A060",
+        "rgb555": "0x3295"
+      }
+    ],
+    "r_089": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_090": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_091": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_092": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_093": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "striped_whipsnake": [
+      {
+        "rgb": "#D8D8A8",
+        "rgb555": "0x577B",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202820",
+        "rgb555": "0x10A4"
+      },
+      {
+        "rgb": "#607040",
+        "rgb555": "0x21CC"
+      },
+      {
+        "rgb": "#D8D080",
+        "rgb555": "0x435B"
+      }
+    ],
+    "r_095": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_096": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#382818",
+        "rgb555": "0x0CA7"
+      },
+      {
+        "rgb": "#907040",
+        "rgb555": "0x21D2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "pygmy_horned_lizard": [
+      {
+        "rgb": "#D0D8A0",
+        "rgb555": "0x537A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302818",
+        "rgb555": "0x0CA6"
+      },
+      {
+        "rgb": "#807040",
+        "rgb555": "0x21D0"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_098": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#382818",
+        "rgb555": "0x0CA7"
+      },
+      {
+        "rgb": "#907040",
+        "rgb555": "0x21D2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "peninsula_leaf_toed": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302018",
+        "rgb555": "0x0C86"
+      },
+      {
+        "rgb": "#A88050",
+        "rgb555": "0x2A15"
+      },
+      {
+        "rgb": "#E8C888",
+        "rgb555": "0x473D"
+      }
+    ],
+    "r_100": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_101": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_102": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "western_skink": [
+      {
+        "rgb": "#C0D0A8",
+        "rgb555": "0x5758",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#887038",
+        "rgb555": "0x1DD1"
+      },
+      {
+        "rgb": "#4890D0",
+        "rgb555": "0x6A49"
+      }
+    ],
+    "scott_bar_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "dunns_salamander": [
+      {
+        "rgb": "#B0C8B0",
+        "rgb555": "0x5B36",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#182018",
+        "rgb555": "0x0C83"
+      },
+      {
+        "rgb": "#485038",
+        "rgb555": "0x1D49"
+      },
+      {
+        "rgb": "#A8A060",
+        "rgb555": "0x3295"
+      }
+    ],
+    "del_norte_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "siskiyou_mountains_salamander": [
+      {
+        "rgb": "#B8D0B0",
+        "rgb555": "0x5B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181810",
+        "rgb555": "0x0863"
+      },
+      {
+        "rgb": "#584830",
+        "rgb555": "0x192B"
+      },
+      {
+        "rgb": "#B89860",
+        "rgb555": "0x3277"
+      }
+    ],
+    "california_treefrog": [
+      {
+        "rgb": "#B8D0C8",
+        "rgb555": "0x6757",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282820",
+        "rgb555": "0x10A5"
+      },
+      {
+        "rgb": "#909078",
+        "rgb555": "0x3E52"
+      },
+      {
+        "rgb": "#D0C8A0",
+        "rgb555": "0x533A"
+      }
+    ],
+    "northern_red_legged": [
+      {
+        "rgb": "#B8D0C0",
+        "rgb555": "0x6357",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#987850",
+        "rgb555": "0x29F3"
+      },
+      {
+        "rgb": "#C06048",
+        "rgb555": "0x2598"
+      }
+    ],
+    "foothill_yellow_legged": [
+      {
+        "rgb": "#B0D0D0",
+        "rgb555": "0x6B56",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282820",
+        "rgb555": "0x10A5"
+      },
+      {
+        "rgb": "#808868",
+        "rgb555": "0x3630"
+      },
+      {
+        "rgb": "#D8C068",
+        "rgb555": "0x371B"
+      }
+    ],
+    "cascades_frog": [
+      {
+        "rgb": "#B8D0C0",
+        "rgb555": "0x6357",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202818",
+        "rgb555": "0x0CA4"
+      },
+      {
+        "rgb": "#808048",
+        "rgb555": "0x2610"
+      },
+      {
+        "rgb": "#D0C080",
+        "rgb555": "0x431A"
+      }
+    ],
+    "california_red_legged": [
+      {
+        "rgb": "#B8D0B8",
+        "rgb555": "0x5F57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#302018",
+        "rgb555": "0x0C86"
+      },
+      {
+        "rgb": "#987040",
+        "rgb555": "0x21D3"
+      },
+      {
+        "rgb": "#C86040",
+        "rgb555": "0x2199"
+      }
+    ],
+    "southern_yellow_legged": [
+      {
+        "rgb": "#B8D0D0",
+        "rgb555": "0x6B57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282820",
+        "rgb555": "0x10A5"
+      },
+      {
+        "rgb": "#887848",
+        "rgb555": "0x25F1"
+      },
+      {
+        "rgb": "#E0C060",
+        "rgb555": "0x331C"
+      }
+    ],
+    "r_114": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_115": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#281818",
+        "rgb555": "0x0C65"
+      },
+      {
+        "rgb": "#B86030",
+        "rgb555": "0x1997"
+      },
+      {
+        "rgb": "#E0D090",
+        "rgb555": "0x4B5C"
+      }
+    ],
+    "southern_torrent_salamander": [
+      {
+        "rgb": "#A8D0C8",
+        "rgb555": "0x6755",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#283018",
+        "rgb555": "0x0CC5"
+      },
+      {
+        "rgb": "#889040",
+        "rgb555": "0x2251"
+      },
+      {
+        "rgb": "#E0B040",
+        "rgb555": "0x22DC"
+      }
+    ],
+    "r_117": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "couch_spadefoot": [
+      {
+        "rgb": "#E8D8A0",
+        "rgb555": "0x537D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#989848",
+        "rgb555": "0x2673"
+      },
+      {
+        "rgb": "#E0D070",
+        "rgb555": "0x3B5C"
+      }
+    ],
+    "r_119": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_120": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888048",
+        "rgb555": "0x2611"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_121": [
+      {
+        "rgb": "#E0D8A8",
+        "rgb555": "0x577C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202828",
+        "rgb555": "0x14A4"
+      },
+      {
+        "rgb": "#608078",
+        "rgb555": "0x3E0C"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_122": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#281818",
+        "rgb555": "0x0C65"
+      },
+      {
+        "rgb": "#B86030",
+        "rgb555": "0x1997"
+      },
+      {
+        "rgb": "#E0D090",
+        "rgb555": "0x4B5C"
+      }
+    ],
+    "r_123": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#281818",
+        "rgb555": "0x0C65"
+      },
+      {
+        "rgb": "#B86030",
+        "rgb555": "0x1997"
+      },
+      {
+        "rgb": "#E0D090",
+        "rgb555": "0x4B5C"
+      }
+    ],
+    "western_spadefoot": [
+      {
+        "rgb": "#D8D0A0",
+        "rgb555": "0x535B",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#888858",
+        "rgb555": "0x2E31"
+      },
+      {
+        "rgb": "#D8C070",
+        "rgb555": "0x3B1B"
+      }
+    ],
+    "great_basin_spadefoot": [
+      {
+        "rgb": "#D0D8A8",
+        "rgb555": "0x577A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#889048",
+        "rgb555": "0x2651"
+      },
+      {
+        "rgb": "#E0C868",
+        "rgb555": "0x373C"
+      }
+    ],
+    "r_126": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#404830",
+        "rgb555": "0x1928"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_127": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#404830",
+        "rgb555": "0x1928"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "rough_skinned_newt": [
+      {
+        "rgb": "#B0D0C0",
+        "rgb555": "0x6356",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202018",
+        "rgb555": "0x0C84"
+      },
+      {
+        "rgb": "#685030",
+        "rgb555": "0x194D"
+      },
+      {
+        "rgb": "#E8A840",
+        "rgb555": "0x22BD"
+      }
+    ],
+    "red_bellied_newt": [
+      {
+        "rgb": "#B8D0B8",
+        "rgb555": "0x5F57",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#181818",
+        "rgb555": "0x0C63"
+      },
+      {
+        "rgb": "#403828",
+        "rgb555": "0x14E8"
+      },
+      {
+        "rgb": "#D05830",
+        "rgb555": "0x197A"
+      }
+    ],
+    "sierra_newt": [
+      {
+        "rgb": "#B0D0C0",
+        "rgb555": "0x6356",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202018",
+        "rgb555": "0x0C84"
+      },
+      {
+        "rgb": "#685030",
+        "rgb555": "0x194D"
+      },
+      {
+        "rgb": "#E8A840",
+        "rgb555": "0x22BD"
+      }
+    ],
+    "r_131": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_132": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_133": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_134": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_135": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_136": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_137": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_138": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#101818",
+        "rgb555": "0x0C62"
+      },
+      {
+        "rgb": "#404830",
+        "rgb555": "0x1928"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_139": [
+      {
+        "rgb": "#E8D8A8",
+        "rgb555": "0x577D",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#E0C078",
+        "rgb555": "0x3F1C"
+      }
+    ],
+    "r_140": [
+      {
+        "rgb": "#F0E0B0",
+        "rgb555": "0x5B9E",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#383020",
+        "rgb555": "0x10C7"
+      },
+      {
+        "rgb": "#B8A070",
+        "rgb555": "0x3A97"
+      },
+      {
+        "rgb": "#E8D098",
+        "rgb555": "0x4F5D"
+      }
+    ],
+    "r_141": [
+      {
+        "rgb": "#F0E0B0",
+        "rgb555": "0x5B9E",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#383020",
+        "rgb555": "0x10C7"
+      },
+      {
+        "rgb": "#B8A070",
+        "rgb555": "0x3A97"
+      },
+      {
+        "rgb": "#E8D098",
+        "rgb555": "0x4F5D"
+      }
+    ],
+    "r_142": [
+      {
+        "rgb": "#F0E0B0",
+        "rgb555": "0x5B9E",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#383020",
+        "rgb555": "0x10C7"
+      },
+      {
+        "rgb": "#B8A070",
+        "rgb555": "0x3A97"
+      },
+      {
+        "rgb": "#E8D098",
+        "rgb555": "0x4F5D"
+      }
+    ],
+    "r_143": [
+      {
+        "rgb": "#D0D8A8",
+        "rgb555": "0x577A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#808850",
+        "rgb555": "0x2A30"
+      },
+      {
+        "rgb": "#C8B870",
+        "rgb555": "0x3AF9"
+      }
+    ],
+    "r_144": [
+      {
+        "rgb": "#D0D8A8",
+        "rgb555": "0x577A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#808850",
+        "rgb555": "0x2A30"
+      },
+      {
+        "rgb": "#C8B870",
+        "rgb555": "0x3AF9"
+      }
+    ],
+    "r_145": [
+      {
+        "rgb": "#D0D8A8",
+        "rgb555": "0x577A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#202828",
+        "rgb555": "0x14A4"
+      },
+      {
+        "rgb": "#608078",
+        "rgb555": "0x3E0C"
+      },
+      {
+        "rgb": "#D8B868",
+        "rgb555": "0x36FB"
+      }
+    ],
+    "r_146": [
+      {
+        "rgb": "#D0D8A8",
+        "rgb555": "0x577A",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282818",
+        "rgb555": "0x0CA5"
+      },
+      {
+        "rgb": "#808850",
+        "rgb555": "0x2A30"
+      },
+      {
+        "rgb": "#C8B870",
+        "rgb555": "0x3AF9"
+      }
+    ],
+    "r_147": [
+      {
+        "rgb": "#E0D0A0",
+        "rgb555": "0x535C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#D0B880",
+        "rgb555": "0x42FA"
+      }
+    ],
+    "r_148": [
+      {
+        "rgb": "#E0D0A0",
+        "rgb555": "0x535C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#D0B880",
+        "rgb555": "0x42FA"
+      }
+    ],
+    "r_149": [
+      {
+        "rgb": "#E0D0A0",
+        "rgb555": "0x535C",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      },
+      {
+        "rgb": "#907848",
+        "rgb555": "0x25F2"
+      },
+      {
+        "rgb": "#D0B880",
+        "rgb555": "0x42FA"
+      }
+    ],
+    "arguello_slender_salamander": [
+      {
+        "rgb": "#C0D0B0",
+        "rgb555": "0x5B58",
+        "note": "transparent forOBJ; nativeBG habitat index"
+      },
+      {
+        "rgb": "#201810",
+        "rgb555": "0x0864"
+      },
+      {
+        "rgb": "#684830",
+        "rgb555": "0x192D"
+      },
+      {
+        "rgb": "#C07040",
+        "rgb555": "0x21D8"
+      }
+    ],
+    "npc_nell": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#488858",
+        "rgb555": "0x2E29"
+      },
+      {
+        "rgb": "#F0C890",
+        "rgb555": "0x4B3E"
+      }
+    ],
+    "npc_sol": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#B87038",
+        "rgb555": "0x1DD7"
+      },
+      {
+        "rgb": "#F0D090",
+        "rgb555": "0x4B5E"
+      }
+    ],
+    "npc_ivo": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#7088A8",
+        "rgb555": "0x562E"
+      },
+      {
+        "rgb": "#D0A070",
+        "rgb555": "0x3A9A"
+      }
+    ],
+    "npc_tess": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#A06848",
+        "rgb555": "0x25B4"
+      },
+      {
+        "rgb": "#E0A878",
+        "rgb555": "0x3EBC"
+      }
+    ],
+    "npc_mira": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#7070B8",
+        "rgb555": "0x5DCE"
+      },
+      {
+        "rgb": "#E8C0A0",
+        "rgb555": "0x531D"
+      }
+    ],
+    "npc_june": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#58A098",
+        "rgb555": "0x4E8B"
+      },
+      {
+        "rgb": "#C88860",
+        "rgb555": "0x3239"
+      }
+    ],
+    "npc_ada": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#A89040",
+        "rgb555": "0x2255"
+      },
+      {
+        "rgb": "#D8B080",
+        "rgb555": "0x42DB"
+      }
+    ],
+    "npc_finn": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#408090",
+        "rgb555": "0x4A08"
+      },
+      {
+        "rgb": "#E0B888",
+        "rgb555": "0x46FC"
+      }
+    ],
+    "npc_bea": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#70A078",
+        "rgb555": "0x3E8E"
+      },
+      {
+        "rgb": "#B87858",
+        "rgb555": "0x2DF7"
+      }
+    ],
+    "npc_rui": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#6090C0",
+        "rgb555": "0x624C"
+      },
+      {
+        "rgb": "#E8B078",
+        "rgb555": "0x3EDD"
+      }
+    ],
+    "npc_leo": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#A85848",
+        "rgb555": "0x2575"
+      },
+      {
+        "rgb": "#A87050",
+        "rgb555": "0x29D5"
+      }
+    ],
+    "npc_uma": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#58A0B8",
+        "rgb555": "0x5E8B"
+      },
+      {
+        "rgb": "#D8A068",
+        "rgb555": "0x369B"
+      }
+    ],
+    "npc_kit": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#908048",
+        "rgb555": "0x2612"
+      },
+      {
+        "rgb": "#F0C8A0",
+        "rgb555": "0x533E"
+      }
+    ],
+    "npc_oren": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#906890",
+        "rgb555": "0x49B2"
+      },
+      {
+        "rgb": "#C89870",
+        "rgb555": "0x3A79"
+      }
+    ],
+    "npc_wren": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#689060",
+        "rgb555": "0x324D"
+      },
+      {
+        "rgb": "#E8B888",
+        "rgb555": "0x46FD"
+      }
+    ],
+    "npc_pax": [
+      {
+        "rgb": "#F800F8",
+        "rgb555": "0x7C1F"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      },
+      {
+        "rgb": "#987848",
+        "rgb555": "0x25F3"
+      },
+      {
+        "rgb": "#B07858",
+        "rgb555": "0x2DF6"
+      }
+    ]
+  },
+  "bg": {
+    "desert": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E"
+      },
+      {
+        "rgb": "#B89060",
+        "rgb555": "0x3257"
+      },
+      {
+        "rgb": "#706048",
+        "rgb555": "0x258E"
+      },
+      {
+        "rgb": "#282018",
+        "rgb555": "0x0C85"
+      }
+    ],
+    "scrub": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E"
+      },
+      {
+        "rgb": "#88A848",
+        "rgb555": "0x26B1"
+      },
+      {
+        "rgb": "#406830",
+        "rgb555": "0x19A8"
+      },
+      {
+        "rgb": "#202818",
+        "rgb555": "0x0CA4"
+      }
+    ],
+    "granite": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E"
+      },
+      {
+        "rgb": "#989890",
+        "rgb555": "0x4A73"
+      },
+      {
+        "rgb": "#585858",
+        "rgb555": "0x2D6B"
+      },
+      {
+        "rgb": "#202028",
+        "rgb555": "0x1484"
+      }
+    ],
+    "forest": [
+      {
+        "rgb": "#90C060",
+        "rgb555": "0x3312"
+      },
+      {
+        "rgb": "#509040",
+        "rgb555": "0x224A"
+      },
+      {
+        "rgb": "#285830",
+        "rgb555": "0x1965"
+      },
+      {
+        "rgb": "#102818",
+        "rgb555": "0x0CA2"
+      }
+    ],
+    "creek": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E"
+      },
+      {
+        "rgb": "#98D0E0",
+        "rgb555": "0x7353"
+      },
+      {
+        "rgb": "#3078A8",
+        "rgb555": "0x55E6"
+      },
+      {
+        "rgb": "#283840",
+        "rgb555": "0x20E5"
+      }
+    ],
+    "camp": [
+      {
+        "rgb": "#F0D8A0",
+        "rgb555": "0x537E"
+      },
+      {
+        "rgb": "#E8C880",
+        "rgb555": "0x433D"
+      },
+      {
+        "rgb": "#407870",
+        "rgb555": "0x39E8"
+      },
+      {
+        "rgb": "#202820",
+        "rgb555": "0x10A4"
+      }
+    ],
+    "marine": [
+      {
+        "rgb": "#98C8D8",
+        "rgb555": "0x6F33"
+      },
+      {
+        "rgb": "#68B0C8",
+        "rgb555": "0x66CD"
+      },
+      {
+        "rgb": "#3080A0",
+        "rgb555": "0x5206"
+      },
+      {
+        "rgb": "#184060",
+        "rgb555": "0x3103"
+      }
+    ]
+  },
+  "critter_palette_map": {
+    "tortoise": "tortoise",
+    "chuckwalla": "chuckwalla",
+    "horned_lizard": "horned_lizard",
+    "sidewinder": "sidewinder",
+    "red_spotted_toad": "red_spotted_toad",
+    "kingsnake": "kingsnake",
+    "fence_lizard": "fence_lizard",
+    "ca_newt": "newt",
+    "newt": "newt",
+    "chorus_frog": "chorus_frog",
+    "tiger_salamander": "tiger_salamander",
+    "island_night_lizard": "island_night_lizard",
+    "alligator_lizard": "alligator_lizard",
+    "banded_gecko": "banded_gecko",
+    "desert_iguana": "desert_iguana",
+    "rosy_boa": "rosy_boa",
+    "western_pond_turtle": "western_pond_turtle",
+    "arboreal_salamander": "arboreal_salamander",
+    "yellow_legged_frog": "yellow_legged_frog",
+    "sw_pond_turtle": "sw_pond_turtle",
+    "northwestern_salamander": "northwestern_salamander",
+    "long_toed_salamander": "long_toed_salamander",
+    "western_toad": "western_toad",
+    "arroyo_toad": "arroyo_toad",
+    "yosemite_toad": "yosemite_toad",
+    "great_plains_toad": "great_plains_toad",
+    "black_toad": "black_toad",
+    "clouded_salamander": "clouded_salamander",
+    "black_salamander": "black_salamander",
+    "shasta_black_salamander": "shasta_black_salamander",
+    "klamath_black_salamander": "klamath_black_salamander",
+    "santa_cruz_black_salamander": "santa_cruz_black_salamander",
+    "wandering_salamander": "wandering_salamander",
+    "temblor_legless_lizard": "temblor_legless_lizard",
+    "r_033": "r_033",
+    "r_034": "r_034",
+    "coastal_tailed_frog": "coastal_tailed_frog",
+    "orange_throated_whiptail": "orange_throated_whiptail",
+    "r_037": "r_037",
+    "greenhorn_slender_salamander": "greenhorn_slender_salamander",
+    "california_slender_salamander": "california_slender_salamander",
+    "fairview_slender_salamander": "fairview_slender_salamander",
+    "inyo_mtns_salamander": "inyo_mtns_salamander",
+    "hell_hollow_slender_salamander": "hell_hollow_slender_salamander",
+    "san_gabriel_salamander": "san_gabriel_salamander",
+    "gabilan_slender_salamander": "gabilan_slender_salamander",
+    "gregarious_slender_salamander": "gregarious_slender_salamander",
+    "san_simeon_slender_salamander": "san_simeon_slender_salamander",
+    "sequoia_slender_salamander": "sequoia_slender_salamander",
+    "santa_lucia_slender_salamander": "santa_lucia_slender_salamander",
+    "southern_slender_salamander": "southern_slender_salamander",
+    "lesser_slender_salamander": "lesser_slender_salamander",
+    "black_bellied_slender_salamander": "black_bellied_slender_salamander",
+    "channel_islands_slender_salamander": "channel_islands_slender_salamander",
+    "kings_river_slender_salamander": "kings_river_slender_salamander",
+    "relictual_slender_salamander": "relictual_slender_salamander",
+    "kern_plateau_slender_salamander": "kern_plateau_slender_salamander",
+    "kern_canyon_slender_salamander": "kern_canyon_slender_salamander",
+    "tehachapi_slender_salamander": "tehachapi_slender_salamander",
+    "r_058": "r_058",
+    "northern_rubber_boa": "northern_rubber_boa",
+    "r_060": "r_060",
+    "r_061": "r_061",
+    "r_062": "r_062",
+    "r_063": "r_063",
+    "common_sharp_tail": "common_sharp_tail",
+    "western_diamondback": "western_diamondback",
+    "r_066": "r_066",
+    "r_067": "r_067",
+    "r_068": "r_068",
+    "r_069": "r_069",
+    "r_070": "r_070",
+    "r_071": "r_071",
+    "baja_collared_lizard": "baja_collared_lizard",
+    "r_073": "r_073",
+    "r_074": "r_074",
+    "california_giant_salamander": "california_giant_salamander",
+    "coastal_giant_salamander": "coastal_giant_salamander",
+    "r_077": "r_077",
+    "panamint_alligator": "panamint_alligator",
+    "ensatina": "ensatina",
+    "r_080": "r_080",
+    "blunt_nosed_leopard": "blunt_nosed_leopard",
+    "r_082": "r_082",
+    "r_083": "r_083",
+    "limestone_salamander": "limestone_salamander",
+    "mount_lyell_salamander": "mount_lyell_salamander",
+    "samwel_shasta_salamander": "samwel_shasta_salamander",
+    "shasta_salamander": "shasta_salamander",
+    "wintu_shasta_salamander": "wintu_shasta_salamander",
+    "r_089": "r_089",
+    "r_090": "r_090",
+    "r_091": "r_091",
+    "r_092": "r_092",
+    "r_093": "r_093",
+    "striped_whipsnake": "striped_whipsnake",
+    "r_095": "r_095",
+    "r_096": "r_096",
+    "pygmy_horned_lizard": "pygmy_horned_lizard",
+    "r_098": "r_098",
+    "peninsula_leaf_toed": "peninsula_leaf_toed",
+    "r_100": "r_100",
+    "r_101": "r_101",
+    "r_102": "r_102",
+    "western_skink": "western_skink",
+    "scott_bar_salamander": "scott_bar_salamander",
+    "dunns_salamander": "dunns_salamander",
+    "del_norte_salamander": "del_norte_salamander",
+    "siskiyou_mountains_salamander": "siskiyou_mountains_salamander",
+    "california_treefrog": "california_treefrog",
+    "northern_red_legged": "northern_red_legged",
+    "foothill_yellow_legged": "foothill_yellow_legged",
+    "cascades_frog": "cascades_frog",
+    "california_red_legged": "california_red_legged",
+    "southern_yellow_legged": "southern_yellow_legged",
+    "r_114": "r_114",
+    "r_115": "r_115",
+    "southern_torrent_salamander": "southern_torrent_salamander",
+    "r_117": "r_117",
+    "couch_spadefoot": "couch_spadefoot",
+    "r_119": "r_119",
+    "r_120": "r_120",
+    "r_121": "r_121",
+    "r_122": "r_122",
+    "r_123": "r_123",
+    "western_spadefoot": "western_spadefoot",
+    "great_basin_spadefoot": "great_basin_spadefoot",
+    "r_126": "r_126",
+    "r_127": "r_127",
+    "rough_skinned_newt": "rough_skinned_newt",
+    "red_bellied_newt": "red_bellied_newt",
+    "sierra_newt": "sierra_newt",
+    "r_131": "r_131",
+    "r_132": "r_132",
+    "r_133": "r_133",
+    "r_134": "r_134",
+    "r_135": "r_135",
+    "r_136": "r_136",
+    "r_137": "r_137",
+    "r_138": "r_138",
+    "r_139": "r_139",
+    "r_140": "r_140",
+    "r_141": "r_141",
+    "r_142": "r_142",
+    "r_143": "r_143",
+    "r_144": "r_144",
+    "r_145": "r_145",
+    "r_146": "r_146",
+    "r_147": "r_147",
+    "r_148": "r_148",
+    "r_149": "r_149",
+    "arguello_slender_salamander": "arguello_slender_salamander"
+  },
+  "terrain_runtime_order": [
+    "sand",
+    "sand_b",
+    "trail",
+    "rock",
+    "rock_flipped",
+    "creosote",
+    "boulder",
+    "pine_grass",
+    "creek",
+    "pebbles",
+    "mud",
+    "flowers",
+    "dry_grass",
+    "tracks",
+    "trail_l",
+    "trail_r",
+    "crevice",
+    "burrow",
+    "camp",
+    "reeds",
+    "water_nw",
+    "water_ne",
+    "water_sw",
+    "water_se",
+    "log"
+  ],
+  "sheet_order": {
+    "player": [
+      "down_a",
+      "down_b",
+      "down_c",
+      "up_a",
+      "up_b",
+      "up_c",
+      "right_a",
+      "right_b",
+      "right_c",
+      "left_a",
+      "left_b",
+      "left_c"
+    ],
+    "ui": [
+      "vf_corner",
+      "reticle",
+      "alert",
+      "camera"
+    ],
+    "tiles_desert": [
+      "sand",
+      "sand_b",
+      "trail",
+      "rock",
+      "rock_flipped",
+      "pebbles",
+      "mud",
+      "flowers",
+      "dry_grass",
+      "tracks",
+      "trail_l",
+      "trail_r",
+      "burrow"
+    ],
+    "tiles_scrub": [
+      "creosote",
+      "pine_grass",
+      "reeds"
+    ],
+    "tiles_granite": [
+      "boulder",
+      "crevice",
+      "log"
+    ],
+    "tiles_creek": [
+      "creek",
+      "water_nw",
+      "water_ne",
+      "water_sw",
+      "water_se"
+    ],
+    "tiles_camp": [
+      "camp"
+    ]
+  }
+}

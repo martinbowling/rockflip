@@ -1,0 +1,3148 @@
+[
+  {
+    "id": 0,
+    "name": "DESERT TORTOISE",
+    "scientific_name": "Gopherus agassizii",
+    "art": "tortoise",
+    "region": "Mojave",
+    "time": "day",
+    "spot": "burrow",
+    "behavior": "protected",
+    "facts": [
+      "A BURROW KEEPS IT",
+      "COOL IN DESERT HEAT.",
+      "NEVER PICK IT UP."
+    ],
+    "source": "https://www.nps.gov/jotr/learn/nature/tortoise.htm"
+  },
+  {
+    "id": 1,
+    "name": "CHUCKWALLA",
+    "scientific_name": "Sauromalus ater",
+    "art": "chuckwalla",
+    "region": "Mojave",
+    "time": "day",
+    "spot": "crevice",
+    "behavior": "wedge",
+    "facts": [
+      "IT PUFFS UP INSIDE",
+      "A CRACK WHEN SCARED.",
+      "WAIT AND GIVE SPACE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 2,
+    "name": "HORNED LIZARD",
+    "scientific_name": "Phrynosoma platyrhinos",
+    "art": "horned_lizard",
+    "region": "Mojave",
+    "time": "day",
+    "spot": "sand",
+    "behavior": "freeze",
+    "facts": [
+      "SAND COLORS HELP IT",
+      "HIDE. ANTS ARE FOOD.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 3,
+    "name": "SIDEWINDER",
+    "scientific_name": "Crotalus cerastes",
+    "art": "sidewinder",
+    "region": "Mojave",
+    "time": "night",
+    "spot": "bush",
+    "behavior": "protected",
+    "facts": [
+      "A RATTLESNAKE OF THE",
+      "DESERT. GIVE SPACE.",
+      "USE CAMERA ZOOM."
+    ],
+    "source": "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    }
+  },
+  {
+    "id": 4,
+    "name": "RED-SPOTTED TOAD",
+    "scientific_name": "Anaxyrus punctatus",
+    "art": "red_spotted_toad",
+    "region": "Mojave",
+    "time": "night",
+    "spot": "wet rock",
+    "behavior": "hop",
+    "facts": [
+      "ACTIVE AFTER DARK.",
+      "IT STAYS NEAR WATER.",
+      "LET IT HOP IN PEACE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/amphibians.htm"
+  },
+  {
+    "id": 5,
+    "name": "CA KINGSNAKE",
+    "scientific_name": "Lampropeltis californiae",
+    "art": "kingsnake",
+    "region": "Mojave",
+    "time": "dusk",
+    "spot": "rock",
+    "behavior": "glide",
+    "facts": [
+      "THIS BANDED SNAKE IS",
+      "NONVENOMOUS. WATCH",
+      "IT WITHOUT HANDLING."
+    ],
+    "source": "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 6,
+    "name": "FENCE LIZARD",
+    "scientific_name": "Sceloporus occidentalis",
+    "art": "fence_lizard",
+    "region": "D04",
+    "time": "day",
+    "spot": "rock_perch",
+    "behavior": "push_up",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "IT BASKS ON ROCKS.",
+      "MALES: BLUE BELLY.",
+      "WATCH THE PUSH-UPS."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1"
+  },
+  {
+    "id": 7,
+    "name": "CALIFORNIA NEWT",
+    "scientific_name": "Taricha torosa",
+    "art": "newt",
+    "region": "D08",
+    "time": "day",
+    "spot": "shaded_creek",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "IT WALKS ON LAND.",
+      "BREEDS IN WATER.",
+      "LOOK. DO NOT HANDLE."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-torosa"
+  },
+  {
+    "id": 8,
+    "name": "CHORUS FROG",
+    "scientific_name": "Pseudacris regilla",
+    "art": "chorus_frog",
+    "region": "D08",
+    "time": "night",
+    "spot": "freshwater_edge",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 80,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A DARK EYE STRIPE.",
+      "LOOK BY FRESH WATER.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudacris/Pseudacris-regilla"
+  },
+  {
+    "id": 9,
+    "name": "TIGER SALAMANDER",
+    "scientific_name": "Ambystoma californiense",
+    "art": "tiger_salamander",
+    "region": "D06",
+    "time": "night",
+    "spot": "grassland_burrow",
+    "behavior": "rain_arrival",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "YELLOW SPOTS ON DARK",
+      "BREEDS IN RAIN POOLS",
+      "LEAVE BURROWS ALONE."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-californiense"
+  },
+  {
+    "id": 10,
+    "name": "ISLAND N LIZARD",
+    "scientific_name": "Xantusia riversiana",
+    "art": "island_night_lizard",
+    "region": "D12",
+    "time": "day",
+    "spot": "island_scrub",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "AN ISLAND LIZARD.",
+      "LOOK IN DAYLIGHT.",
+      "LET IT STAY IN COVER"
+    ],
+    "source": "https://www.nps.gov/places/island-night-lizard.htm"
+  },
+  {
+    "id": 11,
+    "name": "S ALLIGATOR LIZ",
+    "scientific_name": "Elgaria multicarinata",
+    "art": "alligator_lizard",
+    "region": "D15",
+    "time": "day",
+    "spot": "rock_log_cover",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "LONG BODY AND TAIL.",
+      "SMALL LEGS MOVE IT.",
+      "LEAVE ITS COVER SAFE"
+    ],
+    "source": "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 12,
+    "name": "BANDED GECKO",
+    "scientific_name": "Coleonyx variegatus",
+    "art": "banded_gecko",
+    "region": "D01",
+    "time": "night",
+    "spot": "desert_rock_cover",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "IT MOVES AFTER DARK.",
+      "BANDS CROSS ITS BODY",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 13,
+    "name": "DESERT IGUANA",
+    "scientific_name": "Dipsosaurus dorsalis",
+    "art": "desert_iguana",
+    "region": "D01",
+    "time": "day",
+    "spot": "desert_wash",
+    "behavior": "push_up",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A DESERT PLANT EATER",
+      "IT BASKS IN WARMTH.",
+      "WATCH FROM FAR AWAY."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 14,
+    "name": "ROSY BOA",
+    "scientific_name": "Lichanura orcutti",
+    "art": "rosy_boa",
+    "region": "D01",
+    "time": "dusk",
+    "spot": "desert_canyon",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "LONG STRIPES ON BODY",
+      "IT MOVES SLOWLY.",
+      "DO NOT PICK IT UP."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 15,
+    "name": "NORTHWEST TURTLE",
+    "scientific_name": "Actinemys marmorata",
+    "art": "western_pond_turtle",
+    "region": "D06",
+    "time": "day",
+    "spot": "freshwater_pond",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A FRESHWATER TURTLE.",
+      "IT BASKS ABOVE WATER",
+      "STAY BACK FROM WATER"
+    ],
+    "source": "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+  },
+  {
+    "id": 16,
+    "name": "ARBOREAL SALAM.",
+    "scientific_name": "Aneides lugubris",
+    "art": "arboreal_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "oak_tree_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "IT CAN CLIMB TREES.",
+      "DAMP COVER HELPS IT.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-lugubris"
+  },
+  {
+    "id": 17,
+    "name": "SIERRA YL FROG",
+    "scientific_name": "Rana sierrae",
+    "art": "yellow_legged_frog",
+    "region": "D05",
+    "time": "day",
+    "spot": "mountain_lake_edge",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A HIGH-COUNTRY FROG.",
+      "YELLOW UNDER LEGS.",
+      "KEEP THE LAKE CLEAN."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-sierrae"
+  },
+  {
+    "id": 18,
+    "name": "SW POND TURTLE",
+    "scientific_name": "Actinemys pallida",
+    "art": "sw_pond_turtle",
+    "region": "D10",
+    "time": "day",
+    "spot": "freshwater_pond",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 76,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A FRESHWATER TURTLE.",
+      "LOOK BY FRESH WATER.",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+  },
+  {
+    "id": 19,
+    "name": "NW SALAMANDER",
+    "scientific_name": "Ambystoma gracile",
+    "art": "northwestern_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "forest_pond",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 93,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A STOCKY SALAMANDER.",
+      "LOOK BY FOREST POOLS",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-gracile"
+  },
+  {
+    "id": 20,
+    "name": "LONG-TOED SALAM",
+    "scientific_name": "Ambystoma macrodactylum",
+    "art": "long_toed_salamander",
+    "region": "D05",
+    "time": "night",
+    "spot": "montane_pond",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 110,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A LONG FOURTH TOE.",
+      "SEASONAL POOLS.",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://www.nps.gov/glac/learn/nature/amphibians.htm"
+  },
+  {
+    "id": 21,
+    "name": "WESTERN TOAD",
+    "scientific_name": "Anaxyrus boreas",
+    "art": "western_toad",
+    "region": "D05",
+    "time": "day",
+    "spot": "freshwater_edge",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 127,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A PALE BACK STRIPE.",
+      "LOOK AT WATER EDGES.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-boreas"
+  },
+  {
+    "id": 22,
+    "name": "ARROYO TOAD",
+    "scientific_name": "Anaxyrus californicus",
+    "art": "arroyo_toad",
+    "region": "D10",
+    "time": "night",
+    "spot": "sandy_riparian_pool",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 144,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A SMALL SANDY TOAD.",
+      "SANDY STREAM POOLS.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.fws.gov/species/arroyo-toad-anaxyrus-californicus"
+  },
+  {
+    "id": 23,
+    "name": "YOSEMITE TOAD",
+    "scientific_name": "Anaxyrus canorus",
+    "art": "yosemite_toad",
+    "region": "D05",
+    "time": "day",
+    "spot": "high_meadow_pool",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 161,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A HIGH-MEADOW TOAD.",
+      "LOOK BY MEADOW POOLS",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/articles/000/yosemitetoad.htm"
+  },
+  {
+    "id": 24,
+    "name": "G PLAINS TOAD",
+    "scientific_name": "Anaxyrus cognatus",
+    "art": "great_plains_toad",
+    "region": "D02",
+    "time": "night",
+    "spot": "desert_rain_pool",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 178,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "PAIRED DARK PATCHES.",
+      "DESERT RAIN POOLS.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-cognatus"
+  },
+  {
+    "id": 25,
+    "name": "BLACK TOAD",
+    "scientific_name": "Anaxyrus exsul",
+    "art": "black_toad",
+    "region": "D03",
+    "time": "day",
+    "spot": "spring_marsh",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 195,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A DARK SPRING TOAD.",
+      "LOOK BY SPRING MARSH",
+      "LET IT SETTLE."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-exsul"
+  },
+  {
+    "id": 26,
+    "name": "CLOUDED SALAM",
+    "scientific_name": "Aneides ferreus",
+    "art": "clouded_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "forest_log",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 212,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "CLOUDED BACK COLORS.",
+      "LOOK BY FALLEN WOOD.",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://www.nps.gov/articles/000/clouded-salamander.htm"
+  },
+  {
+    "id": 27,
+    "name": "BLACK SALAM",
+    "scientific_name": "Aneides flavipunctatus",
+    "art": "black_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "wet_forest_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 78,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "FLECKS VARY BY FORM.",
+      "LOOK IN DAMP FOREST.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/"
+  },
+  {
+    "id": 28,
+    "name": "SHASTA BLACK",
+    "scientific_name": "Aneides iecanus",
+    "art": "shasta_black_salamander",
+    "region": "D14",
+    "time": "night",
+    "spot": "shaded_canyon_creek",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 95,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "MANY TINY SPECKLES.",
+      "SHADY CANYON WATER.",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/"
+  },
+  {
+    "id": 29,
+    "name": "KLAMATH BLACK",
+    "scientific_name": "Aneides klamathensis",
+    "art": "klamath_black_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "damp_talus",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 112,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A FROSTED DARK FORM.",
+      "LOOK BY DAMP TALUS.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/"
+  },
+  {
+    "id": 30,
+    "name": "SANTA CRUZ BLACK",
+    "scientific_name": "Aneides niger",
+    "art": "santa_cruz_black_salamander",
+    "region": "D08",
+    "time": "night",
+    "spot": "damp_rock_outcrop",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 129,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A NEARLY BLACK FORM.",
+      "DAMP ROCKS ARE COVER",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/"
+  },
+  {
+    "id": 31,
+    "name": "WANDERING SALAM",
+    "scientific_name": "Aneides vagrans",
+    "art": "wandering_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "forest_log",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 146,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "LONG CLIMBING LEGS.",
+      "LOOK BY FALLEN WOOD.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/wandering-salamander-2014.html"
+  },
+  {
+    "id": 32,
+    "name": "TEMBLOR LEGLESS",
+    "scientific_name": "Anniella alexanderae",
+    "art": "temblor_legless_lizard",
+    "region": "D07",
+    "time": "dusk",
+    "spot": "alkali_scrub",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 163,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A LEGLESS LIZARD.",
+      "LOOK IN ALKALI SCRUB",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://wildlife.ca.gov/Data/CNDDB/News/temblor-legless-lizard-status-review-how-you-can-help"
+  },
+  {
+    "id": 33,
+    "name": "S DIEGO LEGLESS",
+    "scientific_name": "Anniella stebbinsi",
+    "art": "r_033",
+    "region": "D01",
+    "time": "dusk",
+    "spot": "moist_sandy_soil",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 180,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A LEGLESS LIZARD.",
+      "LOOK BY DAMP SAND.",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 34,
+    "name": "GLOSSY SNAKE",
+    "scientific_name": "Arizona elegans",
+    "art": "r_034",
+    "region": "D01",
+    "time": "night",
+    "spot": "open_sand",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 197,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "SMOOTH SHINY SCALES.",
+      "LOOK ON OPEN SAND.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 35,
+    "name": "COAST TAIL FROG",
+    "scientific_name": "Ascaphus truei",
+    "art": "coastal_tailed_frog",
+    "region": "D13",
+    "time": "night",
+    "spot": "cold_fast_stream",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 214,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A FOREST STREAM FROG",
+      "COOL FLOWING WATER.",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ascaphidae/Ascaphus/Ascaphus-truei"
+  },
+  {
+    "id": 36,
+    "name": "ORANGE WHIPTAIL",
+    "scientific_name": "Aspidoscelis hyperythrus",
+    "art": "orange_throated_whiptail",
+    "region": "D10",
+    "time": "day",
+    "spot": "coastal_sage_scrub",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 80,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A SLENDER WHIPTAIL.",
+      "LOOK IN COAST SCRUB.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://coasttocactus.sdnhm.org/animals/orange-throated-whiptail"
+  },
+  {
+    "id": 37,
+    "name": "TIGER WHIPTAIL",
+    "scientific_name": "Aspidoscelis tigris",
+    "art": "r_037",
+    "region": "D01",
+    "time": "day",
+    "spot": "desert_shrub",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 97,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "LONG LEGS AND TAIL.",
+      "LOOK BY DESERT SCRUB",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 38,
+    "name": "GREENHORN SALAM",
+    "scientific_name": "Batrachoseps altasierrae",
+    "art": "greenhorn_slender_salamander",
+    "region": "D05",
+    "time": "night",
+    "spot": "moist_conifer_litter",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 114,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "FOUR TOES EACH FOOT.",
+      "DAMP CONIFER LITTER.",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://doi.org/10.11646/zootaxa.3190.1.1"
+  },
+  {
+    "id": 39,
+    "name": "CA SLENDER",
+    "scientific_name": "Batrachoseps attenuatus",
+    "art": "california_slender_salamander",
+    "region": "D08",
+    "time": "night",
+    "spot": "wet_forest_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 131,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A VERY SLENDER BODY.",
+      "LOOK IN DAMP FOREST.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://home.nps.gov/prsf/learn/nature/california-slender-salamander.htm"
+  },
+  {
+    "id": 40,
+    "name": "FAIRVIEW SLENDER",
+    "scientific_name": "Batrachoseps bramei",
+    "art": "fairview_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "canyon_seep_rock_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 148,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "FOUR-TOED FEET.",
+      "LOOK BY CANYON SEEPS",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://doi.org/10.11646/zootaxa.3190.1.1"
+  },
+  {
+    "id": 41,
+    "name": "INYO SALAMANDER",
+    "scientific_name": "Batrachoseps campi",
+    "art": "inyo_mtns_salamander",
+    "region": "D03",
+    "time": "night",
+    "spot": "mountain_spring_seep",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 165,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "SLENDER SEEP DWELLER",
+      "MOUNTAIN SEEPS.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-campi"
+  },
+  {
+    "id": 42,
+    "name": "HELL HOLLOW",
+    "scientific_name": "Batrachoseps diabolicus",
+    "art": "hell_hollow_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "chaparral_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 182,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "LUNGLESS SALAMANDER.",
+      "DAMP CHAPARRAL COVER",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://www.biodiversitylibrary.org/part/208101"
+  },
+  {
+    "id": 43,
+    "name": "SAN GABRIEL",
+    "scientific_name": "Batrachoseps gabrieli",
+    "art": "san_gabriel_salamander",
+    "region": "D11",
+    "time": "night",
+    "spot": "montane_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 199,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "FOUR TOES EACH FOOT.",
+      "DAMP MOUNTAIN COVER.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-gabrieli"
+  },
+  {
+    "id": 44,
+    "name": "GABILAN SLENDER",
+    "scientific_name": "Batrachoseps gavilanensis",
+    "art": "gabilan_slender_salamander",
+    "region": "D09",
+    "time": "night",
+    "spot": "oak_leaf_litter",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 216,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "SLENDER OAK DWELLER.",
+      "LOOK IN OAK LITTER.",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species"
+  },
+  {
+    "id": 45,
+    "name": "GREGARIOUS SALAM",
+    "scientific_name": "Batrachoseps gregarius",
+    "art": "gregarious_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "oak_leaf_litter",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 82,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A LONG SLENDER TAIL.",
+      "LOOK IN OAK LITTER.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://www.biodiversitylibrary.org/part/208101"
+  },
+  {
+    "id": 46,
+    "name": "SAN SIMEON SALAM",
+    "scientific_name": "Batrachoseps incognitus",
+    "art": "san_simeon_slender_salamander",
+    "region": "D09",
+    "time": "night",
+    "spot": "coastal_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 99,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "FOUR TOES EACH FOOT.",
+      "LOOK BY DAMP COAST.",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species"
+  },
+  {
+    "id": 47,
+    "name": "SEQUOIA SLENDER",
+    "scientific_name": "Batrachoseps kawia",
+    "art": "sequoia_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "montane_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 116,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "LUNGLESS SALAMANDER.",
+      "DAMP MOUNTAIN COVER.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://www.biodiversitylibrary.org/part/208101"
+  },
+  {
+    "id": 48,
+    "name": "SANTA LUCIA",
+    "scientific_name": "Batrachoseps luciae",
+    "art": "santa_lucia_slender_salamander",
+    "region": "D09",
+    "time": "night",
+    "spot": "coastal_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 133,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A LONG NARROW BODY.",
+      "LOOK BY DAMP COAST.",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species"
+  },
+  {
+    "id": 49,
+    "name": "SOUTHERN SLENDER",
+    "scientific_name": "Batrachoseps major",
+    "art": "southern_slender_salamander",
+    "region": "D10",
+    "time": "night",
+    "spot": "moist_leaf_litter",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 150,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A SLENDER SALAMANDER",
+      "LOOK IN DAMP LITTER.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://bioone.org/journals/ichthyology-and-herpetology/volume-109/issue-3/h2020027/A-New-Relict-Species-of-Slender-Salamander-Plethodontidae--Batrachoseps/10.1643/h2020027.pdf"
+  },
+  {
+    "id": 50,
+    "name": "LESSER SLENDER",
+    "scientific_name": "Batrachoseps minor",
+    "art": "lesser_slender_salamander",
+    "region": "D09",
+    "time": "night",
+    "spot": "montane_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 167,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SMALL SLENDER FORM",
+      "DAMP MOUNTAIN COVER.",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species"
+  },
+  {
+    "id": 51,
+    "name": "BLACK-BELLY",
+    "scientific_name": "Batrachoseps nigriventris",
+    "art": "black_bellied_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "moist_leaf_litter",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 184,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A DARK-BELLIED FORM.",
+      "LOOK IN DAMP LITTER.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1444"
+  },
+  {
+    "id": 52,
+    "name": "ISLANDS SLENDER",
+    "scientific_name": "Batrachoseps pacificus",
+    "art": "channel_islands_slender_salamander",
+    "region": "D12",
+    "time": "night",
+    "spot": "island_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 201,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "AN ISLAND SALAMANDER",
+      "DAMP ISLAND COVER.",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://bioone.org/journals/ichthyology-and-herpetology/volume-109/issue-3/h2020027/A-New-Relict-Species-of-Slender-Salamander-Plethodontidae--Batrachoseps/10.1643/h2020027.pdf"
+  },
+  {
+    "id": 53,
+    "name": "KINGS RIVER",
+    "scientific_name": "Batrachoseps regius",
+    "art": "kings_river_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "montane_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 218,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "FOUR-TOED FEET.",
+      "DAMP MOUNTAIN COVER.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://www.biodiversitylibrary.org/part/208101"
+  },
+  {
+    "id": 54,
+    "name": "RELICTUAL SALAM",
+    "scientific_name": "Batrachoseps relictus",
+    "art": "relictual_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "forest_stream_seep",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 84,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "LUNGLESS SALAMANDER.",
+      "FOREST STREAM SEEPS.",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://doi.org/10.11646/zootaxa.3190.1.1"
+  },
+  {
+    "id": 55,
+    "name": "KERN PLATEAU",
+    "scientific_name": "Batrachoseps robustus",
+    "art": "kern_plateau_slender_salamander",
+    "region": "D05",
+    "time": "night",
+    "spot": "montane_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 101,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "ROBUST SLENDER FORM.",
+      "DAMP MOUNTAIN COVER.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://www.researchgate.net/publication/250067402_New_Species_of_Slender_Salamander_Genus_Batrachoseps_from_the_Southern_Sierra_Nevada_of_California"
+  },
+  {
+    "id": 56,
+    "name": "KERN CANYON",
+    "scientific_name": "Batrachoseps simatus",
+    "art": "kern_canyon_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "canyon_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 118,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A LONG NARROW BODY.",
+      "LOOK IN DAMP CANYONS",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1448"
+  },
+  {
+    "id": 57,
+    "name": "TEHACHAPI SALAM",
+    "scientific_name": "Batrachoseps stebbinsi",
+    "art": "tehachapi_slender_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "damp_talus",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 135,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "LARGE FEET FOR SIZE.",
+      "LOOK BY DAMP TALUS.",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=32034"
+  },
+  {
+    "id": 58,
+    "name": "ZEBRA-TAIL LIZ",
+    "scientific_name": "Callisaurus draconoides",
+    "art": "r_058",
+    "region": "D01",
+    "time": "day",
+    "spot": "open_sand",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 152,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "DARK BARS ON TAIL",
+      "LOOK ON OPEN SAND.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/orpi/learn/nature/lizards.htm"
+  },
+  {
+    "id": 59,
+    "name": "RUBBER BOA",
+    "scientific_name": "Charina bottae",
+    "art": "northern_rubber_boa",
+    "region": "D15",
+    "time": "dusk",
+    "spot": "forest_cover",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 169,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "SMOOTH RUBBERY SKIN.",
+      "LOOK BY FOREST COVER",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 60,
+    "name": "MTN KINGSNAKE",
+    "scientific_name": "Lampropeltis zonata",
+    "art": "r_060",
+    "region": "D05",
+    "time": "day",
+    "spot": "rock_outcrop",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 186,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "RED WHITE BLACK.",
+      "WOODLAND ROCK COVER",
+      "LEAVE COVER ALONE."
+    ],
+    "source": "https://www.nps.gov/yose/blogs/sierra-mountain-kingsnake.htm"
+  },
+  {
+    "id": 61,
+    "name": "GREEN SEA TURTLE",
+    "scientific_name": "Chelonia mydas",
+    "art": "r_061",
+    "region": "D10",
+    "time": "day",
+    "spot": "marine_bay",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 203,
+      "minimum_distance": 4,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "SWIMS WITH FLIPPERS.",
+      "WATCH FROM THE SHORE",
+      "KEEP WATCH FROM LAND"
+    ],
+    "source": "https://www.fisheries.noaa.gov/species/green-turtle"
+  },
+  {
+    "id": 62,
+    "name": "N AMERICAN RACER",
+    "scientific_name": "Coluber constrictor",
+    "art": "r_062",
+    "region": "D08",
+    "time": "day",
+    "spot": "open_grassland",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 220,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A LONG SLENDER SNAKE",
+      "LOOK IN GRASSLAND.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2753&inline=1"
+  },
+  {
+    "id": 63,
+    "name": "F SHARP-TAIL",
+    "scientific_name": "Contia longicauda",
+    "art": "r_063",
+    "region": "D13",
+    "time": "night",
+    "spot": "humid_conifer_forest",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 86,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A SMALL FOREST SNAKE",
+      "DAMP CONIFER COVER.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67506&inline=1"
+  },
+  {
+    "id": 64,
+    "name": "C SHARP-TAIL",
+    "scientific_name": "Contia tenuis",
+    "art": "common_sharp_tail",
+    "region": "D14",
+    "time": "night",
+    "spot": "rock_log_cover",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 103,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A POINTED TAIL TIP.",
+      "LOOK BY ROCK OR LOG.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2749&inline=1"
+  },
+  {
+    "id": 65,
+    "name": "W DIAMONDBACK",
+    "scientific_name": "Crotalus atrox",
+    "art": "western_diamondback",
+    "region": "D02",
+    "time": "night",
+    "spot": "desert_riparian",
+    "behavior": "protected",
+    "behavior_params": {
+      "period": 120,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A RATTLESNAKE.",
+      "LOOK BY DESERT WATER",
+      "KEEP A SAFE DISTANCE"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2795&inline=1"
+  },
+  {
+    "id": 66,
+    "name": "W RATTLESNAKE",
+    "scientific_name": "Crotalus oreganus",
+    "art": "r_066",
+    "region": "D16",
+    "time": "dusk",
+    "spot": "lava_outcrop",
+    "behavior": "protected",
+    "behavior_params": {
+      "period": 137,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A RATTLESNAKE.",
+      "LOOK BY LAVA ROCKS.",
+      "KEEP A SAFE DISTANCE"
+    ],
+    "source": "https://www.nps.gov/labe/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 67,
+    "name": "SW SPECKLED",
+    "scientific_name": "Crotalus pyrrhus",
+    "art": "r_067",
+    "region": "D01",
+    "time": "night",
+    "spot": "rock_outcrop",
+    "behavior": "protected",
+    "behavior_params": {
+      "period": 154,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SPECKLED DARK FORM",
+      "LOOK BY ROCK FACES.",
+      "KEEP A SAFE DISTANCE"
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 68,
+    "name": "RED DIAMOND",
+    "scientific_name": "Crotalus ruber",
+    "art": "r_068",
+    "region": "D10",
+    "time": "night",
+    "spot": "rocky_chaparral",
+    "behavior": "protected",
+    "behavior_params": {
+      "period": 171,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A RATTLESNAKE.",
+      "LOOK BY ROCKY SCRUB.",
+      "KEEP A SAFE DISTANCE"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2797&inline=1"
+  },
+  {
+    "id": 69,
+    "name": "MOJAVE RATTLER",
+    "scientific_name": "Crotalus scutulatus",
+    "art": "r_069",
+    "region": "D01",
+    "time": "night",
+    "spot": "open_desert",
+    "behavior": "protected",
+    "behavior_params": {
+      "period": 188,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A RATTLESNAKE.",
+      "LOOK ON DESERT SOIL.",
+      "KEEP A SAFE DISTANCE"
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 70,
+    "name": "PANAMINT RATTLER",
+    "scientific_name": "Crotalus stephensi",
+    "art": "r_070",
+    "region": "D01",
+    "time": "night",
+    "spot": "rock_outcrop",
+    "behavior": "protected",
+    "behavior_params": {
+      "period": 205,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A RATTLESNAKE.",
+      "LOOK BY ROCK FACES.",
+      "KEEP A SAFE DISTANCE"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67504&inline=1"
+  },
+  {
+    "id": 71,
+    "name": "G BASIN COLLARED",
+    "scientific_name": "Crotaphytus bicinctores",
+    "art": "r_071",
+    "region": "D01",
+    "time": "day",
+    "spot": "rock_outcrop",
+    "behavior": "natural_display",
+    "behavior_params": {
+      "period": 222,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "DARK NECK COLLARS.",
+      "LOOK BY ROCK FACES.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 72,
+    "name": "BAJA COLLARED",
+    "scientific_name": "Crotaphytus vestigium",
+    "art": "baja_collared_lizard",
+    "region": "D02",
+    "time": "day",
+    "spot": "rock_outcrop",
+    "behavior": "natural_display",
+    "behavior_params": {
+      "period": 88,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "DARK NECK COLLARS.",
+      "LOOK BY ROCK FACES.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2811&inline=1"
+  },
+  {
+    "id": 73,
+    "name": "LEATHERBACK",
+    "scientific_name": "Dermochelys coriacea",
+    "art": "r_073",
+    "region": "D09",
+    "time": "day",
+    "spot": "offshore_surface",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 105,
+      "minimum_distance": 4,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A LEATHERY SHELL.",
+      "WATCH OFFSHORE WATER",
+      "KEEP WATCH FROM LAND"
+    ],
+    "source": "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+  },
+  {
+    "id": 74,
+    "name": "RING-NECK SNAKE",
+    "scientific_name": "Diadophis punctatus",
+    "art": "r_074",
+    "region": "D04",
+    "time": "dusk",
+    "spot": "rock_log_cover",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 122,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A PALE NECK RING.",
+      "LOOK BY ROCK OR LOG.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2747&inline=1"
+  },
+  {
+    "id": 75,
+    "name": "CA GIANT SALAM",
+    "scientific_name": "Dicamptodon ensatus",
+    "art": "california_giant_salamander",
+    "region": "D08",
+    "time": "night",
+    "spot": "forest_stream",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 139,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A BROAD-HEADED ADULT",
+      "LOOK BY FOREST WATER",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190337&inline="
+  },
+  {
+    "id": 76,
+    "name": "COAST GIANT",
+    "scientific_name": "Dicamptodon tenebrosus",
+    "art": "coastal_giant_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "forest_stream",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 156,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A MARBLED ADULT FORM",
+      "LOOK BY FOREST WATER",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1510"
+  },
+  {
+    "id": 77,
+    "name": "N ALLIGATOR LIZ",
+    "scientific_name": "Elgaria coerulea",
+    "art": "r_077",
+    "region": "D15",
+    "time": "day",
+    "spot": "rock_log_cover",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 173,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "LONG BODY, TINY LEGS",
+      "LOOK BY ROCK OR LOG.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 78,
+    "name": "PANAMINT ALLIG",
+    "scientific_name": "Elgaria panamintina",
+    "art": "panamint_alligator",
+    "region": "D03",
+    "time": "day",
+    "spot": "wet_talus",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 190,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "LONG BODY, TINY LEGS",
+      "LOOK BY WET TALUS.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2729&inline=1"
+  },
+  {
+    "id": 79,
+    "name": "ENSATINA",
+    "scientific_name": "Ensatina eschscholtzii",
+    "art": "ensatina",
+    "region": "D04",
+    "time": "night",
+    "spot": "wet_forest_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 207,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A NARROW TAIL BASE.",
+      "LOOK IN DAMP FOREST.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1438"
+  },
+  {
+    "id": 80,
+    "name": "BAJA LEOPARD",
+    "scientific_name": "Gambelia copeii",
+    "art": "r_080",
+    "region": "D11",
+    "time": "day",
+    "spot": "open_chaparral",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 73,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SPOTTED LIZARD.",
+      "LOOK IN OPEN SCRUB.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=102374&inline=1"
+  },
+  {
+    "id": 81,
+    "name": "BLUNT-NOSE LEOP",
+    "scientific_name": "Gambelia sila",
+    "art": "blunt_nosed_leopard",
+    "region": "D07",
+    "time": "day",
+    "spot": "dry_grassland",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 90,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A BLUNT SNOUT.",
+      "DRY GRASSLAND COVER.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7047230/"
+  },
+  {
+    "id": 82,
+    "name": "LONG-NOSE LEOP",
+    "scientific_name": "Gambelia wislizenii",
+    "art": "r_082",
+    "region": "D01",
+    "time": "day",
+    "spot": "open_sand",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 107,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A LONGER SNOUT.",
+      "LOOK ON OPEN SAND.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 83,
+    "name": "GILA MONSTER",
+    "scientific_name": "Heloderma suspectum",
+    "art": "r_083",
+    "region": "D01",
+    "time": "dusk",
+    "spot": "rocky_desert_wash",
+    "behavior": "protected",
+    "behavior_params": {
+      "period": 124,
+      "minimum_distance": 3,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "STOUT WITH BEAD SKIN",
+      "ROCKY DESERT WASHES.",
+      "KEEP A SAFE DISTANCE"
+    ],
+    "source": "https://www.nps.gov/sagu/learn/nature/gila-monster.htm"
+  },
+  {
+    "id": 84,
+    "name": "LIMESTONE SALAM",
+    "scientific_name": "Hydromantes brunus",
+    "art": "limestone_salamander",
+    "region": "D04",
+    "time": "night",
+    "spot": "damp_limestone_crevice",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 141,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "WEBBED FEET / HANDS.",
+      "DAMP LIMESTONE COVER",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1464"
+  },
+  {
+    "id": 85,
+    "name": "MT LYELL SALAM",
+    "scientific_name": "Hydromantes platycephalus",
+    "art": "mount_lyell_salamander",
+    "region": "D05",
+    "time": "night",
+    "spot": "damp_granite_talus",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 158,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A BROAD FLAT HEAD.",
+      "LOOK BY DAMP GRANITE",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1460"
+  },
+  {
+    "id": 86,
+    "name": "SAMWEL SHASTA",
+    "scientific_name": "Hydromantes samweli",
+    "art": "samwel_shasta_salamander",
+    "region": "D14",
+    "time": "night",
+    "spot": "damp_limestone_crevice",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 175,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SHORT TAPERED TAIL",
+      "DAMP LIMESTONE COVER",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://escholarship.org/content/qt7sk3n2dq/qt7sk3n2dq.pdf"
+  },
+  {
+    "id": 87,
+    "name": "SHASTA SALAM",
+    "scientific_name": "Hydromantes shastae",
+    "art": "shasta_salamander",
+    "region": "D14",
+    "time": "night",
+    "spot": "damp_limestone_crevice",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 192,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "WEBBED FEET / HANDS.",
+      "DAMP LIMESTONE COVER",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-shastae"
+  },
+  {
+    "id": 88,
+    "name": "WINTU SHASTA",
+    "scientific_name": "Hydromantes wintu",
+    "art": "wintu_shasta_salamander",
+    "region": "D14",
+    "time": "night",
+    "spot": "damp_limestone_crevice",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 209,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A SHORT TAPERED TAIL",
+      "DAMP LIMESTONE COVER",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://escholarship.org/content/qt7sk3n2dq/qt7sk3n2dq.pdf"
+  },
+  {
+    "id": 89,
+    "name": "DESERT NIGHTSNK",
+    "scientific_name": "Hypsiglena chlorophaea",
+    "art": "r_089",
+    "region": "D01",
+    "time": "night",
+    "spot": "desert_rock_cover",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 75,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SMALL DESERT SNAKE",
+      "LOOK BY DESERT ROCKS",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 90,
+    "name": "COAST NIGHTSNAKE",
+    "scientific_name": "Hypsiglena ochrorhyncha",
+    "art": "r_090",
+    "region": "D10",
+    "time": "night",
+    "spot": "coastal_rock_cover",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 92,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A SMALL COAST SNAKE.",
+      "LOOK BY COAST ROCKS.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/cabr/learn/nature/snakes.htm"
+  },
+  {
+    "id": 91,
+    "name": "BAJA COACHWHIP",
+    "scientific_name": "Masticophis fuliginosus",
+    "art": "r_091",
+    "region": "D10",
+    "time": "day",
+    "spot": "coastal_dunes",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 109,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A LONG SLENDER SNAKE",
+      "LOOK BY COAST DUNES.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190336"
+  },
+  {
+    "id": 92,
+    "name": "STRIPED RACER",
+    "scientific_name": "Masticophis lateralis",
+    "art": "r_092",
+    "region": "D04",
+    "time": "day",
+    "spot": "chaparral",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 126,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "LONGITUDINAL STRIPES",
+      "LOOK IN CHAPARRAL.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2757&inline=1"
+  },
+  {
+    "id": 93,
+    "name": "DESERT COACHWHIP",
+    "scientific_name": "Masticophis piceus",
+    "art": "r_093",
+    "region": "D01",
+    "time": "day",
+    "spot": "open_desert",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 143,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A LONG SLENDER SNAKE",
+      "LOOK ON DESERT SOIL.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 94,
+    "name": "STRIPE WHIPSNAKE",
+    "scientific_name": "Masticophis taeniatus",
+    "art": "striped_whipsnake",
+    "region": "D03",
+    "time": "day",
+    "spot": "sagebrush",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 160,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "LONGITUDINAL STRIPES",
+      "LOOK BY SAGEBRUSH.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2759&inline=1"
+  },
+  {
+    "id": 95,
+    "name": "MEARNS ROCK LIZ",
+    "scientific_name": "Petrosaurus mearnsi",
+    "art": "r_095",
+    "region": "D02",
+    "time": "day",
+    "spot": "rock_outcrop",
+    "behavior": "natural_display",
+    "behavior_params": {
+      "period": 177,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A ROCK LIZARD.",
+      "LOOK BY ROCK FACES.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2703&inline=1"
+  },
+  {
+    "id": 96,
+    "name": "BLAINVILLE HORN",
+    "scientific_name": "Phrynosoma blainvillii",
+    "art": "r_096",
+    "region": "D04",
+    "time": "day",
+    "spot": "open_oak_woodland",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 194,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "HORNS FRAME ITS HEAD",
+      "LOOK IN OPEN OAKS.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2705&inline=1"
+  },
+  {
+    "id": 97,
+    "name": "PYGMY HORNED",
+    "scientific_name": "Phrynosoma douglasii",
+    "art": "pygmy_horned_lizard",
+    "region": "D16",
+    "time": "day",
+    "spot": "juniper_woodland",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 211,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "SMALL, SHORT HORNS.",
+      "LOOK BY JUNIPERS.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2709&inline=1"
+  },
+  {
+    "id": 98,
+    "name": "FLAT-TAIL HORNED",
+    "scientific_name": "Phrynosoma mcallii",
+    "art": "r_098",
+    "region": "D02",
+    "time": "day",
+    "spot": "open_sand",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 77,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A BROAD FLAT TAIL.",
+      "LOOK ON OPEN SAND.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2711&inline=1"
+  },
+  {
+    "id": 99,
+    "name": "LEAF-TOED GECKO",
+    "scientific_name": "Phyllodactylus nocticolus",
+    "art": "peninsula_leaf_toed",
+    "region": "D02",
+    "time": "night",
+    "spot": "rock_crevice",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 94,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "EXPANDED TOE TIPS.",
+      "LOOK BY ROCK CRACKS.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2667&inline=1"
+  },
+  {
+    "id": 100,
+    "name": "LEAF-NOSE SNAKE",
+    "scientific_name": "Phyllorhynchus decurtatus",
+    "art": "r_100",
+    "region": "D01",
+    "time": "night",
+    "spot": "desert_rock_cover",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 111,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A BROAD NOSE SCALE.",
+      "LOOK BY DESERT ROCKS",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 101,
+    "name": "GOPHERSNAKE",
+    "scientific_name": "Pituophis catenifer",
+    "art": "r_101",
+    "region": "D01",
+    "time": "dusk",
+    "spot": "creosote_scrub",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 128,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A BLOTCHED SNAKE.",
+      "LOOK BY CREOSOTE.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 102,
+    "name": "GILBERT SKINK",
+    "scientific_name": "Plestiodon gilberti",
+    "art": "r_102",
+    "region": "D01",
+    "time": "day",
+    "spot": "moist_rock_cover",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 145,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "SMOOTH LIZARD SCALES",
+      "DAMP ROCKS ARE COVER",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 103,
+    "name": "WESTERN SKINK",
+    "scientific_name": "Plestiodon skiltonianus",
+    "art": "western_skink",
+    "region": "D13",
+    "time": "day",
+    "spot": "open_forest_edge",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 162,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "SMOOTH LIZARD SCALES",
+      "LOOK AT FOREST EDGES",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2719&inline=1"
+  },
+  {
+    "id": 104,
+    "name": "SCOTT BAR SALAM",
+    "scientific_name": "Plethodon asupak",
+    "art": "scott_bar_salamander",
+    "region": "D14",
+    "time": "night",
+    "spot": "damp_talus",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 179,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "ROBUST WOODLAND FORM",
+      "LOOK BY DAMP TALUS.",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://www.researchgate.net/publication/237211279_Newly_discovered_populations_of_salamanders_from_Siskiyou_County_California_represent_a_species_distinct_from_Plethodon_stormi"
+  },
+  {
+    "id": 105,
+    "name": "DUNNS SALAM",
+    "scientific_name": "Plethodon dunni",
+    "art": "dunns_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "forest_streamside",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 196,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A BROAD DORSAL BAND.",
+      "LOOK BESIDE A STREAM",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://www.fs.usda.gov/pnw/pubs/pnw_gtr337.pdf"
+  },
+  {
+    "id": 106,
+    "name": "DEL NORTE SALAM",
+    "scientific_name": "Plethodon elongatus",
+    "art": "del_norte_salamander",
+    "region": "D13",
+    "time": "night",
+    "spot": "damp_talus",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 213,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A LONG SLENDER TRUNK",
+      "LOOK BY DAMP TALUS.",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://www.fs.usda.gov/pnw/pubs/pnw_gtr337.pdf"
+  },
+  {
+    "id": 107,
+    "name": "SISKIYOU SALAM",
+    "scientific_name": "Plethodon stormi",
+    "art": "siskiyou_mountains_salamander",
+    "region": "D14",
+    "time": "night",
+    "spot": "damp_talus",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 79,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "LUNGLESS SALAMANDER.",
+      "LOOK BY DAMP TALUS.",
+      "DO NOT MOVE ITS HOME"
+    ],
+    "source": "https://www.fs.usda.gov/pnw/pubs/pnw_gtr337.pdf"
+  },
+  {
+    "id": 108,
+    "name": "CA TREEFROG",
+    "scientific_name": "Pseudacris cadaverina",
+    "art": "california_treefrog",
+    "region": "D10",
+    "time": "night",
+    "spot": "rocky_creek",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 96,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A ROCKY-CREEK FROG.",
+      "LOOK BY ROCKY CREEKS",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudacris/Pseudacris-cadaverina"
+  },
+  {
+    "id": 109,
+    "name": "N RED-LEG FROG",
+    "scientific_name": "Rana aurora",
+    "art": "northern_red_legged",
+    "region": "D13",
+    "time": "day",
+    "spot": "forest_pond",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 113,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "FOLDED LONG HINDLEGS",
+      "LOOK BY FOREST POOLS",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=68"
+  },
+  {
+    "id": 110,
+    "name": "FOOTHILL YL FROG",
+    "scientific_name": "Rana boylii",
+    "art": "foothill_yellow_legged",
+    "region": "D04",
+    "time": "day",
+    "spot": "rocky_river_margin",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 130,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "YELLOW UNDER LEGS.",
+      "LOOK AT RIVER EDGES.",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://www.fws.gov/species/foothill-yellow-legged-frog-rana-boylii"
+  },
+  {
+    "id": 111,
+    "name": "CASCADES FROG",
+    "scientific_name": "Rana cascadae",
+    "art": "cascades_frog",
+    "region": "D15",
+    "time": "day",
+    "spot": "montane_meadow_pool",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 147,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "DARK SPOTS ON BACK.",
+      "HIGH MEADOW POOLS.",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://home.nps.gov/mora/learn/nature/amphibians.htm"
+  },
+  {
+    "id": 112,
+    "name": "CA RED-LEG FROG",
+    "scientific_name": "Rana draytonii",
+    "art": "california_red_legged",
+    "region": "D08",
+    "time": "day",
+    "spot": "freshwater_pond",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 164,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "RED UNDER ITS LEGS.",
+      "LOOK BY FRESH WATER.",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://www.nps.gov/yose/learn/nature/caredfrog.htm"
+  },
+  {
+    "id": 113,
+    "name": "S MOUNTAIN YL",
+    "scientific_name": "Rana muscosa",
+    "art": "southern_yellow_legged",
+    "region": "D05",
+    "time": "day",
+    "spot": "mountain_stream",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 181,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "YELLOW UNDER LEGS.",
+      "LOOK BY HIGH STREAMS",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://www.fws.gov/species/mountain-yellow-legged-frog-rana-muscosa"
+  },
+  {
+    "id": 114,
+    "name": "W THREADSNAKE",
+    "scientific_name": "Rena humilis",
+    "art": "r_114",
+    "region": "D01",
+    "time": "night",
+    "spot": "moist_rock_cover",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 198,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A VERY THIN SNAKE.",
+      "DAMP ROCKS ARE COVER",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 115,
+    "name": "LONG-NOSE SNAKE",
+    "scientific_name": "Rhinocheilus lecontei",
+    "art": "r_115",
+    "region": "D01",
+    "time": "night",
+    "spot": "creosote_scrub",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 215,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "BANDS CROSS ITS BODY",
+      "LOOK BY CREOSOTE.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 116,
+    "name": "S TORRENT SALAM",
+    "scientific_name": "Rhyacotriton variegatus",
+    "art": "southern_torrent_salamander",
+    "region": "D13",
+    "time": "day",
+    "spot": "cold_headwater_seep",
+    "behavior": "water_emerge",
+    "behavior_params": {
+      "period": 81,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SMALL SEEP DWELLER",
+      "COOL HEADWATER SEEPS",
+      "KEEP THE WATER CLEAN"
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Rhyacotritonidae/Rhyacotriton/Rhyacotriton-variegatus"
+  },
+  {
+    "id": 117,
+    "name": "PATCH-NOSE SNAKE",
+    "scientific_name": "Salvadora hexalepis",
+    "art": "r_117",
+    "region": "D01",
+    "time": "day",
+    "spot": "desert_wash",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 98,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A LARGE NOSE SCALE.",
+      "LOOK IN A DRY WASH.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 118,
+    "name": "COUCH SPADEFOOT",
+    "scientific_name": "Scaphiopus couchii",
+    "art": "couch_spadefoot",
+    "region": "D02",
+    "time": "night",
+    "spot": "desert_rain_pool",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 115,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A HINDFOOT SPADE.",
+      "DESERT RAIN POOLS.",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://escholarship.org/content/qt79s5p5f8/supp/IB_104_Lab_Manual_2021.pdf"
+  },
+  {
+    "id": 119,
+    "name": "SAGEBRUSH LIZARD",
+    "scientific_name": "Sceloporus graciosus",
+    "art": "r_119",
+    "region": "D15",
+    "time": "day",
+    "spot": "montane_rock_outcrop",
+    "behavior": "natural_display",
+    "behavior_params": {
+      "period": 132,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SMALL SPINY LIZARD",
+      "MOUNTAIN ROCK COVER.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 120,
+    "name": "DESERT SPINY",
+    "scientific_name": "Sceloporus magister",
+    "art": "r_120",
+    "region": "D01",
+    "time": "day",
+    "spot": "joshua_woodland",
+    "behavior": "natural_display",
+    "behavior_params": {
+      "period": 149,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A LARGE SPINY LIZARD",
+      "LOOK BY JOSHUA TREES",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 121,
+    "name": "GRANITE SPINY",
+    "scientific_name": "Sceloporus orcutti",
+    "art": "r_121",
+    "region": "D11",
+    "time": "day",
+    "spot": "granite_outcrop",
+    "behavior": "natural_display",
+    "behavior_params": {
+      "period": 166,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A SPINY ROCK LIZARD.",
+      "LOOK BY GRANITE ROCK",
+      "LET IT SETTLE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2689&inline=1"
+  },
+  {
+    "id": 122,
+    "name": "SHOVEL-NOSE SNK",
+    "scientific_name": "Sonora occipitalis",
+    "art": "r_122",
+    "region": "D01",
+    "time": "night",
+    "spot": "open_sand",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 183,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SHOVEL-LIKE SNOUT.",
+      "LOOK ON OPEN SAND.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 123,
+    "name": "W GROUNDSNAKE",
+    "scientific_name": "Sonora semiannulata",
+    "art": "r_123",
+    "region": "D01",
+    "time": "night",
+    "spot": "desert_wash",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 200,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A SMALL GROUND SNAKE",
+      "LOOK IN A DRY WASH.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 124,
+    "name": "W SPADEFOOT",
+    "scientific_name": "Spea hammondii",
+    "art": "western_spadefoot",
+    "region": "D07",
+    "time": "night",
+    "spot": "vernal_pool",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 217,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A HINDFOOT SPADE.",
+      "LOOK BY RAIN POOLS.",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190378"
+  },
+  {
+    "id": 125,
+    "name": "G BASIN SPADEFT",
+    "scientific_name": "Spea intermontana",
+    "art": "great_basin_spadefoot",
+    "region": "D03",
+    "time": "night",
+    "spot": "sagebrush_seasonal_pool",
+    "behavior": "hop",
+    "behavior_params": {
+      "period": 83,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A HINDFOOT SPADE.",
+      "SAGE COUNTRY POOLS.",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Scaphiopodidae/Spea/Spea-intermontana"
+  },
+  {
+    "id": 126,
+    "name": "SMITH BLACK-HEAD",
+    "scientific_name": "Tantilla hobartsmithi",
+    "art": "r_126",
+    "region": "D01",
+    "time": "night",
+    "spot": "joshua_woodland",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 100,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A DARK-HEADED SNAKE.",
+      "LOOK BY JOSHUA TREES",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 127,
+    "name": "W BLACK-HEAD",
+    "scientific_name": "Tantilla planiceps",
+    "art": "r_127",
+    "region": "D10",
+    "time": "night",
+    "spot": "coastal_chaparral",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 117,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A DARK-HEADED SNAKE.",
+      "LOOK IN COAST SCRUB.",
+      "LEAVE SOIL IN PLACE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2787&inline=1"
+  },
+  {
+    "id": 128,
+    "name": "ROUGH-SKIN NEWT",
+    "scientific_name": "Taricha granulosa",
+    "art": "rough_skinned_newt",
+    "region": "D08",
+    "time": "day",
+    "spot": "forest_pond",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 134,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "GRAINY LAND SKIN.",
+      "LOOK BY FOREST POOLS",
+      "KEEP DAMP COVER SAFE"
+    ],
+    "source": "https://www.nps.gov/crla/learn/nature/mazama-newts.htm"
+  },
+  {
+    "id": 129,
+    "name": "RED-BELLY NEWT",
+    "scientific_name": "Taricha rivularis",
+    "art": "red_bellied_newt",
+    "region": "D13",
+    "time": "night",
+    "spot": "forest_stream",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 151,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A REDDISH UNDERSIDE.",
+      "LOOK BY FOREST WATER",
+      "LOOK WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190363&inline="
+  },
+  {
+    "id": 130,
+    "name": "SIERRA NEWT",
+    "scientific_name": "Taricha sierrae",
+    "art": "sierra_newt",
+    "region": "D04",
+    "time": "day",
+    "spot": "shaded_creek",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 168,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A ROBUST NEWT.",
+      "LOOK BY SHADY CREEKS",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://www.nps.gov/seki/learn/nature/amphibfish.htm"
+  },
+  {
+    "id": 131,
+    "name": "AQUATIC GARTER",
+    "scientific_name": "Thamnophis atratus",
+    "art": "r_131",
+    "region": "D08",
+    "time": "day",
+    "spot": "rocky_creek",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 185,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A WATER-EDGE SNAKE.",
+      "LOOK BY ROCKY CREEKS",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=3458&inline=1"
+  },
+  {
+    "id": 132,
+    "name": "SIERRA GARTER",
+    "scientific_name": "Thamnophis couchii",
+    "art": "r_132",
+    "region": "D04",
+    "time": "day",
+    "spot": "rocky_creek",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 202,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A STREAMSIDE SNAKE.",
+      "LOOK BY ROCKY CREEKS",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2777&inline=1"
+  },
+  {
+    "id": 133,
+    "name": "LAND GARTER",
+    "scientific_name": "Thamnophis elegans",
+    "art": "r_133",
+    "region": "D15",
+    "time": "day",
+    "spot": "freshwater_edge",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 219,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "STRIPED GARTERSNAKE.",
+      "LOOK AT WATER EDGES.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 134,
+    "name": "GIANT GARTER",
+    "scientific_name": "Thamnophis gigas",
+    "art": "r_134",
+    "region": "D06",
+    "time": "day",
+    "spot": "freshwater_marsh",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 85,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A LARGE GARTERSNAKE.",
+      "LOOK IN WATER MARSH.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+  },
+  {
+    "id": 135,
+    "name": "TWO-STRIP GARTER",
+    "scientific_name": "Thamnophis hammondii",
+    "art": "r_135",
+    "region": "D10",
+    "time": "day",
+    "spot": "freshwater_stream",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 102,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "TWO SIDE STRIPES.",
+      "LOOK BY A STREAM.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2809&inline=1"
+  },
+  {
+    "id": 136,
+    "name": "CHECKERED GARTER",
+    "scientific_name": "Thamnophis marcianus",
+    "art": "r_136",
+    "region": "D02",
+    "time": "dusk",
+    "spot": "freshwater_edge",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 119,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A CHECKERED FORM.",
+      "LOOK AT WATER EDGES.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2781&inline=1"
+  },
+  {
+    "id": 137,
+    "name": "NW GARTER",
+    "scientific_name": "Thamnophis ordinoides",
+    "art": "r_137",
+    "region": "D13",
+    "time": "day",
+    "spot": "wet_meadow",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 136,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A SMALL GARTERSNAKE.",
+      "LOOK BY DAMP MEADOWS",
+      "LET IT SETTLE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2779&inline=1"
+  },
+  {
+    "id": 138,
+    "name": "COMMON GARTER",
+    "scientific_name": "Thamnophis sirtalis",
+    "art": "r_138",
+    "region": "D15",
+    "time": "day",
+    "spot": "freshwater_edge",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 153,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "STRIPED GARTERSNAKE.",
+      "LOOK AT WATER EDGES.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+  },
+  {
+    "id": 139,
+    "name": "CA LYRESNAKE",
+    "scientific_name": "Trimorphodon lyrophanes",
+    "art": "r_139",
+    "region": "D01",
+    "time": "night",
+    "spot": "desert_canyon",
+    "behavior": "glide",
+    "behavior_params": {
+      "period": 170,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A BROAD-HEADED SNAKE",
+      "LOOK IN ROCK CANYONS",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 140,
+    "name": "COACHELLA FRINGE",
+    "scientific_name": "Uma inornata",
+    "art": "r_140",
+    "region": "D02",
+    "time": "day",
+    "spot": "sand_dunes",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 187,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "TOE FRINGES IN SAND.",
+      "LOOK BY SAND DUNES.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://eplanning.blm.gov/public_projects/nepa/77304/103087/126160/App-E-Mojave_Fringe-toed_Lizard_Study_Proposal.pdf"
+  },
+  {
+    "id": 141,
+    "name": "COLORADO FRINGE",
+    "scientific_name": "Uma notata",
+    "art": "r_141",
+    "region": "D02",
+    "time": "day",
+    "spot": "sand_dunes",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 204,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "TOE FRINGES IN SAND.",
+      "LOOK BY SAND DUNES.",
+      "LET IT SETTLE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2675"
+  },
+  {
+    "id": 142,
+    "name": "MOJAVE FRINGE",
+    "scientific_name": "Uma scoparia",
+    "art": "r_142",
+    "region": "D01",
+    "time": "day",
+    "spot": "sand_dunes",
+    "behavior": "dash_settle",
+    "behavior_params": {
+      "period": 221,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "TOE FRINGES IN SAND.",
+      "LOOK BY SAND DUNES.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://eplanning.blm.gov/public_projects/nepa/77304/103087/126160/App-E-Mojave_Fringe-toed_Lizard_Study_Proposal.pdf"
+  },
+  {
+    "id": 143,
+    "name": "LONG-TAIL BRUSH",
+    "scientific_name": "Urosaurus graciosus",
+    "art": "r_143",
+    "region": "D01",
+    "time": "day",
+    "spot": "desert_shrub",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 87,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A LONG THIN TAIL.",
+      "LOOK BY DESERT SCRUB",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 144,
+    "name": "BAJA BRUSH",
+    "scientific_name": "Urosaurus microscutatus",
+    "art": "r_144",
+    "region": "D11",
+    "time": "day",
+    "spot": "rock_outcrop",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 104,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A SMALL BRUSH LIZARD",
+      "LOOK BY ROCK FACES.",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2701&inline=1"
+  },
+  {
+    "id": 145,
+    "name": "ORNATE TREE LIZ",
+    "scientific_name": "Urosaurus ornatus",
+    "art": "r_145",
+    "region": "D02",
+    "time": "day",
+    "spot": "desert_riparian",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 121,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A SMALL TREE LIZARD.",
+      "LOOK BY DESERT WATER",
+      "LET IT SETTLE."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2699&inline=1"
+  },
+  {
+    "id": 146,
+    "name": "SIDE-BLOTCH LIZ",
+    "scientific_name": "Uta stansburiana",
+    "art": "r_146",
+    "region": "D01",
+    "time": "day",
+    "spot": "open_sand",
+    "behavior": "freeze",
+    "behavior_params": {
+      "period": 138,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A DARK SIDE PATCH.",
+      "LOOK ON OPEN SAND.",
+      "KEEP ITS COVER SAFE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 147,
+    "name": "SANDSTONE NIGHT",
+    "scientific_name": "Xantusia gracilis",
+    "art": "r_147",
+    "region": "D02",
+    "time": "day",
+    "spot": "sandstone_crevice",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 155,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "A CREVICE DWELLER.",
+      "LOOK BY SANDSTONE.",
+      "NO HANDLING NEEDED."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2813&inline=1"
+  },
+  {
+    "id": 148,
+    "name": "GRANITE NIGHT",
+    "scientific_name": "Xantusia henshawi",
+    "art": "r_148",
+    "region": "D11",
+    "time": "day",
+    "spot": "granite_crevice",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 172,
+      "minimum_distance": 2,
+      "stress_threshold": 5
+    },
+    "facts": [
+      "A CREVICE DWELLER.",
+      "LOOK BY GRANITE GAPS",
+      "WATCH WITHOUT TOUCH."
+    ],
+    "source": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2713&inline=1"
+  },
+  {
+    "id": 149,
+    "name": "DESERT NIGHT",
+    "scientific_name": "Xantusia vigilis",
+    "art": "r_149",
+    "region": "D01",
+    "time": "day",
+    "spot": "fallen_yucca",
+    "behavior": "night_peek",
+    "behavior_params": {
+      "period": 189,
+      "minimum_distance": 2,
+      "stress_threshold": 6
+    },
+    "facts": [
+      "A COVER DWELLER.",
+      "LOOK BY FALLEN YUCCA",
+      "LET IT SETTLE."
+    ],
+    "source": "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+  },
+  {
+    "id": 150,
+    "name": "ARGUELLO SLENDER",
+    "scientific_name": "Batrachoseps wakei",
+    "art": "arguello_slender_salamander",
+    "region": "D09",
+    "time": "night",
+    "spot": "coastal_scrub_moist_cover",
+    "behavior": "slow_walk",
+    "behavior_params": {
+      "period": 206,
+      "minimum_distance": 2,
+      "stress_threshold": 4
+    },
+    "facts": [
+      "FOUR TOES EACH FOOT.",
+      "DAMP COAST SCRUB.",
+      "LEAVE LITTER ALONE."
+    ],
+    "source": "https://bioone.org/journals/ichthyology-and-herpetology/volume-109/issue-3/h2020027/A-New-Relict-Species-of-Slender-Salamander-Plethodontidae--Batrachoseps/10.1643/h2020027.pdf"
+  }
+]

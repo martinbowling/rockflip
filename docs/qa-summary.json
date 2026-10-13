@@ -1,0 +1,177 @@
+{
+  "version": "0.9.2",
+  "status": "development_release",
+  "rom_sha256": "ad49fd56702f25b09db9f7d028a6d19db0e734db8982b753550d8e123156b464",
+  "native_suite_count": 31,
+  "native_assertions": 4985434,
+  "suite_results": [
+    {
+      "name": "hud_mask",
+      "status": "pass",
+      "assertions": 54175
+    },
+    {
+      "name": "explorer_actions",
+      "status": "pass",
+      "assertions": 54240
+    },
+    {
+      "name": "atlas",
+      "status": "pass",
+      "assertions": 1461
+    },
+    {
+      "name": "opening",
+      "status": "pass",
+      "assertions": 298
+    },
+    {
+      "name": "new_game",
+      "status": "pass",
+      "assertions": 60
+    },
+    {
+      "name": "route_revision",
+      "status": "pass",
+      "assertions": 141
+    },
+    {
+      "name": "restoration",
+      "status": "pass",
+      "assertions": 2775
+    },
+    {
+      "name": "world",
+      "status": "pass",
+      "assertions": 11894
+    },
+    {
+      "name": "route_ui",
+      "status": "pass",
+      "assertions": 682
+    },
+    {
+      "name": "cover_hud",
+      "status": "pass",
+      "assertions": 74068
+    },
+    {
+      "name": "challenges",
+      "status": "pass",
+      "assertions": 2585
+    },
+    {
+      "name": "regional_challenges",
+      "status": "pass",
+      "assertions": 80
+    },
+    {
+      "name": "gallery",
+      "status": "pass",
+      "assertions": 746
+    },
+    {
+      "name": "guide",
+      "status": "pass",
+      "assertions": 290390
+    },
+    {
+      "name": "guide_palettes",
+      "status": "pass",
+      "assertions": 3500
+    },
+    {
+      "name": "lens",
+      "status": "pass",
+      "assertions": 415
+    },
+    {
+      "name": "weather",
+      "status": "pass",
+      "assertions": 790
+    },
+    {
+      "name": "field_notice",
+      "status": "pass",
+      "assertions": 42
+    },
+    {
+      "name": "behavior",
+      "status": "pass",
+      "assertions": 597
+    },
+    {
+      "name": "migration",
+      "status": "pass",
+      "assertions": 229
+    },
+    {
+      "name": "standing",
+      "status": "pass",
+      "assertions": 128
+    },
+    {
+      "name": "sketch",
+      "status": "pass",
+      "assertions": 1397
+    },
+    {
+      "name": "world_art",
+      "status": "pass",
+      "assertions": 4106027
+    },
+    {
+      "name": "water",
+      "status": "pass",
+      "assertions": 4779
+    },
+    {
+      "name": "characters",
+      "status": "pass",
+      "assertions": 343
+    },
+    {
+      "name": "camera",
+      "status": "pass",
+      "assertions": 346
+    },
+    {
+      "name": "camera_cadence",
+      "status": "pass",
+      "assertions": 171
+    },
+    {
+      "name": "saved_art",
+      "status": "pass",
+      "assertions": 362893
+    },
+    {
+      "name": "audio",
+      "status": "pass",
+      "assertions": 661
+    },
+    {
+      "name": "camp_animation",
+      "status": "pass",
+      "assertions": 5253
+    },
+    {
+      "name": "timer_soak",
+      "status": "pass",
+      "assertions": 4268
+    }
+  ],
+  "source_reference_bindings": 2664,
+  "title_assertions": 33294,
+  "plugin_core_loop_frames": 2532,
+  "human_verified": false,
+  "physical_verified": false,
+  "public_source_checks": {
+    "unit_tests": 31,
+    "production_regeneration": "pass",
+    "cli_compilation": "pass",
+    "game_code_and_content_bytes_identical": true,
+    "only_differing_bytes": "upstream project save signature and cartridge checksum",
+    "cross_build_controller_save_checks": 14
+  }
+}

@@ -1,0 +1,1743 @@
+{
+  "result": "observed-design-risks",
+  "rom_sha256": "5762c0022396470147c9eeca529c193964ecbbd71ddb6c36cccc7804bac53cb5",
+  "assertions": 134,
+  "frames": 35940,
+  "AI_technical_review_only": true,
+  "human_fun_approved": false,
+  "memory_writes": false,
+  "D05_actual_campaign_clue": [
+    "A HIGH LAKE EDGE",
+    "DAY: SIERRA YL FROG",
+    "WATCH FROM LAKE EDGE"
+  ],
+  "D05_actual_pinned_opening_clue": [
+    "NELL'S FIRST SURVEY",
+    "A HOME BELOW",
+    "REST UNTIL DAY.",
+    "LOOK BY THE BURROW.",
+    "SPACE THREE OR FOUR.",
+    "HOLD STILL TO FOCUS."
+  ],
+  "D01_three_stages_prefilled_by_opening": true,
+  "D01_no_additional_shutters_steps_or_visited_maps": true,
+  "D01_photo_count_after_opening": 6,
+  "D01_caption_only_stages": [
+    {
+      "stage": 0,
+      "title": "A HOME BELOW",
+      "clue": [
+        "DAY: TORTOISE BURROW",
+        "KEEP THREE OR FOUR."
+      ]
+    },
+    {
+      "stage": 1,
+      "title": "SAND AND CREVICE",
+      "clue": [
+        "DAY: SAND LIZARD.",
+        "DAY: CHUCKWALLA."
+      ]
+    },
+    {
+      "stage": 2,
+      "title": "LEAVE IT WHOLE",
+      "clue": [
+        "DUSK: KINGSNAKE.",
+        "PHOTO. REPLACE ROCK."
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "frame": 180,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 338,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 496,
+      "button": "up",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 528,
+      "button": "left",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 560,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 718,
+      "button": "right",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 796,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 839,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 882,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 925,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 968,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 1126,
+      "button": "down",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1158,
+      "button": "down",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1190,
+      "button": "right",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1222,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 1380,
+      "button": "down",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 1458,
+      "button": "b",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 1536,
+      "button": "b",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 1614,
+      "button": "left",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1646,
+      "button": "up",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1678,
+      "button": "up",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1710,
+      "button": "up",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1742,
+      "button": "right",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1774,
+      "button": "right",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1806,
+      "button": "up",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1838,
+      "button": "right",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1870,
+      "button": "up",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 1902,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 2060,
+      "button": "up",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 2138,
+      "button": "b",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 2216,
+      "button": "b",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 2294,
+      "button": "down",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2326,
+      "button": "down",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2358,
+      "button": "down",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2390,
+      "button": "left",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2422,
+      "button": "left",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2454,
+      "button": "left",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2486,
+      "button": "down",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2518,
+      "button": "down",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2550,
+      "button": "right",
+      "held": 8,
+      "neutral": 24
+    },
+    {
+      "frame": 2582,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 2740,
+      "button": "right",
+      "held": 8,
+      "neutral": 70
+    },
+    {
+      "frame": 2818,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 2861,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 2904,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 2947,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 2990,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3033,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3076,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3119,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3162,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3205,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3248,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3291,
+      "button": "right",
+      "held": 8,
+      "neutral": 35
+    },
+    {
+      "frame": 3334,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 3492,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 3650,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 3808,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 3966,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 4124,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 4282,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 4446,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 4604,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 4762,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 4920,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 5078,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 5236,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 5394,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 5552,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 5710,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 5868,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 6026,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 6184,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 6342,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 6500,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 6658,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 6816,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 6974,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 7132,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 7290,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 7448,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 7606,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 7764,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 7922,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 8080,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 8244,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 8402,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 8560,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 8718,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 8876,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 9034,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 9192,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 9350,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 9508,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 9672,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 9830,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 9988,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 10146,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 10304,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 10462,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 10620,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 10778,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 10936,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 11094,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 11252,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 11410,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 11568,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 11726,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 11884,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 12042,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 12200,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 12358,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 12516,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 12674,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 12832,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 12990,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 13148,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 13306,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 13464,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 13622,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 13780,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 13938,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 14096,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 14254,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 14412,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 14570,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 14728,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 14892,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 15050,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 15208,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 15366,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 15524,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 15682,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 15840,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 15998,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 16156,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 16314,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 16472,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 16630,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 16788,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 16946,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 17104,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 17262,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 17420,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 17578,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 17736,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 17894,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 18052,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 18210,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 18368,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 18526,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 18684,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 18842,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 19000,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 19158,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 19316,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 19474,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 19632,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 19790,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 19948,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 20106,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 20264,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 20422,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 20580,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 20738,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 20896,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 21054,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 21212,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 21370,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 21528,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 21686,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 21844,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 22002,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 22160,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 22318,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 22476,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 22634,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 22792,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 22950,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 23108,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 23266,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 23424,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 23582,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 23740,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 23898,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 24056,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 24214,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 24372,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 24530,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 24688,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 24852,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 25010,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 25168,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 25326,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 25484,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 25642,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 25800,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 25958,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 26116,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 26274,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 26432,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 26590,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 26748,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 26906,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 27064,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 27222,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 27380,
+      "button": "right",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 27538,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 27696,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 27854,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 28018,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 28176,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 28334,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 28492,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 28650,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 28808,
+      "button": "left",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 28966,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 29124,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 29282,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 29440,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 29598,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 29756,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 29914,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 30072,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 30230,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 30388,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 30546,
+      "button": "up",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 30704,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 30862,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 31020,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 31178,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 31336,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 31494,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 31652,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 31810,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 31968,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 32126,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 32284,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 32622,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 32780,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 32938,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 33096,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 33254,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 33412,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 33570,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 33728,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 33886,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 34044,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 34202,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 34360,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 34518,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 34676,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 34834,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 34992,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 35150,
+      "button": "down",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 35308,
+      "button": "a",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 35466,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 35624,
+      "button": "start",
+      "held": 8,
+      "neutral": 150
+    },
+    {
+      "frame": 35782,
+      "button": "b",
+      "held": 8,
+      "neutral": 150
+    }
+  ],
+  "checks": [
+    "normal route enters map 0",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "expedition atlas opens",
+    "regional trailhead travel returns to hike",
+    "normal route enters map 8",
+    "normal route enters map 8",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "fresh openworld has actual D05 investigation",
+    "legal walk reaches observation approach",
+    "actual awaycamp fieldpack",
+    "fresh D05 pinned notes prioritize distant Nell opening",
+    "normal route enters map 8",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "expedition atlas opens",
+    "regional trailhead travel returns to hike",
+    "normal route enters map 0",
+    "legal walk reaches observation approach",
+    "campaign legal map0 and phase0",
+    "bounded encounter at exactsite2",
+    "campaign viewfinder opens",
+    "qualifying focused photo at site2",
+    "photo return keeps habitat context",
+    "normal route enters map 0",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "opening journal opens by controller",
+    "opening caption menu",
+    "opening caption feedback",
+    "opening feedback returns to journal",
+    "opening turn-in feedback",
+    "opening task1 legally complete",
+    "legal walk reaches observation approach",
+    "campaign legal map0 and phase0",
+    "bounded encounter at exactsite3",
+    "campaign viewfinder opens",
+    "qualifying focused photo at site3",
+    "photo return keeps habitat context",
+    "legal walk reaches observation approach",
+    "campaign legal map0 and phase0",
+    "bounded encounter at exactsite1",
+    "campaign viewfinder opens",
+    "qualifying focused photo at site1",
+    "photo return keeps habitat context",
+    "normal route enters map 0",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "opening journal opens by controller",
+    "opening caption menu",
+    "opening caption feedback",
+    "opening feedback returns to journal",
+    "opening turn-in feedback",
+    "opening task2 legally complete",
+    "normal route enters map 0",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "camp forecast opens",
+    "chosen forecast returns to hike",
+    "legal walk reaches observation approach",
+    "campaign legal map0 and phase1",
+    "bounded encounter at exactsite0",
+    "campaign viewfinder opens",
+    "qualifying focused photo at site0",
+    "photo return keeps habitat context",
+    "normal route enters map 0",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "opening journal opens by controller",
+    "opening caption menu",
+    "opening caption feedback",
+    "opening feedback returns to journal",
+    "opening turn-in feedback",
+    "opening task3 legally complete",
+    "legal walk reaches observation approach",
+    "legal district screen-flip reaches 1",
+    "normal route enters map 1",
+    "legal walk reaches observation approach",
+    "legal district screen-flip reaches 0",
+    "normal route enters map 0",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "camp forecast opens",
+    "chosen forecast returns to hike",
+    "legal walk reaches observation approach",
+    "legal district screen-flip reaches 1",
+    "normal route enters map 1",
+    "legal walk reaches observation approach",
+    "campaign legal map1 and phase2",
+    "bounded encounter at exactsite5",
+    "campaign viewfinder opens",
+    "qualifying focused photo at site5",
+    "photo return keeps habitat context",
+    "legal walk reaches observation approach",
+    "legal district screen-flip reaches 2",
+    "normal route enters map 2",
+    "legal walk reaches observation approach",
+    "campaign legal map2 and phase2",
+    "bounded encounter at exactsite7",
+    "campaign viewfinder opens",
+    "qualifying focused photo at site7",
+    "photo return keeps habitat context",
+    "normal route enters map 2",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "opening journal opens by controller",
+    "opening caption menu",
+    "opening caption feedback",
+    "opening feedback returns to journal",
+    "opening turn-in feedback",
+    "opening task4 legally complete",
+    "normal route enters map 2",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "opening journal opens by controller",
+    "opening caption menu",
+    "opening caption feedback",
+    "opening feedback returns to journal",
+    "opening turn-in feedback",
+    "opening task5 legally complete",
+    "all five opening tasks complete through input",
+    "normal route enters map 2",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "D01 campaign starts unfiled after opening",
+    "opening already supplies allfour D01 regional photo bits",
+    "normal route enters map 2",
+    "legal walk reaches observation approach",
+    "actual adjacent physical camp opens",
+    "D01 prefilled evidencefilesstage0",
+    "D01 prefilled evidencefilesstage1",
+    "D01 prefilled evidencefilesstage2",
+    "D01 complete without another photograph or hike"
+  ]
+}

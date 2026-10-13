@@ -1,0 +1,1087 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-12",
+  "status": "primary_source_verified_replacement_proposal_pending_root_integration",
+  "replacement_species_id": 60,
+  "canonical_scientific_name": "Lampropeltis zonata",
+  "common_name": "California Mountain Kingsnake",
+  "taxonomy_authority": "SSAR2025",
+  "taxonomy_evidence": {
+    "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+    "printed_pages": [
+      44,
+      45
+    ],
+    "pdf_pages_zero_based": [
+      51,
+      52
+    ],
+    "rationale": "The official list separately accepts L. californiae, L. multifasciata and L. zonata. L. zonata is distinct from existing ID5 L. californiae and not a subspecies or morph. No authority switching."
+  },
+  "region_permissions": [
+    {
+      "region_id": "D05",
+      "habitat_ids": [
+        "conifer_forest",
+        "rock_outcrop"
+      ],
+      "subarea_ids": [
+        "midmontane_sierra_woodland"
+      ],
+      "evidence_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2769",
+        "https://www.nps.gov/yose/blogs/sierra-mountain-kingsnake.htm"
+      ],
+      "review_status": "source_supported",
+      "rationale": "CDFW2019 revised distribution explicitly retains Sierra Nevada in L. zonata and excludes southern coast mountain lineage L. multifasciata. Yosemite primary ranger account confirms Sierra pine/oak woodland and rings. Constrain fictional subarea to forest/woodland rock cover, not bare alpine summit or all D05."
+    }
+  ],
+  "availability": {
+    "phases": [
+      "day",
+      "dusk"
+    ],
+    "mask": 3,
+    "interpretation": "Nonexclusive authored warm-season activity subset. CDFW diurnal and crepuscular; Yosemite documents daytime spring and summer nocturnal shift. Do not state permanently daytime-only."
+  },
+  "encounter": {
+    "site_types_allowed": [
+      1,
+      6,
+      9
+    ],
+    "site_description": "Quiet observation beside stable rocky woodland cover or rotting-log shelter; never move a log or pry permanent rock. New D05 site required.",
+    "behavior": "glide",
+    "natural_pose_frames": [
+      "calm shallow body curve",
+      "small head and tail shift"
+    ],
+    "min_distance": 2,
+    "stress_limit": 4,
+    "numeric_values": "Authored gameplay units, not real-world biological thresholds.",
+    "care": "Keep distance and leave shelter untouched; no handling or provocation. Rock-return goal is not applicable to log/crevice sites."
+  },
+  "art": {
+    "diagnostics": [
+      "Red/orange and cream-white rings bounded by black; preserve alternating sequence along body, not a black-white kingsnake recolor",
+      "Smooth slender serpentine body with rounded head and tapering tail",
+      "Rounded dark head; round pupils when visible; no rattlesnake horns, rattle, leaf nose or heavy viper head"
+    ],
+    "source_urls": [
+      "https://www.nps.gov/yose/blogs/sierra-mountain-kingsnake.htm",
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2769"
+    ],
+    "palette_rgb888": [
+      [
+        232,
+        216,
+        168
+      ],
+      [
+        24,
+        24,
+        24
+      ],
+      [
+        216,
+        72,
+        48
+      ],
+      [
+        232,
+        224,
+        200
+      ]
+    ],
+    "palette_roles": [
+      "habitat background",
+      "black outlines and rings",
+      "orange-red rings",
+      "cream-white rings"
+    ],
+    "native_assets_needed": [
+      "independently detailed16x16 indexed icon",
+      "48x48 indexed portrait",
+      "two natural behavior frames"
+    ],
+    "warning": "Four-color pixel anatomy proposal; authored, native-readable and independently reviewed status must be tracked separately."
+  },
+  "facts_proposed": [
+    "RED WHITE BLACK RINGS",
+    "FOREST ROCK COVER."
+  ],
+  "old_population_migration": {
+    "old_species_id": 60,
+    "old_name": "Charina umbratica",
+    "new_species_id": 59,
+    "canonical_name": "Charina bottae",
+    "common_name": "Rubber Boa",
+    "taxonomy_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+    "habitat_url": "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=108714&inline=1",
+    "retain_permission": {
+      "region_id": "D11",
+      "habitat_ids": [
+        "conifer_forest",
+        "rock_outcrop"
+      ],
+      "subarea_ids": [
+        "southern_boa_conifer_refuge"
+      ]
+    },
+    "evidence": "SSAR explicitly includes C.b.umbratica within C.bottae; CDFW profile itself titles Charina bottae umbratica and supports southern montane forest/rock/log cover. It remains one counted species, with two reviewed population contexts.",
+    "save_requirement": "Root must migrate old60 rubberboa observations to59, clear fresh60 mountainking observation, update old quest predicate to59, retain same southern site. Explicit content-version migration required; never reinterpret old60 photograph as mountainking."
+  },
+  "limits": [
+    "No actual wildlife coordinates or site directions included",
+    "No native integration, human acceptance or physical Chromatic approval supplied by this research proposal",
+    "Earlier85-reptile species-count claim was wrong because C.umbratica was separately counted;151 becomes legitimate only after reviewed distinct replacement is integrated."
+  ],
+  "full_previous85_taxonomy_paragraph_audit": {
+    "review_method": "Read entire selected genus blocks and adjacent explanatory paragraphs, not just name tokens; cross-referenced Coluber/Masticophis, getula/californiae, Phrynosoma subgeneric formatting.",
+    "counts": {
+      "previous_rows": 85,
+      "accepted_distinct_species": 84,
+      "invalid_separate_species_rows": 1,
+      "replacement_accepted_distinct_species": 1,
+      "revised_proposed_reptile_total": 85
+    },
+    "records": [
+      {
+        "species_id": 0,
+        "scientific_name_before_correction": "Gopherus agassizii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "G. agassizii (Cooper, 1861)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 1,
+        "scientific_name_before_correction": "Sauromalus ater",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. ater Dum\u00e9ril, 1856\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 2,
+        "scientific_name_before_correction": "Phrynosoma platyrhinos",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. (Doliosaurus) platyrhinos Girard in Barid and Girard, 1852\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 3,
+        "scientific_name_before_correction": "Crotalus cerastes",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. cerastes Hallowell, 1854\u2014",
+        "genus_and_adjacent_note_review": "Viridis complex retained cerberus/oreganus/viridis; helleri/lutosus subordinate tooreganus, notextra count. Pyrrhus,stephensi distinct listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 5,
+        "scientific_name_before_correction": "Lampropeltis californiae",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "L. californiae (Blainville, 1835)\u2014",
+        "genus_and_adjacent_note_review": "L.californiae remains distinct; discussion potentially collapsing some eastern getula-complex taxa does not synonymize californiae. L.multifasciata and L.zonata independently listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 6,
+        "scientific_name_before_correction": "Sceloporus occidentalis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. occidentalis Baird and Girard, 1852\u2014",
+        "genus_and_adjacent_note_review": "S.uniformis now S.magister subspecies and not counted separately. S.becki is separate from occidentalis, so any island occidentalis placement requires island lineage check. Selected graciosus/magister/occidentalis/orcutti species retained.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 10,
+        "scientific_name_before_correction": "Xantusia riversiana",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "X. riversiana Cope, 1883\u2014",
+        "genus_and_adjacent_note_review": "Riversiana island populations remain subspecies; gracilis,henshawi,vigilis accepted; questionable sierrae excluded.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 11,
+        "scientific_name_before_correction": "Elgaria multicarinata",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "E. multicarinata (Blainville, 1835)\u2014",
+        "genus_and_adjacent_note_review": "Coerulea clades redescribed as subspecies, noextra count. Multicarinata and panamintina both retained despite phylogenetic nesting note.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 12,
+        "scientific_name_before_correction": "Coleonyx variegatus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. variegatus (Baird, 1859 \u201c1858\u201d)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 13,
+        "scientific_name_before_correction": "Dipsosaurus dorsalis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "D. dorsalis (Baird and Girard, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 14,
+        "scientific_name_before_correction": "Lichanura orcutti",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "L. orcutti Stejneger, 1889\u2014",
+        "genus_and_adjacent_note_review": "Orcutti retained; roseofusca proposal unpublished, notextra count.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 15,
+        "scientific_name_before_correction": "Actinemys marmorata",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "A. marmorata (Baird and Girard, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 18,
+        "scientific_name_before_correction": "Actinemys pallida",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "A. pallida (Seeliger, 1945)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 32,
+        "scientific_name_before_correction": "Anniella alexanderae",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "A. alexanderae Papenfuss and Parham, 2013\u2014",
+        "genus_and_adjacent_note_review": "Alexanderae and stebbinsi accepted species, disjunct stebbinsi populations notextra count.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 33,
+        "scientific_name_before_correction": "Anniella stebbinsi",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "A. stebbinsi Papenfuss and Parham, 2013\u2014",
+        "genus_and_adjacent_note_review": "Alexanderae and stebbinsi accepted species, disjunct stebbinsi populations notextra count.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 34,
+        "scientific_name_before_correction": "Arizona elegans",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "A. elegans Kennicott, in Baird, 1859\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 36,
+        "scientific_name_before_correction": "Aspidoscelis hyperythrus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "A. hyperythrus (Cope, 1863)\u2014",
+        "genus_and_adjacent_note_review": "Masculine hyperythrus accepted; tigris accepted with incompletely-separated marmoratus note, marmoratus notselected.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 37,
+        "scientific_name_before_correction": "Aspidoscelis tigris",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "A. tigris (Baird and Girard, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Masculine hyperythrus accepted; tigris accepted with incompletely-separated marmoratus note, marmoratus notselected.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 58,
+        "scientific_name_before_correction": "Callisaurus draconoides",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. draconoides Blainville, 1835\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 59,
+        "scientific_name_before_correction": "Charina bottae",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. bottae (Blainville, 1835)\u2014",
+        "genus_and_adjacent_note_review": "C.bottae species includes C.b.umbratica;60 is not independently countable.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 60,
+        "scientific_name_before_correction": "Charina umbratica",
+        "accepted_species_entry_found": false,
+        "paragraph_review": "not_species_merge_into59",
+        "entry": null,
+        "genus_and_adjacent_note_review": "C.bottae species includes C.b.umbratica;60 is not independently countable.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 61,
+        "scientific_name_before_correction": "Chelonia mydas",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. mydas (Linnaeus, 1758)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 62,
+        "scientific_name_before_correction": "Coluber constrictor",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. constrictor Linnaeus, 1758\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 63,
+        "scientific_name_before_correction": "Contia longicauda",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. longicauda Feldman and Hoyer, 2010\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 64,
+        "scientific_name_before_correction": "Contia tenuis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. tenuis (Baird and Girard, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 65,
+        "scientific_name_before_correction": "Crotalus atrox",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. atrox Baird and Girard, 1853\u2014",
+        "genus_and_adjacent_note_review": "Viridis complex retained cerberus/oreganus/viridis; helleri/lutosus subordinate tooreganus, notextra count. Pyrrhus,stephensi distinct listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 66,
+        "scientific_name_before_correction": "Crotalus oreganus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. oreganus Holbrook, 1840\u2014",
+        "genus_and_adjacent_note_review": "Viridis complex retained cerberus/oreganus/viridis; helleri/lutosus subordinate tooreganus, notextra count. Pyrrhus,stephensi distinct listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 67,
+        "scientific_name_before_correction": "Crotalus pyrrhus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. pyrrhus (Cope, 1867)\u2014",
+        "genus_and_adjacent_note_review": "Viridis complex retained cerberus/oreganus/viridis; helleri/lutosus subordinate tooreganus, notextra count. Pyrrhus,stephensi distinct listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 68,
+        "scientific_name_before_correction": "Crotalus ruber",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. ruber Cope, 1892\u2014",
+        "genus_and_adjacent_note_review": "Viridis complex retained cerberus/oreganus/viridis; helleri/lutosus subordinate tooreganus, notextra count. Pyrrhus,stephensi distinct listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 69,
+        "scientific_name_before_correction": "Crotalus scutulatus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. scutulatus (Kennicott, 1861)\u2014",
+        "genus_and_adjacent_note_review": "Viridis complex retained cerberus/oreganus/viridis; helleri/lutosus subordinate tooreganus, notextra count. Pyrrhus,stephensi distinct listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 70,
+        "scientific_name_before_correction": "Crotalus stephensi",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. stephensi Klauber, 1930\u2014",
+        "genus_and_adjacent_note_review": "Viridis complex retained cerberus/oreganus/viridis; helleri/lutosus subordinate tooreganus, notextra count. Pyrrhus,stephensi distinct listed.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 71,
+        "scientific_name_before_correction": "Crotaphytus bicinctores",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. bicinctores Smith and Tanner, 1972\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 72,
+        "scientific_name_before_correction": "Crotaphytus vestigium",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "C. vestigium Smith and Tanner, 1972\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 73,
+        "scientific_name_before_correction": "Dermochelys coriacea",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "D. coriacea (Vandelli, 1761)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 74,
+        "scientific_name_before_correction": "Diadophis punctatus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "D. punctatus (Linnaeus, 1766)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 77,
+        "scientific_name_before_correction": "Elgaria coerulea",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "E. coerulea (Wiegmann, 1828)\u2014",
+        "genus_and_adjacent_note_review": "Coerulea clades redescribed as subspecies, noextra count. Multicarinata and panamintina both retained despite phylogenetic nesting note.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 78,
+        "scientific_name_before_correction": "Elgaria panamintina",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "E. panamintina (Stebbins, 1958)\u2014",
+        "genus_and_adjacent_note_review": "Coerulea clades redescribed as subspecies, noextra count. Multicarinata and panamintina both retained despite phylogenetic nesting note.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 80,
+        "scientific_name_before_correction": "Gambelia copeii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "G. copeii (Yarrow, 1882)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 81,
+        "scientific_name_before_correction": "Gambelia sila",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "G. sila (Stejneger, 1890)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 82,
+        "scientific_name_before_correction": "Gambelia wislizenii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "G. wislizenii (Baird and Girard, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 83,
+        "scientific_name_before_correction": "Heloderma suspectum",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "H. suspectum Cope, 1869\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 89,
+        "scientific_name_before_correction": "Hypsiglena chlorophaea",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "H. chlorophaea Cope, 1860\u2014",
+        "genus_and_adjacent_note_review": "Genus note recognizes mtDNA-based species boundaries; chlorophaea and ochrorhyncha each species with subordinate subspecies.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 90,
+        "scientific_name_before_correction": "Hypsiglena ochrorhyncha",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "H. ochrorhyncha Cope, 1860\u2014",
+        "genus_and_adjacent_note_review": "Genus note recognizes mtDNA-based species boundaries; chlorophaea and ochrorhyncha each species with subordinate subspecies.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 91,
+        "scientific_name_before_correction": "Masticophis fuliginosus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "M. fuliginosus (Cope, 1895)\u2014",
+        "genus_and_adjacent_note_review": "Coluber genus note recognizes Masticophis separately. Fuliginosus support2018; piceus versus flagellum boundary; lateralis subspecies not extra species; taeniatus retained. Four selected are accepted species.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 92,
+        "scientific_name_before_correction": "Masticophis lateralis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "M. lateralis (Hallowell, 1853)\u2014",
+        "genus_and_adjacent_note_review": "Coluber genus note recognizes Masticophis separately. Fuliginosus support2018; piceus versus flagellum boundary; lateralis subspecies not extra species; taeniatus retained. Four selected are accepted species.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 93,
+        "scientific_name_before_correction": "Masticophis piceus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "M. piceus (Cope, 1892)\u2014",
+        "genus_and_adjacent_note_review": "Coluber genus note recognizes Masticophis separately. Fuliginosus support2018; piceus versus flagellum boundary; lateralis subspecies not extra species; taeniatus retained. Four selected are accepted species.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 94,
+        "scientific_name_before_correction": "Masticophis taeniatus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "M. taeniatus (Hallowell, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Coluber genus note recognizes Masticophis separately. Fuliginosus support2018; piceus versus flagellum boundary; lateralis subspecies not extra species; taeniatus retained. Four selected are accepted species.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 95,
+        "scientific_name_before_correction": "Petrosaurus mearnsi",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. mearnsi (Stejneger, 1894)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 96,
+        "scientific_name_before_correction": "Phrynosoma blainvillii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. (Anota) blainvillii Gray, 1839\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 97,
+        "scientific_name_before_correction": "Phrynosoma douglasii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. (Tapaja) douglasii (Bell, 1829)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 98,
+        "scientific_name_before_correction": "Phrynosoma mcallii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. (Anota) mcallii (Hallowell, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 99,
+        "scientific_name_before_correction": "Phyllodactylus nocticolus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. nocticolus Dixon, 1964\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 100,
+        "scientific_name_before_correction": "Phyllorhynchus decurtatus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. decurtatus (Cope, 1868)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 101,
+        "scientific_name_before_correction": "Pituophis catenifer",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. catenifer (Blainville, 1835)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 102,
+        "scientific_name_before_correction": "Plestiodon gilberti",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. gilberti (Van Denburgh, 1896)\u2014",
+        "genus_and_adjacent_note_review": "Gilberti lineage structure retained within one species; skiltonianus separate; unnamed Inyo lineage notextra count.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 103,
+        "scientific_name_before_correction": "Plestiodon skiltonianus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "P. skiltonianus Baird and Girard, 1852\u2014",
+        "genus_and_adjacent_note_review": "Gilberti lineage structure retained within one species; skiltonianus separate; unnamed Inyo lineage notextra count.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 114,
+        "scientific_name_before_correction": "Rena humilis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "R. humilis Baird and Girard, 1853\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 115,
+        "scientific_name_before_correction": "Rhinocheilus lecontei",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "R. lecontei Baird and Girard, 1853\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 117,
+        "scientific_name_before_correction": "Salvadora hexalepis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. hexalepis (Cope, 1866)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 119,
+        "scientific_name_before_correction": "Sceloporus graciosus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. graciosus Baird and Girard, 1852\u2014",
+        "genus_and_adjacent_note_review": "S.uniformis now S.magister subspecies and not counted separately. S.becki is separate from occidentalis, so any island occidentalis placement requires island lineage check. Selected graciosus/magister/occidentalis/orcutti species retained.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 120,
+        "scientific_name_before_correction": "Sceloporus magister",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. magister Hallowell, 1854\u2014",
+        "genus_and_adjacent_note_review": "S.uniformis now S.magister subspecies and not counted separately. S.becki is separate from occidentalis, so any island occidentalis placement requires island lineage check. Selected graciosus/magister/occidentalis/orcutti species retained.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 121,
+        "scientific_name_before_correction": "Sceloporus orcutti",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. orcutti Stejneger, 1893\u2014",
+        "genus_and_adjacent_note_review": "S.uniformis now S.magister subspecies and not counted separately. S.becki is separate from occidentalis, so any island occidentalis placement requires island lineage check. Selected graciosus/magister/occidentalis/orcutti species retained.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 122,
+        "scientific_name_before_correction": "Sonora occipitalis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. occipitalis (Hallowell, 1854)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 123,
+        "scientific_name_before_correction": "Sonora semiannulata",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "S. semiannulata Baird and Girard, 1853\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 126,
+        "scientific_name_before_correction": "Tantilla hobartsmithi",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. hobartsmithi Taylor, 1937\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 127,
+        "scientific_name_before_correction": "Tantilla planiceps",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. planiceps (Blainville, 1835)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 131,
+        "scientific_name_before_correction": "Thamnophis atratus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. atratus (Kennicott, in Cooper, 1860)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 132,
+        "scientific_name_before_correction": "Thamnophis couchii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. couchii (Kennicott, 1859)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 133,
+        "scientific_name_before_correction": "Thamnophis elegans",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. elegans (Baird and Girard, 1853)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 134,
+        "scientific_name_before_correction": "Thamnophis gigas",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. gigas Fitch, 1940\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 135,
+        "scientific_name_before_correction": "Thamnophis hammondii",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. hammondii (Kennicott, 1860)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 136,
+        "scientific_name_before_correction": "Thamnophis marcianus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. marcianus (Baird and Girard, 1853)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 137,
+        "scientific_name_before_correction": "Thamnophis ordinoides",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. ordinoides (Baird and Girard, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 138,
+        "scientific_name_before_correction": "Thamnophis sirtalis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. sirtalis (Linnaeus, 1758)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 139,
+        "scientific_name_before_correction": "Trimorphodon lyrophanes",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "T. lyrophanes (Cope, 1860)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 140,
+        "scientific_name_before_correction": "Uma inornata",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "U. inornata Cope, 1895\u2014",
+        "genus_and_adjacent_note_review": "Notata/inornata/scoparia accepted; questionable rufopunctata not selected.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 141,
+        "scientific_name_before_correction": "Uma notata",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "U. notata Baird, 1859 \u201c1858\u201d\u2014",
+        "genus_and_adjacent_note_review": "Notata/inornata/scoparia accepted; questionable rufopunctata not selected.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 142,
+        "scientific_name_before_correction": "Uma scoparia",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "U. scoparia Cope, 1894\u2014",
+        "genus_and_adjacent_note_review": "Notata/inornata/scoparia accepted; questionable rufopunctata not selected.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 143,
+        "scientific_name_before_correction": "Urosaurus graciosus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "U. graciosus Hallowell, 1854\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 144,
+        "scientific_name_before_correction": "Urosaurus microscutatus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "U. microscutatus (Van Denburgh, 1894)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 145,
+        "scientific_name_before_correction": "Urosaurus ornatus",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "U. ornatus (Baird and Girard, 1852)\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 146,
+        "scientific_name_before_correction": "Uta stansburiana",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "U. stansburiana Baird and Girard, 1852\u2014",
+        "genus_and_adjacent_note_review": "Genus/species paragraph reviewed; no selected duplicate/subspecies/synonym identified.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 147,
+        "scientific_name_before_correction": "Xantusia gracilis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "X. gracilis Grismer and Galvan, 1986\u2014",
+        "genus_and_adjacent_note_review": "Riversiana island populations remain subspecies; gracilis,henshawi,vigilis accepted; questionable sierrae excluded.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 148,
+        "scientific_name_before_correction": "Xantusia henshawi",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "X. henshawi Stejneger, 1893\u2014",
+        "genus_and_adjacent_note_review": "Riversiana island populations remain subspecies; gracilis,henshawi,vigilis accepted; questionable sierrae excluded.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      },
+      {
+        "species_id": 149,
+        "scientific_name_before_correction": "Xantusia vigilis",
+        "accepted_species_entry_found": true,
+        "paragraph_review": "accepted_species_under_selected_authority",
+        "entry": "X. vigilis Baird, 1859\u2014",
+        "genus_and_adjacent_note_review": "Riversiana island populations remain subspecies; gracilis,henshawi,vigilis accepted; questionable sierrae excluded.",
+        "source_url": "https://ssarherps.org/wp-content/uploads/2025/03/9th-Edition-Scientific-and-Standard-English-Names-of-Amphibians-and-Reptiles.pdf",
+        "checked_on": "2026-10-12",
+        "scope": "taxonomy only; not range/art/native acceptance"
+      }
+    ],
+    "other_invalid_separate_species_found": []
+  }
+}

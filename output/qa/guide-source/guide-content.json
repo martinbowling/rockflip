@@ -1,0 +1,7808 @@
+{
+  "status": "derived_from_current_reviewed_data_pending_independent_text_native_review",
+  "records": [
+    {
+      "species_id": 0,
+      "common_name": "Mohave Desert Tortoise",
+      "scientific_name": "Gopherus agassizii",
+      "hidden": false,
+      "text": [
+        [
+          "MOHAVE DESERT",
+          "TORTOISE"
+        ],
+        [
+          "GOPHERUS AGASSIZII"
+        ],
+        [
+          "A BURROW KEEPS IT",
+          "COOL IN DESERT HEAT.",
+          "NEVER PICK IT UP."
+        ],
+        [
+          "CREOSOTE SCRUB",
+          "DESERT BURROW"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        2
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "creosote_scrub",
+        "desert_burrow"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/desert-tortoise.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 1,
+      "common_name": "Common Chuckwalla",
+      "scientific_name": "Sauromalus ater",
+      "hidden": false,
+      "text": [
+        [
+          "COMMON CHUCKWALLA"
+        ],
+        [
+          "SAUROMALUS ATER"
+        ],
+        [
+          "IT PUFFS UP INSIDE",
+          "A CRACK WHEN SCARED.",
+          "WAIT AND GIVE SPACE."
+        ],
+        [
+          "ROCK CREVICE",
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        1
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rock_crevice",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 2,
+      "common_name": "Desert Horned Lizard",
+      "scientific_name": "Phrynosoma platyrhinos",
+      "hidden": false,
+      "text": [
+        [
+          "DESERT HORNED LIZARD"
+        ],
+        [
+          "PHRYNOSOMA",
+          "PLATYRHINOS"
+        ],
+        [
+          "SAND COLORS HELP IT",
+          "HIDE. ANTS ARE FOOD.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "OPEN SAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        3
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_sand"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 3,
+      "common_name": "Sidewinder",
+      "scientific_name": "Crotalus cerastes",
+      "hidden": false,
+      "text": [
+        [
+          "SIDEWINDER"
+        ],
+        [
+          "CROTALUS CERASTES"
+        ],
+        [
+          "A RATTLESNAKE OF THE",
+          "DESERT. GIVE SPACE.",
+          "USE CAMERA ZOOM."
+        ],
+        [
+          "CREOSOTE SCRUB",
+          "SAND DUNES"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        4
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "creosote_scrub",
+        "sand_dunes"
+      ],
+      "sources": [
+        "https://www.nps.gov/deva/learn/nature/sidewinder.htm",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 4,
+      "common_name": "Red-spotted Toad",
+      "scientific_name": "Anaxyrus punctatus",
+      "hidden": false,
+      "text": [
+        [
+          "RED-SPOTTED TOAD"
+        ],
+        [
+          "ANAXYRUS PUNCTATUS"
+        ],
+        [
+          "ACTIVE AFTER DARK.",
+          "IT STAYS NEAR WATER.",
+          "LET IT HOP IN PEACE."
+        ],
+        [
+          "DESERT SPRING",
+          "WET ROCK COVER"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        5
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_spring",
+        "wet_rock_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-punctatus",
+        "https://www.nps.gov/moja/learn/nature/amphibians.htm"
+      ]
+    },
+    {
+      "species_id": 5,
+      "common_name": "California Kingsnake",
+      "scientific_name": "Lampropeltis californiae",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA KINGSNAKE"
+        ],
+        [
+          "LAMPROPELTIS",
+          "CALIFORNIAE"
+        ],
+        [
+          "THIS BANDED SNAKE IS",
+          "NONVENOMOUS. WATCH",
+          "IT WITHOUT HANDLING."
+        ],
+        [
+          "DESERT CANYON",
+          "DESERT ROCK COVER"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        0,
+        6
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "desert_rock_cover"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2767",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 6,
+      "common_name": "Western Fence Lizard",
+      "scientific_name": "Sceloporus occidentalis",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN FENCE LIZARD"
+        ],
+        [
+          "SCELOPORUS",
+          "OCCIDENTALIS"
+        ],
+        [
+          "IT BASKS ON ROCKS.",
+          "MALES: BLUE BELLY.",
+          "WATCH THE PUSH-UPS."
+        ],
+        [
+          "MONTANE ROCK OUTCROP",
+          "ROCK PERCH",
+          "WOOD PERCH"
+        ],
+        [
+          "MOJAVE",
+          "SIERRA FOOTHILLS",
+          "SIERRA HIGH COUNTRY",
+          "BAY/DELTA/IN.COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 153,
+      "spot_ids_for_seen": [
+        10,
+        21,
+        22,
+        41,
+        42,
+        60,
+        61,
+        158,
+        251
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "montane_rock_outcrop",
+        "rock_perch",
+        "wood_perch"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/prsf/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 7,
+      "common_name": "California Newt",
+      "scientific_name": "Taricha torosa",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA NEWT"
+        ],
+        [
+          "TARICHA TOROSA"
+        ],
+        [
+          "IT WALKS ON LAND.",
+          "BREEDS IN WATER.",
+          "LOOK. DO NOT HANDLE."
+        ],
+        [
+          "SHADED CREEK",
+          "WET FOREST COVER"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "CENTRAL COAST/RANGES",
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 896,
+      "spot_ids_for_seen": [
+        12,
+        19,
+        310
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "shaded_creek",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-torosa",
+        "https://www.nps.gov/pore/learn/nature/amphibians.htm",
+        "https://www.nps.gov/samo/learn/nature/amphibians.htm"
+      ]
+    },
+    {
+      "species_id": 8,
+      "common_name": "Pacific Treefrog",
+      "scientific_name": "Pseudacris regilla",
+      "hidden": false,
+      "text": [
+        [
+          "PACIFIC TREEFROG"
+        ],
+        [
+          "PSEUDACRIS REGILLA"
+        ],
+        [
+          "A DARK EYE STRIPE.",
+          "LOOK BY FRESH WATER.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "FRESHWATER EDGE"
+        ],
+        [
+          "SIERRA HIGH COUNTRY",
+          "BAY/DELTA/IN.COAST",
+          "SOUTH COAST",
+          "NORTH COAST/RANGES",
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 21136,
+      "spot_ids_for_seen": [
+        13,
+        174,
+        318,
+        406,
+        481
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_edge"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudacris/Pseudacris-regilla",
+        "https://www.nps.gov/lavo/learn/management/park-significance.htm",
+        "https://www.nps.gov/pore/learn/nature/amphibians.htm"
+      ]
+    },
+    {
+      "species_id": 9,
+      "common_name": "California Tiger Salamander",
+      "scientific_name": "Ambystoma californiense",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA TIGER",
+          "SALAMANDER"
+        ],
+        [
+          "AMBYSTOMA",
+          "CALIFORNIENSE"
+        ],
+        [
+          "YELLOW SPOTS ON DARK",
+          "BREEDS IN RAIN POOLS",
+          "LEAVE BURROWS ALONE."
+        ],
+        [
+          "GRASSLAND BURROW",
+          "VERNAL POOL"
+        ],
+        [
+          "SACRAMENTO VALLEY",
+          "SAN JOAQUIN VALLEY",
+          "BAY/DELTA/IN.COAST",
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 480,
+      "spot_ids_for_seen": [
+        14,
+        190,
+        191,
+        196,
+        197,
+        198,
+        199,
+        204,
+        205,
+        206,
+        207,
+        212,
+        213,
+        214,
+        215,
+        217,
+        258,
+        294
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "grassland_burrow",
+        "vernal_pool"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-californiense",
+        "https://www.fws.gov/species/california-tiger-salamander-ambystoma-californiense"
+      ]
+    },
+    {
+      "species_id": 10,
+      "common_name": "Island Night Lizard",
+      "scientific_name": "Xantusia riversiana",
+      "hidden": false,
+      "text": [
+        [
+          "ISLAND NIGHT LIZARD"
+        ],
+        [
+          "XANTUSIA RIVERSIANA"
+        ],
+        [
+          "AN ISLAND LIZARD.",
+          "LOOK IN DAYLIGHT.",
+          "LET IT STAY IN COVER"
+        ],
+        [
+          "ISLAND SCRUB",
+          "ROCK CREVICE"
+        ],
+        [
+          "CHANNEL ISLANDS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2048,
+      "spot_ids_for_seen": [
+        16,
+        380,
+        381,
+        384,
+        385,
+        388,
+        389,
+        392,
+        393,
+        396,
+        397,
+        400,
+        401,
+        404,
+        405
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "island_scrub",
+        "rock_crevice"
+      ],
+      "sources": [
+        "https://www.nps.gov/places/island-night-lizard.htm"
+      ]
+    },
+    {
+      "species_id": 11,
+      "common_name": "Southern Alligator Lizard",
+      "scientific_name": "Elgaria multicarinata",
+      "hidden": false,
+      "text": [
+        [
+          "SOUTHERN ALLIGATOR",
+          "LIZARD"
+        ],
+        [
+          "ELGARIA",
+          "MULTICARINATA"
+        ],
+        [
+          "LONG BODY AND TAIL.",
+          "SMALL LEGS MOVE IT.",
+          "LEAVE ITS COVER SAFE"
+        ],
+        [
+          "ROCK LOG COVER"
+        ],
+        [
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16384,
+      "spot_ids_for_seen": [
+        17,
+        490
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rock_log_cover"
+      ],
+      "sources": [
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 12,
+      "common_name": "Western Banded Gecko",
+      "scientific_name": "Coleonyx variegatus",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN BANDED GECKO"
+        ],
+        [
+          "COLEONYX VARIEGATUS"
+        ],
+        [
+          "IT MOVES AFTER DARK.",
+          "BANDS CROSS ITS BODY",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "DESERT ROCK COVER",
+          "OPEN SAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        7
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_rock_cover",
+        "open_sand"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 13,
+      "common_name": "Desert Iguana",
+      "scientific_name": "Dipsosaurus dorsalis",
+      "hidden": false,
+      "text": [
+        [
+          "DESERT IGUANA"
+        ],
+        [
+          "DIPSOSAURUS DORSALIS"
+        ],
+        [
+          "A DESERT PLANT EATER",
+          "IT BASKS IN WARMTH.",
+          "WATCH FROM FAR AWAY."
+        ],
+        [
+          "DESERT WASH",
+          "OPEN SAND",
+          "SAND DUNES"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        8
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_wash",
+        "open_sand",
+        "sand_dunes"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 14,
+      "common_name": "Northern Rosy Boa",
+      "scientific_name": "Lichanura orcutti",
+      "hidden": false,
+      "text": [
+        [
+          "NORTHERN ROSY BOA"
+        ],
+        [
+          "LICHANURA ORCUTTI"
+        ],
+        [
+          "LONG STRIPES ON BODY",
+          "IT MOVES SLOWLY.",
+          "DO NOT PICK IT UP."
+        ],
+        [
+          "DESERT CANYON",
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        9
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 15,
+      "common_name": "Northwestern Pond Turtle",
+      "scientific_name": "Actinemys marmorata",
+      "hidden": false,
+      "text": [
+        [
+          "NORTHWESTERN POND",
+          "TURTLE"
+        ],
+        [
+          "ACTINEMYS MARMORATA"
+        ],
+        [
+          "A FRESHWATER TURTLE.",
+          "IT BASKS ABOVE WATER",
+          "STAY BACK FROM WATER"
+        ],
+        [
+          "FRESHWATER POND",
+          "FRESHWATER STREAM"
+        ],
+        [
+          "SACRAMENTO VALLEY",
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8224,
+      "spot_ids_for_seen": [
+        15,
+        192,
+        193,
+        200,
+        201,
+        208,
+        209,
+        216,
+        449,
+        464
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_pond",
+        "freshwater_stream"
+      ],
+      "sources": [
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ]
+    },
+    {
+      "species_id": 16,
+      "common_name": "Arboreal Salamander",
+      "scientific_name": "Aneides lugubris",
+      "hidden": false,
+      "text": [
+        [
+          "ARBOREAL SALAMANDER"
+        ],
+        [
+          "ANEIDES LUGUBRIS"
+        ],
+        [
+          "IT CAN CLIMB TREES.",
+          "DAMP COVER HELPS IT.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "OAK TREE COVER",
+          "WET FOREST COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "BAY/DELTA/IN.COAST",
+          "CENTRAL COAST/RANGES",
+          "SOUTH COAST",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 5000,
+      "spot_ids_for_seen": [
+        11,
+        20,
+        265,
+        326,
+        423
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "oak_tree_cover",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-lugubris",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1458"
+      ]
+    },
+    {
+      "species_id": 17,
+      "common_name": "Sierra Nevada Yellow-legged Frog",
+      "scientific_name": "Rana sierrae",
+      "hidden": false,
+      "text": [
+        [
+          "SIERRA NEVADA",
+          "YELLOW-LEGGED FROG"
+        ],
+        [
+          "RANA SIERRAE"
+        ],
+        [
+          "A HIGH-COUNTRY FROG.",
+          "YELLOW UNDER LEGS.",
+          "KEEP THE LAKE CLEAN."
+        ],
+        [
+          "MOUNTAIN LAKE EDGE"
+        ],
+        [
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16,
+      "spot_ids_for_seen": [
+        18,
+        177,
+        178
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "mountain_lake_edge"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-sierrae",
+        "https://www.nps.gov/seki/learn/nature/amphibfish.htm"
+      ]
+    },
+    {
+      "species_id": 18,
+      "common_name": "Southwestern Pond Turtle",
+      "scientific_name": "Actinemys pallida",
+      "hidden": false,
+      "text": [
+        [
+          "SOUTHWESTERN POND",
+          "TURTLE"
+        ],
+        [
+          "ACTINEMYS PALLIDA"
+        ],
+        [
+          "A FRESHWATER TURTLE.",
+          "LOOK BY FRESH WATER.",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "FRESHWATER POND",
+          "FRESHWATER STREAM"
+        ],
+        [
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 512,
+      "spot_ids_for_seen": [
+        334
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_pond",
+        "freshwater_stream"
+      ],
+      "sources": [
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ]
+    },
+    {
+      "species_id": 19,
+      "common_name": "Northwestern Salamander",
+      "scientific_name": "Ambystoma gracile",
+      "hidden": false,
+      "text": [
+        [
+          "NORTHWESTERN",
+          "SALAMANDER"
+        ],
+        [
+          "AMBYSTOMA GRACILE"
+        ],
+        [
+          "A STOCKY SALAMANDER.",
+          "LOOK BY FOREST POOLS",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "FOREST COVER",
+          "FOREST POND"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        439
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_cover",
+        "forest_pond"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-gracile",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1418"
+      ]
+    },
+    {
+      "species_id": 20,
+      "common_name": "Long-toed Salamander",
+      "scientific_name": "Ambystoma macrodactylum",
+      "hidden": false,
+      "text": [
+        [
+          "LONG-TOED SALAMANDER"
+        ],
+        [
+          "AMBYSTOMA",
+          "MACRODACTYLUM"
+        ],
+        [
+          "A LONG FOURTH TOE.",
+          "SEASONAL POOLS.",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "COASTAL SEASONAL",
+          "POND",
+          "COASTAL WOODLAND",
+          "COVER",
+          "FOREST COVER",
+          "MONTANE POND"
+        ],
+        [
+          "SIERRA HIGH COUNTRY",
+          "CENTRAL COAST/RANGES",
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16656,
+      "spot_ids_for_seen": [
+        162,
+        163,
+        179,
+        180,
+        277,
+        278,
+        302,
+        303,
+        485,
+        494
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_seasonal_pond",
+        "coastal_woodland_cover",
+        "forest_cover",
+        "montane_pond"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-macrodactylum",
+        "https://home.nps.gov/mora/learn/nature/amphibians.htm",
+        "https://wildlife.ca.gov/Drought/Projects/Santa-Cruz-Long-toed-Salamander",
+        "https://www.nps.gov/lavo/learn/management/park-significance.htm"
+      ]
+    },
+    {
+      "species_id": 21,
+      "common_name": "Western Toad",
+      "scientific_name": "Anaxyrus boreas",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN TOAD"
+        ],
+        [
+          "ANAXYRUS BOREAS"
+        ],
+        [
+          "A PALE BACK STRIPE.",
+          "LOOK AT WATER EDGES.",
+          "LET IT SETTLE."
+        ],
+        [
+          "FRESHWATER EDGE"
+        ],
+        [
+          "SIERRA HIGH COUNTRY",
+          "SOUTH COAST",
+          "CASCADES",
+          "MODOC PLATEAU"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 49680,
+      "spot_ids_for_seen": [
+        159,
+        341,
+        489,
+        507,
+        520,
+        521,
+        536
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_edge"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-boreas",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1478"
+      ]
+    },
+    {
+      "species_id": 22,
+      "common_name": "Arroyo Toad",
+      "scientific_name": "Anaxyrus californicus",
+      "hidden": false,
+      "text": [
+        [
+          "ARROYO TOAD"
+        ],
+        [
+          "ANAXYRUS",
+          "CALIFORNICUS"
+        ],
+        [
+          "A SMALL SANDY TOAD.",
+          "SANDY STREAM POOLS.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "SANDY RIPARIAN POOL"
+        ],
+        [
+          "SOUTH COAST",
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1536,
+      "spot_ids_for_seen": [
+        311,
+        348
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "sandy_riparian_pool"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-californicus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1484"
+      ]
+    },
+    {
+      "species_id": 23,
+      "common_name": "Yosemite Toad",
+      "scientific_name": "Anaxyrus canorus",
+      "hidden": false,
+      "text": [
+        [
+          "YOSEMITE TOAD"
+        ],
+        [
+          "ANAXYRUS CANORUS"
+        ],
+        [
+          "A HIGH-MEADOW TOAD.",
+          "LOOK BY MEADOW POOLS",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "HIGH MEADOW POOL"
+        ],
+        [
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16,
+      "spot_ids_for_seen": [
+        175
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "high_meadow_pool"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-canorus",
+        "https://wildlife.ca.gov/Regions/6/Amphibians/Yosemite-Toad"
+      ]
+    },
+    {
+      "species_id": 24,
+      "common_name": "Great Plains Toad",
+      "scientific_name": "Anaxyrus cognatus",
+      "hidden": false,
+      "text": [
+        [
+          "GREAT PLAINS TOAD"
+        ],
+        [
+          "ANAXYRUS COGNATUS"
+        ],
+        [
+          "PAIRED DARK PATCHES.",
+          "DESERT RAIN POOLS.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "DESERT RAIN POOL"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        64,
+        85
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_rain_pool"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-cognatus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1488"
+      ]
+    },
+    {
+      "species_id": 25,
+      "common_name": "Black Toad",
+      "scientific_name": "Anaxyrus exsul",
+      "hidden": false,
+      "text": [
+        [
+          "BLACK TOAD"
+        ],
+        [
+          "ANAXYRUS EXSUL"
+        ],
+        [
+          "A DARK SPRING TOAD.",
+          "LOOK BY SPRING MARSH",
+          "LET IT SETTLE."
+        ],
+        [
+          "SPRING MARSH"
+        ],
+        [
+          "E.SIERRA/GREAT BASIN"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4,
+      "spot_ids_for_seen": [
+        94,
+        95,
+        102,
+        103,
+        110,
+        111,
+        118,
+        119
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "spring_marsh"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-exsul",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1476"
+      ]
+    },
+    {
+      "species_id": 26,
+      "common_name": "Clouded Salamander",
+      "scientific_name": "Aneides ferreus",
+      "hidden": false,
+      "text": [
+        [
+          "CLOUDED SALAMANDER"
+        ],
+        [
+          "ANEIDES FERREUS"
+        ],
+        [
+          "CLOUDED BACK COLORS.",
+          "LOOK BY FALLEN WOOD.",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "FOREST LOG"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        413,
+        414,
+        429,
+        430,
+        445,
+        446
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_log"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-ferreus",
+        "https://research.fs.usda.gov/treesearch/25045"
+      ]
+    },
+    {
+      "species_id": 27,
+      "common_name": "Black Salamander",
+      "scientific_name": "Aneides flavipunctatus",
+      "hidden": false,
+      "text": [
+        [
+          "BLACK SALAMANDER"
+        ],
+        [
+          "ANEIDES",
+          "FLAVIPUNCTATUS"
+        ],
+        [
+          "FLECKS VARY BY FORM.",
+          "LOOK IN DAMP FOREST.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "WET FOREST COVER"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        415,
+        416,
+        431,
+        432,
+        447,
+        448
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-flavipunctatus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1454",
+        "https://repository.si.edu/server/api/core/bitstreams/209c30ab-3e0d-4932-b7d0-0fca2247cdbf/content"
+      ]
+    },
+    {
+      "species_id": 28,
+      "common_name": "Shasta Black Salamander",
+      "scientific_name": "Aneides iecanus",
+      "hidden": false,
+      "text": [
+        [
+          "SHASTA BLACK",
+          "SALAMANDER"
+        ],
+        [
+          "ANEIDES IECANUS"
+        ],
+        [
+          "MANY TINY SPECKLES.",
+          "SHADY CANYON WATER.",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "SHADED CANYON CREEK"
+        ],
+        [
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8192,
+      "spot_ids_for_seen": [
+        451,
+        452,
+        465,
+        466
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "shaded_canyon_creek"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-iecanus",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/"
+      ]
+    },
+    {
+      "species_id": 29,
+      "common_name": "Klamath Black Salamander",
+      "scientific_name": "Aneides klamathensis",
+      "hidden": false,
+      "text": [
+        [
+          "KLAMATH BLACK",
+          "SALAMANDER"
+        ],
+        [
+          "ANEIDES KLAMATHENSIS"
+        ],
+        [
+          "A FROSTED DARK FORM.",
+          "LOOK BY DAMP TALUS.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "DAMP TALUS"
+        ],
+        [
+          "NORTH COAST/RANGES",
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 12288,
+      "spot_ids_for_seen": [
+        417,
+        418,
+        433,
+        434,
+        453,
+        468
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_talus"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-klamathensis",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/"
+      ]
+    },
+    {
+      "species_id": 30,
+      "common_name": "Santa Cruz Black Salamander",
+      "scientific_name": "Aneides niger",
+      "hidden": false,
+      "text": [
+        [
+          "SANTA CRUZ BLACK",
+          "SALAMANDER"
+        ],
+        [
+          "ANEIDES NIGER"
+        ],
+        [
+          "A NEARLY BLACK FORM.",
+          "DAMP ROCKS ARE COVER",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "DAMP ROCK OUTCROP"
+        ],
+        [
+          "BAY/DELTA/IN.COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 128,
+      "spot_ids_for_seen": [
+        247,
+        248,
+        254,
+        255,
+        261,
+        262,
+        267,
+        268,
+        273,
+        274
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_rock_outcrop"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-niger",
+        "https://ucsccampusreserve.ucsc.edu/species-habitats/amphibians-and-reptiles/"
+      ]
+    },
+    {
+      "species_id": 31,
+      "common_name": "Wandering Salamander",
+      "scientific_name": "Aneides vagrans",
+      "hidden": false,
+      "text": [
+        [
+          "WANDERING SALAMANDER"
+        ],
+        [
+          "ANEIDES VAGRANS"
+        ],
+        [
+          "LONG CLIMBING LEGS.",
+          "LOOK BY FALLEN WOOD.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "FOREST CANOPY",
+          "FOREST LOG"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        407
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_canopy",
+        "forest_log"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-vagrans",
+        "https://research.fs.usda.gov/treesearch/25045"
+      ]
+    },
+    {
+      "species_id": 32,
+      "common_name": "Temblor Legless Lizard",
+      "scientific_name": "Anniella alexanderae",
+      "hidden": false,
+      "text": [
+        [
+          "TEMBLOR LEGLESS",
+          "LIZARD"
+        ],
+        [
+          "ANNIELLA ALEXANDERAE"
+        ],
+        [
+          "A LEGLESS LIZARD.",
+          "LOOK IN ALKALI SCRUB",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "ALKALI SCRUB",
+          "ANNUAL GRASSLAND"
+        ],
+        [
+          "SAN JOAQUIN VALLEY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 64,
+      "spot_ids_for_seen": [
+        219,
+        220,
+        227,
+        228,
+        235,
+        236,
+        243,
+        244
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "alkali_scrub",
+        "annual_grassland"
+      ],
+      "sources": [
+        "https://wildlife.ca.gov/Data/CNDDB/News/temblor-legless-lizard-status-review-how-you-can-help"
+      ]
+    },
+    {
+      "species_id": 33,
+      "common_name": "San Diegan Legless Lizard",
+      "scientific_name": "Anniella stebbinsi",
+      "hidden": false,
+      "text": [
+        [
+          "SAN DIEGAN LEGLESS",
+          "LIZARD"
+        ],
+        [
+          "ANNIELLA STEBBINSI"
+        ],
+        [
+          "A LEGLESS LIZARD.",
+          "LOOK BY DAMP SAND.",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "MOIST SANDY SOIL"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        23,
+        24,
+        63
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "moist_sandy_soil"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 34,
+      "common_name": "Glossy Snake",
+      "scientific_name": "Arizona elegans",
+      "hidden": false,
+      "text": [
+        [
+          "GLOSSY SNAKE"
+        ],
+        [
+          "ARIZONA ELEGANS"
+        ],
+        [
+          "SMOOTH SHINY SCALES.",
+          "LOOK ON OPEN SAND.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "OPEN SAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        29
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_sand"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 35,
+      "common_name": "Coastal Tailed Frog",
+      "scientific_name": "Ascaphus truei",
+      "hidden": false,
+      "text": [
+        [
+          "COASTAL TAILED FROG"
+        ],
+        [
+          "ASCAPHUS TRUEI"
+        ],
+        [
+          "A FOREST STREAM FROG",
+          "COOL FLOWING WATER.",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "COLD FAST STREAM"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        424
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "cold_fast_stream"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ascaphidae/Ascaphus/Ascaphus-truei",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190379&inline="
+      ]
+    },
+    {
+      "species_id": 36,
+      "common_name": "Orange-throated Whiptail",
+      "scientific_name": "Aspidoscelis hyperythrus",
+      "hidden": false,
+      "text": [
+        [
+          "ORANGE-THROATED",
+          "WHIPTAIL"
+        ],
+        [
+          "ASPIDOSCELIS",
+          "HYPERYTHRUS"
+        ],
+        [
+          "A SLENDER WHIPTAIL.",
+          "LOOK IN COAST SCRUB.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "COASTAL SAGE SCRUB",
+          "OPEN CHAPARRAL"
+        ],
+        [
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 512,
+      "spot_ids_for_seen": [
+        319
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_sage_scrub",
+        "open_chaparral"
+      ],
+      "sources": [
+        "https://coasttocactus.sdnhm.org/animals/orange-throated-whiptail",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2723&inline=1"
+      ]
+    },
+    {
+      "species_id": 37,
+      "common_name": "Tiger Whiptail",
+      "scientific_name": "Aspidoscelis tigris",
+      "hidden": false,
+      "text": [
+        [
+          "TIGER WHIPTAIL"
+        ],
+        [
+          "ASPIDOSCELIS TIGRIS"
+        ],
+        [
+          "LONG LEGS AND TAIL.",
+          "LOOK BY DESERT SCRUB",
+          "LET IT SETTLE."
+        ],
+        [
+          "DESERT SHRUB"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        49
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_shrub"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 38,
+      "common_name": "Greenhorn Mtns Slender Salamander",
+      "scientific_name": "Batrachoseps altasierrae",
+      "hidden": false,
+      "text": [
+        [
+          "GREENHORN MTNS",
+          "SLENDER SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "ALTASIERRAE"
+        ],
+        [
+          "FOUR TOES EACH FOOT.",
+          "DAMP CONIFER LITTER.",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "MOIST CONIFER LITTER"
+        ],
+        [
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16,
+      "spot_ids_for_seen": [
+        164,
+        165,
+        181,
+        182
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "moist_conifer_litter"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-altasierrae",
+        "https://www.researchgate.net/publication/235343701_Morphological_and_molecular_diversification_of_slender_salamanders_Caudata_Plethodontidae_Batrachoseps_in_the_southern_Sierra_Nevada_of_California_with_descriptions_of_two_new_species"
+      ]
+    },
+    {
+      "species_id": 39,
+      "common_name": "California Slender Salamander",
+      "scientific_name": "Batrachoseps attenuatus",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "ATTENUATUS"
+        ],
+        [
+          "A VERY SLENDER BODY.",
+          "LOOK IN DAMP FOREST.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "WET FOREST COVER"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4224,
+      "spot_ids_for_seen": [
+        271,
+        440
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-attenuatus",
+        "https://home.nps.gov/prsf/learn/nature/california-slender-salamander.htm"
+      ]
+    },
+    {
+      "species_id": 40,
+      "common_name": "Fairview Slender Salamander",
+      "scientific_name": "Batrachoseps bramei",
+      "hidden": false,
+      "text": [
+        [
+          "FAIRVIEW SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS BRAMEI"
+        ],
+        [
+          "FOUR-TOED FEET.",
+          "LOOK BY CANYON SEEPS",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "CANYON SEEP ROCK",
+          "COVER",
+          "PINE LEAF LITTER"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        124,
+        125,
+        152,
+        153
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "canyon_seep_rock_cover",
+        "pine_leaf_litter"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-bramei",
+        "https://www.researchgate.net/publication/235343701_Morphological_and_molecular_diversification_of_slender_salamanders_Caudata_Plethodontidae_Batrachoseps_in_the_southern_Sierra_Nevada_of_California_with_descriptions_of_two_new_species"
+      ]
+    },
+    {
+      "species_id": 41,
+      "common_name": "Inyo Mtns Salamander",
+      "scientific_name": "Batrachoseps campi",
+      "hidden": false,
+      "text": [
+        [
+          "INYO MTNS SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS CAMPI"
+        ],
+        [
+          "SLENDER SEEP DWELLER",
+          "MOUNTAIN SEEPS.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "MOUNTAIN SPRING SEEP"
+        ],
+        [
+          "E.SIERRA/GREAT BASIN"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4,
+      "spot_ids_for_seen": [
+        96,
+        97,
+        121
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "mountain_spring_seep"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-campi",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190354&inline="
+      ]
+    },
+    {
+      "species_id": 42,
+      "common_name": "Hell Hollow Slender Salamander",
+      "scientific_name": "Batrachoseps diabolicus",
+      "hidden": false,
+      "text": [
+        [
+          "HELL HOLLOW SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "DIABOLICUS"
+        ],
+        [
+          "LUNGLESS SALAMANDER.",
+          "DAMP CHAPARRAL COVER",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "CHAPARRAL MOIST",
+          "COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        126,
+        127,
+        154,
+        155
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "chaparral_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-diabolicus",
+        "https://archive.org/download/biostor-198833/biostor-198833.pdf"
+      ]
+    },
+    {
+      "species_id": 43,
+      "common_name": "San Gabriel Mtns Slender Salamander",
+      "scientific_name": "Batrachoseps gabrieli",
+      "hidden": false,
+      "text": [
+        [
+          "SAN GABRIEL MTNS",
+          "SLENDER SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "GABRIELI"
+        ],
+        [
+          "FOUR TOES EACH FOOT.",
+          "DAMP MOUNTAIN COVER.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "MONTANE MOIST COVER"
+        ],
+        [
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1024,
+      "spot_ids_for_seen": [
+        350,
+        351,
+        364,
+        365
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "montane_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-gabrieli",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1516"
+      ]
+    },
+    {
+      "species_id": 44,
+      "common_name": "Gabilan Mtns Slender Salamander",
+      "scientific_name": "Batrachoseps gavilanensis",
+      "hidden": false,
+      "text": [
+        [
+          "GABILAN MTNS SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "GAVILANENSIS"
+        ],
+        [
+          "SLENDER OAK DWELLER.",
+          "LOOK IN OAK LITTER.",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "OAK LEAF LITTER"
+        ],
+        [
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 256,
+      "spot_ids_for_seen": [
+        279,
+        280,
+        304,
+        305
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "oak_leaf_litter"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-gavilanensis",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1519"
+      ]
+    },
+    {
+      "species_id": 45,
+      "common_name": "Gregarious Slender Salamander",
+      "scientific_name": "Batrachoseps gregarius",
+      "hidden": false,
+      "text": [
+        [
+          "GREGARIOUS SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "GREGARIUS"
+        ],
+        [
+          "A LONG SLENDER TAIL.",
+          "LOOK IN OAK LITTER.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "OAK LEAF LITTER"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        128,
+        129,
+        156,
+        157
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "oak_leaf_litter"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-gregarius",
+        "https://archive.org/download/biostor-198833/biostor-198833.pdf",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=162335"
+      ]
+    },
+    {
+      "species_id": 46,
+      "common_name": "San Simeon Slender Salamander",
+      "scientific_name": "Batrachoseps incognitus",
+      "hidden": false,
+      "text": [
+        [
+          "SAN SIMEON SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "INCOGNITUS"
+        ],
+        [
+          "FOUR TOES EACH FOOT.",
+          "LOOK BY DAMP COAST.",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "COASTAL MOIST COVER"
+        ],
+        [
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 256,
+      "spot_ids_for_seen": [
+        281,
+        282,
+        306,
+        307
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-incognitus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1525"
+      ]
+    },
+    {
+      "species_id": 47,
+      "common_name": "Sequoia Slender Salamander",
+      "scientific_name": "Batrachoseps kawia",
+      "hidden": false,
+      "text": [
+        [
+          "SEQUOIA SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS KAWIA"
+        ],
+        [
+          "LUNGLESS SALAMANDER.",
+          "DAMP MOUNTAIN COVER.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "MONTANE MOIST COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 24,
+      "spot_ids_for_seen": [
+        130,
+        131,
+        166,
+        167,
+        183,
+        184
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "montane_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-kawia",
+        "https://archive.org/download/biostor-198833/biostor-198833.pdf"
+      ]
+    },
+    {
+      "species_id": 48,
+      "common_name": "Santa Lucia Mtns Slender Salamander",
+      "scientific_name": "Batrachoseps luciae",
+      "hidden": false,
+      "text": [
+        [
+          "SANTA LUCIA MTNS",
+          "SLENDER SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS LUCIAE"
+        ],
+        [
+          "A LONG NARROW BODY.",
+          "LOOK BY DAMP COAST.",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "COASTAL MOIST COVER"
+        ],
+        [
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 256,
+      "spot_ids_for_seen": [
+        283,
+        284,
+        308,
+        309
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-luciae",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1521"
+      ]
+    },
+    {
+      "species_id": 49,
+      "common_name": "Southern California Slender Salamander",
+      "scientific_name": "Batrachoseps major",
+      "hidden": false,
+      "text": [
+        [
+          "SOUTHERN CALIFORNIA",
+          "SLENDER SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS MAJOR"
+        ],
+        [
+          "A SLENDER SALAMANDER",
+          "LOOK IN DAMP LITTER.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "MOIST LEAF LITTER"
+        ],
+        [
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 512,
+      "spot_ids_for_seen": [
+        327
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "moist_leaf_litter"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-major",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1440"
+      ]
+    },
+    {
+      "species_id": 50,
+      "common_name": "Lesser Slender Salamander",
+      "scientific_name": "Batrachoseps minor",
+      "hidden": false,
+      "text": [
+        [
+          "LESSER SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS MINOR"
+        ],
+        [
+          "A SMALL SLENDER FORM",
+          "DAMP MOUNTAIN COVER.",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "MONTANE MOIST COVER"
+        ],
+        [
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 256,
+      "spot_ids_for_seen": [
+        285,
+        286
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "montane_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-minor",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1523"
+      ]
+    },
+    {
+      "species_id": 51,
+      "common_name": "Black-bellied Slender Salamander",
+      "scientific_name": "Batrachoseps nigriventris",
+      "hidden": false,
+      "text": [
+        [
+          "BLACK-BELLIED",
+          "SLENDER SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "NIGRIVENTRIS"
+        ],
+        [
+          "A DARK-BELLIED FORM.",
+          "LOOK IN DAMP LITTER.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "MOIST LEAF LITTER"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "CENTRAL COAST/RANGES",
+          "SOUTH COAST",
+          "CHANNEL ISLANDS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2824,
+      "spot_ids_for_seen": [
+        144,
+        295,
+        335,
+        378,
+        379,
+        383,
+        387,
+        391,
+        395,
+        399,
+        403
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "moist_leaf_litter"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-nigriventris",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1444"
+      ]
+    },
+    {
+      "species_id": 52,
+      "common_name": "Channel Islands Slender Salamander",
+      "scientific_name": "Batrachoseps pacificus",
+      "hidden": false,
+      "text": [
+        [
+          "CHANNEL ISLANDS",
+          "SLENDER SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "PACIFICUS"
+        ],
+        [
+          "AN ISLAND SALAMANDER",
+          "DAMP ISLAND COVER.",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "ISLAND MOIST COVER"
+        ],
+        [
+          "CHANNEL ISLANDS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2048,
+      "spot_ids_for_seen": [
+        382,
+        386,
+        390,
+        394,
+        398,
+        402
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "island_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-pacificus",
+        "https://irmadev.nps.gov/DataStore/Reference/Profile/2286638"
+      ]
+    },
+    {
+      "species_id": 53,
+      "common_name": "Kings River Slender Salamander",
+      "scientific_name": "Batrachoseps regius",
+      "hidden": false,
+      "text": [
+        [
+          "KINGS RIVER SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS REGIUS"
+        ],
+        [
+          "FOUR-TOED FEET.",
+          "DAMP MOUNTAIN COVER.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "MONTANE MOIST COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 24,
+      "spot_ids_for_seen": [
+        132,
+        133,
+        168,
+        169,
+        185,
+        186
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "montane_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-regius",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1527"
+      ]
+    },
+    {
+      "species_id": 54,
+      "common_name": "Relictual Slender Salamander",
+      "scientific_name": "Batrachoseps relictus",
+      "hidden": false,
+      "text": [
+        [
+          "RELICTUAL SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "RELICTUS"
+        ],
+        [
+          "LUNGLESS SALAMANDER.",
+          "FOREST STREAM SEEPS.",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "FOREST STREAM SEEP"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        134,
+        135
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_stream_seep"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-relictus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190365"
+      ]
+    },
+    {
+      "species_id": 55,
+      "common_name": "Kern Plateau Slender Salamander",
+      "scientific_name": "Batrachoseps robustus",
+      "hidden": false,
+      "text": [
+        [
+          "KERN PLATEAU SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "ROBUSTUS"
+        ],
+        [
+          "ROBUST SLENDER FORM.",
+          "DAMP MOUNTAIN COVER.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "MONTANE MOIST COVER"
+        ],
+        [
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16,
+      "spot_ids_for_seen": [
+        170,
+        171,
+        187,
+        188
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "montane_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-robustus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1533"
+      ]
+    },
+    {
+      "species_id": 56,
+      "common_name": "Kern Canyon Slender Salamander",
+      "scientific_name": "Batrachoseps simatus",
+      "hidden": false,
+      "text": [
+        [
+          "KERN CANYON SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS SIMATUS"
+        ],
+        [
+          "A LONG NARROW BODY.",
+          "LOOK IN DAMP CANYONS",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "CANYON MOIST COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        136,
+        137
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "canyon_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-simatus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1448"
+      ]
+    },
+    {
+      "species_id": 57,
+      "common_name": "Tehachapi Slender Salamander",
+      "scientific_name": "Batrachoseps stebbinsi",
+      "hidden": false,
+      "text": [
+        [
+          "TEHACHAPI SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS",
+          "STEBBINSI"
+        ],
+        [
+          "LARGE FEET FOR SIZE.",
+          "LOOK BY DAMP TALUS.",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "DAMP TALUS",
+          "OAK LEAF LITTER"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        138,
+        139
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_talus",
+        "oak_leaf_litter"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-stebbinsi",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1450"
+      ]
+    },
+    {
+      "species_id": 58,
+      "common_name": "Zebra-tailed Lizard",
+      "scientific_name": "Callisaurus draconoides",
+      "hidden": false,
+      "text": [
+        [
+          "ZEBRA-TAILED LIZARD"
+        ],
+        [
+          "CALLISAURUS",
+          "DRACONOIDES"
+        ],
+        [
+          "DARK BARS ON TAIL",
+          "LOOK ON OPEN SAND.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "DESERT WASH",
+          "OPEN SAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        30
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_wash",
+        "open_sand"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 59,
+      "common_name": "Rubber Boa",
+      "scientific_name": "Charina bottae",
+      "hidden": false,
+      "text": [
+        [
+          "RUBBER BOA"
+        ],
+        [
+          "CHARINA BOTTAE"
+        ],
+        [
+          "SMOOTH RUBBERY SKIN.",
+          "LOOK BY FOREST COVER",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "CONIFER FOREST",
+          "COOL LAVA SHELTER",
+          "FOREST COVER",
+          "ROCK OUTCROP"
+        ],
+        [
+          "SOUTHERN MOUNTAINS",
+          "CASCADES",
+          "MODOC PLATEAU"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 50176,
+      "spot_ids_for_seen": [
+        352,
+        353,
+        366,
+        367,
+        493,
+        498,
+        509,
+        522,
+        523
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "conifer_forest",
+        "cool_lava_shelter",
+        "forest_cover",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=108714&inline=1",
+        "https://www.nps.gov/labe/learn/nature/reptiles.htm",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 60,
+      "common_name": "California Mountain Kingsnake",
+      "scientific_name": "Lampropeltis zonata",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA MOUNTAIN",
+          "KINGSNAKE"
+        ],
+        [
+          "LAMPROPELTIS ZONATA"
+        ],
+        [
+          "RED WHITE BLACK.",
+          "WOODLAND ROCK COVER",
+          "LEAVE COVER ALONE."
+        ],
+        [
+          "CONIFER FOREST",
+          "ROCK OUTCROP"
+        ],
+        [
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16,
+      "spot_ids_for_seen": [
+        537
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "conifer_forest",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2769",
+        "https://www.nps.gov/yose/blogs/sierra-mountain-kingsnake.htm"
+      ]
+    },
+    {
+      "species_id": 61,
+      "common_name": "Green Sea Turtle",
+      "scientific_name": "Chelonia mydas",
+      "hidden": false,
+      "text": [
+        [
+          "GREEN SEA TURTLE"
+        ],
+        [
+          "CHELONIA MYDAS"
+        ],
+        [
+          "SWIMS WITH FLIPPERS.",
+          "WATCH FROM THE SHORE",
+          "KEEP WATCH FROM LAND"
+        ],
+        [
+          "MARINE BAY"
+        ],
+        [
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 512,
+      "spot_ids_for_seen": [
+        314,
+        315,
+        322,
+        323,
+        330,
+        331,
+        337,
+        338,
+        344,
+        345
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "marine_bay"
+      ],
+      "sources": [
+        "https://www.fisheries.noaa.gov/west-coast/science-data/green-turtle-research-and-conservation-southern-california"
+      ]
+    },
+    {
+      "species_id": 62,
+      "common_name": "North American Racer",
+      "scientific_name": "Coluber constrictor",
+      "hidden": false,
+      "text": [
+        [
+          "NORTH AMERICAN RACER"
+        ],
+        [
+          "COLUBER CONSTRICTOR"
+        ],
+        [
+          "A LONG SLENDER SNAKE",
+          "LOOK IN GRASSLAND.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "OPEN GRASSLAND"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4224,
+      "spot_ids_for_seen": [
+        252,
+        408
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_grassland"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2753&inline=1"
+      ]
+    },
+    {
+      "species_id": 63,
+      "common_name": "Forest Sharp-tailed Snake",
+      "scientific_name": "Contia longicauda",
+      "hidden": false,
+      "text": [
+        [
+          "FOREST SHARP-TAILED",
+          "SNAKE"
+        ],
+        [
+          "CONTIA LONGICAUDA"
+        ],
+        [
+          "A SMALL FOREST SNAKE",
+          "DAMP CONIFER COVER.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "HUMID CONIFER FOREST"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4224,
+      "spot_ids_for_seen": [
+        249,
+        250,
+        256,
+        257,
+        263,
+        264,
+        269,
+        270,
+        275,
+        276,
+        425
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "humid_conifer_forest"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67506&inline=1"
+      ]
+    },
+    {
+      "species_id": 64,
+      "common_name": "Common Sharp-tailed Snake",
+      "scientific_name": "Contia tenuis",
+      "hidden": false,
+      "text": [
+        [
+          "COMMON SHARP-TAILED",
+          "SNAKE"
+        ],
+        [
+          "CONTIA TENUIS"
+        ],
+        [
+          "A POINTED TAIL TIP.",
+          "LOOK BY ROCK OR LOG.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "ROCK LOG COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "KLAMATH MOUNTAINS",
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 24584,
+      "spot_ids_for_seen": [
+        145,
+        463,
+        497
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rock_log_cover"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2749&inline=1"
+      ]
+    },
+    {
+      "species_id": 65,
+      "common_name": "Western Diamond-backed Rattlesnake",
+      "scientific_name": "Crotalus atrox",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN DIAMOND-",
+          "BACKED RATTLESNAKE"
+        ],
+        [
+          "CROTALUS ATROX"
+        ],
+        [
+          "A RATTLESNAKE.",
+          "LOOK BY DESERT WATER",
+          "KEEP A SAFE DISTANCE"
+        ],
+        [
+          "DESERT RIPARIAN",
+          "DESERT SHRUB"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        66
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_riparian",
+        "desert_shrub"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2795&inline=1"
+      ]
+    },
+    {
+      "species_id": 66,
+      "common_name": "Western Rattlesnake",
+      "scientific_name": "Crotalus oreganus",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN RATTLESNAKE"
+        ],
+        [
+          "CROTALUS OREGANUS"
+        ],
+        [
+          "A RATTLESNAKE.",
+          "LOOK BY LAVA ROCKS.",
+          "KEEP A SAFE DISTANCE"
+        ],
+        [
+          "LAVA OUTCROP"
+        ],
+        [
+          "MODOC PLATEAU"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 32768,
+      "spot_ids_for_seen": [
+        508,
+        511,
+        524,
+        525
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "lava_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/labe/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 67,
+      "common_name": "Southwestern Speckled Rattlesnake",
+      "scientific_name": "Crotalus pyrrhus",
+      "hidden": false,
+      "text": [
+        [
+          "SOUTHWESTERN",
+          "SPECKLED RATTLESNAKE"
+        ],
+        [
+          "CROTALUS PYRRHUS"
+        ],
+        [
+          "A SPECKLED DARK FORM",
+          "LOOK BY ROCK FACES.",
+          "KEEP A SAFE DISTANCE"
+        ],
+        [
+          "DESERT CANYON",
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        50
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 68,
+      "common_name": "Red Diamond Rattlesnake",
+      "scientific_name": "Crotalus ruber",
+      "hidden": false,
+      "text": [
+        [
+          "RED DIAMOND",
+          "RATTLESNAKE"
+        ],
+        [
+          "CROTALUS RUBER"
+        ],
+        [
+          "A RATTLESNAKE.",
+          "LOOK BY ROCKY SCRUB.",
+          "KEEP A SAFE DISTANCE"
+        ],
+        [
+          "ROCKY CHAPARRAL"
+        ],
+        [
+          "SOUTH COAST",
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1536,
+      "spot_ids_for_seen": [
+        342,
+        362
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rocky_chaparral"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2797&inline=1"
+      ]
+    },
+    {
+      "species_id": 69,
+      "common_name": "Mohave Rattlesnake",
+      "scientific_name": "Crotalus scutulatus",
+      "hidden": false,
+      "text": [
+        [
+          "MOHAVE RATTLESNAKE"
+        ],
+        [
+          "CROTALUS SCUTULATUS"
+        ],
+        [
+          "A RATTLESNAKE.",
+          "LOOK ON DESERT SOIL.",
+          "KEEP A SAFE DISTANCE"
+        ],
+        [
+          "OPEN DESERT"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        31
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_desert"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 70,
+      "common_name": "Panamint Rattlesnake",
+      "scientific_name": "Crotalus stephensi",
+      "hidden": false,
+      "text": [
+        [
+          "PANAMINT RATTLESNAKE"
+        ],
+        [
+          "CROTALUS STEPHENSI"
+        ],
+        [
+          "A RATTLESNAKE.",
+          "LOOK BY ROCK FACES.",
+          "KEEP A SAFE DISTANCE"
+        ],
+        [
+          "DESERT CANYON",
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        25,
+        26,
+        45,
+        46
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67504&inline=1"
+      ]
+    },
+    {
+      "species_id": 71,
+      "common_name": "Great Basin Collared Lizard",
+      "scientific_name": "Crotaphytus bicinctores",
+      "hidden": false,
+      "text": [
+        [
+          "GREAT BASIN COLLARED",
+          "LIZARD"
+        ],
+        [
+          "CROTAPHYTUS",
+          "BICINCTORES"
+        ],
+        [
+          "DARK NECK COLLARS.",
+          "LOOK BY ROCK FACES.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        51
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 72,
+      "common_name": "Baja California Collared Lizard",
+      "scientific_name": "Crotaphytus vestigium",
+      "hidden": false,
+      "text": [
+        [
+          "BAJA CALIFORNIA",
+          "COLLARED LIZARD"
+        ],
+        [
+          "CROTAPHYTUS",
+          "VESTIGIUM"
+        ],
+        [
+          "DARK NECK COLLARS.",
+          "LOOK BY ROCK FACES.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "DESERT CANYON",
+          "ROCK OUTCROP"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        68,
+        69,
+        88,
+        89
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2811&inline=1"
+      ]
+    },
+    {
+      "species_id": 73,
+      "common_name": "Leatherback Sea Turtle",
+      "scientific_name": "Dermochelys coriacea",
+      "hidden": false,
+      "text": [
+        [
+          "LEATHERBACK SEA",
+          "TURTLE"
+        ],
+        [
+          "DERMOCHELYS CORIACEA"
+        ],
+        [
+          "A LEATHERY SHELL.",
+          "WATCH OFFSHORE WATER",
+          "KEEP WATCH FROM LAND"
+        ],
+        [
+          "OFFSHORE SURFACE"
+        ],
+        [
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 256,
+      "spot_ids_for_seen": [
+        287,
+        288
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "offshore_surface"
+      ],
+      "sources": [
+        "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+      ]
+    },
+    {
+      "species_id": 74,
+      "common_name": "Ring-necked Snake",
+      "scientific_name": "Diadophis punctatus",
+      "hidden": false,
+      "text": [
+        [
+          "RING-NECKED SNAKE"
+        ],
+        [
+          "DIADOPHIS PUNCTATUS"
+        ],
+        [
+          "A PALE NECK RING.",
+          "LOOK BY ROCK OR LOG.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "ROCK LOG COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 264,
+      "spot_ids_for_seen": [
+        146,
+        296
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rock_log_cover"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2747&inline=1"
+      ]
+    },
+    {
+      "species_id": 75,
+      "common_name": "California Giant Salamander",
+      "scientific_name": "Dicamptodon ensatus",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA GIANT",
+          "SALAMANDER"
+        ],
+        [
+          "DICAMPTODON ENSATUS"
+        ],
+        [
+          "A BROAD-HEADED ADULT",
+          "LOOK BY FOREST WATER",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "FOREST STREAM",
+          "WET FOREST COVER"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "CENTRAL COAST/RANGES",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4480,
+      "spot_ids_for_seen": [
+        259,
+        297,
+        419,
+        420,
+        435,
+        436
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_stream",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Dicamptodon/Dicamptodon-ensatus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190337&inline="
+      ]
+    },
+    {
+      "species_id": 76,
+      "common_name": "Coastal Giant Salamander",
+      "scientific_name": "Dicamptodon tenebrosus",
+      "hidden": false,
+      "text": [
+        [
+          "COASTAL GIANT",
+          "SALAMANDER"
+        ],
+        [
+          "DICAMPTODON",
+          "TENEBROSUS"
+        ],
+        [
+          "A MARBLED ADULT FORM",
+          "LOOK BY FOREST WATER",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "FOREST STREAM",
+          "WET FOREST COVER"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        441
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_stream",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Dicamptodon/Dicamptodon-tenebrosus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1510"
+      ]
+    },
+    {
+      "species_id": 77,
+      "common_name": "Northern Alligator Lizard",
+      "scientific_name": "Elgaria coerulea",
+      "hidden": false,
+      "text": [
+        [
+          "NORTHERN ALLIGATOR",
+          "LIZARD"
+        ],
+        [
+          "ELGARIA COERULEA"
+        ],
+        [
+          "LONG BODY, TINY LEGS",
+          "LOOK BY ROCK OR LOG.",
+          "LET IT SETTLE."
+        ],
+        [
+          "ROCK LOG COVER"
+        ],
+        [
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16384,
+      "spot_ids_for_seen": [
+        501,
+        502
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rock_log_cover"
+      ],
+      "sources": [
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 78,
+      "common_name": "Panamint Alligator Lizard",
+      "scientific_name": "Elgaria panamintina",
+      "hidden": false,
+      "text": [
+        [
+          "PANAMINT ALLIGATOR",
+          "LIZARD"
+        ],
+        [
+          "ELGARIA PANAMINTINA"
+        ],
+        [
+          "LONG BODY, TINY LEGS",
+          "LOOK BY WET TALUS.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "MOUNTAIN SPRING",
+          "WET TALUS"
+        ],
+        [
+          "E.SIERRA/GREAT BASIN"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4,
+      "spot_ids_for_seen": [
+        104,
+        105,
+        112,
+        113,
+        120
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "mountain_spring",
+        "wet_talus"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2729&inline=1"
+      ]
+    },
+    {
+      "species_id": 79,
+      "common_name": "Ensatina",
+      "scientific_name": "Ensatina eschscholtzii",
+      "hidden": false,
+      "text": [
+        [
+          "ENSATINA"
+        ],
+        [
+          "ENSATINA",
+          "ESCHSCHOLTZII"
+        ],
+        [
+          "A NARROW TAIL BASE.",
+          "LOOK IN DAMP FOREST.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "WET FOREST COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "BAY/DELTA/IN.COAST",
+          "CENTRAL COAST/RANGES",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4488,
+      "spot_ids_for_seen": [
+        147,
+        266,
+        298,
+        409
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Ensatina/Ensatina-eschscholtzii",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1438"
+      ]
+    },
+    {
+      "species_id": 80,
+      "common_name": "Baja California Leopard Lizard",
+      "scientific_name": "Gambelia copeii",
+      "hidden": false,
+      "text": [
+        [
+          "BAJA CALIFORNIA",
+          "LEOPARD LIZARD"
+        ],
+        [
+          "GAMBELIA COPEII"
+        ],
+        [
+          "A SPOTTED LIZARD.",
+          "LOOK IN OPEN SCRUB.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "OPEN CHAPARRAL"
+        ],
+        [
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1024,
+      "spot_ids_for_seen": [
+        354,
+        355,
+        368,
+        369
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_chaparral"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=102374&inline=1"
+      ]
+    },
+    {
+      "species_id": 81,
+      "common_name": "Blunt-nosed Leopard Lizard",
+      "scientific_name": "Gambelia sila",
+      "hidden": false,
+      "text": [
+        [
+          "BLUNT-NOSED LEOPARD",
+          "LIZARD"
+        ],
+        [
+          "GAMBELIA SILA"
+        ],
+        [
+          "A BLUNT SNOUT.",
+          "DRY GRASSLAND COVER.",
+          "LET IT SETTLE."
+        ],
+        [
+          "DRY GRASSLAND",
+          "VALLEY SCRUB"
+        ],
+        [
+          "SAN JOAQUIN VALLEY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 64,
+      "spot_ids_for_seen": [
+        221,
+        222,
+        229,
+        230,
+        237,
+        238,
+        245,
+        246
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "dry_grassland",
+        "valley_scrub"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7047230/"
+      ]
+    },
+    {
+      "species_id": 82,
+      "common_name": "Long-nosed Leopard Lizard",
+      "scientific_name": "Gambelia wislizenii",
+      "hidden": false,
+      "text": [
+        [
+          "LONG-NOSED LEOPARD",
+          "LIZARD"
+        ],
+        [
+          "GAMBELIA WISLIZENII"
+        ],
+        [
+          "A LONGER SNOUT.",
+          "LOOK ON OPEN SAND.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "DESERT GRAVEL",
+          "OPEN SAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        32
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_gravel",
+        "open_sand"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 83,
+      "common_name": "Gila Monster",
+      "scientific_name": "Heloderma suspectum",
+      "hidden": false,
+      "text": [
+        [
+          "GILA MONSTER"
+        ],
+        [
+          "HELODERMA SUSPECTUM"
+        ],
+        [
+          "STOUT WITH BEAD SKIN",
+          "ROCKY DESERT WASHES.",
+          "KEEP A SAFE DISTANCE"
+        ],
+        [
+          "ROCKY DESERT WASH"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        27,
+        28,
+        47,
+        48
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rocky_desert_wash"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2735&inline=1"
+      ]
+    },
+    {
+      "species_id": 84,
+      "common_name": "Limestone Salamander",
+      "scientific_name": "Hydromantes brunus",
+      "hidden": false,
+      "text": [
+        [
+          "LIMESTONE SALAMANDER"
+        ],
+        [
+          "HYDROMANTES BRUNUS"
+        ],
+        [
+          "WEBBED FEET / HANDS.",
+          "DAMP LIMESTONE COVER",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "DAMP LIMESTONE",
+          "CREVICE"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        140,
+        141
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_limestone_crevice"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-brunus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1464"
+      ]
+    },
+    {
+      "species_id": 85,
+      "common_name": "Mount Lyell Salamander",
+      "scientific_name": "Hydromantes platycephalus",
+      "hidden": false,
+      "text": [
+        [
+          "MOUNT LYELL",
+          "SALAMANDER"
+        ],
+        [
+          "HYDROMANTES",
+          "PLATYCEPHALUS"
+        ],
+        [
+          "A BROAD FLAT HEAD.",
+          "LOOK BY DAMP GRANITE",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "DAMP GRANITE TALUS"
+        ],
+        [
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16,
+      "spot_ids_for_seen": [
+        160
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_granite_talus"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-platycephalus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1460"
+      ]
+    },
+    {
+      "species_id": 86,
+      "common_name": "Samwel Shasta Salamander",
+      "scientific_name": "Hydromantes samweli",
+      "hidden": false,
+      "text": [
+        [
+          "SAMWEL SHASTA",
+          "SALAMANDER"
+        ],
+        [
+          "HYDROMANTES SAMWELI"
+        ],
+        [
+          "A SHORT TAPERED TAIL",
+          "DAMP LIMESTONE COVER",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "DAMP LIMESTONE",
+          "CREVICE"
+        ],
+        [
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8192,
+      "spot_ids_for_seen": [
+        455,
+        456,
+        469,
+        470
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_limestone_crevice"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-samweli",
+        "https://www.usgs.gov/publications/optimizing-survey-design-shasta-salamanders-hydromantes-spp-estimate-occurrence-little"
+      ]
+    },
+    {
+      "species_id": 87,
+      "common_name": "Shasta Salamander",
+      "scientific_name": "Hydromantes shastae",
+      "hidden": false,
+      "text": [
+        [
+          "SHASTA SALAMANDER"
+        ],
+        [
+          "HYDROMANTES SHASTAE"
+        ],
+        [
+          "WEBBED FEET / HANDS.",
+          "DAMP LIMESTONE COVER",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "DAMP LIMESTONE",
+          "CREVICE"
+        ],
+        [
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8192,
+      "spot_ids_for_seen": [
+        457,
+        458,
+        471,
+        472
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_limestone_crevice"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-shastae",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1462"
+      ]
+    },
+    {
+      "species_id": 88,
+      "common_name": "Wintu Shasta Salamander",
+      "scientific_name": "Hydromantes wintu",
+      "hidden": false,
+      "text": [
+        [
+          "WINTU SHASTA",
+          "SALAMANDER"
+        ],
+        [
+          "HYDROMANTES WINTU"
+        ],
+        [
+          "A SHORT TAPERED TAIL",
+          "DAMP LIMESTONE COVER",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "DAMP LIMESTONE",
+          "CREVICE"
+        ],
+        [
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8192,
+      "spot_ids_for_seen": [
+        459,
+        460,
+        473,
+        474
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_limestone_crevice"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-wintu",
+        "https://www.usgs.gov/publications/optimizing-survey-design-shasta-salamanders-hydromantes-spp-estimate-occurrence-little"
+      ]
+    },
+    {
+      "species_id": 89,
+      "common_name": "Desert Nightsnake",
+      "scientific_name": "Hypsiglena chlorophaea",
+      "hidden": false,
+      "text": [
+        [
+          "DESERT NIGHTSNAKE"
+        ],
+        [
+          "HYPSIGLENA",
+          "CHLOROPHAEA"
+        ],
+        [
+          "A SMALL DESERT SNAKE",
+          "LOOK BY DESERT ROCKS",
+          "LET IT SETTLE."
+        ],
+        [
+          "DESERT ROCK COVER"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        52
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_rock_cover"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 90,
+      "common_name": "Coast Nightsnake",
+      "scientific_name": "Hypsiglena ochrorhyncha",
+      "hidden": false,
+      "text": [
+        [
+          "COAST NIGHTSNAKE"
+        ],
+        [
+          "HYPSIGLENA",
+          "OCHRORHYNCHA"
+        ],
+        [
+          "A SMALL COAST SNAKE.",
+          "LOOK BY COAST ROCKS.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "COASTAL ROCK COVER"
+        ],
+        [
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 512,
+      "spot_ids_for_seen": [
+        312
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_rock_cover"
+      ],
+      "sources": [
+        "https://www.nps.gov/cabr/learn/nature/snakes.htm"
+      ]
+    },
+    {
+      "species_id": 91,
+      "common_name": "Baja California Coachwhip",
+      "scientific_name": "Masticophis fuliginosus",
+      "hidden": false,
+      "text": [
+        [
+          "BAJA CALIFORNIA",
+          "COACHWHIP"
+        ],
+        [
+          "MASTICOPHIS",
+          "FULIGINOSUS"
+        ],
+        [
+          "A LONG SLENDER SNAKE",
+          "LOOK BY COAST DUNES.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "COASTAL DUNES",
+          "COASTAL SHRUB",
+          "OPEN GRASSLAND"
+        ],
+        [
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 512,
+      "spot_ids_for_seen": [
+        316,
+        317,
+        324,
+        325,
+        332,
+        333,
+        339,
+        340,
+        346,
+        347
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_dunes",
+        "coastal_shrub",
+        "open_grassland"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190336"
+      ]
+    },
+    {
+      "species_id": 92,
+      "common_name": "Striped Racer",
+      "scientific_name": "Masticophis lateralis",
+      "hidden": false,
+      "text": [
+        [
+          "STRIPED RACER"
+        ],
+        [
+          "MASTICOPHIS",
+          "LATERALIS"
+        ],
+        [
+          "LONGITUDINAL STRIPES",
+          "LOOK IN CHAPARRAL.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "CHAPARRAL"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "SOUTH COAST",
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8712,
+      "spot_ids_for_seen": [
+        148,
+        320,
+        477
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "chaparral"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2757&inline=1"
+      ]
+    },
+    {
+      "species_id": 93,
+      "common_name": "Desert Coachwhip",
+      "scientific_name": "Masticophis piceus",
+      "hidden": false,
+      "text": [
+        [
+          "DESERT COACHWHIP"
+        ],
+        [
+          "MASTICOPHIS PICEUS"
+        ],
+        [
+          "A LONG SLENDER SNAKE",
+          "LOOK ON DESERT SOIL.",
+          "LET IT SETTLE."
+        ],
+        [
+          "OPEN DESERT"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        33
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_desert"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 94,
+      "common_name": "Striped Whipsnake",
+      "scientific_name": "Masticophis taeniatus",
+      "hidden": false,
+      "text": [
+        [
+          "STRIPED WHIPSNAKE"
+        ],
+        [
+          "MASTICOPHIS",
+          "TAENIATUS"
+        ],
+        [
+          "LONGITUDINAL STRIPES",
+          "LOOK BY SAGEBRUSH.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "SAGEBRUSH"
+        ],
+        [
+          "E.SIERRA/GREAT BASIN",
+          "MODOC PLATEAU"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 32772,
+      "spot_ids_for_seen": [
+        98,
+        115,
+        122,
+        510,
+        513,
+        526,
+        527
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "sagebrush"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2759&inline=1"
+      ]
+    },
+    {
+      "species_id": 95,
+      "common_name": "Mearns\u2019 Rock Lizard",
+      "scientific_name": "Petrosaurus mearnsi",
+      "hidden": false,
+      "text": [
+        [
+          "MEARNS' ROCK LIZARD"
+        ],
+        [
+          "PETROSAURUS MEARNSI"
+        ],
+        [
+          "A ROCK LIZARD.",
+          "LOOK BY ROCK FACES.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "DESERT CANYON",
+          "ROCK OUTCROP"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        86
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2703&inline=1"
+      ]
+    },
+    {
+      "species_id": 96,
+      "common_name": "Blainville\u2019s Horned Lizard",
+      "scientific_name": "Phrynosoma blainvillii",
+      "hidden": false,
+      "text": [
+        [
+          "BLAINVILLE'S HORNED",
+          "LIZARD"
+        ],
+        [
+          "PHRYNOSOMA",
+          "BLAINVILLII"
+        ],
+        [
+          "HORNS FRAME ITS HEAD",
+          "LOOK IN OPEN OAKS.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "COASTAL SCRUB",
+          "OPEN OAK WOODLAND"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "CENTRAL COAST/RANGES",
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 776,
+      "spot_ids_for_seen": [
+        149,
+        299,
+        328
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_scrub",
+        "open_oak_woodland"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2705&inline=1"
+      ]
+    },
+    {
+      "species_id": 97,
+      "common_name": "Pygmy Short-horned Lizard",
+      "scientific_name": "Phrynosoma douglasii",
+      "hidden": false,
+      "text": [
+        [
+          "PYGMY SHORT-HORNED",
+          "LIZARD"
+        ],
+        [
+          "PHRYNOSOMA DOUGLASII"
+        ],
+        [
+          "SMALL, SHORT HORNS.",
+          "LOOK BY JUNIPERS.",
+          "LET IT SETTLE."
+        ],
+        [
+          "JUNIPER WOODLAND",
+          "OPEN PINE"
+        ],
+        [
+          "MODOC PLATEAU"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 32768,
+      "spot_ids_for_seen": [
+        512,
+        514,
+        515,
+        528,
+        529,
+        530,
+        531
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "juniper_woodland",
+        "open_pine"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2709&inline=1"
+      ]
+    },
+    {
+      "species_id": 98,
+      "common_name": "Flat-tailed Horned Lizard",
+      "scientific_name": "Phrynosoma mcallii",
+      "hidden": false,
+      "text": [
+        [
+          "FLAT-TAILED HORNED",
+          "LIZARD"
+        ],
+        [
+          "PHRYNOSOMA MCALLII"
+        ],
+        [
+          "A BROAD FLAT TAIL.",
+          "LOOK ON OPEN SAND.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "CREOSOTE SCRUB",
+          "OPEN SAND"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        70,
+        71,
+        90,
+        91
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "creosote_scrub",
+        "open_sand"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2711&inline=1"
+      ]
+    },
+    {
+      "species_id": 99,
+      "common_name": "Peninsula Leaf-toed Gecko",
+      "scientific_name": "Phyllodactylus nocticolus",
+      "hidden": false,
+      "text": [
+        [
+          "PENINSULA LEAF-TOED",
+          "GECKO"
+        ],
+        [
+          "PHYLLODACTYLUS",
+          "NOCTICOLUS"
+        ],
+        [
+          "EXPANDED TOE TIPS.",
+          "LOOK BY ROCK CRACKS.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "DESERT CANYON",
+          "ROCK CREVICE"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        72,
+        73,
+        92,
+        93
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "rock_crevice"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2667&inline=1"
+      ]
+    },
+    {
+      "species_id": 100,
+      "common_name": "Spotted Leaf-nosed Snake",
+      "scientific_name": "Phyllorhynchus decurtatus",
+      "hidden": false,
+      "text": [
+        [
+          "SPOTTED LEAF-NOSED",
+          "SNAKE"
+        ],
+        [
+          "PHYLLORHYNCHUS",
+          "DECURTATUS"
+        ],
+        [
+          "A BROAD NOSE SCALE.",
+          "LOOK BY DESERT ROCKS",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "DESERT ROCK COVER"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        53
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_rock_cover"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 101,
+      "common_name": "Gophersnake",
+      "scientific_name": "Pituophis catenifer",
+      "hidden": false,
+      "text": [
+        [
+          "GOPHERSNAKE"
+        ],
+        [
+          "PITUOPHIS CATENIFER"
+        ],
+        [
+          "A BLOTCHED SNAKE.",
+          "LOOK BY CREOSOTE.",
+          "LET IT SETTLE."
+        ],
+        [
+          "CREOSOTE SCRUB",
+          "JOSHUA WOODLAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        34
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "creosote_scrub",
+        "joshua_woodland"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 102,
+      "common_name": "Gilbert's Skink",
+      "scientific_name": "Plestiodon gilberti",
+      "hidden": false,
+      "text": [
+        [
+          "GILBERT'S SKINK"
+        ],
+        [
+          "PLESTIODON GILBERTI"
+        ],
+        [
+          "SMOOTH LIZARD SCALES",
+          "DAMP ROCKS ARE COVER",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "MOIST ROCK COVER"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        43,
+        44,
+        62
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "moist_rock_cover"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 103,
+      "common_name": "Western Skink",
+      "scientific_name": "Plestiodon skiltonianus",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN SKINK"
+        ],
+        [
+          "PLESTIODON",
+          "SKILTONIANUS"
+        ],
+        [
+          "SMOOTH LIZARD SCALES",
+          "LOOK AT FOREST EDGES",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "OPEN FOREST EDGE"
+        ],
+        [
+          "SOUTHERN MOUNTAINS",
+          "NORTH COAST/RANGES",
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 13312,
+      "spot_ids_for_seen": [
+        376,
+        377,
+        426,
+        450,
+        478
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_forest_edge"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2719&inline=1"
+      ]
+    },
+    {
+      "species_id": 104,
+      "common_name": "Scott Bar Salamander",
+      "scientific_name": "Plethodon asupak",
+      "hidden": false,
+      "text": [
+        [
+          "SCOTT BAR SALAMANDER"
+        ],
+        [
+          "PLETHODON ASUPAK"
+        ],
+        [
+          "ROBUST WOODLAND FORM",
+          "LOOK BY DAMP TALUS.",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "DAMP TALUS"
+        ],
+        [
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8192,
+      "spot_ids_for_seen": [
+        461,
+        462,
+        475,
+        476
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_talus"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-asupak",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1537"
+      ]
+    },
+    {
+      "species_id": 105,
+      "common_name": "Dunn's Salamander",
+      "scientific_name": "Plethodon dunni",
+      "hidden": false,
+      "text": [
+        [
+          "DUNN'S SALAMANDER"
+        ],
+        [
+          "PLETHODON DUNNI"
+        ],
+        [
+          "A BROAD DORSAL BAND.",
+          "LOOK BESIDE A STREAM",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "DAMP TALUS",
+          "FOREST STREAMSIDE"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        421,
+        422,
+        437,
+        438
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_talus",
+        "forest_streamside"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-dunni",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1432"
+      ]
+    },
+    {
+      "species_id": 106,
+      "common_name": "Del Norte Salamander",
+      "scientific_name": "Plethodon elongatus",
+      "hidden": false,
+      "text": [
+        [
+          "DEL NORTE SALAMANDER"
+        ],
+        [
+          "PLETHODON ELONGATUS"
+        ],
+        [
+          "A LONG SLENDER TRUNK",
+          "LOOK BY DAMP TALUS.",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "DAMP TALUS",
+          "FOREST COVER"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        442
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_talus",
+        "forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-elongatus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1434"
+      ]
+    },
+    {
+      "species_id": 107,
+      "common_name": "Siskiyou Mtns Salamander",
+      "scientific_name": "Plethodon stormi",
+      "hidden": false,
+      "text": [
+        [
+          "SISKIYOU MTNS",
+          "SALAMANDER"
+        ],
+        [
+          "PLETHODON STORMI"
+        ],
+        [
+          "LUNGLESS SALAMANDER.",
+          "LOOK BY DAMP TALUS.",
+          "DO NOT MOVE ITS HOME"
+        ],
+        [
+          "DAMP TALUS"
+        ],
+        [
+          "KLAMATH MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8192,
+      "spot_ids_for_seen": [
+        454,
+        467
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "damp_talus"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Plethodon/Plethodon-stormi",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1436"
+      ]
+    },
+    {
+      "species_id": 108,
+      "common_name": "California Treefrog",
+      "scientific_name": "Pseudacris cadaverina",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA TREEFROG"
+        ],
+        [
+          "PSEUDACRIS",
+          "CADAVERINA"
+        ],
+        [
+          "A ROCKY-CREEK FROG.",
+          "LOOK BY ROCKY CREEKS",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "ROCKY CREEK"
+        ],
+        [
+          "SOUTH COAST",
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1536,
+      "spot_ids_for_seen": [
+        336,
+        349
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rocky_creek"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudacris/Pseudacris-cadaverina",
+        "https://www.nps.gov/samo/learn/nature/amphibians.htm"
+      ]
+    },
+    {
+      "species_id": 109,
+      "common_name": "Northern Red-legged Frog",
+      "scientific_name": "Rana aurora",
+      "hidden": false,
+      "text": [
+        [
+          "NORTHERN RED-LEGGED",
+          "FROG"
+        ],
+        [
+          "RANA AURORA"
+        ],
+        [
+          "FOLDED LONG HINDLEGS",
+          "LOOK BY FOREST POOLS",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "FOREST POND",
+          "WET FOREST COVER"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        410
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_pond",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-aurora",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190359&inline="
+      ]
+    },
+    {
+      "species_id": 110,
+      "common_name": "Foothill Yellow-legged Frog",
+      "scientific_name": "Rana boylii",
+      "hidden": false,
+      "text": [
+        [
+          "FOOTHILL YELLOW-",
+          "LEGGED FROG"
+        ],
+        [
+          "RANA BOYLII"
+        ],
+        [
+          "YELLOW UNDER LEGS.",
+          "LOOK AT RIVER EDGES.",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "ROCKY RIVER MARGIN"
+        ],
+        [
+          "SIERRA FOOTHILLS",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4104,
+      "spot_ids_for_seen": [
+        150,
+        427
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rocky_river_margin"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-boylii",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1500"
+      ]
+    },
+    {
+      "species_id": 111,
+      "common_name": "Cascades Frog",
+      "scientific_name": "Rana cascadae",
+      "hidden": false,
+      "text": [
+        [
+          "CASCADES FROG"
+        ],
+        [
+          "RANA CASCADAE"
+        ],
+        [
+          "DARK SPOTS ON BACK.",
+          "HIGH MEADOW POOLS.",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "MONTANE MEADOW POOL"
+        ],
+        [
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16384,
+      "spot_ids_for_seen": [
+        479,
+        480,
+        483,
+        484,
+        487,
+        488,
+        491,
+        492,
+        495,
+        496,
+        499,
+        500,
+        503,
+        504
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "montane_meadow_pool"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-cascadae",
+        "https://www.nps.gov/articles/finding-a-future-for-the-cascades-frog.htm"
+      ]
+    },
+    {
+      "species_id": 112,
+      "common_name": "California Red-legged Frog",
+      "scientific_name": "Rana draytonii",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA RED-",
+          "LEGGED FROG"
+        ],
+        [
+          "RANA DRAYTONII"
+        ],
+        [
+          "RED UNDER ITS LEGS.",
+          "LOOK BY FRESH WATER.",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "FRESHWATER POND",
+          "RIPARIAN POOL"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "CENTRAL COAST/RANGES",
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 896,
+      "spot_ids_for_seen": [
+        272,
+        300,
+        343
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_pond",
+        "riparian_pool"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-draytonii",
+        "https://www.nps.gov/pore/learn/nature/amphibians.htm",
+        "https://www.nps.gov/samo/learn/nature/amphibians.htm"
+      ]
+    },
+    {
+      "species_id": 113,
+      "common_name": "Southern Mountain Yellow-legged Frog",
+      "scientific_name": "Rana muscosa",
+      "hidden": false,
+      "text": [
+        [
+          "SOUTHERN MOUNTAIN",
+          "YELLOW-LEGGED FROG"
+        ],
+        [
+          "RANA MUSCOSA"
+        ],
+        [
+          "YELLOW UNDER LEGS.",
+          "LOOK BY HIGH STREAMS",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "MOUNTAIN LAKE EDGE",
+          "MOUNTAIN STREAM"
+        ],
+        [
+          "SIERRA HIGH COUNTRY",
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1040,
+      "spot_ids_for_seen": [
+        172,
+        173,
+        356,
+        357,
+        370,
+        371
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "mountain_lake_edge",
+        "mountain_stream"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-muscosa",
+        "https://armi.usgs.gov/story/view-story.php?contentid=209406",
+        "https://www.fws.gov/species/mountain-yellow-legged-frog-rana-muscosa",
+        "https://www.nps.gov/seki/learn/nature/amphibfish.htm"
+      ]
+    },
+    {
+      "species_id": 114,
+      "common_name": "Western Threadsnake",
+      "scientific_name": "Rena humilis",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN THREADSNAKE"
+        ],
+        [
+          "RENA HUMILIS"
+        ],
+        [
+          "A VERY THIN SNAKE.",
+          "DAMP ROCKS ARE COVER",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "MOIST ROCK COVER"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        54
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "moist_rock_cover"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 115,
+      "common_name": "Long-nosed Snake",
+      "scientific_name": "Rhinocheilus lecontei",
+      "hidden": false,
+      "text": [
+        [
+          "LONG-NOSED SNAKE"
+        ],
+        [
+          "RHINOCHEILUS",
+          "LECONTEI"
+        ],
+        [
+          "BANDS CROSS ITS BODY",
+          "LOOK BY CREOSOTE.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "CREOSOTE SCRUB"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        35
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "creosote_scrub"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 116,
+      "common_name": "Southern Torrent Salamander",
+      "scientific_name": "Rhyacotriton variegatus",
+      "hidden": false,
+      "text": [
+        [
+          "SOUTHERN TORRENT",
+          "SALAMANDER"
+        ],
+        [
+          "RHYACOTRITON",
+          "VARIEGATUS"
+        ],
+        [
+          "A SMALL SEEP DWELLER",
+          "COOL HEADWATER SEEPS",
+          "KEEP THE WATER CLEAN"
+        ],
+        [
+          "COLD HEADWATER SEEP"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        443
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "cold_headwater_seep"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Rhyacotritonidae/Rhyacotriton/Rhyacotriton-variegatus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190375&inline="
+      ]
+    },
+    {
+      "species_id": 117,
+      "common_name": "Western Patch-nosed Snake",
+      "scientific_name": "Salvadora hexalepis",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN PATCH-NOSED",
+          "SNAKE"
+        ],
+        [
+          "SALVADORA HEXALEPIS"
+        ],
+        [
+          "A LARGE NOSE SCALE.",
+          "LOOK IN A DRY WASH.",
+          "LET IT SETTLE."
+        ],
+        [
+          "DESERT WASH",
+          "OPEN SAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        55
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_wash",
+        "open_sand"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 118,
+      "common_name": "Couch's Spadefoot",
+      "scientific_name": "Scaphiopus couchii",
+      "hidden": false,
+      "text": [
+        [
+          "COUCH'S SPADEFOOT"
+        ],
+        [
+          "SCAPHIOPUS COUCHII"
+        ],
+        [
+          "A HINDFOOT SPADE.",
+          "DESERT RAIN POOLS.",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "DESERT RAIN POOL",
+          "SOIL BURROW"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        65,
+        84
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_rain_pool",
+        "soil_burrow"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Scaphiopodidae/Scaphiopus/Scaphiopus-couchii",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1468"
+      ]
+    },
+    {
+      "species_id": 119,
+      "common_name": "Common Sagebrush Lizard",
+      "scientific_name": "Sceloporus graciosus",
+      "hidden": false,
+      "text": [
+        [
+          "COMMON SAGEBRUSH",
+          "LIZARD"
+        ],
+        [
+          "SCELOPORUS GRACIOSUS"
+        ],
+        [
+          "A SMALL SPINY LIZARD",
+          "MOUNTAIN ROCK COVER.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "FOREST FLOOR",
+          "MONTANE ROCK OUTCROP",
+          "OPEN CONIFER"
+        ],
+        [
+          "SIERRA HIGH COUNTRY",
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16400,
+      "spot_ids_for_seen": [
+        176,
+        505,
+        506
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_floor",
+        "montane_rock_outcrop",
+        "open_conifer"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2693&inline=1",
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 120,
+      "common_name": "Desert Spiny Lizard",
+      "scientific_name": "Sceloporus magister",
+      "hidden": false,
+      "text": [
+        [
+          "DESERT SPINY LIZARD"
+        ],
+        [
+          "SCELOPORUS MAGISTER"
+        ],
+        [
+          "A LARGE SPINY LIZARD",
+          "LOOK BY JOSHUA TREES",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "JOSHUA WOODLAND",
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        36
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "joshua_woodland",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 121,
+      "common_name": "Granite Spiny Lizard",
+      "scientific_name": "Sceloporus orcutti",
+      "hidden": false,
+      "text": [
+        [
+          "GRANITE SPINY LIZARD"
+        ],
+        [
+          "SCELOPORUS ORCUTTI"
+        ],
+        [
+          "A SPINY ROCK LIZARD.",
+          "LOOK BY GRANITE ROCK",
+          "LET IT SETTLE."
+        ],
+        [
+          "GRANITE OUTCROP"
+        ],
+        [
+          "COLORADO DESERT",
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1026,
+      "spot_ids_for_seen": [
+        74,
+        358,
+        359
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "granite_outcrop"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2689&inline=1"
+      ]
+    },
+    {
+      "species_id": 122,
+      "common_name": "Mohave Shovel-nosed Snake",
+      "scientific_name": "Sonora occipitalis",
+      "hidden": false,
+      "text": [
+        [
+          "MOHAVE SHOVEL-NOSED",
+          "SNAKE"
+        ],
+        [
+          "SONORA OCCIPITALIS"
+        ],
+        [
+          "A SHOVEL-LIKE SNOUT.",
+          "LOOK ON OPEN SAND.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "OPEN SAND",
+          "SAND DUNES"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        56
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_sand",
+        "sand_dunes"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 123,
+      "common_name": "Western Groundsnake",
+      "scientific_name": "Sonora semiannulata",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN GROUNDSNAKE"
+        ],
+        [
+          "SONORA SEMIANNULATA"
+        ],
+        [
+          "A SMALL GROUND SNAKE",
+          "LOOK IN A DRY WASH.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "DESERT ROCK COVER",
+          "DESERT WASH"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        37
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_rock_cover",
+        "desert_wash"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 124,
+      "common_name": "Western Spadefoot",
+      "scientific_name": "Spea hammondii",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN SPADEFOOT"
+        ],
+        [
+          "SPEA HAMMONDII"
+        ],
+        [
+          "A HINDFOOT SPADE.",
+          "LOOK BY RAIN POOLS.",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "GRASSLAND BURROW",
+          "VERNAL POOL"
+        ],
+        [
+          "SAN JOAQUIN VALLEY",
+          "CENTRAL COAST/RANGES",
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 832,
+      "spot_ids_for_seen": [
+        218,
+        225,
+        226,
+        233,
+        234,
+        241,
+        242,
+        301,
+        313
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "grassland_burrow",
+        "vernal_pool"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Scaphiopodidae/Spea/Spea-hammondii",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190378&inline="
+      ]
+    },
+    {
+      "species_id": 125,
+      "common_name": "Great Basin Spadefoot",
+      "scientific_name": "Spea intermontana",
+      "hidden": false,
+      "text": [
+        [
+          "GREAT BASIN",
+          "SPADEFOOT"
+        ],
+        [
+          "SPEA INTERMONTANA"
+        ],
+        [
+          "A HINDFOOT SPADE.",
+          "SAGE COUNTRY POOLS.",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "SAGEBRUSH SEASONAL",
+          "POOL",
+          "SOIL BURROW"
+        ],
+        [
+          "E.SIERRA/GREAT BASIN",
+          "MODOC PLATEAU"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 32772,
+      "spot_ids_for_seen": [
+        99,
+        106,
+        107,
+        114,
+        123,
+        516,
+        517,
+        518,
+        519,
+        532,
+        533,
+        534,
+        535
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "sagebrush_seasonal_pool",
+        "soil_burrow"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Scaphiopodidae/Spea/Spea-intermontana",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1472"
+      ]
+    },
+    {
+      "species_id": 126,
+      "common_name": "Smith\u2019s Black-headed Snake",
+      "scientific_name": "Tantilla hobartsmithi",
+      "hidden": false,
+      "text": [
+        [
+          "SMITH'S BLACK-HEADED",
+          "SNAKE"
+        ],
+        [
+          "TANTILLA",
+          "HOBARTSMITHI"
+        ],
+        [
+          "A DARK-HEADED SNAKE.",
+          "LOOK BY JOSHUA TREES",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "DESERT RIPARIAN",
+          "JOSHUA WOODLAND"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        57
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_riparian",
+        "joshua_woodland"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 127,
+      "common_name": "Western Black-headed Snake",
+      "scientific_name": "Tantilla planiceps",
+      "hidden": false,
+      "text": [
+        [
+          "WESTERN BLACK-HEADED",
+          "SNAKE"
+        ],
+        [
+          "TANTILLA PLANICEPS"
+        ],
+        [
+          "A DARK-HEADED SNAKE.",
+          "LOOK IN COAST SCRUB.",
+          "LEAVE SOIL IN PLACE."
+        ],
+        [
+          "COASTAL CHAPARRAL"
+        ],
+        [
+          "SOUTH COAST"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 512,
+      "spot_ids_for_seen": [
+        321
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_chaparral"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2787&inline=1"
+      ]
+    },
+    {
+      "species_id": 128,
+      "common_name": "Rough-skinned Newt",
+      "scientific_name": "Taricha granulosa",
+      "hidden": false,
+      "text": [
+        [
+          "ROUGH-SKINNED NEWT"
+        ],
+        [
+          "TARICHA GRANULOSA"
+        ],
+        [
+          "GRAINY LAND SKIN.",
+          "LOOK BY FOREST POOLS",
+          "KEEP DAMP COVER SAFE"
+        ],
+        [
+          "FOREST POND",
+          "WET FOREST COVER"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4224,
+      "spot_ids_for_seen": [
+        253,
+        411
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_pond",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-granulosa",
+        "https://www.nps.gov/pore/learn/nature/amphibians.htm"
+      ]
+    },
+    {
+      "species_id": 129,
+      "common_name": "Red-bellied Newt",
+      "scientific_name": "Taricha rivularis",
+      "hidden": false,
+      "text": [
+        [
+          "RED-BELLIED NEWT"
+        ],
+        [
+          "TARICHA RIVULARIS"
+        ],
+        [
+          "A REDDISH UNDERSIDE.",
+          "LOOK BY FOREST WATER",
+          "LOOK WITHOUT TOUCH."
+        ],
+        [
+          "FOREST STREAM",
+          "WET FOREST COVER"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        428
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "forest_stream",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-rivularis",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190363&inline="
+      ]
+    },
+    {
+      "species_id": 130,
+      "common_name": "Sierra Newt",
+      "scientific_name": "Taricha sierrae",
+      "hidden": false,
+      "text": [
+        [
+          "SIERRA NEWT"
+        ],
+        [
+          "TARICHA SIERRAE"
+        ],
+        [
+          "A ROBUST NEWT.",
+          "LOOK BY SHADY CREEKS",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "SHADED CREEK",
+          "WET FOREST COVER"
+        ],
+        [
+          "SIERRA FOOTHILLS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 8,
+      "spot_ids_for_seen": [
+        142,
+        143
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "shaded_creek",
+        "wet_forest_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Salamandridae/Pleurodelinae/Taricha/Taricha-sierrae",
+        "https://www.nps.gov/seki/learn/nature/amphibfish.htm"
+      ]
+    },
+    {
+      "species_id": 131,
+      "common_name": "Aquatic Gartersnake",
+      "scientific_name": "Thamnophis atratus",
+      "hidden": false,
+      "text": [
+        [
+          "AQUATIC GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS ATRATUS"
+        ],
+        [
+          "A WATER-EDGE SNAKE.",
+          "LOOK BY ROCKY CREEKS",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "ROCKY CREEK"
+        ],
+        [
+          "BAY/DELTA/IN.COAST",
+          "CENTRAL COAST/RANGES",
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4480,
+      "spot_ids_for_seen": [
+        260,
+        289,
+        290,
+        444
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rocky_creek"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=3458&inline=1"
+      ]
+    },
+    {
+      "species_id": 132,
+      "common_name": "Sierra Gartersnake",
+      "scientific_name": "Thamnophis couchii",
+      "hidden": false,
+      "text": [
+        [
+          "SIERRA GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS COUCHII"
+        ],
+        [
+          "A STREAMSIDE SNAKE.",
+          "LOOK BY ROCKY CREEKS",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "FRESHWATER STREAM",
+          "MONTANE STREAM",
+          "ROCKY CREEK"
+        ],
+        [
+          "E.SIERRA/GREAT BASIN",
+          "SIERRA FOOTHILLS",
+          "SIERRA HIGH COUNTRY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 28,
+      "spot_ids_for_seen": [
+        100,
+        101,
+        108,
+        109,
+        116,
+        117,
+        151,
+        161
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_stream",
+        "montane_stream",
+        "rocky_creek"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2777&inline=1"
+      ]
+    },
+    {
+      "species_id": 133,
+      "common_name": "Terrestrial Gartersnake",
+      "scientific_name": "Thamnophis elegans",
+      "hidden": false,
+      "text": [
+        [
+          "TERRESTRIAL",
+          "GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS ELEGANS"
+        ],
+        [
+          "STRIPED GARTERSNAKE.",
+          "LOOK AT WATER EDGES.",
+          "LET IT SETTLE."
+        ],
+        [
+          "FRESHWATER EDGE"
+        ],
+        [
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16384,
+      "spot_ids_for_seen": [
+        482
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_edge"
+      ],
+      "sources": [
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 134,
+      "common_name": "Giant Gartersnake",
+      "scientific_name": "Thamnophis gigas",
+      "hidden": false,
+      "text": [
+        [
+          "GIANT GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS GIGAS"
+        ],
+        [
+          "A LARGE GARTERSNAKE.",
+          "LOOK IN WATER MARSH.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "FRESHWATER MARSH"
+        ],
+        [
+          "SACRAMENTO VALLEY",
+          "SAN JOAQUIN VALLEY"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 96,
+      "spot_ids_for_seen": [
+        189,
+        194,
+        195,
+        202,
+        203,
+        210,
+        211,
+        223,
+        224,
+        231,
+        232,
+        239,
+        240
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_marsh"
+      ],
+      "sources": [
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ]
+    },
+    {
+      "species_id": 135,
+      "common_name": "Two-striped Gartersnake",
+      "scientific_name": "Thamnophis hammondii",
+      "hidden": false,
+      "text": [
+        [
+          "TWO-STRIPED",
+          "GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS HAMMONDII"
+        ],
+        [
+          "TWO SIDE STRIPES.",
+          "LOOK BY A STREAM.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "FRESHWATER STREAM"
+        ],
+        [
+          "SOUTH COAST",
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1536,
+      "spot_ids_for_seen": [
+        329,
+        363
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_stream"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2809&inline=1"
+      ]
+    },
+    {
+      "species_id": 136,
+      "common_name": "Checkered Gartersnake",
+      "scientific_name": "Thamnophis marcianus",
+      "hidden": false,
+      "text": [
+        [
+          "CHECKERED",
+          "GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS MARCIANUS"
+        ],
+        [
+          "A CHECKERED FORM.",
+          "LOOK AT WATER EDGES.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "FRESHWATER EDGE"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DUSK",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        67,
+        87
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_edge"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2781&inline=1"
+      ]
+    },
+    {
+      "species_id": 137,
+      "common_name": "Northwestern Gartersnake",
+      "scientific_name": "Thamnophis ordinoides",
+      "hidden": false,
+      "text": [
+        [
+          "NORTHWESTERN",
+          "GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS",
+          "ORDINOIDES"
+        ],
+        [
+          "A SMALL GARTERSNAKE.",
+          "LOOK BY DAMP MEADOWS",
+          "LET IT SETTLE."
+        ],
+        [
+          "FRESHWATER EDGE",
+          "WET MEADOW"
+        ],
+        [
+          "NORTH COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 4096,
+      "spot_ids_for_seen": [
+        412
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_edge",
+        "wet_meadow"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2779&inline=1"
+      ]
+    },
+    {
+      "species_id": 138,
+      "common_name": "Common Gartersnake",
+      "scientific_name": "Thamnophis sirtalis",
+      "hidden": false,
+      "text": [
+        [
+          "COMMON GARTERSNAKE"
+        ],
+        [
+          "THAMNOPHIS SIRTALIS"
+        ],
+        [
+          "STRIPED GARTERSNAKE.",
+          "LOOK AT WATER EDGES.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "FRESHWATER EDGE"
+        ],
+        [
+          "CASCADES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 16384,
+      "spot_ids_for_seen": [
+        486
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "freshwater_edge"
+      ],
+      "sources": [
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 139,
+      "common_name": "California Lyresnake",
+      "scientific_name": "Trimorphodon lyrophanes",
+      "hidden": false,
+      "text": [
+        [
+          "CALIFORNIA LYRESNAKE"
+        ],
+        [
+          "TRIMORPHODON",
+          "LYROPHANES"
+        ],
+        [
+          "A BROAD-HEADED SNAKE",
+          "LOOK IN ROCK CANYONS",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "DESERT CANYON",
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        38
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_canyon",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 140,
+      "common_name": "Coachella Fringe-toed Lizard",
+      "scientific_name": "Uma inornata",
+      "hidden": false,
+      "text": [
+        [
+          "COACHELLA FRINGE-",
+          "TOED LIZARD"
+        ],
+        [
+          "UMA INORNATA"
+        ],
+        [
+          "TOE FRINGES IN SAND.",
+          "LOOK BY SAND DUNES.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "SAND DUNES"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        76,
+        77
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "sand_dunes"
+      ],
+      "sources": [
+        "https://www.fws.gov/rivers/carp/carp/species/coachella-valley-fringe-toed-lizard-uma-inornata"
+      ]
+    },
+    {
+      "species_id": 141,
+      "common_name": "Colorado Desert Fringe-toed Lizard",
+      "scientific_name": "Uma notata",
+      "hidden": false,
+      "text": [
+        [
+          "COLORADO DESERT",
+          "FRINGE-TOED LIZARD"
+        ],
+        [
+          "UMA NOTATA"
+        ],
+        [
+          "TOE FRINGES IN SAND.",
+          "LOOK BY SAND DUNES.",
+          "LET IT SETTLE."
+        ],
+        [
+          "SAND DUNES"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        78,
+        79
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "sand_dunes"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2675&inline=1"
+      ]
+    },
+    {
+      "species_id": 142,
+      "common_name": "Mohave Fringe-toed Lizard",
+      "scientific_name": "Uma scoparia",
+      "hidden": false,
+      "text": [
+        [
+          "MOHAVE FRINGE-TOED",
+          "LIZARD"
+        ],
+        [
+          "UMA SCOPARIA"
+        ],
+        [
+          "TOE FRINGES IN SAND.",
+          "LOOK BY SAND DUNES.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "SAND DUNES"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        58
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "sand_dunes"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 143,
+      "common_name": "Long-tailed Brush Lizard",
+      "scientific_name": "Urosaurus graciosus",
+      "hidden": false,
+      "text": [
+        [
+          "LONG-TAILED BRUSH",
+          "LIZARD"
+        ],
+        [
+          "UROSAURUS GRACIOSUS"
+        ],
+        [
+          "A LONG THIN TAIL.",
+          "LOOK BY DESERT SCRUB",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "DESERT SHRUB"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        39
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_shrub"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 144,
+      "common_name": "Baja California Brush Lizard",
+      "scientific_name": "Urosaurus microscutatus",
+      "hidden": false,
+      "text": [
+        [
+          "BAJA CALIFORNIA",
+          "BRUSH LIZARD"
+        ],
+        [
+          "UROSAURUS",
+          "MICROSCUTATUS"
+        ],
+        [
+          "A SMALL BRUSH LIZARD",
+          "LOOK BY ROCK FACES.",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "ROCK CREVICE",
+          "ROCK OUTCROP"
+        ],
+        [
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1024,
+      "spot_ids_for_seen": [
+        360,
+        361,
+        374,
+        375
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "rock_crevice",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2701&inline=1"
+      ]
+    },
+    {
+      "species_id": 145,
+      "common_name": "Ornate Tree Lizard",
+      "scientific_name": "Urosaurus ornatus",
+      "hidden": false,
+      "text": [
+        [
+          "ORNATE TREE LIZARD"
+        ],
+        [
+          "UROSAURUS ORNATUS"
+        ],
+        [
+          "A SMALL TREE LIZARD.",
+          "LOOK BY DESERT WATER",
+          "LET IT SETTLE."
+        ],
+        [
+          "DESERT RIPARIAN"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        80,
+        81
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "desert_riparian"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2699&inline=1"
+      ]
+    },
+    {
+      "species_id": 146,
+      "common_name": "Common Side-blotched Lizard",
+      "scientific_name": "Uta stansburiana",
+      "hidden": false,
+      "text": [
+        [
+          "COMMON SIDE-BLOTCHED",
+          "LIZARD"
+        ],
+        [
+          "UTA STANSBURIANA"
+        ],
+        [
+          "A DARK SIDE PATCH.",
+          "LOOK ON OPEN SAND.",
+          "KEEP ITS COVER SAFE."
+        ],
+        [
+          "OPEN SAND",
+          "ROCK OUTCROP"
+        ],
+        [
+          "MOJAVE"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1,
+      "spot_ids_for_seen": [
+        59
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "open_sand",
+        "rock_outcrop"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf"
+      ]
+    },
+    {
+      "species_id": 147,
+      "common_name": "Sandstone Night Lizard",
+      "scientific_name": "Xantusia gracilis",
+      "hidden": false,
+      "text": [
+        [
+          "SANDSTONE NIGHT",
+          "LIZARD"
+        ],
+        [
+          "XANTUSIA GRACILIS"
+        ],
+        [
+          "A CREVICE DWELLER.",
+          "LOOK BY SANDSTONE.",
+          "NO HANDLING NEEDED."
+        ],
+        [
+          "SANDSTONE CREVICE"
+        ],
+        [
+          "COLORADO DESERT"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 2,
+      "spot_ids_for_seen": [
+        82,
+        83
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "sandstone_crevice"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2813&inline=1"
+      ]
+    },
+    {
+      "species_id": 148,
+      "common_name": "Granite Night Lizard",
+      "scientific_name": "Xantusia henshawi",
+      "hidden": false,
+      "text": [
+        [
+          "GRANITE NIGHT LIZARD"
+        ],
+        [
+          "XANTUSIA HENSHAWI"
+        ],
+        [
+          "A CREVICE DWELLER.",
+          "LOOK BY GRANITE GAPS",
+          "WATCH WITHOUT TOUCH."
+        ],
+        [
+          "GRANITE CREVICE"
+        ],
+        [
+          "COLORADO DESERT",
+          "SOUTHERN MOUNTAINS"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 1026,
+      "spot_ids_for_seen": [
+        75,
+        372,
+        373
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "granite_crevice"
+      ],
+      "sources": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2713&inline=1"
+      ]
+    },
+    {
+      "species_id": 149,
+      "common_name": "Desert Night Lizard",
+      "scientific_name": "Xantusia vigilis",
+      "hidden": false,
+      "text": [
+        [
+          "DESERT NIGHT LIZARD"
+        ],
+        [
+          "XANTUSIA VIGILIS"
+        ],
+        [
+          "A COVER DWELLER.",
+          "LOOK BY FALLEN YUCCA",
+          "LET IT SETTLE."
+        ],
+        [
+          "DECAYING LOG",
+          "FALLEN YUCCA"
+        ],
+        [
+          "MOJAVE",
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "DAY",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 257,
+      "spot_ids_for_seen": [
+        40,
+        291,
+        292
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "decaying_log",
+        "fallen_yucca"
+      ],
+      "sources": [
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/pinn/learn/nature/checklist-amphibians-reptiles.htm",
+        "https://www.nps.gov/pinn/learn/nature/reptiles.htm"
+      ]
+    },
+    {
+      "species_id": 150,
+      "common_name": "Arguello Slender Salamander",
+      "scientific_name": "Batrachoseps wakei",
+      "hidden": true,
+      "text": [
+        [
+          "ARGUELLO SLENDER",
+          "SALAMANDER"
+        ],
+        [
+          "BATRACHOSEPS WAKEI"
+        ],
+        [
+          "FOUR TOES EACH FOOT.",
+          "DAMP COAST SCRUB.",
+          "LEAVE LITTER ALONE."
+        ],
+        [
+          "COASTAL SCRUB MOIST",
+          "COVER"
+        ],
+        [
+          "CENTRAL COAST/RANGES"
+        ],
+        [
+          "ON THIS HIKE:",
+          "NIGHT",
+          "ACTIVITY CAN VARY."
+        ],
+        [
+          "TAKE PHOTOS ONLY.",
+          "NO HANDLING.",
+          "LEAVE SHELTER WHOLE."
+        ]
+      ],
+      "region_mask": 256,
+      "spot_ids_for_seen": [
+        293
+      ],
+      "care_basis": "HANDOFF original no-handling/leave-habitat-whole ethics, not a species-specific medical rule",
+      "habitat_permission_ids": [
+        "coastal_scrub_moist_cover"
+      ],
+      "sources": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-wakei",
+        "https://documents.coastal.ca.gov/reports/2023/10/F9a/F9a-10-2023-report.pdf"
+      ]
+    }
+  ]
+}

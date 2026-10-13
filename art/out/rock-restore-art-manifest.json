@@ -1,0 +1,43 @@
+{
+  "frames": [
+    "rock_restore_0.png",
+    "rock_restore_1.png",
+    "rock_restore_2.png",
+    "rock_restore_3.png"
+  ],
+  "palette": [
+    [
+      240,
+      216,
+      160
+    ],
+    [
+      184,
+      144,
+      96
+    ],
+    [
+      112,
+      96,
+      72
+    ],
+    [
+      40,
+      32,
+      24
+    ]
+  ],
+  "dimensions": [
+    16,
+    16
+  ],
+  "frame_VBlank_ticks": [
+    8,
+    8,
+    8,
+    2
+  ],
+  "mechanic": "loose_stone_type0_only",
+  "status": "authored_source_pending_native_and_human_review",
+  "source_sha256": "cb73b4db82cb854f996080c171e675740bf0812155c5021e7adbb6850c1f4b7f"
+}

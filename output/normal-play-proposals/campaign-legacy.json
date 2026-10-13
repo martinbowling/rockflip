@@ -1,0 +1,4762 @@
+{
+  "schema_version": 1,
+  "implementation_status": "authored_and_compiled_native_module_pending_parent_UI_hooks_and_ROM_acceptance",
+  "scope": "16 districts x3 meaningful habitat/care stages; exact-site photos plus caption comparison, four chapter clusters, exhibit finale and optional hidden clue. Not human-reviewed playtime or release approval.",
+  "districts": [
+    {
+      "district_id": "D01",
+      "native_district": 0,
+      "ranger_name": "NELL",
+      "title": "THE LIVING DESERT",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 0,
+          "spot_id": 2,
+          "map_id": 0,
+          "district_id": "D01",
+          "habitat_id": "desert_burrow",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 3,
+          "interaction_type": 2,
+          "requires_restore_after_photo": false,
+          "map_name": "JOSHUA FLATS"
+        },
+        {
+          "target_index": 1,
+          "species_id": 1,
+          "spot_id": 1,
+          "map_id": 0,
+          "district_id": "D01",
+          "habitat_id": "rock_crevice",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "JOSHUA FLATS"
+        },
+        {
+          "target_index": 2,
+          "species_id": 2,
+          "spot_id": 3,
+          "map_id": 0,
+          "district_id": "D01",
+          "habitat_id": "open_sand",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 3,
+          "requires_restore_after_photo": false,
+          "map_name": "JOSHUA FLATS"
+        },
+        {
+          "target_index": 3,
+          "species_id": 5,
+          "spot_id": 0,
+          "map_id": 0,
+          "district_id": "D01",
+          "habitat_id": "desert_rock_cover",
+          "subarea_id": "broad_habitat_route",
+          "phase": 1,
+          "phase_name": "dusk",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 0,
+          "requires_restore_after_photo": true,
+          "map_name": "JOSHUA FLATS"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D01_1",
+          "stage_index": 0,
+          "title": "A HOME BELOW",
+          "clue": [
+            "DAY: TORTOISE BURROW",
+            "KEEP THREE OR FOUR."
+          ],
+          "question": [
+            "WHAT DOES A BURROW",
+            "OFFER IN THE HEAT?"
+          ],
+          "options": [
+            "COOL SHELTER",
+            "A PLACE TO DIG",
+            "A CAMERA STAND"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "SHELTER IS EVIDENCE.",
+            "NOW COMPARE HOMES."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 0,
+                "spot_id": 2,
+                "map_id": 0,
+                "district_id": "D01",
+                "habitat_id": "desert_burrow",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 3,
+                "interaction_type": 2,
+                "requires_restore_after_photo": false,
+                "map_name": "JOSHUA FLATS"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D01_2",
+          "stage_index": 1,
+          "title": "SAND AND CREVICE",
+          "clue": [
+            "DAY: SAND LIZARD.",
+            "DAY: CHUCKWALLA."
+          ],
+          "question": [
+            "MATCH THE TWO",
+            "DESERT HOMES."
+          ],
+          "options": [
+            "BOTH IN A POND",
+            "SAND / ROCK CRACK",
+            "BOTH IN TREE BARK"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "TWO KINDS OF COVER.",
+            "NEITHER NEEDS TOUCH."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 1,
+                "spot_id": 1,
+                "map_id": 0,
+                "district_id": "D01",
+                "habitat_id": "rock_crevice",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "JOSHUA FLATS"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 2,
+                "spot_id": 3,
+                "map_id": 0,
+                "district_id": "D01",
+                "habitat_id": "open_sand",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 3,
+                "requires_restore_after_photo": false,
+                "map_name": "JOSHUA FLATS"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D01_3",
+          "stage_index": 2,
+          "title": "LEAVE IT WHOLE",
+          "clue": [
+            "DUSK: KINGSNAKE.",
+            "PHOTO. REPLACE ROCK."
+          ],
+          "question": [
+            "WHAT FINISHES THIS",
+            "ROCK OBSERVATION?"
+          ],
+          "options": [
+            "TAKE ROCK TO CAMP",
+            "LEAVE ITS HOME OPEN",
+            "REPLACE THE ROCK"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "A LIVING DESERT.",
+            "YOUR FOLDER IS READY"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": true,
+          "care_goal": "Restore photographed loose stone at exact same site after valid photo.",
+          "requires_mojave_journal_complete": true,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 5,
+                "spot_id": 0,
+                "map_id": 0,
+                "district_id": "D01",
+                "habitat_id": "desert_rock_cover",
+                "subarea_id": "broad_habitat_route",
+                "phase": 1,
+                "phase_name": "dusk",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 0,
+                "requires_restore_after_photo": true,
+                "map_name": "JOSHUA FLATS"
+              }
+            },
+            {
+              "action": "restore_same_photographed_stone",
+              "spot_id": 0
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D02",
+      "native_district": 1,
+      "ranger_name": "SOL",
+      "title": "SHADE AND LOW WATER",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 118,
+          "spot_id": 84,
+          "map_id": 32,
+          "district_id": "D02",
+          "habitat_id": "desert_rain_pool",
+          "subarea_id": "southeastern_rain_pool_plain",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SALT TURN"
+        },
+        {
+          "target_index": 1,
+          "species_id": 98,
+          "spot_id": 70,
+          "map_id": 25,
+          "district_id": "D02",
+          "habitat_id": "open_sand",
+          "subarea_id": "low_desert_sandy_flats",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 3,
+          "requires_restore_after_photo": false,
+          "map_name": "GRAVEL FAN"
+        },
+        {
+          "target_index": 2,
+          "species_id": 140,
+          "spot_id": 76,
+          "map_id": 28,
+          "district_id": "D02",
+          "habitat_id": "sand_dunes",
+          "subarea_id": "inland_valley_dunes",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 3,
+          "requires_restore_after_photo": false,
+          "map_name": "GRANITE SHELF"
+        },
+        {
+          "target_index": 3,
+          "species_id": 72,
+          "spot_id": 68,
+          "map_id": 24,
+          "district_id": "D02",
+          "habitat_id": "rock_outcrop",
+          "subarea_id": "western_desert_rocky_fan",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "PALM WASH"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D02_1",
+          "stage_index": 0,
+          "title": "A LOW DESERT POOL",
+          "clue": [
+            "NIGHT: SPADEFOOT.",
+            "LOOK BY A RAIN POOL."
+          ],
+          "question": [
+            "WHICH CLUE FITS",
+            "THIS LOW-DESERT HOME"
+          ],
+          "options": [
+            "A SALTWATER REEF",
+            "A TEMPORARY POOL",
+            "A SNOWY SUMMIT"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "RAIN CAN MAKE A HOME",
+            "WITHOUT MAKING A SEA"
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 118,
+                "spot_id": 84,
+                "map_id": 32,
+                "district_id": "D02",
+                "habitat_id": "desert_rain_pool",
+                "subarea_id": "southeastern_rain_pool_plain",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SALT TURN"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D02_2",
+          "stage_index": 1,
+          "title": "SAND IS NOT EMPTY",
+          "clue": [
+            "DAY: HORNED LIZARD.",
+            "DAY: DUNE FRINGE-TOE"
+          ],
+          "question": [
+            "WHAT LINKS THESE",
+            "TWO DESERT PHOTOS?"
+          ],
+          "options": [
+            "BOTH ARE IN TREES",
+            "BOTH NEED DEEP WATER",
+            "SANDY GROUND"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "SAND HAS NEIGHBORS.",
+            "KEEP SOIL IN PLACE."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 98,
+                "spot_id": 70,
+                "map_id": 25,
+                "district_id": "D02",
+                "habitat_id": "open_sand",
+                "subarea_id": "low_desert_sandy_flats",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 3,
+                "requires_restore_after_photo": false,
+                "map_name": "GRAVEL FAN"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 140,
+                "spot_id": 76,
+                "map_id": 28,
+                "district_id": "D02",
+                "habitat_id": "sand_dunes",
+                "subarea_id": "inland_valley_dunes",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 3,
+                "requires_restore_after_photo": false,
+                "map_name": "GRANITE SHELF"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D02_3",
+          "stage_index": 2,
+          "title": "ROCK ABOVE THE WASH",
+          "clue": [
+            "DAY: COLLARED LIZARD",
+            "WATCH THE ROCK EDGE."
+          ],
+          "question": [
+            "HOW DOES THE LAST",
+            "PHOTO ADD TO THE SET"
+          ],
+          "options": [
+            "A ROCKY REFUGE",
+            "ALL HOMES ARE SAND",
+            "ONE HOME FITS ALL"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "POOL, SAND AND ROCK.",
+            "THE LOW DESERT LIVES"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 72,
+                "spot_id": 68,
+                "map_id": 24,
+                "district_id": "D02",
+                "habitat_id": "rock_outcrop",
+                "subarea_id": "western_desert_rocky_fan",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "PALM WASH"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D03",
+      "native_district": 2,
+      "ranger_name": "IVO",
+      "title": "BASIN REFUGES",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 25,
+          "spot_id": 94,
+          "map_id": 37,
+          "district_id": "D03",
+          "habitat_id": "spring_marsh",
+          "subarea_id": "isolated_basin_spring_marsh",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "BASIN GATE"
+        },
+        {
+          "target_index": 1,
+          "species_id": 41,
+          "spot_id": 96,
+          "map_id": 38,
+          "district_id": "D03",
+          "habitat_id": "mountain_spring_seep",
+          "subarea_id": "mountain_spring_refuge",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SPRING MARSH"
+        },
+        {
+          "target_index": 2,
+          "species_id": 78,
+          "spot_id": 104,
+          "map_id": 42,
+          "district_id": "D03",
+          "habitat_id": "wet_talus",
+          "subarea_id": "mountain_spring_refuge",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "TALUS STAIR"
+        },
+        {
+          "target_index": 3,
+          "species_id": 125,
+          "spot_id": 99,
+          "map_id": 39,
+          "district_id": "D03",
+          "habitat_id": "sagebrush_seasonal_pool",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "COLD SPRING"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D03_1",
+          "stage_index": 0,
+          "title": "A SPRING IN A BASIN",
+          "clue": [
+            "DAY: BLACK TOAD.",
+            "LOOK BY SPRING MARSH"
+          ],
+          "question": [
+            "WHY NOTE THE WATER",
+            "BESIDE THIS TOAD?"
+          ],
+          "options": [
+            "ALL BASINS ARE WET",
+            "TO MARK A DIG SITE",
+            "IT SHOWS ITS REFUGE"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "A SMALL WET REFUGE.",
+            "NOW LOOK UP-SLOPE."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 25,
+                "spot_id": 94,
+                "map_id": 37,
+                "district_id": "D03",
+                "habitat_id": "spring_marsh",
+                "subarea_id": "isolated_basin_spring_marsh",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "BASIN GATE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D03_2",
+          "stage_index": 1,
+          "title": "SEEP AND TALUS",
+          "clue": [
+            "NIGHT: INYO SALAM.",
+            "DAY: PANAMINT ALLIG."
+          ],
+          "question": [
+            "MATCH THESE TWO",
+            "MOUNTAIN REFUGES."
+          ],
+          "options": [
+            "SEEP / WET TALUS",
+            "OCEAN / PALM TOP",
+            "DRY DUNE / OCEAN"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "WET POCKETS DIFFER.",
+            "KEEP THEM INTACT."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 41,
+                "spot_id": 96,
+                "map_id": 38,
+                "district_id": "D03",
+                "habitat_id": "mountain_spring_seep",
+                "subarea_id": "mountain_spring_refuge",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SPRING MARSH"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 78,
+                "spot_id": 104,
+                "map_id": 42,
+                "district_id": "D03",
+                "habitat_id": "wet_talus",
+                "subarea_id": "mountain_spring_refuge",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "TALUS STAIR"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D03_3",
+          "stage_index": 2,
+          "title": "SAGE COUNTRY WATER",
+          "clue": [
+            "NIGHT: SPADEFOOT.",
+            "LOOK BY SAGE POOLS."
+          ],
+          "question": [
+            "WHAT SHOULD STAY",
+            "WHEN YOU LEAVE?"
+          ],
+          "options": [
+            "A NEW DRAINAGE DITCH",
+            "SOIL AND COVER",
+            "THE ANIMAL AT CAMP"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "BASIN, SEEP AND POOL",
+            "REFUGES LINK THE SET"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 125,
+                "spot_id": 99,
+                "map_id": 39,
+                "district_id": "D03",
+                "habitat_id": "sagebrush_seasonal_pool",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "COLD SPRING"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D04",
+      "native_district": 3,
+      "ranger_name": "TESS",
+      "title": "THE OAK CONNECTION",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 6,
+          "spot_id": 10,
+          "map_id": 3,
+          "district_id": "D04",
+          "habitat_id": "rock_perch",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "OAK ROCK CORRIDOR"
+        },
+        {
+          "target_index": 1,
+          "species_id": 16,
+          "spot_id": 11,
+          "map_id": 3,
+          "district_id": "D04",
+          "habitat_id": "oak_tree_cover",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "OAK ROCK CORRIDOR"
+        },
+        {
+          "target_index": 2,
+          "species_id": 56,
+          "spot_id": 136,
+          "map_id": 58,
+          "district_id": "D04",
+          "habitat_id": "canyon_moist_cover",
+          "subarea_id": "southern_lower_canyon_refuge",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "LOW CANYON"
+        },
+        {
+          "target_index": 3,
+          "species_id": 79,
+          "spot_id": 147,
+          "map_id": 62,
+          "district_id": "D04",
+          "habitat_id": "wet_forest_cover",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "GRASS SADDLE"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D04_1",
+          "stage_index": 0,
+          "title": "DAY ON A ROCK",
+          "clue": [
+            "DAY: FENCE LIZARD.",
+            "WATCH ITS ROCK PERCH"
+          ],
+          "question": [
+            "WHICH CAPTION FITS",
+            "THIS FIRST PHOTO?"
+          ],
+          "options": [
+            "A DAYLIGHT ROCK HOME",
+            "A DEEP SEA HOME",
+            "A PHOTO IN MIDNIGHT"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "A SUNNY OPENING.",
+            "OAKS ADD A NEW PAGE."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 6,
+                "spot_id": 10,
+                "map_id": 3,
+                "district_id": "D04",
+                "habitat_id": "rock_perch",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "OAK ROCK CORRIDOR"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D04_2",
+          "stage_index": 1,
+          "title": "OAK AND CANYON",
+          "clue": [
+            "NIGHT: OAK SALAM.",
+            "NIGHT: CANYON SALAM."
+          ],
+          "question": [
+            "WHAT LINKS THESE",
+            "TWO QUIET HOMES?"
+          ],
+          "options": [
+            "ONE EMPTY HABITAT",
+            "DAMP SHELTER",
+            "ONLY SUNNY SAND"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "COVER CONNECTS HOMES",
+            "LEAVE WOOD IN PLACE."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 16,
+                "spot_id": 11,
+                "map_id": 3,
+                "district_id": "D04",
+                "habitat_id": "oak_tree_cover",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "OAK ROCK CORRIDOR"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 56,
+                "spot_id": 136,
+                "map_id": 58,
+                "district_id": "D04",
+                "habitat_id": "canyon_moist_cover",
+                "subarea_id": "southern_lower_canyon_refuge",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "LOW CANYON"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D04_3",
+          "stage_index": 2,
+          "title": "THE FOREST MARGIN",
+          "clue": [
+            "NIGHT: ENSATINA.",
+            "LOOK BY DAMP FOREST."
+          ],
+          "question": [
+            "HOW SHOULD YOU",
+            "FINISH THIS WALK?"
+          ],
+          "options": [
+            "PEEL OFF TREE BARK",
+            "CLEAR LEAF LITTER",
+            "LEAVE COVER SAFE"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "OAK TO CANYON COVER.",
+            "A LIVING CORRIDOR."
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 79,
+                "spot_id": 147,
+                "map_id": 62,
+                "district_id": "D04",
+                "habitat_id": "wet_forest_cover",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "GRASS SADDLE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D05",
+      "native_district": 4,
+      "ranger_name": "MIRA",
+      "title": "HIGH WATER HOMES",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 17,
+          "spot_id": 18,
+          "map_id": 8,
+          "district_id": "D05",
+          "habitat_id": "mountain_lake_edge",
+          "subarea_id": "north_central_sierra",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SNOWMELT LAKE"
+        },
+        {
+          "target_index": 1,
+          "species_id": 23,
+          "spot_id": 175,
+          "map_id": 73,
+          "district_id": "D05",
+          "habitat_id": "high_meadow_pool",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "PINE SWITCHBACK"
+        },
+        {
+          "target_index": 2,
+          "species_id": 85,
+          "spot_id": 160,
+          "map_id": 66,
+          "district_id": "D05",
+          "habitat_id": "damp_granite_talus",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "NORTHERN LAKE"
+        },
+        {
+          "target_index": 3,
+          "species_id": 20,
+          "spot_id": 162,
+          "map_id": 67,
+          "district_id": "D05",
+          "habitat_id": "montane_pond",
+          "subarea_id": "northern_sierra_wetlands",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "WETLAND MEADOW"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D05_1",
+          "stage_index": 0,
+          "title": "A HIGH LAKE EDGE",
+          "clue": [
+            "DAY: SIERRA YL FROG",
+            "WATCH FROM LAKE EDGE"
+          ],
+          "question": [
+            "WHICH CAPTION FITS",
+            "YOUR FIRST PHOTO?"
+          ],
+          "options": [
+            "A LOW DESERT DUNE",
+            "MOUNTAIN LAKE EDGE",
+            "A SALTY TIDE POOL"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "HIGH WATER IS HOME.",
+            "NOW COMPARE REFUGES."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 17,
+                "spot_id": 18,
+                "map_id": 8,
+                "district_id": "D05",
+                "habitat_id": "mountain_lake_edge",
+                "subarea_id": "north_central_sierra",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SNOWMELT LAKE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D05_2",
+          "stage_index": 1,
+          "title": "MEADOW AND GRANITE",
+          "clue": [
+            "DAY: YOSEMITE TOAD.",
+            "NIGHT: LYELL SALAM."
+          ],
+          "question": [
+            "MATCH THE TWO",
+            "HIGH-COUNTRY HOMES."
+          ],
+          "options": [
+            "BOTH IN OPEN SEA",
+            "BOTH IN DRY SAND",
+            "POOL / DAMP GRANITE"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "WATER AND DAMP ROCK.",
+            "NOT ONE EMPTY SUMMIT"
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 23,
+                "spot_id": 175,
+                "map_id": 73,
+                "district_id": "D05",
+                "habitat_id": "high_meadow_pool",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "PINE SWITCHBACK"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 85,
+                "spot_id": 160,
+                "map_id": 66,
+                "district_id": "D05",
+                "habitat_id": "damp_granite_talus",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "NORTHERN LAKE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D05_3",
+          "stage_index": 2,
+          "title": "A MOUNTAIN POND",
+          "clue": [
+            "NIGHT: LONG-TOED.",
+            "LOOK BY A HIGH POND."
+          ],
+          "question": [
+            "WHAT KEEPS THIS",
+            "OBSERVATION CAREFUL?"
+          ],
+          "options": [
+            "KEEP WATER CLEAN",
+            "WALK THROUGH WATER",
+            "TAKE THE ANIMAL HOME"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "LAKE, MEADOW, POND.",
+            "HIGH SET COMPLETE."
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 20,
+                "spot_id": 162,
+                "map_id": 67,
+                "district_id": "D05",
+                "habitat_id": "montane_pond",
+                "subarea_id": "northern_sierra_wetlands",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "WETLAND MEADOW"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D06",
+      "native_district": 5,
+      "ranger_name": "JUNE",
+      "title": "TWO VALLEY WATERS",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 9,
+          "spot_id": 14,
+          "map_id": 5,
+          "district_id": "D06",
+          "habitat_id": "grassland_burrow",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 2,
+          "requires_restore_after_photo": false,
+          "map_name": "SEASONAL POOL BANK"
+        },
+        {
+          "target_index": 1,
+          "species_id": 15,
+          "spot_id": 15,
+          "map_id": 5,
+          "district_id": "D06",
+          "habitat_id": "freshwater_pond",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SEASONAL POOL BANK"
+        },
+        {
+          "target_index": 2,
+          "species_id": 134,
+          "spot_id": 189,
+          "map_id": 80,
+          "district_id": "D06",
+          "habitat_id": "freshwater_marsh",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "VERNAL BASIN"
+        },
+        {
+          "target_index": 3,
+          "species_id": 9,
+          "spot_id": 196,
+          "map_id": 83,
+          "district_id": "D06",
+          "habitat_id": "vernal_pool",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "WILLOW TURN"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D06_1",
+          "stage_index": 0,
+          "title": "A GRASSLAND HOME",
+          "clue": [
+            "NIGHT: TIGER SALAM.",
+            "LEAVE BURROWS ALONE."
+          ],
+          "question": [
+            "WHAT IS THIS",
+            "FIRST SHELTER CLUE?"
+          ],
+          "options": [
+            "A HOLE YOU MUST DIG",
+            "A SEA TURTLE NEST",
+            "A GRASSLAND BURROW"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "SHELTER ABOVE WATER.",
+            "COMPARE WET HOMES."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 9,
+                "spot_id": 14,
+                "map_id": 5,
+                "district_id": "D06",
+                "habitat_id": "grassland_burrow",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 2,
+                "requires_restore_after_photo": false,
+                "map_name": "SEASONAL POOL BANK"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D06_2",
+          "stage_index": 1,
+          "title": "POND AND MARSH",
+          "clue": [
+            "DAY: POND TURTLE.",
+            "DAY: GIANT GARTER."
+          ],
+          "question": [
+            "MATCH THE TWO",
+            "FRESHWATER PHOTOS."
+          ],
+          "options": [
+            "POND / MARSH",
+            "BOTH IN DESERT DUNES",
+            "BOTH ON DRY SUMMITS"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "TWO KINDS OF WATER.",
+            "KEEP THE BANKS SAFE."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 15,
+                "spot_id": 15,
+                "map_id": 5,
+                "district_id": "D06",
+                "habitat_id": "freshwater_pond",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SEASONAL POOL BANK"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 134,
+                "spot_id": 189,
+                "map_id": 80,
+                "district_id": "D06",
+                "habitat_id": "freshwater_marsh",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "VERNAL BASIN"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D06_3",
+          "stage_index": 2,
+          "title": "THE OTHER SALAM PAGE",
+          "clue": [
+            "NIGHT: TIGER SALAM.",
+            "LOOK BY A RAIN POOL."
+          ],
+          "question": [
+            "IS A BURROW PHOTO",
+            "ITS WHOLE LIFE STORY"
+          ],
+          "options": [
+            "THE POOL IS USELESS",
+            "ALSO NOTE THE POOL",
+            "DIG UP EVERY BURROW"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "BURROW AND RAIN POOL",
+            "ONE ANIMAL: 2 HOMES"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 9,
+                "spot_id": 196,
+                "map_id": 83,
+                "district_id": "D06",
+                "habitat_id": "vernal_pool",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "WILLOW TURN"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D07",
+      "native_district": 6,
+      "ranger_name": "ADA",
+      "title": "THE VALLEY MOSAIC",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 81,
+          "spot_id": 221,
+          "map_id": 96,
+          "district_id": "D07",
+          "habitat_id": "dry_grassland",
+          "subarea_id": "remnant_valley_scrub",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 9,
+          "requires_restore_after_photo": false,
+          "map_name": "DUNE GRASS TURN"
+        },
+        {
+          "target_index": 1,
+          "species_id": 32,
+          "spot_id": 219,
+          "map_id": 95,
+          "district_id": "D07",
+          "habitat_id": "alkali_scrub",
+          "subarea_id": "southwestern_valley_scrub",
+          "phase": 1,
+          "phase_name": "dusk",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 4,
+          "requires_restore_after_photo": false,
+          "map_name": "SCRUB REMNANT"
+        },
+        {
+          "target_index": 2,
+          "species_id": 134,
+          "spot_id": 223,
+          "map_id": 97,
+          "district_id": "D07",
+          "habitat_id": "freshwater_marsh",
+          "subarea_id": "remnant_valley_wetlands",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "WETLAND REMNANT"
+        },
+        {
+          "target_index": 3,
+          "species_id": 124,
+          "spot_id": 225,
+          "map_id": 98,
+          "district_id": "D07",
+          "habitat_id": "vernal_pool",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "VERNAL RIM"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D07_1",
+          "stage_index": 0,
+          "title": "GRASSLAND DETAILS",
+          "clue": [
+            "DAY: BLUNT-NOSE.",
+            "LOOK IN DRY GRASS."
+          ],
+          "question": [
+            "WHICH CLUE FITS",
+            "THIS VALLEY LIZARD?"
+          ],
+          "options": [
+            "DRY GRASSLAND",
+            "A ROCKY OCEAN REEF",
+            "A COOL FOREST POND"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "DRY GROUND HAS LIFE.",
+            "LOOK FOR OTHER HOMES"
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 81,
+                "spot_id": 221,
+                "map_id": 96,
+                "district_id": "D07",
+                "habitat_id": "dry_grassland",
+                "subarea_id": "remnant_valley_scrub",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 9,
+                "requires_restore_after_photo": false,
+                "map_name": "DUNE GRASS TURN"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D07_2",
+          "stage_index": 1,
+          "title": "SCRUB AND WATER",
+          "clue": [
+            "DUSK: LEGLESS LIZARD",
+            "DAY: GIANT GARTER."
+          ],
+          "question": [
+            "MATCH THE TWO",
+            "VALLEY NEIGHBORS."
+          ],
+          "options": [
+            "BOTH IN TREE CANOPY",
+            "SCRUB / MARSH",
+            "BOTH IN DEEP SEA"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "A VALLEY IS A MOSAIC",
+            "NOT JUST ONE FIELD."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 32,
+                "spot_id": 219,
+                "map_id": 95,
+                "district_id": "D07",
+                "habitat_id": "alkali_scrub",
+                "subarea_id": "southwestern_valley_scrub",
+                "phase": 1,
+                "phase_name": "dusk",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 4,
+                "requires_restore_after_photo": false,
+                "map_name": "SCRUB REMNANT"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 134,
+                "spot_id": 223,
+                "map_id": 97,
+                "district_id": "D07",
+                "habitat_id": "freshwater_marsh",
+                "subarea_id": "remnant_valley_wetlands",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "WETLAND REMNANT"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D07_3",
+          "stage_index": 2,
+          "title": "AFTER THE DRY PAGE",
+          "clue": [
+            "NIGHT: SPADEFOOT.",
+            "LOOK BY A RAIN POOL."
+          ],
+          "question": [
+            "WHAT SHOULD YOU",
+            "LEAVE IN PLACE?"
+          ],
+          "options": [
+            "EVERY ANIMAL AT CAMP",
+            "AN OPEN DRAIN TRENCH",
+            "SOIL AND BURROWS"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "DRY AND WET REFUGES.",
+            "THE VALLEY SET IS IN"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 124,
+                "spot_id": 225,
+                "map_id": 98,
+                "district_id": "D07",
+                "habitat_id": "vernal_pool",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "VERNAL RIM"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D08",
+      "native_district": 7,
+      "ranger_name": "FINN",
+      "title": "CREEK TO ROCK",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 7,
+          "spot_id": 12,
+          "map_id": 4,
+          "district_id": "D08",
+          "habitat_id": "shaded_creek",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "FERN CREEK TRAIL"
+        },
+        {
+          "target_index": 1,
+          "species_id": 8,
+          "spot_id": 13,
+          "map_id": 4,
+          "district_id": "D08",
+          "habitat_id": "freshwater_edge",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "FERN CREEK TRAIL"
+        },
+        {
+          "target_index": 2,
+          "species_id": 30,
+          "spot_id": 247,
+          "map_id": 109,
+          "district_id": "D08",
+          "habitat_id": "damp_rock_outcrop",
+          "subarea_id": "peninsula_mountain_rock",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "PENINSULA RIDGE"
+        },
+        {
+          "target_index": 3,
+          "species_id": 131,
+          "spot_id": 260,
+          "map_id": 114,
+          "district_id": "D08",
+          "habitat_id": "rocky_creek",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SAGE SADDLE"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D08_1",
+          "stage_index": 0,
+          "title": "A SHADED CREEK",
+          "clue": [
+            "DAY: CALIFORNIA NEWT",
+            "WATCH BY SHADY WATER"
+          ],
+          "question": [
+            "WHICH CAPTION FITS",
+            "THE NEWT PHOTO?"
+          ],
+          "options": [
+            "A HIGH DESERT DUNE",
+            "A SHADED CREEK",
+            "A SALTWATER BAY"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "SHADY WATER HAS LIFE",
+            "ROCKS ADD A NEW CLUE"
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 7,
+                "spot_id": 12,
+                "map_id": 4,
+                "district_id": "D08",
+                "habitat_id": "shaded_creek",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "FERN CREEK TRAIL"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D08_2",
+          "stage_index": 1,
+          "title": "STRIPE AND DARK FORM",
+          "clue": [
+            "NIGHT: CHORUS FROG.",
+            "NIGHT: BLACK SALAM."
+          ],
+          "question": [
+            "WHICH PAIR OF HOMES",
+            "FITS YOUR TWO PHOTOS"
+          ],
+          "options": [
+            "BOTH IN DRY DUNES",
+            "BOTH IN OPEN OCEAN",
+            "WATER / DAMP ROCK"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "SMALL PHOTOS NEED",
+            "HABITAT NOTES TOO."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 8,
+                "spot_id": 13,
+                "map_id": 4,
+                "district_id": "D08",
+                "habitat_id": "freshwater_edge",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "FERN CREEK TRAIL"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 30,
+                "spot_id": 247,
+                "map_id": 109,
+                "district_id": "D08",
+                "habitat_id": "damp_rock_outcrop",
+                "subarea_id": "peninsula_mountain_rock",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "PENINSULA RIDGE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D08_3",
+          "stage_index": 2,
+          "title": "THE WATER CONNECTION",
+          "clue": [
+            "DAY: AQUATIC GARTER",
+            "LOOK BY ROCKY CREEK."
+          ],
+          "question": [
+            "WHAT IS THE CAREFUL",
+            "WAY TO WATCH HERE?"
+          ],
+          "options": [
+            "KEEP WATER CLEAN",
+            "CHASE IT DOWNSTREAM",
+            "PUT IT IN A BUCKET"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "CREEK, EDGE AND ROCK",
+            "YOUR FOLDER CONNECTS"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 131,
+                "spot_id": 260,
+                "map_id": 114,
+                "district_id": "D08",
+                "habitat_id": "rocky_creek",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SAGE SADDLE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D09",
+      "native_district": 8,
+      "ranger_name": "BEA",
+      "title": "THE FOG FOLDER",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 7,
+          "spot_id": 19,
+          "map_id": 9,
+          "district_id": "D09",
+          "habitat_id": "shaded_creek",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "FOGGY WOOD CANYON"
+        },
+        {
+          "target_index": 1,
+          "species_id": 16,
+          "spot_id": 20,
+          "map_id": 9,
+          "district_id": "D09",
+          "habitat_id": "oak_tree_cover",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "FOGGY WOOD CANYON"
+        },
+        {
+          "target_index": 2,
+          "species_id": 112,
+          "spot_id": 300,
+          "map_id": 132,
+          "district_id": "D09",
+          "habitat_id": "freshwater_pond",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SAGE BLUFF"
+        },
+        {
+          "target_index": 3,
+          "species_id": 44,
+          "spot_id": 279,
+          "map_id": 124,
+          "district_id": "D09",
+          "habitat_id": "oak_leaf_litter",
+          "subarea_id": "inland_oak_mountain_refuge",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "INLAND OAKS"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D09_1",
+          "stage_index": 0,
+          "title": "A FOGGY CREEK",
+          "clue": [
+            "DAY: CALIFORNIA NEWT",
+            "LOOK BY SHADED WATER"
+          ],
+          "question": [
+            "WHAT CLUE BELONGS",
+            "WITH THE COAST PAGE?"
+          ],
+          "options": [
+            "A DESERT RAIN DUNE",
+            "AN OFFSHORE REEF",
+            "SHADY FRESH WATER"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "FOG IS NOT THE HOME.",
+            "LOOK AT COVER TOO."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 7,
+                "spot_id": 19,
+                "map_id": 9,
+                "district_id": "D09",
+                "habitat_id": "shaded_creek",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "FOGGY WOOD CANYON"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D09_2",
+          "stage_index": 1,
+          "title": "OAK AND POOL",
+          "clue": [
+            "NIGHT: OAK SALAM.",
+            "DAY: RED-LEGGED FROG"
+          ],
+          "question": [
+            "MATCH THE TWO",
+            "CENTRAL COAST HOMES."
+          ],
+          "options": [
+            "OAK COVER / POND",
+            "BOTH IN PALM TOPS",
+            "BOTH IN DRY SAND"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "ONE COAST, TWO HOMES",
+            "KEEP THEIR NOTES."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 16,
+                "spot_id": 20,
+                "map_id": 9,
+                "district_id": "D09",
+                "habitat_id": "oak_tree_cover",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "FOGGY WOOD CANYON"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 112,
+                "spot_id": 300,
+                "map_id": 132,
+                "district_id": "D09",
+                "habitat_id": "freshwater_pond",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SAGE BLUFF"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D09_3",
+          "stage_index": 2,
+          "title": "THE LITTER REFUGE",
+          "clue": [
+            "NIGHT: GABILAN SALAM",
+            "LOOK IN OAK LITTER."
+          ],
+          "question": [
+            "WHAT SHOULD REMAIN",
+            "AFTER THE PHOTO?"
+          ],
+          "options": [
+            "A CLEARED WOOD FLOOR",
+            "LEAVES AND COVER",
+            "THE ANIMAL IN A JAR"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "CREEK, OAK AND POOL.",
+            "YOUR FOG SET LIVES."
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 44,
+                "spot_id": 279,
+                "map_id": 124,
+                "district_id": "D09",
+                "habitat_id": "oak_leaf_litter",
+                "subarea_id": "inland_oak_mountain_refuge",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "INLAND OAKS"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D10",
+      "native_district": 9,
+      "ranger_name": "RUI",
+      "title": "A COAST OF REFUGES",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 22,
+          "spot_id": 311,
+          "map_id": 137,
+          "district_id": "D10",
+          "habitat_id": "sandy_riparian_pool",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SOUTH COAST GATE"
+        },
+        {
+          "target_index": 1,
+          "species_id": 18,
+          "spot_id": 334,
+          "map_id": 146,
+          "district_id": "D10",
+          "habitat_id": "freshwater_pond",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "DUNE SHOULDER"
+        },
+        {
+          "target_index": 2,
+          "species_id": 36,
+          "spot_id": 319,
+          "map_id": 140,
+          "district_id": "D10",
+          "habitat_id": "coastal_sage_scrub",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 4,
+          "requires_restore_after_photo": false,
+          "map_name": "SAGE TERRACE"
+        },
+        {
+          "target_index": 3,
+          "species_id": 90,
+          "spot_id": 312,
+          "map_id": 137,
+          "district_id": "D10",
+          "habitat_id": "coastal_rock_cover",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 0,
+          "requires_restore_after_photo": true,
+          "map_name": "SOUTH COAST GATE"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D10_1",
+          "stage_index": 0,
+          "title": "A SANDY STREAM POOL",
+          "clue": [
+            "NIGHT: ARROYO TOAD.",
+            "WATCH BY SANDY WATER"
+          ],
+          "question": [
+            "WHICH HOME FITS",
+            "THIS TOAD PHOTO?"
+          ],
+          "options": [
+            "SANDY STREAM POOL",
+            "A HIGH SNOWFIELD",
+            "A SALTWATER REEF"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "SMALL WATER HOMES.",
+            "SCRUB ADDS CONTRAST."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 22,
+                "spot_id": 311,
+                "map_id": 137,
+                "district_id": "D10",
+                "habitat_id": "sandy_riparian_pool",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SOUTH COAST GATE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D10_2",
+          "stage_index": 1,
+          "title": "POND AND SAGE",
+          "clue": [
+            "DAY: SW POND TURTLE",
+            "DAY: ORANGE WHIPTAIL"
+          ],
+          "question": [
+            "MATCH THE TWO",
+            "SOUTH COAST PHOTOS."
+          ],
+          "options": [
+            "BOTH IN A LAVA CAVE",
+            "FRESH POND / SCRUB",
+            "BOTH IN OPEN OCEAN"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "A COAST HAS INLAND",
+            "REFUGES WORTH NOTING"
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 18,
+                "spot_id": 334,
+                "map_id": 146,
+                "district_id": "D10",
+                "habitat_id": "freshwater_pond",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "DUNE SHOULDER"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 36,
+                "spot_id": 319,
+                "map_id": 140,
+                "district_id": "D10",
+                "habitat_id": "coastal_sage_scrub",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 4,
+                "requires_restore_after_photo": false,
+                "map_name": "SAGE TERRACE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D10_3",
+          "stage_index": 2,
+          "title": "KEEP THE COAST COVER",
+          "clue": [
+            "NIGHT: NIGHTSNAKE.",
+            "PHOTO. REPLACE ROCK."
+          ],
+          "question": [
+            "WHAT FINISHES THE",
+            "LOOSE-ROCK SEARCH?"
+          ],
+          "options": [
+            "TAKE ALL ROCKS HOME",
+            "LEAVE THE COVER OPEN",
+            "PUT THE ROCK BACK"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "POOL, SCRUB AND ROCK",
+            "THE SOUTH COAST SET."
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": true,
+          "care_goal": "Restore photographed loose stone at exact same site after valid photo.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 90,
+                "spot_id": 312,
+                "map_id": 137,
+                "district_id": "D10",
+                "habitat_id": "coastal_rock_cover",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 0,
+                "requires_restore_after_photo": true,
+                "map_name": "SOUTH COAST GATE"
+              }
+            },
+            {
+              "action": "restore_same_photographed_stone",
+              "spot_id": 312
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D11",
+      "native_district": 10,
+      "ranger_name": "LEO",
+      "title": "TWO MOUNTAIN PATHS",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 43,
+          "spot_id": 350,
+          "map_id": 153,
+          "district_id": "D11",
+          "habitat_id": "montane_moist_cover",
+          "subarea_id": "transverse_mountain_moist_refuge",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "MIST GRANITE"
+        },
+        {
+          "target_index": 1,
+          "species_id": 113,
+          "spot_id": 356,
+          "map_id": 156,
+          "district_id": "D11",
+          "habitat_id": "mountain_stream",
+          "subarea_id": "restored_southern_mountain_water",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "RESTORED POOL"
+        },
+        {
+          "target_index": 2,
+          "species_id": 121,
+          "spot_id": 358,
+          "map_id": 157,
+          "district_id": "D11",
+          "habitat_id": "granite_outcrop",
+          "subarea_id": "peninsular_granite_slopes",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "GRANITE SLOPE"
+        },
+        {
+          "target_index": 3,
+          "species_id": 59,
+          "spot_id": 352,
+          "map_id": 154,
+          "district_id": "D11",
+          "habitat_id": "conifer_forest",
+          "subarea_id": "southern_boa_conifer_refuge",
+          "phase": 1,
+          "phase_name": "dusk",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "CONIFER REFUGE"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D11_1",
+          "stage_index": 0,
+          "title": "ONE MOUNTAIN REFUGE",
+          "clue": [
+            "NIGHT: GABRIEL SALAM",
+            "DAMP MOUNTAIN COVER."
+          ],
+          "question": [
+            "WHAT MAKES THIS",
+            "CLUE MORE USEFUL?"
+          ],
+          "options": [
+            "ALL MOUNTAINS MATCH",
+            "ITS OWN DAMP REFUGE",
+            "ANY DESERT ROCK WILL"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "MOUNTAIN NAMES NEED",
+            "HABITAT NOTES TOO."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 43,
+                "spot_id": 350,
+                "map_id": 153,
+                "district_id": "D11",
+                "habitat_id": "montane_moist_cover",
+                "subarea_id": "transverse_mountain_moist_refuge",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "MIST GRANITE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D11_2",
+          "stage_index": 1,
+          "title": "STREAM AND GRANITE",
+          "clue": [
+            "DAY: MOUNTAIN FROG.",
+            "DAY: GRANITE SPINY."
+          ],
+          "question": [
+            "MATCH THESE TWO",
+            "MOUNTAIN HOMES."
+          ],
+          "options": [
+            "BOTH IN A SALT MARSH",
+            "BOTH UNDER DRY DUNES",
+            "STREAM / GRANITE"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "WATER AND ROCKS HAVE",
+            "DIFFERENT NEIGHBORS."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 113,
+                "spot_id": 356,
+                "map_id": 156,
+                "district_id": "D11",
+                "habitat_id": "mountain_stream",
+                "subarea_id": "restored_southern_mountain_water",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "RESTORED POOL"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 121,
+                "spot_id": 358,
+                "map_id": 157,
+                "district_id": "D11",
+                "habitat_id": "granite_outcrop",
+                "subarea_id": "peninsular_granite_slopes",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "GRANITE SLOPE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D11_3",
+          "stage_index": 2,
+          "title": "THE CONIFER PAGE",
+          "clue": [
+            "DUSK: RUBBER BOA.",
+            "LOOK BY CONIFERS."
+          ],
+          "question": [
+            "HOW DO YOU FINISH",
+            "THE QUIET BOA WATCH?"
+          ],
+          "options": [
+            "LEAVE WOOD IN PLACE",
+            "PEEL BARK FOR PHOTOS",
+            "TAKE IT TO WATER"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "TWO MOUNTAIN PATHS.",
+            "KEEP EACH HOME SAFE."
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 59,
+                "spot_id": 352,
+                "map_id": 154,
+                "district_id": "D11",
+                "habitat_id": "conifer_forest",
+                "subarea_id": "southern_boa_conifer_refuge",
+                "phase": 1,
+                "phase_name": "dusk",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "CONIFER REFUGE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D12",
+      "native_district": 11,
+      "ranger_name": "UMA",
+      "title": "ISLAND DIFFERENCES",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 10,
+          "spot_id": 16,
+          "map_id": 6,
+          "district_id": "D12",
+          "habitat_id": "island_scrub",
+          "subarea_id": "southern_island_scrub",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "MARITIME SCRUB"
+        },
+        {
+          "target_index": 1,
+          "species_id": 52,
+          "spot_id": 382,
+          "map_id": 169,
+          "district_id": "D12",
+          "habitat_id": "island_moist_cover",
+          "subarea_id": "northern_island_woodland",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "SALT WIND RIDGE"
+        },
+        {
+          "target_index": 2,
+          "species_id": 51,
+          "spot_id": 378,
+          "map_id": 167,
+          "district_id": "D12",
+          "habitat_id": "moist_leaf_litter",
+          "subarea_id": "northern_island_woodland",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "NORTH WOODLAND"
+        },
+        {
+          "target_index": 3,
+          "species_id": 10,
+          "spot_id": 381,
+          "map_id": 168,
+          "district_id": "D12",
+          "habitat_id": "rock_crevice",
+          "subarea_id": "southern_island_scrub",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "SOUTH SCRUB"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D12_1",
+          "stage_index": 0,
+          "title": "A NAME IS NO CLOCK",
+          "clue": [
+            "DAY: ISLAND N LIZARD",
+            "WATCH ITS SCRUB HOME"
+          ],
+          "question": [
+            "WHEN DOES THIS",
+            "GAME PHOTO OCCUR?"
+          ],
+          "options": [
+            "ONLY AT MIDNIGHT",
+            "ONLY IN SNOW",
+            "IN DAYLIGHT"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "A NIGHT LIZARD NAME",
+            "IS NOT A TIME RULE."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 10,
+                "spot_id": 16,
+                "map_id": 6,
+                "district_id": "D12",
+                "habitat_id": "island_scrub",
+                "subarea_id": "southern_island_scrub",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "MARITIME SCRUB"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D12_2",
+          "stage_index": 1,
+          "title": "ISLAND WOOD PAGES",
+          "clue": [
+            "NIGHT: TWO SLENDERS",
+            "WATCH THEIR COVER."
+          ],
+          "question": [
+            "CAN ONE ISLAND HOME",
+            "MATCH ALL ISLANDS?"
+          ],
+          "options": [
+            "KEEP ISLAND NOTES",
+            "ALL ISLANDS ARE SAME",
+            "MOVE ANIMALS BETWEEN"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "VARIED ISLAND HOMES.",
+            "NEED DISTINCT NOTES."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 52,
+                "spot_id": 382,
+                "map_id": 169,
+                "district_id": "D12",
+                "habitat_id": "island_moist_cover",
+                "subarea_id": "northern_island_woodland",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "SALT WIND RIDGE"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 51,
+                "spot_id": 378,
+                "map_id": 167,
+                "district_id": "D12",
+                "habitat_id": "moist_leaf_litter",
+                "subarea_id": "northern_island_woodland",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "NORTH WOODLAND"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D12_3",
+          "stage_index": 2,
+          "title": "A CREVICE AT DAY",
+          "clue": [
+            "DAY: ISLAND N LIZARD",
+            "WATCH THE ROCK GAP."
+          ],
+          "question": [
+            "WHAT KEEPS THIS",
+            "PHOTO CAREFUL?"
+          ],
+          "options": [
+            "PRY THE ROCKS APART",
+            "LEAVE THE GAP INTACT",
+            "PULL IT OUT TO SEE"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "SCRUB, COVER, GAPS.",
+            "THE ISLAND SET IS IN"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 10,
+                "spot_id": 381,
+                "map_id": 168,
+                "district_id": "D12",
+                "habitat_id": "rock_crevice",
+                "subarea_id": "southern_island_scrub",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "SOUTH SCRUB"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D13",
+      "native_district": 12,
+      "ranger_name": "KIT",
+      "title": "THE FOREST LAYERS",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 109,
+          "spot_id": 410,
+          "map_id": 181,
+          "district_id": "D13",
+          "habitat_id": "forest_pond",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "FOREST TRAILHEAD"
+        },
+        {
+          "target_index": 1,
+          "species_id": 26,
+          "spot_id": 413,
+          "map_id": 182,
+          "district_id": "D13",
+          "habitat_id": "forest_log",
+          "subarea_id": "far_northern_maritime_forest",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "MARITIME WOOD"
+        },
+        {
+          "target_index": 2,
+          "species_id": 35,
+          "spot_id": 424,
+          "map_id": 187,
+          "district_id": "D13",
+          "habitat_id": "cold_fast_stream",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "FERN GULLY"
+        },
+        {
+          "target_index": 3,
+          "species_id": 75,
+          "spot_id": 419,
+          "map_id": 185,
+          "district_id": "D13",
+          "habitat_id": "forest_stream",
+          "subarea_id": "southern_maritime_forest",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "SOUTH MIST WOOD"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D13_1",
+          "stage_index": 0,
+          "title": "A FOREST POND",
+          "clue": [
+            "DAY: RED-LEGGED FROG",
+            "LOOK BY FOREST WATER"
+          ],
+          "question": [
+            "WHICH CAPTION FITS",
+            "THIS FOREST PHOTO?"
+          ],
+          "options": [
+            "A FRESHWATER POND",
+            "A COASTAL SALT POOL",
+            "AN OPEN DESERT DUNE"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "FOREST WATER IS HOME",
+            "LOOK BELOW THE TREES"
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 109,
+                "spot_id": 410,
+                "map_id": 181,
+                "district_id": "D13",
+                "habitat_id": "forest_pond",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "FOREST TRAILHEAD"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D13_2",
+          "stage_index": 1,
+          "title": "WOOD AND FAST WATER",
+          "clue": [
+            "NIGHT: CLOUDED SALAM",
+            "NIGHT: TAILED FROG."
+          ],
+          "question": [
+            "MATCH THESE TWO",
+            "NORTHERN REFUGES."
+          ],
+          "options": [
+            "BOTH IN OPEN OCEAN",
+            "LOG / COLD STREAM",
+            "BOTH IN SUNNY SAND"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "FOREST LAYERS DIFFER",
+            "LEAVE WOOD IN PLACE."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 26,
+                "spot_id": 413,
+                "map_id": 182,
+                "district_id": "D13",
+                "habitat_id": "forest_log",
+                "subarea_id": "far_northern_maritime_forest",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "MARITIME WOOD"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 35,
+                "spot_id": 424,
+                "map_id": 187,
+                "district_id": "D13",
+                "habitat_id": "cold_fast_stream",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "FERN GULLY"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D13_3",
+          "stage_index": 2,
+          "title": "A LARGE STREAM ADULT",
+          "clue": [
+            "NIGHT: GIANT SALAM.",
+            "WATCH FOREST WATER."
+          ],
+          "question": [
+            "WHAT IS THE QUIET",
+            "WAY TO FINISH THIS?"
+          ],
+          "options": [
+            "MOVE IT TO THE POND",
+            "PEEL EVERY LOG OPEN",
+            "LOOK WITHOUT TOUCH"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "POND, WOOD, STREAM.",
+            "FOREST SET COMPLETE"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 75,
+                "spot_id": 419,
+                "map_id": 185,
+                "district_id": "D13",
+                "habitat_id": "forest_stream",
+                "subarea_id": "southern_maritime_forest",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "SOUTH MIST WOOD"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D14",
+      "native_district": 13,
+      "ranger_name": "OREN",
+      "title": "THREE SMALL POCKETS",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 87,
+          "spot_id": 457,
+          "map_id": 200,
+          "district_id": "D14",
+          "habitat_id": "damp_limestone_crevice",
+          "subarea_id": "southern_karst_refuge_b",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "KARST POCKET B"
+        },
+        {
+          "target_index": 1,
+          "species_id": 86,
+          "spot_id": 455,
+          "map_id": 199,
+          "district_id": "D14",
+          "habitat_id": "damp_limestone_crevice",
+          "subarea_id": "southern_karst_refuge_a",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "KARST POCKET A"
+        },
+        {
+          "target_index": 2,
+          "species_id": 88,
+          "spot_id": 459,
+          "map_id": 201,
+          "district_id": "D14",
+          "habitat_id": "damp_limestone_crevice",
+          "subarea_id": "southern_karst_refuge_c",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "KARST POCKET C"
+        },
+        {
+          "target_index": 3,
+          "species_id": 104,
+          "spot_id": 461,
+          "map_id": 202,
+          "district_id": "D14",
+          "habitat_id": "damp_talus",
+          "subarea_id": "restricted_klamath_talus_a",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "TALUS POCKET A"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D14_1",
+          "stage_index": 0,
+          "title": "ONE KARST POCKET",
+          "clue": [
+            "NIGHT: SHASTA SALAM.",
+            "DAMP LIMESTONE GAP."
+          ],
+          "question": [
+            "WHICH NOTE HELPS",
+            "CRYPTIC SALAMANDER?"
+          ],
+          "options": [
+            "ONLY COLOR PROVES ID",
+            "ITS NAME AND HABITAT",
+            "NO NOTES ARE NEEDED"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "SMALL ART HAS LIMITS",
+            "COMPARE THE POCKETS."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 87,
+                "spot_id": 457,
+                "map_id": 200,
+                "district_id": "D14",
+                "habitat_id": "damp_limestone_crevice",
+                "subarea_id": "southern_karst_refuge_b",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "KARST POCKET B"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D14_2",
+          "stage_index": 1,
+          "title": "THE OTHER POCKETS",
+          "clue": [
+            "NIGHT: SAMWEL/WINTU",
+            "EACH HAS ITS OWN GAP"
+          ],
+          "question": [
+            "CAN ONE KARST POCKET",
+            "STAND FOR ALL THREE?"
+          ],
+          "options": [
+            "ONE HOME FITS ALL",
+            "MOVE ANIMALS BETWEEN",
+            "KEEP DISTINCT NOTES"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "THREE NAMES, HOMES.",
+            "NO NEW COLOR SPECIES"
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 86,
+                "spot_id": 455,
+                "map_id": 199,
+                "district_id": "D14",
+                "habitat_id": "damp_limestone_crevice",
+                "subarea_id": "southern_karst_refuge_a",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "KARST POCKET A"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 88,
+                "spot_id": 459,
+                "map_id": 201,
+                "district_id": "D14",
+                "habitat_id": "damp_limestone_crevice",
+                "subarea_id": "southern_karst_refuge_c",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "KARST POCKET C"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D14_3",
+          "stage_index": 2,
+          "title": "THE TALUS NEIGHBOR",
+          "clue": [
+            "NIGHT: SCOTT BAR.",
+            "LOOK BY DAMP TALUS."
+          ],
+          "question": [
+            "WHAT SHOULD STAY",
+            "AFTER YOUR WATCH?"
+          ],
+          "options": [
+            "COVER AND CREVICES",
+            "A PRIED ROCK FACE",
+            "THE ANIMAL AT CAMP"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "KARST / TALUS HOMES.",
+            "KLAMATH SET COMPLETE"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 104,
+                "spot_id": 461,
+                "map_id": 202,
+                "district_id": "D14",
+                "habitat_id": "damp_talus",
+                "subarea_id": "restricted_klamath_talus_a",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "TALUS POCKET A"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D15",
+      "native_district": 14,
+      "ranger_name": "WREN",
+      "title": "VOLCANIC NEIGHBORS",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 11,
+          "spot_id": 17,
+          "map_id": 7,
+          "district_id": "D15",
+          "habitat_id": "rock_log_cover",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "VOLCANIC FOREST"
+        },
+        {
+          "target_index": 1,
+          "species_id": 111,
+          "spot_id": 479,
+          "map_id": 211,
+          "district_id": "D15",
+          "habitat_id": "montane_meadow_pool",
+          "subarea_id": "northern_cascade_wetlands",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "NORTH WETLAND"
+        },
+        {
+          "target_index": 2,
+          "species_id": 59,
+          "spot_id": 493,
+          "map_id": 218,
+          "district_id": "D15",
+          "habitat_id": "forest_cover",
+          "subarea_id": "broad_habitat_route",
+          "phase": 1,
+          "phase_name": "dusk",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "LAVA WINDOW"
+        },
+        {
+          "target_index": 3,
+          "species_id": 119,
+          "spot_id": 505,
+          "map_id": 224,
+          "district_id": "D15",
+          "habitat_id": "montane_rock_outcrop",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "CASCADE CAMP"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D15_1",
+          "stage_index": 0,
+          "title": "THE COVER UNDERFOOT",
+          "clue": [
+            "DAY: ALLIGATOR LIZ.",
+            "LOOK BY ROCK OR LOG."
+          ],
+          "question": [
+            "WHICH CLUE FITS",
+            "THIS VOLCANIC HOME?"
+          ],
+          "options": [
+            "A SEA TURTLE NEST",
+            "A DRY CORAL REEF",
+            "ROCK AND LOG COVER"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "VOLCANIC LAND HAS",
+            "MORE THAN BARE ROCK."
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 11,
+                "spot_id": 17,
+                "map_id": 7,
+                "district_id": "D15",
+                "habitat_id": "rock_log_cover",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "VOLCANIC FOREST"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D15_2",
+          "stage_index": 1,
+          "title": "WETLAND AND FOREST",
+          "clue": [
+            "DAY: CASCADES FROG.",
+            "DUSK: N RUBBER BOA."
+          ],
+          "question": [
+            "MATCH THESE TWO",
+            "VOLCANIC REFUGES."
+          ],
+          "options": [
+            "POOL / FOREST COVER",
+            "BOTH ON SNOW SUMMITS",
+            "BOTH IN OPEN OCEAN"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "WET AND WOODED HOMES",
+            "KEEP THEIR NOTES."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 111,
+                "spot_id": 479,
+                "map_id": 211,
+                "district_id": "D15",
+                "habitat_id": "montane_meadow_pool",
+                "subarea_id": "northern_cascade_wetlands",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "NORTH WETLAND"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 59,
+                "spot_id": 493,
+                "map_id": 218,
+                "district_id": "D15",
+                "habitat_id": "forest_cover",
+                "subarea_id": "broad_habitat_route",
+                "phase": 1,
+                "phase_name": "dusk",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "LAVA WINDOW"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D15_3",
+          "stage_index": 2,
+          "title": "THE MOUNTAIN PERCH",
+          "clue": [
+            "DAY: SAGEBRUSH LIZ.",
+            "LOOK BY HIGH ROCKS."
+          ],
+          "question": [
+            "HOW DO YOU FINISH",
+            "A ROCK-PERCH PHOTO?"
+          ],
+          "options": [
+            "CHASE IT UP THE ROCK",
+            "LEAVE THE PERCH SAFE",
+            "PRY THE ROCK APART"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "WOOD, POOL AND PERCH",
+            "VOLCANIC SET DONE"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 119,
+                "spot_id": 505,
+                "map_id": 224,
+                "district_id": "D15",
+                "habitat_id": "montane_rock_outcrop",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "CASCADE CAMP"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    },
+    {
+      "district_id": "D16",
+      "native_district": 15,
+      "ranger_name": "PAX",
+      "title": "THE PLATEAU MOSAIC",
+      "source_scope": "Actual fictional authored sites validated against species_ecology default-deny permissions; no real locality.",
+      "photo_targets": [
+        {
+          "target_index": 0,
+          "species_id": 97,
+          "spot_id": 512,
+          "map_id": 227,
+          "district_id": "D16",
+          "habitat_id": "juniper_woodland",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 6,
+          "requires_restore_after_photo": false,
+          "map_name": "JUNIPER PASS"
+        },
+        {
+          "target_index": 1,
+          "species_id": 66,
+          "spot_id": 508,
+          "map_id": 225,
+          "district_id": "D16",
+          "habitat_id": "lava_outcrop",
+          "subarea_id": "broad_habitat_route",
+          "phase": 1,
+          "phase_name": "dusk",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 3,
+          "interaction_type": 1,
+          "requires_restore_after_photo": false,
+          "map_name": "PLATEAU GATE"
+        },
+        {
+          "target_index": 2,
+          "species_id": 94,
+          "spot_id": 510,
+          "map_id": 226,
+          "district_id": "D16",
+          "habitat_id": "sagebrush",
+          "subarea_id": "broad_habitat_route",
+          "phase": 0,
+          "phase_name": "day",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 4,
+          "requires_restore_after_photo": false,
+          "map_name": "SAGEBRUSH FAN"
+        },
+        {
+          "target_index": 3,
+          "species_id": 125,
+          "spot_id": 516,
+          "map_id": 229,
+          "district_id": "D16",
+          "habitat_id": "sagebrush_seasonal_pool",
+          "subarea_id": "broad_habitat_route",
+          "phase": 2,
+          "phase_name": "night",
+          "minimum_stars": 2,
+          "minimum_focus": 45,
+          "minimum_distance": 2,
+          "interaction_type": 7,
+          "requires_restore_after_photo": false,
+          "map_name": "BASALT RIDGE"
+        }
+      ],
+      "stages": [
+        {
+          "id": "CP_D16_1",
+          "stage_index": 0,
+          "title": "THE JUNIPER PAGE",
+          "clue": [
+            "DAY: PYGMY HORNED.",
+            "LOOK BY JUNIPERS."
+          ],
+          "question": [
+            "WHICH CAPTION FITS",
+            "THIS FIRST PHOTO?"
+          ],
+          "options": [
+            "A JUNIPER HOME",
+            "A SALTWATER BAY",
+            "A LOW PALM OASIS"
+          ],
+          "correct_choice": 0,
+          "conclusion": [
+            "HIGH DESERT HOMES.",
+            "LAVA ADDS A NEW PAGE"
+          ],
+          "photo_target_indexes": [
+            0
+          ],
+          "photo_mask": 1,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 0,
+                "species_id": 97,
+                "spot_id": 512,
+                "map_id": 227,
+                "district_id": "D16",
+                "habitat_id": "juniper_woodland",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 6,
+                "requires_restore_after_photo": false,
+                "map_name": "JUNIPER PASS"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 0
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 1
+            }
+          ]
+        },
+        {
+          "id": "CP_D16_2",
+          "stage_index": 1,
+          "title": "LAVA AND SAGE",
+          "clue": [
+            "DUSK: W RATTLESNAKE",
+            "DAY: STRIPED WHIP."
+          ],
+          "question": [
+            "WHAT MAKES THE",
+            "SNAKE PHOTOS CAREFUL"
+          ],
+          "options": [
+            "LIFT THEM FOR A SHOT",
+            "SPACE WITHOUT TOUCH",
+            "CHASE THE ANIMAL"
+          ],
+          "correct_choice": 1,
+          "conclusion": [
+            "LAVA AND SAGE DIFFER",
+            "KEEP A WIDE VIEW."
+          ],
+          "photo_target_indexes": [
+            1,
+            2
+          ],
+          "photo_mask": 6,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 1,
+                "species_id": 66,
+                "spot_id": 508,
+                "map_id": 225,
+                "district_id": "D16",
+                "habitat_id": "lava_outcrop",
+                "subarea_id": "broad_habitat_route",
+                "phase": 1,
+                "phase_name": "dusk",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 3,
+                "interaction_type": 1,
+                "requires_restore_after_photo": false,
+                "map_name": "PLATEAU GATE"
+              }
+            },
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 2,
+                "species_id": 94,
+                "spot_id": 510,
+                "map_id": 226,
+                "district_id": "D16",
+                "habitat_id": "sagebrush",
+                "subarea_id": "broad_habitat_route",
+                "phase": 0,
+                "phase_name": "day",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 4,
+                "requires_restore_after_photo": false,
+                "map_name": "SAGEBRUSH FAN"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 1
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 2
+            }
+          ]
+        },
+        {
+          "id": "CP_D16_3",
+          "stage_index": 2,
+          "title": "A POOL AMONG SAGE",
+          "clue": [
+            "NIGHT: SPADEFOOT.",
+            "LOOK BY SAGE POOLS."
+          ],
+          "question": [
+            "WHAT DOES THIS LAST",
+            "PHOTO ADD TO THE SET"
+          ],
+          "options": [
+            "ALL BASINS ARE LAKES",
+            "NO CHANGE OF HABITAT",
+            "A WATER REFUGE"
+          ],
+          "correct_choice": 2,
+          "conclusion": [
+            "JUNIPER, LAVA, POOL.",
+            "PLATEAU SET COMPLETE"
+          ],
+          "photo_target_indexes": [
+            3
+          ],
+          "photo_mask": 8,
+          "requires_matching_care": false,
+          "care_goal": "Answer the non-disturbance/habitat observation choice; no stone/log/water manipulation required.",
+          "requires_mojave_journal_complete": false,
+          "wrong_choice_recovery": "Immediate retry with no penalty or discarded evidence.",
+          "native_acceptance_steps": [
+            {
+              "action": "photograph_exact_site",
+              "target": {
+                "target_index": 3,
+                "species_id": 125,
+                "spot_id": 516,
+                "map_id": 229,
+                "district_id": "D16",
+                "habitat_id": "sagebrush_seasonal_pool",
+                "subarea_id": "broad_habitat_route",
+                "phase": 2,
+                "phase_name": "night",
+                "minimum_stars": 2,
+                "minimum_focus": 45,
+                "minimum_distance": 2,
+                "interaction_type": 7,
+                "requires_restore_after_photo": false,
+                "map_name": "BASALT RIDGE"
+              }
+            },
+            {
+              "action": "answer_caption",
+              "choice": 2
+            },
+            {
+              "action": "turn_in",
+              "expected_district_stage": 3
+            }
+          ]
+        }
+      ],
+      "complete_when_stage": 3
+    }
+  ],
+  "chapter_clusters": [
+    {
+      "chapter_index": 0,
+      "district_indexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "completion_text": [
+        "SHELTER AND HEIGHT",
+        "DESERT TO OAK HOMES."
+      ]
+    },
+    {
+      "chapter_index": 1,
+      "district_indexes": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "completion_text": [
+        "CHANGING WATER",
+        "HIGH LAKES, VALLEYS"
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "district_indexes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "completion_text": [
+        "COASTS AND ISLANDS",
+        "DISTINCT COAST HOMES"
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "district_indexes": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "completion_text": [
+        "NORTHERN CONNECTIONS",
+        "FOREST, LAVA, SAGE."
+      ]
+    }
+  ],
+  "text_kinds": {
+    "0": "title",
+    "1": "clue",
+    "2": "question",
+    "3": "options",
+    "4": "conclusion",
+    "5": "blocked"
+  },
+  "finale_questions": [
+    {
+      "id": "EX01",
+      "question": [
+        "MATCH THE FIRST",
+        "CHAPTER FOLDER."
+      ],
+      "options": [
+        "SHELTER AND HEIGHT",
+        "FOG AND ISLANDS",
+        "ONLY OCEAN PHOTOS"
+      ],
+      "correct_choice": 0
+    },
+    {
+      "id": "EX02",
+      "question": [
+        "MATCH THE SECOND",
+        "CHAPTER FOLDER."
+      ],
+      "options": [
+        "ONLY DRY DUNES",
+        "CHANGING WATER",
+        "ONLY NORTHERN TREES"
+      ],
+      "correct_choice": 1
+    },
+    {
+      "id": "EX03",
+      "question": [
+        "MATCH THE THIRD",
+        "CHAPTER FOLDER."
+      ],
+      "options": [
+        "EVERY ISLAND IS SAME",
+        "ONLY HIGH DESERT",
+        "COASTS AND ISLANDS"
+      ],
+      "correct_choice": 2
+    },
+    {
+      "id": "EX04",
+      "question": [
+        "MATCH THE FOURTH",
+        "CHAPTER FOLDER."
+      ],
+      "options": [
+        "NORTHERN CONNECTIONS",
+        "ONLY LOW DESERT",
+        "ONLY SOUTHERN COAST"
+      ],
+      "correct_choice": 0
+    }
+  ],
+  "ending_lines": [
+    "YOUR EXHIBIT IS OPEN",
+    "SIXTEEN STORIES.",
+    "MANY HOMES TO NOTICE",
+    "KEEP EXPLORING."
+  ],
+  "credits_lines": [
+    "ROCK FLIP",
+    "MARTIN AND ROAM",
+    "IDEA: BILBY",
+    "ORIGINAL FIELD ART",
+    "THANKS FOR PLAYING."
+  ],
+  "hidden_clue": {
+    "species_id": 150,
+    "guide_number": 151,
+    "map_id": 131,
+    "spot_id": 293,
+    "availability": "After actual exhibit completion, all150 regular photos and correct optional caption clue; no hidden species required for ending.",
+    "question": [
+      "A LAST COASTAL PAGE",
+      "HOW SHOULD WE LOOK?"
+    ],
+    "options": [
+      "WATCH DAMP SCRUB",
+      "DIG UP ALL REFUGES",
+      "MOVE THEM TO CAMP"
+    ],
+    "correct_choice": 0,
+    "clue_lines": [
+      "ONE LAST COAST PAGE",
+      "DAMP SCRUB, QUIETLY.",
+      "LOOK. DO NOT HANDLE."
+    ],
+    "real_locality_policy": "Fictional clue only. No real source coordinates, locality directions or observation links."
+  },
+  "flags": {
+    "region_states_bytes": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "photo_bits_bytes": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "note_bits_bytes": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "care_bits_bytes": [
+      28,
+      29
+    ],
+    "finale_byte": 30,
+    "finale_correct_bits": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "credits_ack_bit": 4,
+    "hidden_byte": 31,
+    "hidden_clue_seen_bit": 0,
+    "hidden_correct_bit": 1,
+    "hidden_trail_unlocked_bit": 7
+  },
+  "event_contract": "Every shutter event is evaluated, even if album best does not replace. rf_campaign_photo returns care-pending1 only for qualifying exact loose-stone target. Parent latches site bit7 and consumes it on genuine same-site restoration before rf_campaign_care. No care callback from permanent crevices, logs, soil, water or marine subjects.",
+  "safe_distance_note": "Tortoise campaign minimum3; all others >=actual species rule.",
+  "save_contract": "Flags32bytes remain parent-owned persistent RF02 quest state; no additional transient state required in module.",
+  "source_hashes": {
+    "data/world.json": "74e629a6122dd8f36cb4f67f9edce61cfff3d9491a16abac500522a4af0d60cc",
+    "data/foundation_encounters.json": "2274954fc7be3b52ae3490a0d068622330043188736e7f3bb31798d91a42327e",
+    "data/species.json": "0adbad15b2b2b1ecea932042d486745562022da05d331063c6eb8256b485fb34",
+    "data/species_ecology.json": "c28c125d856df0e1d412e32753d857d74a80bc4565a1ae77fb96400f61d47e63"
+  }
+}

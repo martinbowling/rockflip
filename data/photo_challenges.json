@@ -1,0 +1,1899 @@
+{
+  "schema_version": 1,
+  "scope": "32 authored optional challenges; staged source and banked module pending canonical integration and native player-input review",
+  "records": [
+    {
+      "id": "PHOTO_D01_01",
+      "index": 0,
+      "district": 0,
+      "region_id": "D01",
+      "species_id": 0,
+      "scientific_name": "Gopherus agassizii",
+      "species_name": "DESERT TORTOISE",
+      "behavior": "protected",
+      "approved_hint_site": {
+        "spot_id": 2,
+        "map_id": 0,
+        "habitat_id": "desert_burrow",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "A QUIET BURROW"
+      ],
+      "brief": [
+        "DAY: A BURROW EDGE.",
+        "KEEP FOUR SPACES."
+      ],
+      "hint": [
+        "LET THE TORTOISE BE.",
+        "FRAME WITHOUT MOVING",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NEVER HANDLE IT."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 0,
+        "map_id": 0,
+        "spot_id": 2,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.nps.gov/jotr/learn/nature/tortoise.htm",
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D01_02",
+      "index": 1,
+      "district": 0,
+      "region_id": "D01",
+      "species_id": 13,
+      "scientific_name": "Dipsosaurus dorsalis",
+      "species_name": "DESERT IGUANA",
+      "behavior": "push_up",
+      "approved_hint_site": {
+        "spot_id": 8,
+        "map_id": 2,
+        "habitat_id": "desert_wash",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "DESERT STANCE"
+      ],
+      "brief": [
+        "DAY: DESERT WASH.",
+        "WATCH THE IGUANA."
+      ],
+      "hint": [
+        "WATCH A PUSH-UP.",
+        "DO NOT MAKE IT MOVE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NO POSE PROVOKING."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 13,
+        "map_id": 2,
+        "spot_id": 8,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.nps.gov/moja/learn/nature/upload/reptiles_508.pdf",
+        "https://www.nps.gov/jotr/learn/nature/reptiles.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D02_01",
+      "index": 2,
+      "district": 1,
+      "region_id": "D02",
+      "species_id": 140,
+      "scientific_name": "Uma inornata",
+      "species_name": "COACHELLA FRINGE",
+      "behavior": "dash_settle",
+      "approved_hint_site": {
+        "spot_id": 76,
+        "map_id": 28,
+        "habitat_id": "sand_dunes",
+        "subarea_id": "inland_valley_dunes",
+        "phase": 0
+      },
+      "title": [
+        "DUNE FOOTSTEPS"
+      ],
+      "brief": [
+        "DAY: SANDY REFUGE.",
+        "WATCH FROM THE TRAIL"
+      ],
+      "hint": [
+        "LET THE DASH FINISH.",
+        "WAIT FOR A PAUSE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "LEAVE SAND IN PLACE."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 140,
+        "map_id": 28,
+        "spot_id": 76,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://eplanning.blm.gov/public_projects/nepa/77304/103087/126160/App-E-Mojave_Fringe-toed_Lizard_Study_Proposal.pdf",
+        "https://www.fws.gov/rivers/carp/carp/species/coachella-valley-fringe-toed-lizard-uma-inornata"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D02_02",
+      "index": 3,
+      "district": 1,
+      "region_id": "D02",
+      "species_id": 99,
+      "scientific_name": "Phyllodactylus nocticolus",
+      "species_name": "LEAF-TOED GECKO",
+      "behavior": "night_peek",
+      "approved_hint_site": {
+        "spot_id": 72,
+        "map_id": 26,
+        "habitat_id": "rock_crevice",
+        "subarea_id": "western_desert_canyon",
+        "phase": 2
+      },
+      "title": [
+        "ROCKSIDE GLIMPSE"
+      ],
+      "brief": [
+        "NIGHT: ROCK CREVICE.",
+        "WATCH THE GECKO."
+      ],
+      "hint": [
+        "WATCH A COVER EDGE.",
+        "FRAME WHEN IT SHOWS.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "DO NOT PRY THE ROCK."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 99,
+        "map_id": 26,
+        "spot_id": 72,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2667&inline=1"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D03_01",
+      "index": 4,
+      "district": 2,
+      "region_id": "D03",
+      "species_id": 25,
+      "scientific_name": "Anaxyrus exsul",
+      "species_name": "BLACK TOAD",
+      "behavior": "hop",
+      "approved_hint_site": {
+        "spot_id": 94,
+        "map_id": 37,
+        "habitat_id": "spring_marsh",
+        "subarea_id": "isolated_basin_spring_marsh",
+        "phase": 0
+      },
+      "title": [
+        "SPRING NEIGHBOR"
+      ],
+      "brief": [
+        "DAY: SPRING MARSH.",
+        "LOOK BESIDE WATER."
+      ],
+      "hint": [
+        "WATCH A NATURAL HOP.",
+        "WAIT OUT A SMALL HOP",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE SPRING SAFE"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 25,
+        "map_id": 37,
+        "spot_id": 94,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-exsul",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1476"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D03_02",
+      "index": 5,
+      "district": 2,
+      "region_id": "D03",
+      "species_id": 41,
+      "scientific_name": "Batrachoseps campi",
+      "species_name": "INYO SALAMANDER",
+      "behavior": "slow_walk",
+      "approved_hint_site": {
+        "spot_id": 96,
+        "map_id": 38,
+        "habitat_id": "mountain_spring_seep",
+        "subarea_id": "mountain_spring_refuge",
+        "phase": 2
+      },
+      "title": [
+        "SEEP FOOTSTEPS"
+      ],
+      "brief": [
+        "NIGHT: MOUNTAIN SEEP",
+        "WATCH THE SALAMANDER"
+      ],
+      "hint": [
+        "FRAME A WALKING STEP",
+        "KEEP ITS DAMP COVER.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NO HANDLING NEEDED."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 41,
+        "map_id": 38,
+        "spot_id": 96,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-campi",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190354&inline="
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D04_01",
+      "index": 6,
+      "district": 3,
+      "region_id": "D04",
+      "species_id": 6,
+      "scientific_name": "Sceloporus occidentalis",
+      "species_name": "FENCE LIZARD",
+      "behavior": "push_up",
+      "approved_hint_site": {
+        "spot_id": 10,
+        "map_id": 3,
+        "habitat_id": "rock_perch",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "A FENCE POST PAUSE"
+      ],
+      "brief": [
+        "DAY: WOODLAND ROCK.",
+        "WATCH FROM A SPACE."
+      ],
+      "hint": [
+        "WATCH A PUSH-UP.",
+        "DO NOT PROMPT A POSE",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "LET IT CHOOSE POSES."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 6,
+        "map_id": 3,
+        "spot_id": 10,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2691&inline=1"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D04_02",
+      "index": 7,
+      "district": 3,
+      "region_id": "D04",
+      "species_id": 110,
+      "scientific_name": "Rana boylii",
+      "species_name": "FOOTHILL YL FROG",
+      "behavior": "water_emerge",
+      "approved_hint_site": {
+        "spot_id": 150,
+        "map_id": 62,
+        "habitat_id": "rocky_river_margin",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "RIVERBANK FRAME"
+      ],
+      "brief": [
+        "DAY: ROCKY RIVER.",
+        "LOOK FROM THE BANK."
+      ],
+      "hint": [
+        "WAIT FOR IT TO RISE.",
+        "STAY ON THE DRY EDGE",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE WATER CLEAN"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 110,
+        "map_id": 62,
+        "spot_id": 150,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.fws.gov/species/foothill-yellow-legged-frog-rana-boylii",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-boylii",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1500"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D05_01",
+      "index": 8,
+      "district": 4,
+      "region_id": "D05",
+      "species_id": 17,
+      "scientific_name": "Rana sierrae",
+      "species_name": "SIERRA YL FROG",
+      "behavior": "water_emerge",
+      "approved_hint_site": {
+        "spot_id": 18,
+        "map_id": 8,
+        "habitat_id": "mountain_lake_edge",
+        "subarea_id": "north_central_sierra",
+        "phase": 0
+      },
+      "title": [
+        "HIGH LAKE WINDOW"
+      ],
+      "brief": [
+        "DAY: MOUNTAIN LAKE.",
+        "WATCH FROM THE EDGE."
+      ],
+      "hint": [
+        "WAIT FOR IT TO RISE.",
+        "KEEP THE LAKE QUIET.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE SHORE CLEAN"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 17,
+        "map_id": 8,
+        "spot_id": 18,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-sierrae",
+        "https://www.nps.gov/seki/learn/nature/amphibfish.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D05_02",
+      "index": 9,
+      "district": 4,
+      "region_id": "D05",
+      "species_id": 60,
+      "scientific_name": "Lampropeltis zonata",
+      "species_name": "MTN KINGSNAKE",
+      "behavior": "glide",
+      "approved_hint_site": {
+        "spot_id": 537,
+        "map_id": 240,
+        "habitat_id": "rock_outcrop",
+        "subarea_id": "midmontane_sierra_woodland",
+        "phase": 0
+      },
+      "title": [
+        "A WOODLAND CROSSING"
+      ],
+      "brief": [
+        "DAY: WOODLAND ROCK.",
+        "WATCH THE KINGSNAKE."
+      ],
+      "hint": [
+        "FRAME ITS GLIDE.",
+        "LET IT CROSS ALONE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "DO NOT BLOCK ITS WAY"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 60,
+        "map_id": 240,
+        "spot_id": 537,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.nps.gov/yose/blogs/sierra-mountain-kingsnake.htm",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2769"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D06_01",
+      "index": 10,
+      "district": 5,
+      "region_id": "D06",
+      "species_id": 9,
+      "scientific_name": "Ambystoma californiense",
+      "species_name": "TIGER SALAMANDER",
+      "behavior": "rain_arrival",
+      "approved_hint_site": {
+        "spot_id": 14,
+        "map_id": 5,
+        "habitat_id": "grassland_burrow",
+        "subarea_id": "broad_habitat_route",
+        "phase": 2
+      },
+      "title": [
+        "POOL TO GRASS"
+      ],
+      "brief": [
+        "NIGHT: GRASS BURROW",
+        "WATCH THE SALAMANDER"
+      ],
+      "hint": [
+        "WATCH A WALKING STEP",
+        "FRAME WITHOUT RUSH.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NO DIGGING FOR IT."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 9,
+        "map_id": 5,
+        "spot_id": 14,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Ambystomatidae/Ambystoma/Ambystoma-californiense",
+        "https://www.fws.gov/species/california-tiger-salamander-ambystoma-californiense"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D06_02",
+      "index": 11,
+      "district": 5,
+      "region_id": "D06",
+      "species_id": 134,
+      "scientific_name": "Thamnophis gigas",
+      "species_name": "GIANT GARTER",
+      "behavior": "glide",
+      "approved_hint_site": {
+        "spot_id": 189,
+        "map_id": 80,
+        "habitat_id": "freshwater_marsh",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "MARSH REED FRAME"
+      ],
+      "brief": [
+        "DAY: MARSH WATER.",
+        "WATCH THE GARTER."
+      ],
+      "hint": [
+        "FRAME ITS GLIDE.",
+        "STAY ON THE BANK.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "DO NOT ENTER COVER."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 134,
+        "map_id": 80,
+        "spot_id": 189,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.fws.gov/sites/default/files/documents/2025-02/appendix-c-20250207-2022-005149-s7.pdf"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D07_01",
+      "index": 12,
+      "district": 6,
+      "region_id": "D07",
+      "species_id": 32,
+      "scientific_name": "Anniella alexanderae",
+      "species_name": "TEMBLOR LEGLESS",
+      "behavior": "glide",
+      "approved_hint_site": {
+        "spot_id": 219,
+        "map_id": 95,
+        "habitat_id": "alkali_scrub",
+        "subarea_id": "southwestern_valley_scrub",
+        "phase": 1
+      },
+      "title": [
+        "A SOIL-EDGE VISIT"
+      ],
+      "brief": [
+        "DUSK: SCRUB SOIL.",
+        "WATCH THE LEGLESS."
+      ],
+      "hint": [
+        "FRAME ITS GLIDE.",
+        "KEEP SOIL IN PLACE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NO DIGGING FOR IT."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 32,
+        "map_id": 95,
+        "spot_id": 219,
+        "phase": 1,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://wildlife.ca.gov/Data/CNDDB/News/temblor-legless-lizard-status-review-how-you-can-help"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D07_02",
+      "index": 13,
+      "district": 6,
+      "region_id": "D07",
+      "species_id": 81,
+      "scientific_name": "Gambelia sila",
+      "species_name": "BLUNT-NOSE LEOP",
+      "behavior": "dash_settle",
+      "approved_hint_site": {
+        "spot_id": 221,
+        "map_id": 96,
+        "habitat_id": "dry_grassland",
+        "subarea_id": "remnant_valley_scrub",
+        "phase": 0
+      },
+      "title": [
+        "OPEN GROUND PAUSE"
+      ],
+      "brief": [
+        "DAY: OPEN GRASSLAND",
+        "WATCH THE LEOPARD."
+      ],
+      "hint": [
+        "LET THE DASH FINISH.",
+        "WAIT FOR A PAUSE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE PATH OPEN."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 81,
+        "map_id": 96,
+        "spot_id": 221,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7047230/"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D08_01",
+      "index": 14,
+      "district": 7,
+      "region_id": "D08",
+      "species_id": 30,
+      "scientific_name": "Aneides niger",
+      "species_name": "SANTA CRUZ BLACK",
+      "behavior": "slow_walk",
+      "approved_hint_site": {
+        "spot_id": 247,
+        "map_id": 109,
+        "habitat_id": "damp_rock_outcrop",
+        "subarea_id": "peninsula_mountain_rock",
+        "phase": 2
+      },
+      "title": [
+        "DARK ROCK WALK"
+      ],
+      "brief": [
+        "NIGHT: DAMP ROCKS.",
+        "WATCH THE SALAMANDER"
+      ],
+      "hint": [
+        "FRAME A WALKING STEP",
+        "KEEP DAMP COVER SAFE",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "LEAVE COVER IN PLACE"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 30,
+        "map_id": 109,
+        "spot_id": 247,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6679913/",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-niger",
+        "https://ucsccampusreserve.ucsc.edu/species-habitats/amphibians-and-reptiles/"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D08_02",
+      "index": 15,
+      "district": 7,
+      "region_id": "D08",
+      "species_id": 63,
+      "scientific_name": "Contia longicauda",
+      "species_name": "F SHARP-TAIL",
+      "behavior": "freeze",
+      "approved_hint_site": {
+        "spot_id": 249,
+        "map_id": 110,
+        "habitat_id": "humid_conifer_forest",
+        "subarea_id": "southern_coastal_forest",
+        "phase": 2
+      },
+      "title": [
+        "A LITTER STILL LIFE"
+      ],
+      "brief": [
+        "NIGHT: WOODLAND.",
+        "WATCH THE SHARP-TAIL"
+      ],
+      "hint": [
+        "LET THE SNAKE REST.",
+        "FRAME WITHOUT MOVING",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "LEAVE LITTER ALONE."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 63,
+        "map_id": 110,
+        "spot_id": 249,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=67506&inline=1"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D09_01",
+      "index": 16,
+      "district": 8,
+      "region_id": "D09",
+      "species_id": 73,
+      "scientific_name": "Dermochelys coriacea",
+      "species_name": "LEATHERBACK",
+      "behavior": "water_emerge",
+      "approved_hint_site": {
+        "spot_id": 287,
+        "map_id": 128,
+        "habitat_id": "offshore_surface",
+        "subarea_id": "offshore_observation",
+        "phase": 0
+      },
+      "title": [
+        "OFFSHORE WINDOW"
+      ],
+      "brief": [
+        "DAY: OFFSHORE WATER",
+        "WATCH FROM DRY LAND."
+      ],
+      "hint": [
+        "WAIT FOR IT TO RISE.",
+        "KEEP ALL FOUR SPACES",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NEVER ENTER TO CHASE"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 73,
+        "map_id": 128,
+        "spot_id": 287,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D09_02",
+      "index": 17,
+      "district": 8,
+      "region_id": "D09",
+      "species_id": 44,
+      "scientific_name": "Batrachoseps gavilanensis",
+      "species_name": "GABILAN SLENDER",
+      "behavior": "slow_walk",
+      "approved_hint_site": {
+        "spot_id": 279,
+        "map_id": 124,
+        "habitat_id": "oak_leaf_litter",
+        "subarea_id": "inland_oak_mountain_refuge",
+        "phase": 2
+      },
+      "title": [
+        "OAK LITTER VISITOR"
+      ],
+      "brief": [
+        "NIGHT: OAK LITTER.",
+        "WATCH THE SLENDER."
+      ],
+      "hint": [
+        "FRAME A WALKING STEP",
+        "KEEP THE LITTER DAMP",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NO LITTER HANDLING."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 44,
+        "map_id": 124,
+        "spot_id": 279,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.researchgate.net/publication/272542972_Molecular_Phylogenetic_Analysis_of_Slender_Salamanders_Genus_Batrachoseps_Amphibia_Plethodontidae_from_Central_Coastal_California_with_Descriptions_of_Four_New_Species",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-gavilanensis",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1519"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D10_01",
+      "index": 18,
+      "district": 9,
+      "region_id": "D10",
+      "species_id": 61,
+      "scientific_name": "Chelonia mydas",
+      "species_name": "GREEN SEA TURTLE",
+      "behavior": "water_emerge",
+      "approved_hint_site": {
+        "spot_id": 314,
+        "map_id": 138,
+        "habitat_id": "marine_bay",
+        "subarea_id": "marine_bay_observation",
+        "phase": 0
+      },
+      "title": [
+        "BAY SURFACE FRAME"
+      ],
+      "brief": [
+        "DAY: BAY WATER.",
+        "WATCH FROM DRY LAND."
+      ],
+      "hint": [
+        "WAIT FOR IT TO RISE.",
+        "KEEP ALL FOUR SPACES",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "DO NOT FOLLOW IT IN."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 61,
+        "map_id": 138,
+        "spot_id": 314,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.fisheries.noaa.gov/species/green-turtle",
+        "https://www.fisheries.noaa.gov/west-coast/science-data/green-turtle-research-and-conservation-southern-california"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D10_02",
+      "index": 19,
+      "district": 9,
+      "region_id": "D10",
+      "species_id": 22,
+      "scientific_name": "Anaxyrus californicus",
+      "species_name": "ARROYO TOAD",
+      "behavior": "slow_walk",
+      "approved_hint_site": {
+        "spot_id": 311,
+        "map_id": 137,
+        "habitat_id": "sandy_riparian_pool",
+        "subarea_id": "broad_habitat_route",
+        "phase": 2
+      },
+      "title": [
+        "SANDY CREEK WALK"
+      ],
+      "brief": [
+        "NIGHT: SANDY CREEK.",
+        "WATCH THE ARROYO."
+      ],
+      "hint": [
+        "FRAME A WALKING STEP",
+        "LET IT FORAGE ALONE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE SAND INTACT"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 22,
+        "map_id": 137,
+        "spot_id": 311,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.fws.gov/species/arroyo-toad-anaxyrus-californicus",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Bufonidae/Anaxyrus/Anaxyrus-californicus",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=1484"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D11_01",
+      "index": 20,
+      "district": 10,
+      "region_id": "D11",
+      "species_id": 121,
+      "scientific_name": "Sceloporus orcutti",
+      "species_name": "GRANITE SPINY",
+      "behavior": "natural_display",
+      "approved_hint_site": {
+        "spot_id": 358,
+        "map_id": 157,
+        "habitat_id": "granite_outcrop",
+        "subarea_id": "peninsular_granite_slopes",
+        "phase": 0
+      },
+      "title": [
+        "GRANITE STANCE"
+      ],
+      "brief": [
+        "DAY: GRANITE ROCK.",
+        "WATCH THE SPINY LIZ."
+      ],
+      "hint": [
+        "WATCH ITS OWN STANCE",
+        "NO PROVOKING DISPLAY",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE ROCK INTACT"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 121,
+        "map_id": 157,
+        "spot_id": 358,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2689&inline=1"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D11_02",
+      "index": 21,
+      "district": 10,
+      "region_id": "D11",
+      "species_id": 108,
+      "scientific_name": "Pseudacris cadaverina",
+      "species_name": "CA TREEFROG",
+      "behavior": "hop",
+      "approved_hint_site": {
+        "spot_id": 349,
+        "map_id": 152,
+        "habitat_id": "rocky_creek",
+        "subarea_id": "broad_habitat_route",
+        "phase": 2
+      },
+      "title": [
+        "A ROCKY CREEK PAUSE"
+      ],
+      "brief": [
+        "NIGHT: ROCKY CREEK.",
+        "WATCH THE TREEFROG."
+      ],
+      "hint": [
+        "WATCH A NATURAL HOP.",
+        "WAIT BY THE CREEK.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE WATER CLEAN"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 108,
+        "map_id": 152,
+        "spot_id": 349,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudacris/Pseudacris-cadaverina",
+        "https://www.nps.gov/samo/learn/nature/amphibians.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D12_01",
+      "index": 22,
+      "district": 11,
+      "region_id": "D12",
+      "species_id": 10,
+      "scientific_name": "Xantusia riversiana",
+      "species_name": "ISLAND N LIZARD",
+      "behavior": "night_peek",
+      "approved_hint_site": {
+        "spot_id": 16,
+        "map_id": 6,
+        "habitat_id": "island_scrub",
+        "subarea_id": "southern_island_scrub",
+        "phase": 0
+      },
+      "title": [
+        "ISLAND DAY GLIMPSE"
+      ],
+      "brief": [
+        "DAY: ISLAND COVER.",
+        "WATCH THE NIGHT LIZ."
+      ],
+      "hint": [
+        "WATCH A COVER EDGE.",
+        "WAIT FOR CLEAR VIEW.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NO COVER HANDLING."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 10,
+        "map_id": 6,
+        "spot_id": 16,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.nps.gov/places/island-night-lizard.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D12_02",
+      "index": 23,
+      "district": 11,
+      "region_id": "D12",
+      "species_id": 52,
+      "scientific_name": "Batrachoseps pacificus",
+      "species_name": "ISLANDS SLENDER",
+      "behavior": "slow_walk",
+      "approved_hint_site": {
+        "spot_id": 382,
+        "map_id": 169,
+        "habitat_id": "island_moist_cover",
+        "subarea_id": "northern_island_woodland",
+        "phase": 2
+      },
+      "title": [
+        "ISLAND LITTER WALK"
+      ],
+      "brief": [
+        "NIGHT: ISLAND LITTER",
+        "WATCH THE SLENDER."
+      ],
+      "hint": [
+        "FRAME A WALKING STEP",
+        "KEEP ITS COVER DAMP.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "LEAVE LITTER ALONE."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 52,
+        "map_id": 169,
+        "spot_id": 382,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://bioone.org/journals/ichthyology-and-herpetology/volume-109/issue-3/h2020027/A-New-Relict-Species-of-Slender-Salamander-Plethodontidae--Batrachoseps/10.1643/h2020027.pdf",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Hemidactyliinae/Batrachoseps/Batrachoseps-pacificus",
+        "https://irmadev.nps.gov/DataStore/Reference/Profile/2286638"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D13_01",
+      "index": 24,
+      "district": 12,
+      "region_id": "D13",
+      "species_id": 26,
+      "scientific_name": "Aneides ferreus",
+      "species_name": "CLOUDED SALAM",
+      "behavior": "slow_walk",
+      "approved_hint_site": {
+        "spot_id": 413,
+        "map_id": 182,
+        "habitat_id": "forest_log",
+        "subarea_id": "far_northern_maritime_forest",
+        "phase": 2
+      },
+      "title": [
+        "FALLEN WOOD WALK"
+      ],
+      "brief": [
+        "NIGHT: FALLEN WOOD.",
+        "WATCH THE CLOUDED."
+      ],
+      "hint": [
+        "FRAME A WALKING STEP",
+        "LEAVE LOGS IN PLACE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NEVER ROLL THE LOG."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 26,
+        "map_id": 182,
+        "spot_id": 413,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.nps.gov/articles/000/clouded-salamander.htm",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Aneides/Aneides-ferreus",
+        "https://research.fs.usda.gov/treesearch/25045"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D13_02",
+      "index": 25,
+      "district": 12,
+      "region_id": "D13",
+      "species_id": 35,
+      "scientific_name": "Ascaphus truei",
+      "species_name": "COAST TAIL FROG",
+      "behavior": "water_emerge",
+      "approved_hint_site": {
+        "spot_id": 424,
+        "map_id": 187,
+        "habitat_id": "cold_fast_stream",
+        "subarea_id": "broad_habitat_route",
+        "phase": 2
+      },
+      "title": [
+        "COLD STREAM WINDOW"
+      ],
+      "brief": [
+        "NIGHT: COLD STREAM.",
+        "LOOK FROM THE BANK."
+      ],
+      "hint": [
+        "WAIT FOR IT TO RISE.",
+        "KEEP THE FLOW QUIET.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NO WATER HANDLING."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 35,
+        "map_id": 187,
+        "spot_id": 424,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ascaphidae/Ascaphus/Ascaphus-truei",
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=190379&inline="
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D14_01",
+      "index": 26,
+      "district": 13,
+      "region_id": "D14",
+      "species_id": 86,
+      "scientific_name": "Hydromantes samweli",
+      "species_name": "SAMWEL SHASTA",
+      "behavior": "night_peek",
+      "approved_hint_site": {
+        "spot_id": 455,
+        "map_id": 199,
+        "habitat_id": "damp_limestone_crevice",
+        "subarea_id": "southern_karst_refuge_a",
+        "phase": 2
+      },
+      "title": [
+        "KARST EDGE GLIMPSE"
+      ],
+      "brief": [
+        "NIGHT: LIMESTONE.",
+        "WATCH THE SALAMANDER"
+      ],
+      "hint": [
+        "WATCH A COVER EDGE.",
+        "WATCH WHEN IT SHOWS.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "DO NOT PRY CREVICES."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 86,
+        "map_id": 199,
+        "spot_id": 455,
+        "phase": 2,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://escholarship.org/content/qt7sk3n2dq/qt7sk3n2dq.pdf",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Caudata/Plethodontidae/Plethodontinae/Hydromantes/Hydromantes-samweli",
+        "https://www.usgs.gov/publications/optimizing-survey-design-shasta-salamanders-hydromantes-spp-estimate-occurrence-little"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D14_02",
+      "index": 27,
+      "district": 13,
+      "region_id": "D14",
+      "species_id": 103,
+      "scientific_name": "Plestiodon skiltonianus",
+      "species_name": "WESTERN SKINK",
+      "behavior": "dash_settle",
+      "approved_hint_site": {
+        "spot_id": 450,
+        "map_id": 196,
+        "habitat_id": "open_forest_edge",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "A SKINK AFTER A DASH"
+      ],
+      "brief": [
+        "DAY: WOODLAND EDGE.",
+        "WATCH FROM THE TRAIL"
+      ],
+      "hint": [
+        "LET THE DASH FINISH.",
+        "WAIT FOR A PAUSE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "DO NOT GRAB ITS TAIL"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 103,
+        "map_id": 196,
+        "spot_id": 450,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2719&inline=1"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D15_01",
+      "index": 28,
+      "district": 14,
+      "region_id": "D15",
+      "species_id": 77,
+      "scientific_name": "Elgaria coerulea",
+      "species_name": "N ALLIGATOR LIZ",
+      "behavior": "dash_settle",
+      "approved_hint_site": {
+        "spot_id": 501,
+        "map_id": 222,
+        "habitat_id": "rock_log_cover",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "A COOL FOREST PAUSE"
+      ],
+      "brief": [
+        "DAY: COOL FOREST.",
+        "WATCH THE ALLIGATOR."
+      ],
+      "hint": [
+        "LET THE DASH FINISH.",
+        "WAIT FOR A PAUSE.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP LOGS IN PLACE."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 77,
+        "map_id": 222,
+        "spot_id": 501,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.nps.gov/lavo/learn/nature/reptiles.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D15_02",
+      "index": 29,
+      "district": 14,
+      "region_id": "D15",
+      "species_id": 111,
+      "scientific_name": "Rana cascadae",
+      "species_name": "CASCADES FROG",
+      "behavior": "water_emerge",
+      "approved_hint_site": {
+        "spot_id": 479,
+        "map_id": 211,
+        "habitat_id": "montane_meadow_pool",
+        "subarea_id": "northern_cascade_wetlands",
+        "phase": 0
+      },
+      "title": [
+        "MEADOW WATER WINDOW"
+      ],
+      "brief": [
+        "DAY: MEADOW POOL.",
+        "LOOK FROM THE EDGE."
+      ],
+      "hint": [
+        "WAIT FOR IT TO RISE.",
+        "KEEP THE POOL QUIET.",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP THE WATER CLEAN"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 111,
+        "map_id": 211,
+        "spot_id": 479,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://home.nps.gov/mora/learn/nature/amphibians.htm",
+        "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Ranidae/Rana/Rana-cascadae",
+        "https://www.nps.gov/articles/finding-a-future-for-the-cascades-frog.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D16_01",
+      "index": 30,
+      "district": 15,
+      "region_id": "D16",
+      "species_id": 66,
+      "scientific_name": "Crotalus oreganus",
+      "species_name": "W RATTLESNAKE",
+      "behavior": "protected",
+      "approved_hint_site": {
+        "spot_id": 508,
+        "map_id": 225,
+        "habitat_id": "lava_outcrop",
+        "subarea_id": "broad_habitat_route",
+        "phase": 1
+      },
+      "title": [
+        "LAVA-EDGE STILLNESS"
+      ],
+      "brief": [
+        "DUSK: LAVA SHELTER.",
+        "KEEP FOUR SPACES."
+      ],
+      "hint": [
+        "LET THE SNAKE REST.",
+        "FRAME WITHOUT MOVING",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "NEVER PROMPT DEFENSE"
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 66,
+        "map_id": 225,
+        "spot_id": 508,
+        "phase": 1,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://www.nps.gov/labe/learn/nature/reptiles.htm"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    },
+    {
+      "id": "PHOTO_D16_02",
+      "index": 31,
+      "district": 15,
+      "region_id": "D16",
+      "species_id": 97,
+      "scientific_name": "Phrynosoma douglasii",
+      "species_name": "PYGMY HORNED",
+      "behavior": "freeze",
+      "approved_hint_site": {
+        "spot_id": 512,
+        "map_id": 227,
+        "habitat_id": "juniper_woodland",
+        "subarea_id": "broad_habitat_route",
+        "phase": 0
+      },
+      "title": [
+        "A SAGE-SAND PORTRAIT"
+      ],
+      "brief": [
+        "DAY: JUNIPER COVER.",
+        "LOOK ON OPEN GROUND."
+      ],
+      "hint": [
+        "LET THE LIZARD REST.",
+        "FRAME WITHOUT MOVING",
+        "FOCUS 60 + CENTER."
+      ],
+      "care": [
+        "KEEP SOIL IN PLACE."
+      ],
+      "retry": [
+        "REST OR REVISIT.",
+        "USE THIS TRAIL HOME."
+      ],
+      "rule": [
+        "FOCUS 60 FOR THREE.",
+        "CENTER LEFT / RIGHT.",
+        "FOUR SPACES IS SAFE."
+      ],
+      "completion": {
+        "kind": "persistent_regional_shutter",
+        "minimum_stars": 3,
+        "species_id": 97,
+        "map_id": 227,
+        "spot_id": 512,
+        "phase": 0,
+        "counts_existing_photo_anywhere": false,
+        "new_save_flags": true,
+        "new_save_bytes": 0,
+        "reserved_journal_bits_layout": 5
+      },
+      "source_urls": [
+        "https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=2709&inline=1"
+      ],
+      "science_scope": "Source-informed natural glimpse/step/rest/display is an authored game opportunity, not a measured biological cadence. No provocation, capture, handling, chasing or defensive-pose bonus.",
+      "required_for_ending": false
+    }
+  ],
+  "completion_contract": "best[target_species]>=3; selected regional site provides a hint, not an additional saved predicate",
+  "native_scoring_basis": "Two stars require focus45. Three stars require focus60, horizontal centering, calm safe distance and the authored species-family natural window; defensive or disturbed encounters cannot earn the natural bonus.",
+  "input_hashes": {
+    "data/species.json": "5991ef8ecbcb501f2260368fd5eb4630991b29841cd6f57facf665fc366187bf",
+    "data/production_roster.json": "6d62b73783c9a1eca3667d147973fd170960f04d2888fb79a64a0e7223c13783",
+    "data/foundation_encounters.json": "2274954fc7be3b52ae3490a0d068622330043188736e7f3bb31798d91a42327e",
+    "data/world.json": "47dd8adc8befe04d350da12b3ba3405710e8ad0f8c0dc91208dd8041e6fb0049"
+  },
+  "migration_policy": "Layout5 retains every previously earned best>=3 species-mastery award on verified oldload only; newgames use actual target shutter criteria. Same2544-byte payload; reserved journal highbits only."
+}
